@@ -30,3 +30,5 @@ In particular, please observe some basic etiquette for online discussions.
 - Do not send automated "out of office" or "vacation" messages.
 
 _**Note:** Google restricts access to some of its services in certain countries or regions, such as Crimea, Cuba, Iran, North Korea, Sudan, and Syria. Google Developer Groups are not supported in these regions._
+
+以上内容来自 [https://developers.google.com/groups/guidelines/](https://developers.google.com/groups/guidelines/)
