@@ -1,4 +1,5 @@
-# Community Guidelines
+# Community Guidelines | 社区行为准则
+任何 GDG 社区成员、组织者、志愿者请遵循以下社区行为准则。
 
 When you join a GDG as a member or an organizer, you are joining a community. And like any growing community, a few ground rules about expected behavior is good for everyone.
 
