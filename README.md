@@ -1,6 +1,8 @@
 # 关于 GDG
 GDG 是自由开放的开发者社区，以城市为单位主要组织一些线下线上的技术分享交流活动。GDG 社区活动完全是由志愿者自发、独立组织的活动，我们欢迎任何人参与到我们的日常工作中。更多信息见 [FAQ](https://github.com/gdgbeijing/gdghub/wiki/FAQ) 和 [Wiki](https://github.com/gdgbeijing/gdghub/wiki) 中其它相关文档。
 
+北京 GDG 的历史活动记录见[这里](https://github.com/gdgbeijing/gdghub/blob/master/EVENT_HISTORY.md)。
+
 和其它开源项目不同，本项目不是开发软件，而是利用 github 的协作功能实现 GDG 社区日常管理和协作，其中 issue 用来处理事情，wiki 用作文档。
 
 # GDG 平台可以为你提供什么？
