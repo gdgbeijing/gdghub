@@ -6,6 +6,12 @@
 
 如果这里的记录有缺失，您可以通过提交 pull request 或 issue 的方式帮我们把缺失信息补上，谢谢！
 
+## DevFest Beijing 2017 - 2017-11-19
+- https://www.meetup.com/GDG-Beijing/events/244913697/
+
+## 「Let's Meetup」GDD EU Recap & Android Things 把玩！ - 2017-09-22
+- https://www.meetup.com/GDG-Beijing/events/243457162/
+
 ## WTM 系列工作坊：Design Sprint 设计冲刺 - 2017-07-01
 - https://www.meetup.com/GDG-Beijing/events/241081490/
 
