@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<number>46</number>
+<events>
+	<event><title>2017年赣州GDG IO Extended</title><chapterid>108478500514805900911</chapterid><description>一年一度的Google I/O全球谷歌开发者大会将于美国时间2017年5月17日至5月19日在美国Mountain View举行！每一次I/O大会都是一场互联网开发者和企业的盛会，每次演讲都为与会者和企业带来完全不一样的科技冲击！</description><start>2017.05.17 22:00</start><end>2017.05.18 03:00</end><location>江西省赣州市章贡区章江南大道 人和人力公司 网络运营部  </location><participantscount>15</participantscount></event>
+	<event><title>2017年赣州GDG WTM</title><chapterid>108478500514805900911</chapterid><description>女性开发者的重要性、女性开发者故事分享﻿</description><start>2017.04.12 19:00</start><end>21:00</end><location>中国江西省赣州市章贡区江西环境工程职业学院物联网创新工作室</location><participantscount>72</participantscount></event>
+	<event><title>Tensor Flow的第一次亲密触</title><chapterid>108478500514805900911</chapterid><description>
+什么是神经网络和如何训练它
+如何使用TensorFlow构建基本的1层神经网络
+如何添加更多图层
+培训提示和技巧：过度拟合，辍学，学习速率衰减...
+如何解决深层神经网络
+如何构建卷积网络﻿</description><start>2017.03.13 19:00</start><end>21:00</end><location>中国江西省赣州市章贡区江西环境工程职业学院物联网创新工作室</location><participantscount>69</participantscount></event>
+	<event><title>Android Things</title><chapterid>108478500514805900911</chapterid><description>物联网概述，全面介绍Google物联网操作系统Android Things，包括其环境开发，程序建立等，让大家认识到这种全新的操作系统在物联网编程上的易用性和优势所在。树莓派3硬件平台介绍以及开发环境配置，物联网硬件基础教程，了解Android Things外围IO API.﻿
+</description><start>2017.03.06 19:00</start><end>21:00</end><location>中国江西省赣州市章贡区江西环境工程职业学院物联网创新工作室</location><participantscount>52</participantscount></event>
+	<event><title>Android 之夜</title><chapterid>108478500514805900911</chapterid><description>12月25日周日下午7:00
+江西环境工程职业学院物联网创新工作室
+ 
+1、2016 Android 技术更新 回顾
+2、茶歇
+3、Android CodeLabs﻿</description><start>2016.12.25 19:00</start><end>21:00</end><location>江西环境工程职业学院物联网创新工作室</location><participantscount>51</participantscount></event>
+	<event><title>赣州GDG Devfest 2016</title><chapterid>108478500514805900911</chapterid><description>12月21日周三下午2:00 - 下午7:00
+江西环境工程职业学院物联网创新工作室
+ 
+1、技术演讲
+2、Code Labs
+3、茶歇
+4、Code Labs 比赛
+5、总结﻿</description><start>2016.12.21 14:00</start><end>19:00</end><location>江西环境工程职业学院物联网创新工作室</location><participantscount>120</participantscount></event>
+	<event><title>Android App原型设计</title><chapterid>108478500514805900911</chapterid><description>12月13日（今天）下午7:00 - 下午9:00
+江西环境工程职业学院物联网创新工作室
+ 
+1、Android App原型设计经验分享
+2、茶歇
+3、CodeLabs﻿</description><start>2016.12.13 19:00</start><end>21:00</end><location>江西环境工程职业学院物联网创新工作室</location><participantscount>35</participantscount></event>
+	<event><title>Python on Google Cloud Platform</title><chapterid>108478500514805900911</chapterid><description>11月7日周一下午7:00 - 下午9:00
+江西环境工程职业学院物联网创新工作室
+ 
+1、Python全栈开发
+2、茶歇
+3、Python on Google Cloud Platform﻿</description><start>2016.11.07 19:00</start><end>21:00</end><location>江西环境工程职业学院物联网创新工作室</location><participantscount>40</participantscount></event>
+	<event><title>AngularJS快速开发WEB</title><chapterid>108478500514805900911</chapterid><description>10月28日下午7:00
+中国江西省赣州市章贡区江西环境工程职业学院物联网创新工作室
+ 
+1、AngularJS有多强
+2、AngularJS快速开发HTML5应用 CodeLAB
+3、茶歇
+4、CodeLAB 展示﻿</description><start>2016.10.28 19:00</start><end>22:00</end><location>中国江西省赣州市章贡区江西环境工程职业学院（东南门）</location><participantscount>30</participantscount></event>
+	<event><title>2016 Study Jams China SJ18 Group</title><chapterid>108478500514805900911</chapterid><description>1、Study Jams China项目简介
+2、2016 Study Jams China SJ18 Group
+3、茶歇
+4、2016 Study Jams China SJ18 Group﻿</description><start>2016.09.26 07:00</start><end>09:00</end><location>江西环境工程职业学院物联网创新工作室</location><participantscount>30</participantscount></event>
+	<event><title>新社区成员I/O Redux</title><chapterid>108478500514805900911</chapterid><description>1、什么是I/O大会？
+2、历届I/O大会亮点
+3、茶歇
+4、2016 I/O 精华内容分享﻿</description><start>2016.09.19 19:00</start><end>21:00</end><location>江西环境工程职业学院物联网创新工作室</location><participantscount>70</participantscount></event>
+	<event><title>赣州GDG新生宣讲活动</title><chapterid>108478500514805900911</chapterid><description>1、赣州GDG简介
+2、开放、分享、创新
+3、志愿者提问交流
+4、茶歇
+5、历届活动分享﻿</description><start>2016.09.12 19:00</start><end>21:00</end><location>江西环境工程职业学院通信学院学术报告厅</location><participantscount>80</participantscount></event>
+	<event><title>CardBoard 体感交互设计分享</title><chapterid>108478500514805900911</chapterid><description>1、CardBoard 体感交互设计经验分享
+2、茶歇
+3、CardBoard 体感交互设计交流﻿</description><start>2016.09.07 19:00</start><end>20:00</end><location>江西环境工程职业学院物联网创新工作室</location><participantscount>54</participantscount></event>
+	<event><title>Android与Json</title><chapterid>108478500514805900911</chapterid><description>1、Json数据在Android中的应用
+2、茶歇
+3、Android Json函数应用解析﻿</description><start>2016.08.25 10:00</start><end>11:00</end><location>中国江西赣州市章贡区人和人力资源市场二楼网络运营部办公室</location><participantscount>6</participantscount></event>
+	<event><title>赣州GDG 2016 IO Redux</title><chapterid>108478500514805900911</chapterid><description>
+你想知道2016年史上最大规模的Google I/O又发布了哪些令人惊讶的新东西吗？
+你想知道为什么滴滴程维和百度李彦宏都说互联网的下半场是人工智能吗？
+你想知道Google在下一盘怎样的棋吗？
+Google通过IO 2016，向世界彰显了更大的布局和野心。
+主讲：陈万钧 副教授 地点：物联网创新工作室(信104)
+报名网址：http://t.cn/R5N9wv6﻿</description><start>2016.06.22 19:00</start><end>21:00</end><location>江西环境工程职业学院通信学院物联网创新工作室(信104)</location><participantscount>50</participantscount></event>
+	<event><title>Activity君</title><chapterid>108478500514805900911</chapterid><description>1、深入解析Android的Activity
+2、茶歇
+3、Activity与Servlet的相似性和区别
+注：本活动对所有人免费开放﻿</description><start>2016.05.24 19:00</start><end>20:00</end><location>中国江西省赣州市章贡区江西环境工程职业学院通信学院软件工厂</location><participantscount>50</participantscount></event>
+	<event><title>Android事件处理技术讨论会</title><chapterid>108478500514805900911</chapterid><description>1、Android监听事件
+2、回调机制
+3、茶歇
+4、Handler、AsyncTask﻿</description><start>2016.05.23 19:00</start><end>21:00</end><location>中国江西省赣州市章贡区江西环境工程职业学院通信学院软件工厂</location><participantscount>30</participantscount></event>
+	<event><title>赣州GDG 2016 Google IO 直播</title><chapterid>108478500514805900911</chapterid><description>016 Google I/O即将拉开帷幕，为了能和远在山景城Shoreline Ampitheatre的参会人员共享I/O大会盛况，赣州GDG将一如既往的为大家进行I/O大会的Keynote直播。
+这次I/O是Google调整公司架构之后的第一次盛会，而且，按照以往的产品发布时间，本来应该在I/O大会上发布的Android N，今年3月份就发布了。不知道Google是不是在下一盘很大的棋，今年的I/O让人很是期待呐~﻿</description><start>2016.05.18 22:00</start><end>2016.05.19 15:00</end><location>中国江西省赣州市章贡区江西环境工程职业学院物联网创新工作室</location><participantscount>52</participantscount></event>
+	<event><title>Android多线程机制研讨会</title><chapterid>108478500514805900911</chapterid><description>1、Android的多线程机制特点
+2、Android的多线程机制的应用
+3、茶歇
+4、Android的多线程开发应用举例
+注：活动对所有人免费开放﻿</description><start>2016.04.29 20:00</start><end>21:00</end><location>中国江西省赣州市章贡区江西环境工程职业学院通信学院</location><participantscount>52</participantscount></event>
+	<event><title>Android UI设计分享</title><chapterid>108478500514805900911</chapterid><description> 
+1、Android UI设计技巧分享
+2、Android UI作品分享
+3、茶歇
+4、Android UI设计发展趋势﻿
+注：活动对所有人免费开发</description><start>2016.04.27 20:00</start><end>21:00</end><location>中国江西省赣州市章贡区江西环境工程职业学院通信学院</location><participantscount>30</participantscount></event>
+	<event><title>赣州GDG WTM 女性开发者节</title><chapterid>108478500514805900911</chapterid><description>1.女性开发者职业经验分享 
+2.女性如何在Google Play上创业 
+4.茶歇
+5.女性开发者主题交流﻿</description><start>2016.04.20 19:00</start><end>21:00</end><location>中国江西省赣州市章贡区江西环境工程职业学院通信学院</location><participantscount>120</participantscount></event>
+	<event><title> Android面向对象开发经验交流会</title><chapterid>108478500514805900911</chapterid><description>1、Android面向对象开发经验交流
+2、茶歇
+3、Android面向对象开发经验交流
+4、总结
+注：活动对所有人免费开放﻿</description><start>2016.03.16 20:00</start><end>21:30</end><location>中国江西省赣州市章贡区江西环境工程职业学院物联网创新工作室  </location><participantscount>47</participantscount></event>
+	<event><title>2015 Android 之夜</title><chapterid>108478500514805900911</chapterid><description>
+12月28日周一下午7:00 - 下午9:00
+江西环境工程职业学院互联网+工作室
+ 
+1、赣州GDG 2015年活动回顾
+2、Android M 开发技巧汇总
+3、茶歇
+4、CardBoard 开发技巧汇总﻿</description><start>2015.12.28 19:00</start><end>21:00</end><location>中国江西赣州湖边镇江西环境工程职业学院通信楼102</location><participantscount>105</participantscount></event>
+	<event><title>赣州GDG 2015 DevFest 活动4: Android 技能竞赛节</title><chapterid>108478500514805900911</chapterid><description>12月20日周日下午2:00 - 下午6:00
+江西环境工程职业学院软件工厂
+ 
+     社区技能竞赛是体现社区成员创新意识和动手能力的重要载体，社区成员们都加入到一年一度的区社开发者技能竞赛节当中来吧！
+1、竞技活动开场仪式
+2、竞技开始
+3、茶歇
+4、继续竞技
+5、作品提交
+6、作品评审
+7、颁发奖品﻿</description><start>2015.12.23 14:00</start><end>18:00</end><location>中国江西赣州市湖江镇江西环境工程职业学院通信学院101\102\104</location><participantscount>100</participantscount></event>
+	<event><title>社区小鲜肉技术分享会</title><chapterid>108478500514805900911</chapterid><description>12月14日（今天）下午7:00 - 下午9:00
+江西环境工程职业学院互联网+工作室
+ 
+1、APP UI设计分享
+2、茶歇
+3、Material Design ﻿</description><start>2015.12.14 01:00</start><end>02:00</end><location>中国江西赣州江西环境工程职业学院信息楼101</location><participantscount>31</participantscount></event>
+	<event><title>赣州GDG 2015 DevFest 活动3:Google移动互联网技术行业应用</title><chapterid>108478500514805900911</chapterid><description>12月11日周五下午1:30 - 下午6:00
+赣州宾馆会议室
+ 
+1、签到 13:30-14:00
+2、Google 移动互联网生态链 14:00-14:30
+3、互动活动 14:30-14:40
+4、Andriod ERP APP 应用设计分享14:40-15:10
+5、QA 15:10-15:25
+6、茶歇 15:30-15:50
+7、Google Play 15:50-16:20
+8、CardBoard 物联网应用体验 16:20-17:05
+9、Android M 开发注意事项 17:05-17:35
+10、现在抽奖活动 17:35-18:00﻿
+收起
+</description><start>2015.12.11 13:30</start><end>18:30</end><location>赣州宾馆会议室</location><participantscount>200</participantscount></event>
+	<event><title>Material Design Code Labs</title><chapterid>108478500514805900911</chapterid><description>1、Material Design设计分享
+2、茶歇
+3、Material Design Code Labs
+活动对所有人免费开放﻿
+
+Material Design Code Labs
+12月7日（今天）下午7:00
+江西环境工程职业学院互联网+工作室</description><start>2015.12.07 19:00</start><end>21:00</end><location>江西环境工程职业学院&quot;互联网+工作室&quot;</location><participantscount>30</participantscount></event>
+	<event><title>App Ui专题</title><chapterid>108478500514805900911</chapterid><description>11月30日（今天）下午7:00
+江西环境工程职业学院物联网创新工作室
+ 
+1、Material Design
+2、茶歇
+3、App Ui设计分享
+活动对所有人免费开放
+活动报名入口：
+https://www.gdgdocs.org/forms/d/1lj5Hg1SwgrITlkWTRdtZYrWBQn-VsUeB41ZRJJkhWZQ/viewform﻿</description><start>2015.11.30 19:00</start><end>21:00</end><location>江西环境工程职业学院物联网创新工作室</location><participantscount>30</participantscount></event>
+	<event><title>赣州GDG社区成员App设计分享会</title><chapterid>108478500514805900911</chapterid><description>11月23日（今天）下午7:00
+江西环境工程职业学院物联网创新工作室
+ 
+1、家具采购APP设计进展 经验分享
+2、茶歇
+3、基于Html5的App设计经验分享﻿</description><start>2015.11.23 19:00</start><end>21:00</end><location>中国江西省赣州章贡区江西环境工程职业学院</location><participantscount>65</participantscount></event>
+	<event><title>赣州GDG CardBoard Code Labs</title><chapterid>108478500514805900911</chapterid><description>详情
+
+创建者：Ganzhou GDG  ·  公开活动
+11月16日（今天）下午8:00
+江西环境工程职业学院通信学院物联网创新工作室
+ 
+Cardboard 旨在开发易使用的虚拟实境 (VR) 工具，让每个人都能以一种简单、有趣且自然的方式享受虚拟实境的乐趣。
+1、Cardboard 体验
+2、茶歇
+3、Cardboard SDK for Android
+4、Cardboard 开发
+活动对所有人免费开放！
+活动报名入口:
+https://www.gdgdocs.org/forms/d/1vyE1nYRputR9yTpyKbMg4IyPkIVr6V12ddEnWajkkTc/viewform﻿
+会议反馈：
+https://www.gdgdocs.org/forms/d/13Bs4pC88mp2_EYUmOm2rhAGEhp7tVuwRKG_u3nR2YuM/viewform?entry.381167392=/events/4777783802200064&amp;amp;entry.1664953236=Chinese</description><start>2015.11.16 19:00</start><end>21:00</end><location>江西环境工程职业学院物联网创新工作室</location><participantscount>70</participantscount></event>
+	<event><title>Android M Code-labs</title><chapterid>108478500514805900911</chapterid><description>1、Android M Code-labs 
+2、茶歇
+3、CardBoard Code-labs
+4、Material Design Code-labs﻿</description><start>2015.11.09 00:00</start><end>00:00</end><location>中国广东省深圳市南山区西丽深圳职业技术学院</location><participantscount>40</participantscount></event>
+	<event><title>赣州GDG 2015 DevFest 活动2:App原型设计 Code-labs</title><chapterid>108478500514805900911</chapterid><description>App原型设计对于App开发非常重要，本次活动教你如何快速的设计一个可以运行的App原型.
+1、App原型设计方法
+2、App原型Demo设计演示
+3、茶歇
+4、App原型 Code-labs
+本次活动对所有人免费开放，参与者请自行带笔记本电脑﻿
+活动问卷调查链接https://www.gdgdocs.org/forms/d/13Bs4pC88mp2_EYUmOm2rhAGEhp7tVuwRKG_u3nR2YuM/viewform?entry.381167392=/events/6619351966285824</description><start>2015.11.02 19:00</start><end>21:00</end><location>江西环境工程职业学院 物联网创新工作室</location><participantscount>50</participantscount></event>
+	<event><title>2015 DevFest 预热活动 动手吧Android小鲜肉们</title><chapterid>108478500514805900911</chapterid><description>1、赣州GDG简介
+2、App  inventor 小鲜肉分享及现场设计
+3、茶歇
+4、Android UI 小鲜肉分享及现场设计
+5、Android UX 小鲜肉设计分享及现场设计
+活动报名网址：https://www.gdgdocs.org/forms/d/1Wcc3soQyxYgBU8pZfi0M8lECUp-CqNeeiFXOaza3PRI/viewform﻿</description><start>2015.10.26 19:00</start><end>21:00</end><location>江西环境工程职业学院软件工厂</location><participantscount>49</participantscount></event>
+	<event><title>赣州GDG 2015 GOOGLE IO Redux</title><chapterid>108478500514805900911</chapterid><description>一年一度的谷歌IO在旧金山举行，本次大会，谷歌有哪些新的技术动向，有哪些吸引人的黑科技？本次讲座将与大家分享Google IO的新技术新理念，并带领大家一起动手进行一次原型系统的设计。
+讲师：陈万钧 副教授﻿</description><start>2015.08.11 14:30</start><end>2015.08.13 17:00</end><location>中国江西省赣州章贡区江西环境工程职业学院</location><participantscount>32</participantscount></event>
+	<event><title>2015赣州GDG创意马拉松活动</title><chapterid>108478500514805900911</chapterid><description>每年一度的Google Ideathon是由赣州GDG和在江西首创的，以设计创新产品和商业模式为主的大型创新创业竞赛活动！
+   本活动致力于推动有创意的工程师、电子商务师、产品经理、设计师、创业者等快速掌握设计创新产品的精益创业和敏捷设计思想，也帮助创业者做好创业相关产品和商业模型基础。
+   本次Google Ideathon是以Google的Android技术结合“Google无人驾驶汽车”商业运营APP为依托范围的创意马拉松。大赛宗旨是宣扬开放精神，鼓励技术创新，推动创业者把想法变为现实。
+   活动将采用竞赛的方式，评比出优胜团队，并给予丰厚奖励，Top 3团队还将有机会获得大奖！
+
+活动时间：2015年5月15日(周五)15:30-21:30（安排免费西式茶歇）
+
+Demo和评选时间：2015年5月23日(周六)13:30-18:00
+
+活动地点：江西环境工程职业学院通信学院（信104 “物联网实验室”）
+
+活动主办方：本次活动由通信学院物联网教研室、赣州GDG、赣州用友软件、赣州木筏网络联合主办。
+
+活动将由各类技术开发者、产品经理等组成的多个团队（3-5人）参加，在一周之内完成一个产品设计原型（需要自带电脑）和商业规划方案（PPT形式），并进行演示和评比，评选优胜出的前三名团队将获得精美礼品！
+
+所有参加者都将获得本次大赛主办方赠送的纪念T恤礼品！
+报名链接：
+https://www.gdgdocs.org/forms/d/11fLGoMS-93TSmZ7A4Qs5SmH8_kEZjBVgqm9Qpc8GvQY/viewform﻿</description><start>2015.05.15 15:30</start><end>2015.05.16 22:00</end><location>江西环境工程职业学院信104物联网实验室 </location><participantscount>92</participantscount></event>
+	<event><title>Android编程学习经验分享</title><chapterid>108478500514805900911</chapterid><description>Android编程之路是建在一条众多开发者经验分享基础之上的，在这条路上你要学会聆听别人的经验。
+1、Android代码规范经验分享 黄俊杰
+2、AndroidI学习分享 刘莹
+3、茶歇
+4、如何钻研Android技术 黄豆豆﻿</description><start>2015.05.06 19:00</start><end>21:00</end><location>江西环境工程职业学院信息楼102软件工厂</location><participantscount>40</participantscount></event>
+	<event><title>Android数据库应用开发技巧分享</title><chapterid>108478500514805900911</chapterid><description>Android 应用很大一部份设计内容都与数据库相关，数据库开发技巧对于开发者来说是非常重要的。
+1、开源数据库 陈志延 教授
+2、茶歇
+3、Android数据库开发技巧 陈万钧 教授
+活动时间: 2015.5.5 晚上19:00-21:00
+活动地点: 江西环境工程职业学院 信息楼104 物联网应用实验室
+注: 会议对所有人免费开放
+报名链接：https://www.gdgdocs.org/forms/d/1qqRIJm4ES8OB5Z8-hJjZMoOeXy9jSf_hzegQgciK574/viewform﻿</description><start>2015.05.05 19:00</start><end>21:00</end><location>江西环境工程职业学院 信息楼104 物联网应用实验室</location><participantscount>30</participantscount></event>
+	<event><title>3.31DevFest-WTM，程序媛专场</title><chapterid>108478500514805900911</chapterid><description>【活动介绍】
+Women Techmakers 是由 Google 支持的全球系列活动，这一愿景的一个关键组成部分是赋予女性权力去追求自己的梦想。
+现在的IT 行业以男性为主，技术领域虽然男性占多数，但仍有越来越多的女性参与到IT行业中来，并不乏有很多杰出的女性。赣州GDG社区邀请广大对IT及移动互联网技术学习渴望的程序媛们齐聚一堂，在这里一起学习互联网技术，交流开发心得！
+本次活动是由赣州GDG（全称：赣州谷歌开发者社区）发起。邀请IT互联网中扮演着重要角色的各个岗位女性开发者来分享。
+
+【活动时间】
+2014年3月31日，13:30-21:30
+
+【活动报名】
+免费参加
+现场的女生将会免费获得由赣州GDG 精心准备的礼品一份！
+我们也欢迎男生报名来参加，和程序媛们一起感受WTM的魅力！
+tips：如果你是男生，携带女生一起来参加活动，你也将获得礼品一份哦
+
+【活动地点】
+江西环境工程职业学院通信学院103软件工厂
+【活动流程】
+13:30~14:00  现场签到
+14:00~ 14:20 GDG赣州社区情况介绍
+14:00~ 14:45 移动互联网行业女性职业成长之路
+14:45~ 15:45 Android Studio
+15:45~ 16:00 茶歇
+16:00~ 17:00  Android Ui设计
+17:00~ 19:00  茶歇+晚餐
+19:00~ 20:30  Android应用开发实战
+20:30~ 21:30 作品演示
+【讲师】
+钟建华 教授 Android开发工程师
+陈万钧 副教授 Android开发工程师
+万方 高级软件工程师 
+钟少君 副教授 Android开发工程师
+钟贞魁 副教授 Android开发工程师
+肖芳 讲师 Ui设计师﻿</description><start>2015.03.31 13:30</start><end>21:30</end><location>中国江西省赣州章贡区江西环境工程职业学院</location><participantscount>102</participantscount></event>
+	<event><title>Android应用开发交流会</title><chapterid>108478500514805900911</chapterid><description>1、Android 5.0 应用开发规范
+2、如何制作精美UI
+3、茶歇
+4、Android开发经验交流
+5、Google Play应用发布规范﻿</description><start>2015.03.18 14:00</start><end>16:00</end><location>江西环境工程职业学院通信学院软件工厂</location><participantscount>52</participantscount></event>
+	<event><title>赣州GDG互联网创业孵化论坛</title><chapterid>108478500514805900911</chapterid><description>.开放 分享 创新   赣州GDG Jason
+2.移动互联网生态圈  赣州GDG Funk
+3.Google Play创新创业孵化 赣州GDG Steven 
+4.茶歇
+5.赣州互联网创业分享   Jing
+6.Google 虚拟现实Cardboard分享 赣州GDG ViVi
+注：会议对所有人免费开放！
+有意分享者8日前将演讲内容发至：gdgjason@gmail.com﻿</description><start>2015.02.08 13:30</start><end>17:30</end><location>江西省赣州市文清路4号银天大厦二单元503</location><participantscount>30</participantscount></event>
+	<event><title>UML建模与Android应用开发</title><chapterid>108478500514805900911</chapterid><description> UML建模与Android应用开发
+主讲：陈万钧 副教授
+1、UML
+2、面象对象
+3、Android应用程序开发中UML的应用
+4、茶歇
+5、实战：Android应用UML分析
+注：自带笔记本电脑预装Android SDK﻿</description><start>2015.01.15 19:00</start><end>21:00</end><location>中国江西环境工程职业学院通信学院软件工厂</location><participantscount>50</participantscount></event>
+	<event><title>智能硬件开发分享会</title><chapterid>108478500514805900911</chapterid><description>1、ARM架构 黄丽丽 讲师
+2、基于ARM的Android开发应用 陈万钧 副教授
+3、茶歇
+4、ARM开发经验分享 社区成员﻿</description><start>2015.01.13 08:00</start><end>10:00</end><location>江西环境工程职业学院通信学院103嵌入式开发实验室</location><participantscount>60</participantscount></event>
+	<event><title>编程方法学习交流会</title><chapterid>108478500514805900911</chapterid><description>1、编程方法概述 陈志延 教授
+2、Google互联网编程方法  陈万钧 副教授
+3、互联网编程技巧 王凯 讲师
+4、茶歇
+5、互动提问  社区成员</description><start>2015.01.08 19:00</start><end>21:00</end><location>江西环境工程职业学院通信学院软件工厂</location><participantscount>83</participantscount></event>
+	<event><title>Android之夜</title><chapterid>108478500514805900911</chapterid><description>活动内容：
+1、Android开发
+2、茶歇
+3、App Show﻿
+面向所有人免费开放。</description><start>2014.12.25 19:00</start><end>21:00</end><location>中国江西省赣州章贡区江西环境工程职业学院通信学院102</location><participantscount>90</participantscount></event>
+	<event><title>Google技术分享会</title><chapterid>108478500514805900911</chapterid><description>Google技术分享会：
+         1、Android L,
+         2、Android One
+         3、Android Wear
+         茶歇
+         4、Chrome
+         5、Android TV
+         6、Android Auto
+       主讲：
+         钟建华 教授
+         温常青 副教授
+         陈万钧 副教授
+         王    凯  工程师
+        会议面向所有人免费开放。﻿</description><start>2014.12.18 19:10</start><end>20:50</end><location>中国江西省赣州章贡区江西环境工程职业学院通信学院102</location><participantscount>82</participantscount></event>
+	<event><title>2014赣州移动互联网技术公开课</title><chapterid>108478500514805900911</chapterid><description>2014赣州移动互联网技术公开课
+公开课内容：
+1、移动互联网的深入应用
+2、移动互联网下企业数据安全
+3、移动互联网商业与服务生态链
+4、基于Android系统的ERP产品
+主讲老师：
+赣州信达创思科技  万方 教授级高工
+江西理工大学   钟少君 教授
+江西环境工程学院    陈志延 教授  
+ Google赣州开发者社区负责人 陈万钧 副教授
+时间：2014年12月5日    地点：赣电大厦（四星级）
+主办方:Google赣州开发者社区 
+注：免费公开课，座席有限，请抓紧时间报名抢位,凭邮件邀请码入场；
+网上报名链接地址：
+https://www.gdgdocs.org/forms/d/1-eAxfVb8lLLaQ8ba2_UOR-qxUj7aUu2Mox-ynVFr1OM/viewform</description><start>2014.12.05 13:20</start><end>18:30</end><location>中国江西省赣州章贡区红旗大道赣电大厦</location><participantscount>230</participantscount></event>
+</events>
+</data>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<number>38</number>
+<events>
+	<event><title>I/O Extended 2017 Hong Kong</title><chapterid>101989816978489369807</chapterid><description></description><start>2017.05.17 22:30</start><end>2017.05.18 03:30</end><location>Master Concept, Hong Kong</location><participantscount>5</participantscount></event>
+	<event><title>Next &apos;17 Extended - Hong Kong</title><chapterid>101989816978489369807</chapterid><description>For information, please visit www.gdghk.org/2017/03/30/google-cloud-next-extended/</description><start>2017.04.12 18:30</start><end>20:30</end><location>Google Hong Kong, Hong Kong</location><participantscount>50</participantscount></event>
+	<event><title>Women Techmakers IWD &apos;17 Meetup</title><chapterid>101989816978489369807</chapterid><description>for information, please visit www.gdghk.org/2017/03/08/iwd-2017-women-techmakers-hong-kong/</description><start>2017.04.08 01:00</start><end>18:00</end><location>Innocentre, Tat Chee Avenue, Hong Kong</location><participantscount>48</participantscount></event>
+	<event><title>GDG Sharing on Android Things</title><chapterid>101989816978489369807</chapterid><description></description><start>2017.02.18 14:30</start><end>16:30</end><location>City University of Hong Kong 香港城市大學, Hong Kong</location><participantscount>15</participantscount></event>
+	<event><title>TensorFlow Dev Summit Extended</title><chapterid>101989816978489369807</chapterid><description></description><start>2017.02.18 09:30</start><end>12:30</end><location>City University of Hong Kong, Hong Kong</location><participantscount>89</participantscount></event>
+	<event><title>GDG Meet-up with Kara Erickson</title><chapterid>101989816978489369807</chapterid><description>Please visit http://www.gdghk.org/2016/12/16/gdg-meet-dec-2016/ for detail</description><start>2016.12.20 18:45</start><end>21:30</end><location>SMLxUFO Lab</location><participantscount>20</participantscount></event>
+	<event><title>GDG Workshop on TensorFlow</title><chapterid>101989816978489369807</chapterid><description>Information:
+http://www.gdghk.org/2016/12/01/workshop-on-tensorflow/
+
+Registration:
+https://www.eventbrite.com/e/workshop-on-tensorflow-registration-29845361279﻿</description><start>2016.12.10 09:00</start><end>12:00</end><location>City University of Hong Kong, Hong Kong</location><participantscount>50</participantscount></event>
+	<event><title>GDG DevFest Season 2016 - Hong Kong</title><chapterid>101989816978489369807</chapterid><description></description><start>2016.11.19 09:30</start><end>18:30</end><location>City University of Hong Kong, Hong Kong</location><participantscount>185</participantscount></event>
+	<event><title>GDG Tech Talks on Tensor Flow</title><chapterid>101989816978489369807</chapterid><description>Developers,
+
+Do you still remember the robot arm NEKONOTE, which is powered by #TensorFlow , in #io16 ? We&apos;ve invited RT Corporation, the maker of NEKONOTE, to share about it.
+
+Registration starts at 6pm
+
+Happy Coding.﻿</description><start>2016.10.31 18:00</start><end>20:30</end><location>G/F, Mayson Garden Building, 2C -2E Wing Hing Street, Causeway Bay, Hong Kong</location><participantscount>61</participantscount></event>
+	<event><title>GDG Meet-up and Tech Talks on Android 7.0</title><chapterid>101989816978489369807</chapterid><description> 
+Developers,
+
+We are moving to a new location in our meet-up in September.
+
+And as you know, Android 7.0 Nougat has been released. We will have a very short sharing about it.
+
+Seats are very limited. RSVP ASAP. Registration is a MUST!
+
+https://www.eventbrite.com/e/gdg-meet-up-sep-2016-tickets-27457603431
+
+Address: Oursky, Rm B, 10/F, Great Wall Factory Building, 11 Cheung Shun St, Cheung Sha Wan, Cheung Sha Wan﻿</description><start>2016.09.14 19:00</start><end>21:00</end><location>Oursky Limited, Hong Kong</location><participantscount>15</participantscount></event>
+	<event><title>GDG Meet-up and Tech Talks on Android Wear 2.0 &amp; VR</title><chapterid>101989816978489369807</chapterid><description></description><start>2016.08.11 19:00</start><end>21:00</end><location>Google, Hong Kong</location><participantscount>40</participantscount></event>
+	<event><title>Google I/O Redux</title><chapterid>101989816978489369807</chapterid><description></description><start>2016.06.11 09:00</start><end>13:00</end><location>City University of Hong Kong, Hong Kong</location><participantscount>20</participantscount></event>
+	<event><title>Google I/O Extended - Hong Kong</title><chapterid>101989816978489369807</chapterid><description></description><start>2016.05.18 23:00</start><end>2016.05.19 04:00</end><location>Master Concept, Hong Kong</location><participantscount>8</participantscount></event>
+	<event><title>Tech Talk about Ads</title><chapterid>101989816978489369807</chapterid><description>a Tech Talk about Ads (AdSense, AdWords, Double Click for Publishers)</description><start>2016.04.23 09:30</start><end>13:00</end><location>P4703, Academic Building 1, City University of Hong Kong</location><participantscount>10</participantscount></event>
+	<event><title>GDG Happy Hour</title><chapterid>101989816978489369807</chapterid><description></description><start>2016.03.24 19:00</start><end>21:00</end><location>Centre de Vin 維港葡萄酒中心, 香港</location><participantscount>5</participantscount></event>
+	<event><title>Google Developers Study Jams - Android for Beginners</title><chapterid>101989816978489369807</chapterid><description>Developers,
+
+We are arranging a 2 days study jam for programmers who wants to learn how to create a &quot;Hello World&quot; application on Android.
+
+We will announce more information soon.
+
+Requirement:
+Basic programming knowledge
+Bring your own laptop with Android Studio Installed
+
+Host:
+GDG Hong Kong and CityU App Lab
+
+Information:
+http://developerstudyjams.com/﻿</description><start>2016.03.19 00:00</start><end>2016.03.20 00:00</end><location>City University of Hong Kong, Hong Kong</location><participantscount>36</participantscount></event>
+	<event><title>GDG Hong Kong Happy Hour Meet-up</title><chapterid>101989816978489369807</chapterid><description>Developers,
+
+We are arranging a Happy Hour event on 27-Jan at 掌壽司 Tenohira Sushi
+
+See you there.
+
+Maps: https://www.google.com/maps/place/%E6%8E%8C%E5%A3%BD%E5%8F%B8+Tenohira+Sushi/
+
+Regards,
+GDG Hong Kong﻿</description><start>2016.01.27 19:00</start><end>22:00</end><location>香港掌壽司 Tenohira Sushi</location><participantscount>8</participantscount></event>
+	<event><title>GDG Hong Kong Happy Hour Meet-up</title><chapterid>101989816978489369807</chapterid><description>We are arranging a Happy Hour event on 3-Dec at Tenohira Sushi (掌壽司)
+
+See you there.</description><start>2015.12.03 19:30</start><end>22:30</end><location>香港掌壽司 Tenohira Sushi</location><participantscount>8</participantscount></event>
+	<event><title>GDG Hong Kong Happy Hour</title><chapterid>101989816978489369807</chapterid><description>Developers,
+
+We are arranging a Happy Hour event on 3-Dec at 掌壽司 Tenohira Sushi
+
+See you there.
+
+Maps: https://www.google.com/maps/place/%E6%8E%8C%E5%A3%BD%E5%8F%B8+Tenohira+Sushi/
+
+Regards,
+GDG Hong Kong﻿</description><start>2015.12.03 19:30</start><end>21:30</end><location>香港掌壽司 Tenohira Sushi</location><participantscount>8</participantscount></event>
+	<event><title>GDG DevFest Hong Kong 2015</title><chapterid>101989816978489369807</chapterid><description>Yes! It is DevFest again!
+
+This year, we have Googlers, Google Developer Expert (GDE), and Friends from different area to present about the following topics.
+
+Android (6.0 !?), Google Cloud Platform (GCP), Google Maps, Project Tango, and more.
+
+Mark the date. More information is coming.﻿</description><start>2015.10.24 09:30</start><end>18:30</end><location>City University of Hong Kong, Hong Kong</location><participantscount>129</participantscount></event>
+	<event><title>GDG Hong Kong Meet-up - Aug 2015</title><chapterid>101989816978489369807</chapterid><description></description><start>2015.08.12 19:00</start><end>21:00</end><location>Hong Kong</location><participantscount>10</participantscount></event>
+	<event><title>GDG Hong Kong Meet-up and I/O re-cap - Jul 2015</title><chapterid>101989816978489369807</chapterid><description>We will share the news and technology announced in the I/O. 
+Android M, Android Pay, Cardboard, Project JUMP, GCM 3.0, etc</description><start>2015.07.03 19:00</start><end>21:00</end><location>L16, Central, Hong Kong</location><participantscount>15</participantscount></event>
+	<event><title>I/O Extended 2015 Hong Kong</title><chapterid>101989816978489369807</chapterid><description>For more detail please visit our G+ event page
+
+
+</description><start>2015.05.28 23:00</start><end>2015.05.29 02:30</end><location>Tenohira Sushi, Workshop U, 5/F, Block 3, Camel Paint Buildings, 60 Hoi Yuen Street, Kwun Tong</location><participantscount>9</participantscount></event>
+	<event><title>GDG Hong Kong Meet-up (April 2015)</title><chapterid>101989816978489369807</chapterid><description></description><start>2015.04.25 10:00</start><end>13:00</end><location>Academic Building 2, City University of Hong Kong</location><participantscount>22</participantscount></event>
+	<event><title>GDG Meet-up</title><chapterid>101989816978489369807</chapterid><description></description><start>2015.03.24 19:00</start><end>21:00</end><location>L16 Cafe &amp; Bar, Hong Kong</location><participantscount>15</participantscount></event>
+	<event><title>GDG DevFest 2014 - Hong Kong</title><chapterid>101989816978489369807</chapterid><description>GDG DevFest 2014 - Hong Kong
+- Android and Android Wear
+- Google Maps
+- Google Glass
+- and more</description><start>2014.10.25 10:00</start><end>18:00</end><location>City University of Hong Kong, Hong Kong</location><participantscount>103</participantscount></event>
+	<event><title>GDG Hong Kong - Meet-up (August, 2014)</title><chapterid>101989816978489369807</chapterid><description>GDG Hong Kong - Meet-up (August, 2014)
+Date : 16, August, 2014
+Time : 10:00-13:00 (Registration starts 09:45)
+Supporting Organization: Department of Computer Science, City University of Hong Kong
+Venue: LT-6, 4/F Yellow Zone, Academic Building (AC1), City University of Hong Kong
+Seat: 160
+Theme:  Update on Google I/O releases
+Language: Cantonese, supplement with English
+Agenda:
+I/O 2014 Highlights
+Android L + Android Wear + Android TV
+Google Cloud Platform
+Event G+ : http://goo.gl/wluWiA
+Registration: http://goo.gl/HfY3VV</description><start>2014.08.16 10:00</start><end>13:00</end><location>City University of Hong Kong Academic 1, Kowloon Tong, Hong Kong</location><participantscount>65</participantscount></event>
+	<event><title>Google I/O Extended - Hong Kong</title><chapterid>101989816978489369807</chapterid><description>Google I/O Extended in Hong Kong
+25-Jun 23:30 to 26-Jun 02:30</description><start>2014.06.25 23:30</start><end>2014.06.26 02:30</end><location>香港觀塘Comma Party</location><participantscount>13</participantscount></event>
+	<event><title>GDG Hong Kong - Meet-up (May, 2014)</title><chapterid>101989816978489369807</chapterid><description>Hi all! Please join us for the &quot;GDG Hong Kong Meet-up&quot; event. This is the very first GDG event hosted at the Google Hong Kong office. There are three presentations on Android &amp;amp; Maps. Please refer to the event page below for details and registration!﻿</description><start>2014.05.26 14:00</start><end>18:00</end><location>Google Hong Kong, Matheson Street, Hong Kong</location><participantscount>50</participantscount></event>
+	<event><title>Meeting the Google Glass Developer</title><chapterid>101989816978489369807</chapterid><description>Click the G+ event for details and reserve your seat!
+Topic: Software Devlopment for Google Glass XE17
+Speaker: Mark Scheel
+Abstract: Mark will share content from his soon to be published book, Software Development for Google Glass XE17.  He will talk about the history of Google Glass, his personal experience after a year as a Glass Explorer, considerations for the design and development of Glassware, and more.﻿</description><start>2014.05.14 14:00</start><end>18:00</end><location>City University of Hong Kong, Hong Kong</location><participantscount>120</participantscount></event>
+	<event><title>GDG Hong Kong - Meet-up (March, 2014)</title><chapterid>101989816978489369807</chapterid><description>The first event of GDG Hong Kong in 2014!!!
+Details will be shown on event page. :)
+(P.S.: The location displayed at the bottom of this page is not correct, please refer to the G+ event page for details.)</description><start>2014.03.15 14:00</start><end>17:30</end><location>Master Concept Hong Kong Headquarters, Kwun Tong, Hong Kong</location><participantscount>30</participantscount></event>
+	<event><title>DevFest 2013 - Hong Kong</title><chapterid>101989816978489369807</chapterid><description>Join us at the DevFest - Hong Kong on October 31!!! We will have talks on Android, Cloud Platform and Maps!!! Stay tuned for event agenda and registration forms!</description><start>2013.10.31 13:00</start><end>19:00</end><location>Harbour Road, 18, Wan Chai, Hong Kong</location><participantscount></participantscount></event>
+	<event><title>GDG Hong Kong Mobile Night 2013</title><chapterid>101989816978489369807</chapterid><description>Android Platform Updates
+Google+ Platform Updates
+Google Play Game Services
+Google Cloud Endpoints for Mobile
+What&apos;s new in Google Apps
+Mobile Monetization</description><start>2013.10.02 19:00</start><end>22:00</end><location>Chamber 1b, G/F, InnoCentre, 72 Tat Chee Avenue, Kowloon Tong, Kowloon,Hong Kong</location><participantscount></participantscount></event>
+	<event><title>2012 Aug HK GDG Monthly Meeting - Developers experience sharing</title><chapterid>101989816978489369807</chapterid><description>&amp;lt;p&amp;gt;Tony (from HK Google office)&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;- developer coding sharing&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;- next google event&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;- compiling issues&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;- Google wallet issues&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Jennifer (from Google adMob)&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;- admob and adwords information&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Felix (from Teclent Venture Investment)&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;- China incubator information sharing&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;- entrepreneur/startup experience sharing&amp;lt;/p&amp;gt;</description><start>2012.08.30 18:30</start><end>20:30</end><location>Hong Kong,China</location><participantscount></participantscount></event>
+	<event><title>Google Developer Day at Cliftons</title><chapterid>101989816978489369807</chapterid><description>&amp;lt;p&amp;gt;e cordially invite you to join the FREE Google IO and technology session held by GDG (Google Developers Group),formerly called GTUG on 20 Jul, 2012 at Cliftons. During the seminar, Google experts will demonstrate to you how Google products keep anything and share anything. Agenda 13:30	Registration14:00 Google developer outreach program update 14:35 Google IO new release updates15:05 Google technology Update- Google Drive15:35 Tea break16:00 Google technology Update- Android16:35 Google technology Update - Sketch Up17:05 Q&amp;amp;A and Group Photo&amp;lt;/p&amp;gt;</description><start>2012.07.20 13:30</start><end>18:00</end><location>Hong Kong,China</location><participantscount></participantscount></event>
+	<event><title>GTUG Day 2011</title><chapterid>101989816978489369807</chapterid><description>&amp;lt;p&amp;gt;The world has moved to another horizon that’s entirely internet-based, mobile, social and open. Every business needs to prepare for it. Join us at Google Solution Day organised by &amp;lt;strong&amp;gt;GTUG (Google Technology User Group)&amp;lt;/strong&amp;gt;, and you’ll get everything you need to lead your company into this next generation. Join us for this free, full day event at the Regal Kowloon Hotel on DECEMBER 1 ,2011. During the event, we will show you the latest Google developments in Android, Chrome, Google+, Cloud and more. Follow us at GTUG HK Website to stay up to date on news from the GTUG Hong Kong team.&amp;lt;/p&amp;gt;</description><start>2011.12.01 09:00</start><end>17:00</end><location>Hong Kong,China</location><participantscount></participantscount></event>
+	<event><title>HK GTUG 2nd Event in City University in Kowloon</title><chapterid>101989816978489369807</chapterid><description>&amp;lt;p&amp;gt;Hello, Everyone:&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;HK GTUG is going to have a second event in City University in Kowloon. Google China DevRel Technical Program Manager and China Country Lead Bill Luan (whom many of you have already met during our first event in March), will present HTML5, Google TV and Google map API.We welcome HK GTUG, HKITF, WTIA and HKWDC members to join. &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;This is a great opportunity to learn the concepts of these key technologies. &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Feel free to forward this message to your friends who are interested!&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Details as follow:&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Date (Time): 29/06/2010 (14:00-17:00)&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Venue: LT-13 City University of Hong Kong&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Estimated no. of Participants: 120&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Agenda:&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;1:45-2:00 – Registration&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;2:00-2:45 – HTML5 (Bill)&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;2:45-3:15 – Google TV (Bill)&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;3:15-3:30 - Break&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;3:30-4:00 – Google Map API (Bill)&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;4:00-4:30 – Commercial use case on Google Technology&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;4:30-17:00 - Questionnaire&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Thank you HKITF, WTIA and HKWDC to promote this event to their members and City University sponsor the room. Apologize for this short notice, we will work with Google China&apos;s DevRel team to organize more HK GTUG events in the coming month.  So event if you can not go to this event at this time, be rest assured that we will have more opportunities to learn and exchange with Googlers in the near future.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt; &amp;lt;/p&amp;gt;</description><start>2010.06.29 14:00</start><end>17:00</end><location>Hong Kong,China</location><participantscount></participantscount></event>
+	<event><title>Hong kong Google Technology User Group (GTUG) Founding Event and Android Developer Lab</title><chapterid>101989816978489369807</chapterid><description>&amp;lt;p&amp;gt;Date: March 5th, 2010Time: 1:00PM - 5:00PMVenue: Clifton CentralEventtitle: Hong kong Google Technology User Group (GTUG) Founding Event andAndroid Developer LabEvent content:* Introduction of Hongkong GTUG - charter, organizer introduction;* Android Developer Lab- Introduction of Android SDK 2.1 features;- Code lab (hands-on coding) for Active Wallpaper and other Android applications;- Q&amp;amp;A with Google engineers by local developers for their application;- Local developer networking and collaboration;Speakers:* From Google China: Bill Luan, Program Manager &amp;amp; China Country Lead;* From Hongkong: Ricky Cheung and Felix Lio, Hong Kong GTUG managers;* From Google HQ in MtView, USA: Fred Chung, Tony Chan, and Jame Yum, Developer Advocators andhttp://hk.gtugs.org/&amp;lt;/p&amp;gt;</description><start>2010.03.05 01:00</start><end>17:00</end><location>Hong Kong,China</location><participantscount></participantscount></event>
+</events>
+</data>

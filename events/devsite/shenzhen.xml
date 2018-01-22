@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<number>47</number>
+<events>
+	<event><title>Google I/O Redux（分享会）</title><chapterid>116409718883299342983</chapterid><description>上月中旬在美国山景城举办了为期三天的Google I/O大会，全方位的展示了Google在软件领域的最新成果和发展动向，来自世界各地的开发者工程师们齐聚一堂,共襄年度开发者盛宴：除了人工智能，Andriod和VR/AR，Google还为我们带来不少惊喜。
+本月十日，我们邀请了现场参加Google I/O大会的三位嘉宾来和我们分享I/O的方方面面。</description><start>2017.06.10 14:00</start><end>17:00</end><location>深圳市南山区科文路华富洋大厦4楼思微4.0</location><participantscount>22</participantscount></event>
+	<event><title>GDG Shenzhen 2017 I/O Extended</title><chapterid>116409718883299342983</chapterid><description>
+#IO Extended 
+每年一度的重要开发者大会 Google I/O，今年的日期总算正式确定了。他们预计将会在美国时间 5 月 17 日至 19 日再度在加州山景城的海岸线圆形剧场，带来各种有意思的发布与开发演讨。每次 I/O 我们都可以期待有 Android 系统与 Google 相关的产品（通常还是软件居多）推出，而这次，也许可以看到更多 Pixel 或是 Daydream VR 虚拟实境的硬件或是相关应用等。﻿</description><start>2017.05.17 23:00</start><end>2017.05.18 04:00</end><location>思微2.0：深圳市南山区科发路1号富利臻大厦3F</location><participantscount>47</participantscount></event>
+	<event><title>Women Techmakers：Telling Your Story</title><chapterid>116409718883299342983</chapterid><description>
+如今，越来越多优秀的女性技术者和领导者，在互联网行业，在IT技术领域扮演着越来越重要的角色。 4.23日，深圳谷歌开发者社区将邀请从事IT及移动互联网的程序媛们，以及热爱各种技术热爱生活的MM们，一起来参加“Women Techmakers：Telling Your Story为主题的活动，分享技术经验，谈谈职业规划，畅聊成长心得。
+这次邀请来的嘉宾来自不同的公司，不同的行业领域，Google、微软、思微SimplyWork，程序媛、自由作家，还有杰出的个人创业者，并且都是超级大美女~
+
+【活动流程】
+13:40 ~ 14:00 签到，礼品
+14:00 ~ 14:30 活动议程、WTM介绍（嘉宾：Summer 来自Google）
+14:30 ~ 15:20 你跟机器都能沟通，跟人有什么难的（小荻老师）
+15:20 ~ 15:40休息，茶歇，合照
+15:40 ~ 16:20 Face to face访谈（嘉宾：迅雷 来自思微）
+16:20 ~ 17:10 在微软作为一名女性程序员的感受（Serina 来自微软研究院）
+17:10 ~ 17:40 圆桌访谈（Summer、小荻老师、迅雷、Grace、Serina、 Alice ）</description><start>2017.04.23 14:00</start><end>18:00</end><location>深圳市南山区科发路1号富利臻大厦3F</location><participantscount>116</participantscount></event>
+	<event><title>Cloud Next视频观看</title><chapterid>116409718883299342983</chapterid><description>由于场地有限请各位到下面链接报名提前登记方便我们安排：https://goo.gl/forms/aHGSyDkP5bZezVsy1
+
+活动背景： 
+3月8号到11号，谷歌云计算部门 (Google Cloud) 将会在旧金山举办一个全球谷歌云计算的大会 Cloud Next，届时会有云计算、地图、联网设备等几个产品部门分享最新云计算技术和产品。
+虽然在中国谷歌的云计算平台使用受到一些限制，但我相信牛逼的开发者肯定有自己的办法实现正常访问，利用谷歌云平台进行云计算技术的学习和研究还是很有用的。对于我们社区里很多已经走向了国际市场、在国际平台上发布应用的开发者们和企业来说，了解最新的谷歌云平台和技术等，则更有重大意义和实际的用处。
+
+活动举办信息：
+深圳 GDG 谷歌开发者社区，将于 2017 年4月 16日 14:00 - 18:00 在深圳思微联合办公空间4.0，举行 Cloud Next Recap录像观看活动，Google 以及 Cloud Next团队为现场参与活动的开发者准备了精美的周边，欢迎更多的 TensorFlow 开发者一起交流。
+
+活动地点：思微4.0：深圳市南山区科文路1号华富洋大厦4F (深大地铁站A3口,深大北门1公交站
+日程:14:00 - 18:00 活动录像回放中间穿插交流讨论
+活动中我们有幸邀请到两位嘉宾进行云技术相关的分享
+
+第一个嘉宾是刘智聪，巴克云创始人、云架构师、原迅雷首席工程师。在迅雷时设计开发了多款迅雷核心产品，是多个领域的技术专家，也是BOLT 界面引擎的发明人。
+他分享的议题是 《浅谈容器编排》
+
+第二位嘉宾是白艺冲，前兔展COO及联合创始人，目前在进行人工智能方面的创业项目。
+分享的议题是：基于tensorflow的群管理机器人。
+目前这个机器人已经入驻了GDG SHENZHEN的群中。据说他会在有群友深夜发送美食图片时自动回复发出警告。图像识引擎别用的就是Tensorflow.。</description><start>2017.04.16 14:00</start><end>18:00</end><location>深圳市南山区科文路1号华富洋大厦</location><participantscount>14</participantscount></event>
+	<event><title>2017 TensorFlow Dev Summit Recap </title><chapterid>116409718883299342983</chapterid><description>随着机器学习，神经网络技术的发展，他们在现实世界发挥着越来越重要的作用。TensorFlow 开源至今，影响甚大。新年伊始，深圳 GDG 谷歌开发者社区将举办第一个活动：2017 TensorFlow Dev Summit Recap。
+2017 TensorFlow Dev Summit 峰会将在美国时间 2 月 15 日 9:30 - 18:00（北京时间: 2 月 16 日 01:30 - 10:30）在旧金山进行，活动将由 10 个演讲组成，覆盖 Tensor Flow 的技术、发展、生态、应用的各个环节。
+官方活动网址https://events.withgoogle.com/tensorflow-dev-summit/
+
+Google 将组织全球 GDG 谷歌开发者社区在各个地区展开 TensorFlow 系列活动。
+2017 TensorFlow Dev Summit 日程安排
+主题「开场Keynote」 嘉宾: Jeff Dean, Rajat Monga, and Megan Kacholia
+主题「XLA: TensorFlow, Compiled! 」嘉宾: Todd Wang and Chris Leary
+主题「TensorFlow High-Level API」嘉宾: Martin Wicke
+主题「Keras and TensorFlow」 嘉宾: Francois Chollet
+主题「Distributed TensorFlow」嘉宾: Derek Murray
+主题「Creating Art &amp;amp; Music with Project Magenta」嘉宾: Doug Eck
+主题「TensorFlow Ecosystem: Hadoop and More」嘉宾: Jonathan Hseu
+主题「Serving Models in Production with TensorFlow Serving」嘉宾: Noah Fidel
+主题「Memorization + Generalization with TensorFlow Wide and Deep」嘉宾: Heng-Tze Cheng
+主题「Hands-on TensorBoard」嘉宾: Dandelion Mane
+
+深圳 GDG 谷歌开发者社区，将于 2017 年 2 月 19日 14:00 - 18:00 在深圳思微联合办公空间4.0，举行 TensorFlow Recap 峰会的录像观看活动，Google 以及 TensorFlow 团队为现场参与活动的开发者准备了精美的周边，欢迎更多的 TensorFlow 开发者一起交流。
+
+时间: 2017 年 2 月 19日 14:00-18:00
+活动地点：思微4.0：深圳市南山区科文路1号华富洋大厦4F (深大地铁站A3口,深大北门1公交站
+日程:14:00 - 18:00 活动录像回放中间穿插交流讨论
+
+报名链接https://goo.gl/forms/itb65VfC0d3cQ6dA2
+活动主办方GDG Shenzhen
+
+GDG是英语Google Developer Groups的缩写，它的中文名字是：谷歌开发者社区。它是由谷歌公司支持并赞助的全球性项目，目的是通过开发者们自发组成的社区，进行技术分享交流，推动开放型互联网技术和移动技术在业界的使用。谷歌开发者社区是一个面向开发者、大学生、企业经理及创业者们的全球范围的民间组织，以线下技术交流、经验分享为主要组织形式，为广大开发者、创业者提供分享和交流、以及学习国际最新开发技术的平台，谷歌公司将全程参与到社区的组织活动当中，对社区的技术学习活动提供资源的支持、对社区成员提供在全球范围内的技术与人员交流。目前在全球已经有数百个社区，中国也已经有20多个城市成立了GDG社区。
+
+
+如何加入我们（一次加入终生有效）：
+一、请先发送主题为 subscribe 的邮件到 shenzhen_gtug+subscribe@googlegroups.com进行订阅。
+收到回复后点 Join This Group 按钮(需要科学上网)加入邮件组。请留意国内部分邮箱会当成垃圾邮件，最好添加为联系人。
+二、关注我们获取最新活动信息。
+G+ page https://plus.google.com/116409718883299342983/
+电报群：https://telegram.me/shenzhengdg
+微信公众号: SZ-GDG
+</description><start>2017.02.19 14:00</start><end>18:00</end><location>深圳市南山区科文路1号华富洋大厦</location><participantscount>51</participantscount></event>
+	<event><title>容器之Mesos/K8S/Swarm三国演义 深圳Meetup!!</title><chapterid>116409718883299342983</chapterid><description>
+容器正在成为企业级应用的新一代交付标准，
+Mesos/K8S/Swarm集群管理工具在容器生态圈里帮助企业客户排兵布阵，驰骋疆场，
+呈现出三国鼎立的局面；
+16年10月份北京场活动中IBM、新浪微博、Acttao、数人云的大牛们各抒己见（文末推荐4篇活动后期整理的文章），
+在即将到来的17年，数人云Meetup重新起航，
+1月7日上海、深圳&quot;三国演义&quot; 活动两城联动，
+相信不一样的技术实践，
+有着同样的精彩分享
+数人云1月Meetup上海站|容器之Mesos/K8S/Swarm三国演义
+
+—— 文臣武将 ——
+沈伟康，广发银行数据中心
+运维中年人，经历传统运维，建设自动化运维，尝试云计算运维
+
+《Docker适配传统运维那些事》
+主要分享Docker如何适配传统行业的运维体系
+
+
+黄惠波，腾讯互娱高级工程师
+目前主要负责游戏计算资源容器化平台的研发工作，包括kubernetes/docker研究以及定制化开发，主导腾讯游戏万级容器资源调度平台的建设工作。
+
+《kubernetes在腾讯游戏的应用实践》
+主要分享海量在线游戏场景下，基于kubernetes的容器资源调度的探索和应用实践。包括：
+腾讯在线游戏的容器化应用场景；
+基于kubernetes的调度方案和网络方案定制优化；
+海量应用过程中遇到的问题与解决方案。
+
+黄浩松，Apache Mesos PMC
+目前就职于Shopee（东南亚社交电商平台），负责公司自动化运维平台建设，业余时间长期在Apache Hadoop / Apache HBase / Tensorflow 打酱油。
+
+《Mesos Unified Containerizer及对Pod的支持》
+Mesos Unified Containerizer的最新特性解读
+
+
+
+王璞，数人云创始人&amp;amp;CEO
+美国 George Mason 大学计算机博士。曾先后供职于 Google、Groupon 和 StumbleUpon 等硅谷互联网公司。擅长分布式计算、大规模机器学习、海量数据处理。曾担任 Google 广告部门数据平台构架师，负责管理每秒访问量全球最高的架构平台。
+
+《SRE-分布式系统运维的DevOps实践》
+来自Google的SRE理念
+SRE与DevOps
+SRE落地实践-开源Mesos调度器
+
+神秘嘉宾，敬请期待~~
+
+—— 排兵布阵——
+
+13:30 - 14:00 
+签到
+14:00 - 14:40
+《SRE-分布式系统运维的DevOps实践》@王璞
+14:40 - 15:20
+《Mesos Unified Containerizer及对Pod的支持》@黄浩松
+15:20 - 16:00
+《Docker适配传统运维那些事》@沈伟康
+16:00 - 16:40 
+《kubernetes在腾讯游戏的应用实践》@黄惠波
+16:40 - 17:00
+自由交流
+
+
+—— 安营扎寨 ——
+
+时间：1月7日 14:00 - 17:00
+地点：深圳市南山区科园路18号北科大厦4002室﻿</description><start>2017.01.07 14:00</start><end>17:00</end><location>深圳市南山区科园路18号北科大厦4002室</location><participantscount>40</participantscount></event>
+	<event><title>啥都没，只有Google Pixel</title><chapterid>116409718883299342983</chapterid><description>欢迎各位小伙伴，想体验谷歌最新手机pixel的魅力吗？请11月13号下午3点到Devfest 2016的活动场地硬蛋空间约起。报名方式：G+活动页面点Yes。</description><start>2016.11.13 15:00</start><end>18:00</end><location>中国地质大学深圳研究院</location><participantscount>17</participantscount></event>
+	<event><title>GDG Shenzhen DevFest 2016</title><chapterid>116409718883299342983</chapterid><description>国庆假期刚结束深圳喜迎国际双创周，克强总理来了、Facebook扎克伯格来了、特斯拉马斯克来了、微软盖茨来了、苹果沃兹尼亚克来了，又怎么能少了全球开放、创新走在前沿的谷歌呢？好消息是，在2016年10月16日深圳的谷歌爱好者和开发者将迎来一年一度最隆重的盛会 — DevFest 2016 谷歌开发者嘉年华
+
+ 
+
+DevFest 2016将带来一场科技的饕餮盛宴！深圳GDG盛情邀请五位来自不同领域的主讲嘉宾，从机器学习，VR/AR技术及产业观察，谷歌AdWords推广，Progressive Web APP，安卓兼容性开发和测试等方面给各位技术爱好者和创业者带来毫无保留的分享，在这个资本寒冬中，少走一点技术的弯路，使第三方技术和平台为我所用。每个主题都将透过最真实的实例，给大家带来最深刻的触动。这里有的是干货与真实。与大咖直接面对面，倾听一场深度交流。
+
+ 
+
+【活动时间】10月16日13:00-18:00，
+
+【活动地点】深圳市南山区科技园粤兴三道8号，
+
+中国地质大学研究院C101（硬蛋科技深圳总部）</description><start>2016.10.16 13:00</start><end>18:00</end><location>广东省深圳市南山区科苑南路中国地质大学研究院</location><participantscount>360</participantscount></event>
+	<event><title>Apply Google Bigdata open source in real &amp; Android app compatibility in China</title><chapterid>116409718883299342983</chapterid><description></description><start>2016.09.24 14:00</start><end>15:00</end><location>Bit Coffee Shenzhen</location><participantscount>18</participantscount></event>
+	<event><title>AR,VR技术分享&amp;Google AdWords 深圳体验中心参观</title><chapterid>116409718883299342983</chapterid><description>活动简介
+    在6月19日我们的2016 I/O Redux活动上不少小伙伴对周老师分享内容中的AR,VR技术环节非常感兴趣。这次我们有幸邀请到“ 2016中国VR/AR产业峰会”100位特邀VIP嘉宾之一的郁树达来给我们分享VR/AR的一些先进技术。郁博士十分看好AR这个方向，他认为AR眼镜极有可能代替智能手机成为下一代人类的计算平台，在本次分享活动中他将会从横向和纵向两个方向分析这其中的原因。同时他也承认现在的AR技术面临着诸多瓶颈，他总结了AR技术在软件和硬件层面所碰到的几个棘手的难题，并将会在本次分享中一一叙述这些问题的来龙去脉。最后，对于最近流行的pokémon go这款基于地理位置的AR游戏，郁博士也将向大家分享一下其中所用到的AR技术。
+
+本次活动在Google AdWords深圳体验中心举行,届时将安排各位参观Google AdWords深圳体验中心。
+
+关于Google AdWords深圳体验中心的消息：
+http://sz.people.com.cn/n2/2016/0708/c202846-28636276.html?from=timeline&amp;amp;isappinstalled=0
+
+
+官方活动页面请访问:
+
+https://plus.google.com/b/116409718883299342983/events/ce7bm1ojsmr6v2baidcf1p6hjs0?gmbpt=true&amp;amp;pageId=116409718883299342983
+
+活动性质：谷粉。免费。AR/VR技术分享. Google AdWords体验.
+
+
+分享嘉宾：
+郁树达简介：
+郁树达，法国计算机视觉博士，现就职于超多维光电子有限公司负责AR研发工作。郁博士在其博士阶段的研究课题即为AR软件方面关键技术三维重建，毕业后所从事的行业又是偏光学硬件的3d显示，这使得他可以从软、硬件不同技术角度去看待AR行业的发展趋势。
+
+报名参与三步曲：
+一、请先发送主题为subscribe的邮件到shenzhen_gtug+subscribe@googlegroups.com进行订阅。
+收到回复后点Join This Group按钮(需要科学上网)加入邮件组. 请留意国内部分邮箱会当成垃圾邮件，最好添加为联系人。活动现场能上网可以现场发邮件订阅。
+二、到https://developers.google.com/groups/chapter/116409718883299342983/ 确认您是社区成员。
+三、关注我们的G+ page获取最新活动信息。
+https://plus.google.com/116409718883299342983/ 或加入电报群：https://telegram.me/shenzhengdg
+或者关注微信公众号:SZ-GDG
+由于场地限制最好不要空降。我们将检查订阅邮件与报名信息是否匹配。
+活动举办信息
+时间： 7月17日周日GMT+8 下午2:00 - GMT+8 下午6:00
+地点： 深圳市软件产业基地 2栋C座20楼 Google AdWords 深圳体验中心
+</description><start>2016.07.17 14:00</start><end>18:00</end><location>中国广东省深圳市南山区科园路软件产业基地（4栋）停车场</location><participantscount>126</participantscount></event>
+	<event><title>回到深圳：Google I/O Redux</title><chapterid>116409718883299342983</chapterid><description>各位小伙伴们，Google I/O 2016 已经过去快一个月了。是否还在遗憾 5月19日 的凌晨没有和我们一起观看直播呢？
+深圳 GDG 派去美国 I/O 现场的小伙伴在美国浪完已经回来了。他们将在下周日（6月19日）刚好 I/O 结束一月之际为大家带来分享。他们会给大家带来不同视角的 I/O 2016，你们有任何问题也可以在现场和他们交流，当然也有从美国带来的礼物。</description><start>2016.06.19 14:00</start><end>18:00</end><location>深圳市南山区科文路1号华富洋大厦4F 思微4.0</location><participantscount>81</participantscount></event>
+	<event><title>I/O Extended 2016 Shenzhen</title><chapterid>116409718883299342983</chapterid><description>#io16 #io16 extended 谷歌开发者大会 I/O 2016将于5月18日至20日举行，本届最大看点无疑是已经有所曝光的全新安卓7.0系统。
+此外，能够见到谷歌自动驾驶车，甚至是谷歌的无人机产品。 
+深圳 GDG 将加入 2016 年 Google I/O 全球开发者大会现场直播行列，同时深圳本地也会有一起观看现场开幕式，观看振奋人心的技术演讲！﻿</description><start>2016.05.18 00:00</start><end>2016.05.19 00:00</end><location>Shenzhen, Guangdong, China</location><participantscount>63</participantscount></event>
+	<event><title>Google Developers Study Jams 宣讲及Android N新特性介绍</title><chapterid>116409718883299342983</chapterid><description>活动内容:
+ 1, Study Jams活动介绍现场队员招募和组队.目前已经有两个队长啦!
+        Study Jams是一个学习 Google 在线课程的活动,是谷歌推出的面向新手的安卓入门开发课程。该活动由学员自主发起课程学习小组，带领小组成员入门 Android 开发，最终将 Android App 上载至 Google Play 并与他人分享自己的学习历程。
+
+2,相信不少朋友都已经迫不及待的体验Android N了.那么Android N有什么新特性呢?这次活动我们也会邀请Android骨灰级粉丝给大家带来分享.
+
+叶轩，微信团队 Android 开发组移动客户端工程师。2014年毕业于吉林大学软件工程系。
+2013年7月加入微信团队，参与开发第一版本微信支付 Android 客户端功能，并参与开发地理位置、公众号支持、微信运动客户端支持等模块。
+2015年微信摇春晚Android基础功能模块负责人。
+2015年上半年负责微信支付模块开发。
+现任腾讯生物认证平台 SOTER 负责人。
+
+议题：
+&amp;gt; Android N 新特性介绍
+What&apos;s New
+通知系统
+Doze 与 AppStandby 增强
+Direct Boot
+&amp;gt; Android 6.0 与 Android N 适配
+权限系统
+Apache
+JNI
+其他的各种适配
+&amp;gt; Android 6.0 与 Android N 安全特性
+KeyStore &amp;amp; TEE
+Fingerprint
+&amp;gt; Open Discuss
+对Android生态的思考与讨论
+
+活动地点:    在南山区科发路1号富利臻大厦3层 思微SimplyWork（ 高新园地铁站B口 附近）</description><start>2016.04.10 14:00</start><end>18:00</end><location>南山区科发路1号富利臻大厦</location><participantscount>55</participantscount></event>
+	<event><title>2016 Study Jams China Iboxpay Group (SJ112)</title><chapterid>116409718883299342983</chapterid><description>&amp;lt;div class=&quot;Ct&quot;&amp;gt;我是来自中国的Study Jam 盒子支付小组，团队成员29人参加，来自同一公司的不同岗位，我们打算通过学习视频、导师指导、项目实践等参加活动。&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;We are StudyJam iboxpay come from China, 29 members, differences position in company, plan&apos;s watch videos, leader helps, project practice etc.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;论坛小组链接：&amp;lt;a class=&quot;ot-anchor aaTEdf&quot; dir=&quot;ltr&quot; href=&quot;http://www.studyjamscn.com/group-123-1.html&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&amp;gt;http://www.studyjamscn.com/group-123-1.html&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;感谢 Google Developers StudyJams&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;谢谢&amp;lt;/div&amp;gt;</description><start>2016.04.03 07:00</start><end>2016.04.30 09:00</end><location>中国广东省深圳市</location><participantscount>29</participantscount></event>
+	<event><title>2016 Study Jams China Winner Group (SJ49）</title><chapterid>116409718883299342983</chapterid><description>&amp;lt;div class=&quot;Ct&quot;&amp;gt;我们是来自中国的StudyJam - 四十九Android学习小组，团队成员来自中国不同的城市，我们是通过StudyJam在线Android视频以及组员笔记交流的方式参与StudyJam活动的。通过StudyJam活动我们更深的认识Android系统的运行，以及自己可以动手创造属于自己的APP，也为我们在求职的路途上增加了砝码！&amp;lt;br&amp;gt;小组论坛链接：&amp;lt;a class=&quot;ot-anchor aaTEdf&quot; dir=&quot;ltr&quot; href=&quot;http://www.studyjamscn.com/group-240-1.html&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&amp;gt;http://www.studyjamscn.com/group-240-1.html&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;感谢 Google Developers StudyJams &amp;lt;/div&amp;gt;</description><start>2016.04.01 07:00</start><end>2016.04.30 09:00</end><location>中国广东省深圳市</location><participantscount>25</participantscount></event>
+	<event><title>2016 Study Jams China KRT Group (SJ47）</title><chapterid>116409718883299342983</chapterid><description>&amp;lt;div class=&quot;Ct&quot;&amp;gt;我们是来自中国的study Jam StudyJams - 图样图森破小组,团队成员来自全国不同的城市,比如北上广啊,杭州啊,深圳的,等等,我们是这样,基本都是从零基础开始,希望大家在一块好好学习,积极讨论,外国理论说,像这样的学习方式比较好,学习效果比较好,都能在学完这个课程之后,写一些简单的app,当然,如果是希望自己的水平有比较高的提升的话,一方面对于android内核方面的知识也要了解一下,比如linux系统 shell脚本 etc. 一方面是android服务器方面的,还有就是在实际工作中获得的经验.总之我们大家都加油吧!!!!&amp;lt;br&amp;gt;小组论坛链接：&amp;lt;a class=&quot;ot-anchor aaTEdf&quot; dir=&quot;ltr&quot; href=&quot;http://www.studyjamscn.com/group-239-1.html&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&amp;gt;http://www.studyjamscn.com/group-239-1.html&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;感谢 Google Developers StudyJams&amp;lt;/div&amp;gt;</description><start>2016.04.01 07:00</start><end>2016.04.30 09:00</end><location>中国广东省深圳市</location><participantscount>25</participantscount></event>
+	<event><title>2016 Study Jams China AndroidDifferent Group (SJ44）</title><chapterid>116409718883299342983</chapterid><description>&amp;lt;div class=&quot;Ct&quot;&amp;gt;我们是来自中国的StudyJam-AndroidDifferent小组，团队成员来自全国不同的城市 ，却有着相同的梦想  ，我们知道Android与众不同 ，开源共享共生  ，我们学习Android也是因为我们也是与众不同的 ，我们计划在StudyJam活动中 ，努力学习提升自己  ，在团队中互帮互助相互学习  ， 在不多的日子里  ，共同加油 ！&amp;lt;br&amp;gt;小组论坛链接：&amp;lt;a class=&quot;ot-anchor aaTEdf&quot; dir=&quot;ltr&quot; href=&quot;http://www.studyjamscn.com/group-234-1.html&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&amp;gt;http://www.studyjamscn.com/group-234-1.html&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;感谢 Google Developers StudyJams &amp;lt;/div&amp;gt;</description><start>2016.03.31 07:00</start><end>2016.04.30 21:00</end><location>中国广东省深圳市</location><participantscount>18</participantscount></event>
+	<event><title>2016 Study Jams China Android Group (SJ42）</title><chapterid>116409718883299342983</chapterid><description>&amp;lt;div class=&quot;Ct&quot;&amp;gt;我们是来自中国的StudyJams - Android-逆袭组,团队成员来自全国不同的城市,我们是通过线上互动交流的方式参与StudyJam互动学习!有兄弟必远征!&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;小组论坛链接：&amp;lt;a class=&quot;ot-anchor aaTEdf&quot; dir=&quot;ltr&quot; href=&quot;http://www.studyjamscn.com/group-230-1.html&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&amp;gt;http://www.studyjamscn.com/group-230-1.html&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;感谢 Google Developers StudyJams ﻿&amp;lt;/div&amp;gt;</description><start>2016.03.30 07:00</start><end>2016.04.30 09:00</end><location>中国广东省茂名市</location><participantscount>18</participantscount></event>
+	<event><title>2016 Study Jams China Zero Group (SJ20）</title><chapterid>116409718883299342983</chapterid><description>&amp;lt;div class=&quot;Ct&quot;&amp;gt;我们是来自中国的 Study Jam 从零单排小组，团队成员来自全国不同的城市，我们是打算几个一起去风景区游玩，或者去星巴克交流学习心得，有的人可能需要再努力努力，就单独一个人在家中或是其他地方学习代码，在游玩的时候可以放松心情，劳逸结合，所以大家也不要让自己太疲惫。这就是我们计划的Study Jam活动&amp;lt;br&amp;gt;小组论坛链接：&amp;lt;a class=&quot;ot-anchor aaTEdf&quot; dir=&quot;ltr&quot; href=&quot;http://www.studyjamscn.com/forum.php?mod=forumdisplay&amp;amp;fid=217&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&amp;gt;http://www.studyjamscn.com/forum.php?mod=forumdisplay&amp;amp;fid=217&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;感谢 Google Developers StudyJams &amp;lt;/div&amp;gt;</description><start>2016.03.29 07:00</start><end>2016.04.30 09:00</end><location>中国广东省深圳市</location><participantscount>26</participantscount></event>
+	<event><title>2016 Study Jams China OOM Group (SJ27）</title><chapterid>116409718883299342983</chapterid><description>&amp;lt;div class=&quot;Ct&quot;&amp;gt;&quot;我们是来自中国的OOM StudyJams学习小组，成员来自不同的城市，做着不同的职业，编程能力也有所差别，但是我们有着同样的编程热情，我们通过网上的交流和协作，共同学习安卓，共同进步，希望通过编程来改变我们的生活和世界。&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;We are Group OOM from China in Google StudyJams. Different cities we are from, different jobs we are in, and varied coding ability we have, we have one thing in common -- the enthusiasm to learn to code. We discuss and work together online, learning Android together, to make some change in daily life and say hello to the world.&quot;&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;小组论坛链接：&amp;lt;a class=&quot;ot-anchor aaTEdf&quot; dir=&quot;ltr&quot; href=&quot;http://www.studyjamscn.com/group-196-1.html&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&amp;gt;http://www.studyjamscn.com/group-196-1.html&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;感谢 Google Developers StudyJams ﻿&amp;lt;/div&amp;gt;</description><start>2016.03.28 07:00</start><end>2016.04.30 09:00</end><location>中国广东省深圳市</location><participantscount>18</participantscount></event>
+	<event><title>2016 Study Jams China attack on green kids Group (SJ06）</title><chapterid>116409718883299342983</chapterid><description>&amp;lt;div class=&quot;Ct&quot;&amp;gt;我们小组是study James线上小组，大家都来自全国各地，study James活动已经参与了一段时间，大家积极性很高，对主办方提供的所有帮助以及教学视频都很满意，非常感谢主办方！在之后的学习中，我们希望可以有更多的互动以及活动，我们爱studyJames，我们会好好珍惜在这学习的时间!&amp;lt;br&amp;gt;小组论坛链接：&amp;lt;a class=&quot;ot-anchor aaTEdf&quot; dir=&quot;ltr&quot; href=&quot;http://www.studyjamscn.com/group-104-1.html&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&amp;gt;http://www.studyjamscn.com/group-104-1.html&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;感谢 Google Developers StudyJams ﻿&amp;lt;/div&amp;gt;
+</description><start>2016.03.24 07:00</start><end>2016.04.30 09:00</end><location>中国广东省深圳市</location><participantscount>18</participantscount></event>
+	<event><title>智能设备交互未来方向的探索分享沙龙</title><chapterid>116409718883299342983</chapterid><description>活动内容
+真正的智能设备，能从合适的地方获取足够信息并以合适的方式反馈到合适的地方。而设备的智能化程度取决于用户的感受。设备与环境的交互带宽越大，每一次交互能承载的信息越多，用户便觉得越智能。
+
+更简单高效贴近人心，无疑是人们对智能设备的一种期望。智能设备的交互也正发生着翻天覆地的变化。智能设备交互的未来方向究竟是什么样的？如果你也迫切想要了解，不妨来科技寺和我们一探究竟吧！
+
+嘉宾介绍
+汪智沛
+好连公司 CEO，一直致力于智能电视等远距离屏幕的交互创新和智能化。在香港科技大学求学期间，他攻读了多个学科深入研究了人机交互领域，毕业后即由此开始了创业，并主导设计了好连。
+
+他提出人机交互革命依赖于人机信息交互带宽的飞跃，也是福布斯中国2014年30 位 30 岁以下创业者之一。
+
+活动话题
+1.   什么是智能化和交互带宽
+2.   不同的屏幕，不同的交互，一样的生态
+3.   我们设计好连是怎样遵循这些交互原则的
+
+活动流程
+19:30-19:40 签到
+19:40-21:00 嘉宾分享&amp;amp;现场智能设备交互体验
+21:00-21:30 Q&amp;amp;A
+
+活动信息
+时间：1月25日（下周一） 19:30-21:30
+地点：深圳福强路3030号福田体育公园新媒体产业园22层科技寺创业空间</description><start>2016.01.25 19:00</start><end>21:30</end><location>深圳福强路3030号福田体育公园新媒体产业园22层科技寺创业空间</location><participantscount>45</participantscount></event>
+	<event><title>GDG 12月聚会： 把玩Google 最新硬件</title><chapterid>116409718883299342983</chapterid><description>大家一起玩玩最新的Nexus 设备。
+1、把玩谷歌最新Nexus设备6P和5X
+2、把玩谷歌第一台路由器Onhub
+3、聊聊Google物联网操作系统Brillo及物联网操作协议Weave。
+4、谷歌新推出的API Near by和开源项目Eddystone介绍。
+5、自由交流认识朋友</description><start>2015.12.06 15:00</start><end>19:00</end><location>中国广东省深圳南山区深圳市软件产业基地</location><participantscount>20</participantscount></event>
+	<event><title>GDG Shenzhen DevFest 2015  人、链接、未来</title><chapterid>116409718883299342983</chapterid><description>一个公司的伟大，或许不是因为它赚了多少钱，而是它超越金钱的创造与思考。Google，就是如此。这个市值近4000亿美金的超级独角兽，用它特有的方式赢得了大家的喜欢与尊重。对于Google，我们总结了几个关键词：信仰、人性化、开放、社会责任。以人性出发设计产品，一切的设计不是达到自己的内部目标与底线，而是以满足用户需求为出发。
+
+Google在十几年间收购了180余家公司，一直在做着跨界的事，比如：发射卫星、热气球Wifi、风力发电机等；但这也仅仅是冰山一角。他们尝试进入到每个维度、每个角落，贯穿人类甚至非人类生活的一切。特别是对落后地区信息化的推进。他们保持开放，不拒绝任何创造改变机会的可能。
+
+DevFest2015将在深圳带来一场科技创新跨界盛宴！盛情邀请五位来自不同领域的主讲嘉宾，以多个维度分享最独特的、有关科技、创新、开放、链接与人的话题，每个主题都将透过最真实的故事和感受，给大家带来最深刻的触动。只有的是干货与真实。与大咖直接面对面，倾听一场深度交流。
+</description><start>2015.11.15 13:00</start><end>18:30</end><location>中国广东省深圳南山区科苑路科兴科学园</location><participantscount>419</participantscount></event>
+	<event><title>Onhub体验及Google物联网布局畅谈</title><chapterid>116409718883299342983</chapterid><description>活动内容如下：
+1、也许是深圳第一台公开露面的Onhub，等你来玩！         https://on.google.com/hub/
+2、展望Google物联网操作系统Brillo及物联网操作协议Weave。
+3、物联网相关知识交流。
+4、谷歌新推出的API Near by和开源项目Eddystone介绍。
+
+首先关注我们的G+ https://plus.google.com/116409718883299342983/posts
+并填写下面的表格http://goo.gl/forms/MRBgN0TltI。
+如果你的朋友想参加此次活动但是翻墙还有问题可以通过下面的免翻地址填写报名表格.https://gdgdocs.org/forms/d/1y8hbCrl3QfkTAIqw3yRq5ZwOwWCFo7oB2AUyMLjHQus/viewform?c=0&amp;amp;w=1
+此免翻代理由南阳GDG提供支持。
+
+
+活动时间 2015.09.26 下午14:00～18:00
+活动地点:深圳市软件产业基地5栋C座6楼  盒子支付培训室
+特别感谢盒子支付长期以来对GDG的支持。
+具体位置就是在粤海门派出所后面的软件产业基地里面。南山区白石路与滨海大道交汇处。﻿</description><start>2015.09.26 14:00</start><end>18:00</end><location>中国广东省深圳市南山区软件产业基地</location><participantscount>8</participantscount></event>
+	<event><title>Googler眼中的Android M和Google 2015 I/O</title><chapterid>116409718883299342983</chapterid><description>1,Android最新发展，解析Android M最新技术。2,Google I/O后技术分享.介绍一些IO 2015发现的黑科技。
+3,动手玩cardboard.</description><start>2015.07.11 15:00</start><end>18:00</end><location>中国广东省深圳福田区华强北华强北站</location><participantscount>42</participantscount></event>
+	<event><title>Google I/O Recap @MakerFaire</title><chapterid>116409718883299342983</chapterid><description>一大波从 Google I/O 带来的新鲜热辣消息正在逼近！
+一起来聊聊今年的看点和槽点～
+
+还有，一起来聊聊 Maker Faire 吧，这可是Geek 们的大节日啊﻿
+
+活动地点还是老地方：软件产业基地里面。南山区白石路与滨海大道交汇处。﻿深圳市软件产业基地5栋C座6楼 盒子支付培训室</description><start>2015.06.20 15:30</start><end>17:00</end><location>中国广东省深圳南山区软件产业基地</location><participantscount>15</participantscount></event>
+	<event><title>Google I/O 2015 Extended @Shenzhen</title><chapterid>116409718883299342983</chapterid><description>我们深圳GDG这次活动的内容就是组织大家一起happy一起看直播。
+球迷朋友很清楚大家一起看看世界杯决赛的感觉吧！
+我们想要的就是这种感觉和气氛下看I/O直播！
+具体位置在粤海门派出所后面的软件产业基地里面。南山区白石路与滨海大道交汇处。﻿深圳市软件产业基地5栋C座6楼  盒子支付培训室</description><start>2015.05.28 23:00</start><end>2015.05.29 03:00</end><location>中国广东省深圳南山区软件产业基地</location><participantscount>24</participantscount></event>
+	<event><title>China GDG Summit归来，带给开发者的福利分享</title><chapterid>116409718883299342983</chapterid><description>China GDG Summit 2月22日到23日成功在北京举行。深圳几位组织者都参加了此次会议。会议归来我们将重点介绍今年GDG社区的工作重心以及Google带给开发者的福利。</description><start>2015.03.01 08:30</start><end>13:00</end><location>中国广东省深圳南山区深圳大学</location><participantscount>10</participantscount></event>
+	<event><title>GDG 月度聚会： Google 新品大赏</title><chapterid>116409718883299342983</chapterid><description>具体地址在深圳市软件产业基地5栋C座6楼  盒子支付培训室
+这次的活动是第一次由志愿者 @lisiyu 发起组织，请大家捧场啊。﻿
+Nexus 6, Nexus Player 还有新的 Moto 360 都闪着光呢～﻿</description><start>2014.12.07 14:30</start><end>16:30</end><location>中国广东省深圳市学府路深圳市软件产业基地</location><participantscount>50</participantscount></event>
+	<event><title>GDG Shenzhen DevFest 2014</title><chapterid>116409718883299342983</chapterid><description>&amp;lt;h3&amp;gt;无边界的 Android&amp;lt;br&amp;gt;
+无边界的 娱乐生活&amp;lt;br&amp;gt;
+无边界的 GDG 深圳&amp;lt;/h3&amp;gt;
+
+&amp;lt;h4&amp;gt;主题&amp;lt;/h4&amp;gt;
+
+&amp;lt;p&amp;gt;Android 的发展，已经让智能设备模糊了边界，从可穿戴的手表到高速移动的汽车，Lollipop 让 Android 的影响超越了智能手机的边界。这里我们请到了华为和 vivo 等开发大佬们聊聊他们眼中的 Android L/wear 还有各种奇葩想法以及私密消息。&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;而作为 Google 服务的用户，我们崇尚信息的自由流动和分享。 Unblock Youku 的作者会和大家分享一下他们打开信息自由的努力和经历，而 Ingress 的伙伴们会分享一下能自由玩游戏的淋漓畅快。&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;当然，最重要的还是你的参与。GDG 深圳用特别的一分钟发言/发问的形式，让大家可以广泛参与到社区的讨论中来，让大家来聆听你的高见，让大家来评价你的意见，让大家来回答你的问题。还有特别的纪念品哦。
+
+&amp;lt;/p&amp;gt;&amp;lt;h4&amp;gt;议程&amp;lt;/h4&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;13:00-13:30&amp;lt;br&amp;gt;
+签到，领小纪念品&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;13:30-13:45&amp;lt;br&amp;gt;
+Googler 专属欢迎辞以及 GDG 欢迎辞&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;h5&amp;gt;上半场：无边界的 Android&amp;lt;/h5&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;13:50-14:15 (14:15-14:25)&amp;lt;br&amp;gt;
+Android wear 初体验&amp;lt;br&amp;gt;
+华为战略官分享 LG G 智能手表的方方面面&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;14:25-14:55 (14:55-15:10)&amp;lt;br&amp;gt;
+Android 5.0 Lollipop 的开发初探&amp;lt;br&amp;gt;
+vivo 软件开发负责人分享设备商眼中的 Android L 以及开发要点&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;15:10-15:30 (15:30-15:40)&amp;lt;br&amp;gt;
+Android tv, Android auto &amp;amp; Android everything&amp;lt;br&amp;gt;
+智能电视设计师分享当 Android 跨出手机的边界的机遇、障碍与挑战&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;(15:40-16:00)&amp;lt;br&amp;gt;
+分钟参与&amp;lt;br&amp;gt;
+“我、Android、GDG、深圳”&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;16:00-16:30&amp;lt;br&amp;gt;
+全体合影、茶歇，及广交朋友&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;
+
+
+&amp;lt;h5&amp;gt;下半场：无边界的 娱乐生活&amp;lt;/h5&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;
+16:30-16:55 (16:55-17:10)&amp;lt;br&amp;gt;
+当我们 &quot;Unblock Youku”&amp;lt;br&amp;gt;
+Unblock Youku 的作者将与我们分享围城内外的技术和协作的故事&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;17:10-17:30&amp;lt;br&amp;gt;
+发现一个更大的世界&amp;lt;br&amp;gt;
+Ingress 爱好者们和我们分享，跨越边界，发现一个有趣的世界&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;17:30-18:00&amp;lt;br&amp;gt;
+“You might think it&apos;s a game; it isn&apos;t.”&amp;lt;br&amp;gt;
+Ingress 爱好者带领我们俯瞰这个有趣的世界，同时邀请蓝绿军代表分享在这个世界里面那些惊世壮举，还有感动瞬间&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;(18:00-18:20)&amp;lt;br&amp;gt;
+分钟参与&amp;lt;br&amp;gt;
+“我、Ingress、你、深圳”&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;18:30 大会结束&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;
+
+&amp;lt;hr&amp;gt;
+
+&amp;lt;p&amp;gt;深圳 GDG 的年度盛会，大家齐参与啊！&amp;lt;br&amp;gt;
+确定于香港科技大学产学研大楼一楼报告厅。&amp;lt;br&amp;gt;
+欢迎邀请朋友来此 G+ 活动页面报名，有不错的小礼物哦。如果到官方 Developer Events 的页面报名，更有额外的小惊喜。&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;注：括号内的时间是“分钟参与”的时间&amp;lt;/p&amp;gt;</description><start>2014.10.26 13:30</start><end>18:00</end><location>中国广东省深圳粤兴一道香港科大产学研大楼</location><participantscount>220</participantscount></event>
+	<event><title>GDG Android Game Developer Sharing</title><chapterid>116409718883299342983</chapterid><description>「议题」
+
+1. OGEngine游戏引擎跨平台版发布及演示，橙子游戏 VP/OGEngine负责人，龚文茂
+2. OGEngine手游开发实例讲解及展示，橙子游戏 CTO，范永良
+3. 游戏开发分享， Jay
+4. Ingress 好友聚会 
+
+「如何报名」
+请点击如下链接报名：https://jinshuju.net/f/4F8n2n﻿</description><start>2014.09.27 14:00</start><end>17:00</end><location>中国广东省深圳南山区高新区南区虚拟大学园院校产业化大楼1楼伞友咖啡</location><participantscount>50</participantscount></event>
+	<event><title>Google I/O 归来 —— Google I/O 的 Android wear / auto / tv 以及深圳GDG的探索</title><chapterid>116409718883299342983</chapterid><description>一年一度的 Google I/O 已落幕，Android wear，Android auto还有Android TV 都是本次大会的亮点。
+深圳GDG的几位小伙伴刚从旧金山归来，为大家带来了本次大会的有趣经历，现场还可以体验最新的 Android TV和智能手表。
+7月13号GDG聚会之2014 Google I/O见闻，不见不散哦！
+</description><start>2014.07.13 14:30</start><end>16:30</end><location>TechSpace 开放制造空间（广东省深圳市南山区科技园中区麻雀岭工业区M-10栋1号厂房东北角101F（SGS通标后侧））</location><participantscount>55</participantscount></event>
+	<event><title>解密APP开发者的西游困惑</title><chapterid>116409718883299342983</chapterid><description>越来越多的中国开发者开始吧视野转向海外，把触角伸向海外。本次活动我们邀请到诸多重量级嘉宾，他们将与众多开着共同探讨产品出海的喜悦哀伤，解密APP开发者的西游困境。</description><start>2014.05.24 01:00</start><end>06:00</end><location>中国广东省深圳南山区深圳大学 科技楼3号报告厅</location><participantscount>48</participantscount></event>
+	<event><title>基于ARM的嵌入式系统及Android开发</title><chapterid>116409718883299342983</chapterid><description>基于ARM平台的嵌入式系统设计在工业控制、无线通讯、网络应用、消费类电子产品、成像和安全产品等领域内均有广泛地应用。本次讲座将与华清远见教育集团合作在深圳大学科技楼一楼3号报告厅举行，欢迎大家参与！</description><start>2014.04.19 13:00</start><end>17:00</end><location>深圳大学科技楼一楼3号报告厅</location><participantscount>30</participantscount></event>
+	<event><title>Android Application Programming Contest</title><chapterid>116409718883299342983</chapterid><description>描述：在 “应用为王”“人才至上”的时代背景下，我国无论是项目、作品还是人才都有着巨大的缺口，为了抢抓机遇，进一步加快推进移动互联网产业发展，发现、吸引一批优秀移动互联网特别是基于安卓的应用开发创意人才，做好移动互联网人才储备。深圳谷歌开发者社区（简称GDG）特举行本次“深圳谷歌开发者社区Android应用编程竞赛”，本次活动旨在鼓励Android开发者在Android开源平台上的开发与实践，为Android用户提供更加丰富的应用程序。</description><start>2014.01.19 02:00</start><end>06:00</end><location>15th Floor,North Tower Building,Shenzhen Longhua District 3A beautiful people of North</location><participantscount>48</participantscount></event>
+	<event><title>GDG ShenZhen Devfest</title><chapterid>116409718883299342983</chapterid><description>GDG ShenZhen Devfest</description><start>2013.10.27 00:00</start><end>17:00</end><location>HKUST Shenzhen</location><participantscount>229</participantscount></event>
+	<event><title>Riding activity</title><chapterid>116409718883299342983</chapterid><description>Riding activity </description><start>2013.09.15 14:00</start><end>17:00</end><location>中国广东省深圳深圳湾</location><participantscount>32</participantscount></event>
+	<event><title>Google Technology</title><chapterid>116409718883299342983</chapterid><description></description><start>2013.08.04 14:00</start><end>17:30</end><location>HKUST Shenzhen</location><participantscount>24</participantscount></event>
+	<event><title>Open-source Linux development experience and case  sharing sessions</title><chapterid>116409718883299342983</chapterid><description></description><start>2013.06.15 13:30</start><end>17:00</end><location>China, Guangdong, Shenzhen, Nanshan, JinHui Hotel</location><participantscount>122</participantscount></event>
+	<event><title>Google IO 2013 Sharing</title><chapterid>116409718883299342983</chapterid><description></description><start>2013.05.26 14:30</start><end>17:30</end><location>HKUST Shenzhen</location><participantscount>40</participantscount></event>
+	<event><title>Programmer and designer meet up</title><chapterid>116409718883299342983</chapterid><description></description><start>2013.04.29 14:00</start><end>17:30</end><location>HKUST Shenzhen</location><participantscount>25</participantscount></event>
+	<event><title>Discuss about google play&apos;s top 100 App</title><chapterid>116409718883299342983</chapterid><description></description><start>2013.04.14 14:00</start><end>17:30</end><location>Technology Building, Nanshan, Shenzhen, Guangdong China</location><participantscount>30</participantscount></event>
+	<event><title>SH GDG G+ Test run</title><chapterid>116409718883299342983</chapterid><description></description><start>2012.09.20 18:30</start><end>19:30</end><location></location><participantscount></participantscount></event>
+	<event><title>Android  Technology Seminar</title><chapterid>116409718883299342983</chapterid><description>&amp;lt;p&amp;gt;about Android technology&amp;lt;/p&amp;gt;</description><start>2011.12.10 13:00</start><end>17:00</end><location>Shenzhen,China</location><participantscount></participantscount></event>
+	<event><title>Free things technology-related training</title><chapterid>116409718883299342983</chapterid><description>&amp;lt;p&amp;gt;about Things technology.&amp;lt;/p&amp;gt;</description><start>2011.12.03 09:00</start><end>16:00</end><location>Shenzhen,China</location><participantscount></participantscount></event>
+	<event><title>The inaugural meeting of the Shenzhen GTUG</title><chapterid>116409718883299342983</chapterid><description>&amp;lt;p&amp;gt;The inaugural meeting of the Shenzhen GTUG&amp;lt;/p&amp;gt;</description><start>2010.11.20 13:00</start><end>17:30</end><location>Shenzhen,China</location><participantscount></participantscount></event>
+</events>
+</data>

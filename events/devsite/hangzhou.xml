@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<number>101</number>
+<events>
+	<event><title>杭州GDG  安卓开发者沙龙</title><chapterid>107736551552874801480</chapterid><description>伴随着Android O Pre 2发布，Kotlin 成为 Android 官方编程语言， AI 时代的到来……Android 开发的未来路在何方？Android 开发者又该做哪些技术储备和转型？&quot;Android开发者沙龙&quot;于6月17日在杭州阿里巴巴西溪园区，邀请安卓开发者们共同交流探讨。﻿</description><start>2017.06.17 13:00</start><end>17:00</end><location>中国浙江省杭州余杭区阿里巴巴西溪园区（南门）</location><participantscount>160</participantscount></event>
+	<event><title>#IWD杭州GDG Women Techmakers</title><chapterid>107736551552874801480</chapterid><description>一年一度的Google女性开发者节又来啦~~这次围绕IT女性成长、IT技术话题，阿里讲师及GDE讲师来为我们分享她们的见识和想法</description><start>2017.04.20 19:00</start><end>21:00</end><location>杭州市余杭区文一西路969号阿里巴巴西溪园区</location><participantscount>76</participantscount></event>
+	<event><title>Next ’17 Extended -GDG Hangzhou</title><chapterid>107736551552874801480</chapterid><description>在3月8号到11号，谷歌云计算部门 (Google Cloud) 将会在旧金山举办一个全球谷歌云计算的大会 Cloud Next，届时会有云计算、地图、联网设备等几个产品部门分享最新云计算技术和产品。大会请来了Google CEO在内的重磅嘉宾，200多场演讲，三天的门票为$1,499美元。
+Hangzhou GDG将组织大家回看大会中的精彩演讲，并请到嘉宾来分享主题及演示最新的云计算技术。</description><start>2017.03.25 18:30</start><end>21:30</end><location>杭州拱墅区湖州街51号（浙江大学城市学院）理科四号楼 511</location><participantscount>57</participantscount></event>
+	<event><title>Google Tensorflow官方开发者交流会（内部活动）</title><chapterid>107736551552874801480</chapterid><description>12月13日，我们邀请Google Tensorflow的开发和推广人员来阿里巴巴西溪园区，分享和交流Tensorflow的相关知识和实用经验，以及其他产品相关。
+
+由于活动场地限制，本活动仅对阿里内部人员开放。</description><start>2016.12.13 12:00</start><end>13:00</end><location>Alibaba Xixi Park Parking Lot, Wenyi West Road, Hangzhou, Zhejiang, China</location><participantscount>220</participantscount></event>
+	<event><title>DevFest 2016 Hangzhou</title><chapterid>107736551552874801480</chapterid><description>活动安排：
+14:00 -14:10   Devfest及杭州GDG简介 by Kiki&amp;amp;Eric Eric 诺基亚Coach
+14:10 -14:40  《Phenix Pro Devkit及其开发者社区：重塑下一代无人机系统》 by 金洁博士，Robosense CEO，无人机飞控专家
+14:50 - 15:20 《开源硬件如何快速构建物联网基础应用》 by 迷你强，极客工坊开源硬件社区管理员
+15:30 - 15:50  《Google AR/VR.》Alpha，Google Developer Expert
+15:50 - 16:10  茶歇&amp;amp;Cardboard体验(需自带安装好该APP的手机)
+16:10 - 16:40 《Web前端架构的工业化时代》雨森 网易研究院工程师
+16:40 - 17:00  Open space</description><start>2016.12.03 14:00</start><end>18:00</end><location>中国浙江省Hangzhou Shi</location><participantscount>87</participantscount></event>
+	<event><title>杭州GDG虚拟现实开发者沙龙</title><chapterid>107736551552874801480</chapterid><description>杭州GDG 虚拟现实开发者沙龙 报名表
+什么是虚拟现实？
+虚拟现实(Virtual Reality，简称VR)是近年来出现的高新技术。虚拟现实是利用电脑模拟产生一个三维空间的虚拟世界，提供使用者关于视觉、听觉、触觉等感官的模拟，让使用者如同身历其境一般，可以及时、没有限制地观察三度空间内的事物。
+在经过CES、MWC、GDC之后，随着 Oculus Rift、HTC Vive、三星Gear VR、索尼PS VR的大力推向市场，VR开始迎来内容上的首轮爆发。
+
+杭州谷歌开发者社区（Google developer group）联合西湖创客汇和一群热爱智能硬件的开发者、VR开发者一起讨论VR的开发技术及应用场景等问题。</description><start>2016.07.16 10:00</start><end>12:00</end><location>杭州市滨江区六和路海创基地北楼三楼D3003创客梦工场</location><participantscount>78</participantscount></event>
+	<event><title>Google IO Redux 2016 杭州</title><chapterid>107736551552874801480</chapterid><description>2016年IO大会虽然已经过去一个月，但那些新鲜的黑科技依然热腾腾，这次有啥新亮点和可挖掘的内容？ 由专程赴美参加IO的技术大神带领大家重温本次IO大会精彩内容，VR平台？Google Home？还有各种在美见闻和好玩的事情。 7月3日和我们来一起探索吧!</description><start>2016.07.03 13:00</start><end>16:00</end><location>杭州市滨江区秋溢路228号江虹国际创意园3B203会议中心</location><participantscount>47</participantscount></event>
+	<event><title>WTM 2016 Hangzhou</title><chapterid>107736551552874801480</chapterid><description>诗人写的是诗、画家作的是画、而我们写的是代码；
+农民耕作的是土地、工人操作的是机器、而我们编作的是代码；
+将军指挥的是士兵、企业家指挥的是员工、而我们指挥的是代码。
+别人称呼我们是程序媛，
+因为我们的工作是写代码。
+世界越来越离不开代码，
+世界越来越需要代码。
+有码走遍天下，
+无码寸步难行。
+世界在被代码改变着，
+而我们在创造着代码。
+会写代码的妹子们，
+让我们继续属于自己的节日！
+
+如果你家里有个小宝宝，只要不闹，欢迎拖家带口；
+如果你是一个男生，碰巧有一套不错的西装或一袋不错的零食，欢迎加入我们。
+4月23日下午1:00到4:30，
+在会场，
+你我不见不散。
+
+这是一个女性技术人的节日，欢迎报名参加，活动免费，并提供礼品和零食。
+
+会议流程
+* 13:30~14:00签到及分组抽签、ice break
+* 14:00~14:15 开场 杭州GDG&amp;amp;WTM介绍、互动  
+* 14:20~15:00 嘉宾分享: 嘉宾：陈霄，阿里巴巴交互设计专家
+* 15:00~15:50 嘉宾分享: 嘉宾：陈杰平，甄有才创始人
+* 15:50~16:10 茶歇及自由讨论环节
+* 16:10~16:40 嘉宾分享/谷歌设备体验分享（待定）
+* 16:40~16:55 总结及预告：Google Tech Labs及后续GDG活动介绍 主讲人：侯宏仑
+* 16:55~17:00 活动结束合影</description><start>2016.04.23 13:00</start><end>18:00</end><location>Hangzhou, Zhejiang, China</location><participantscount>50</participantscount></event>
+	<event><title>2016 Study Jams China OldDriverNotFoundException Group (SJ120)</title><chapterid>107736551552874801480</chapterid><description>&amp;lt;div class=&quot;Ct&quot;&amp;gt;我们是来自中国的StudyJams - OldDriver小组，团队成员10人（报名人数）参加，来自杭州，来自浙江传媒学院，我们是这样来自不同的专业，不同的年级，但我们有相同的爱好——学好Android开发。我们很幸运有机会参加StudyJam活动的。&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;We come from Hangzhou, a beautiful city in China. Our group named StudyJams - OldDriver. There are ten members in our group. They have different majors and they are from different grade in the school —— Zhejiang University of Media and Communications, but we all have a same hobby that is study Android developing.We are lucky to participate in the activity of StudyJam.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;论坛小组链接：&amp;lt;a class=&quot;ot-anchor aaTEdf&quot; dir=&quot;ltr&quot; href=&quot;http://www.studyjamscn.com/group-200-1.html&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&amp;gt;http://www.studyjamscn.com/group-200-1.html&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;感谢 Google Developers StudyJams&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;谢谢&amp;lt;/div&amp;gt;</description><start>2016.03.28 19:00</start><end>2016.04.30 21:00</end><location>Hangzhou, Zhejiang, China</location><participantscount>10</participantscount></event>
+	<event><title>2016 Study Jams China SJ21 Group</title><chapterid>107736551552874801480</chapterid><description>&amp;lt;div class=&quot;Ct&quot;&amp;gt;&quot;我们是来自中国的StudyJam 狼多肉少小组，是来自全国不同的城市成员。我们打算按照每3天完成一门课程的进度，学完这9门课程，直到做出属于自己的APP。&amp;lt;br&amp;gt;We are StudyJam SJ21 Group from China&apos;s team, and from different cities of the country. We intend to follow the completion of a course of progress every 3 days until the end, and we want to make up our own APPs.&quot;&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;小组论坛链接：&amp;lt;a class=&quot;ot-anchor aaTEdf&quot; dir=&quot;ltr&quot; href=&quot;http://www.studyjamscn.com/group-189-1.html&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&amp;gt;http://www.studyjamscn.com/group-189-1.html&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;感谢 Google Developers StudyJams﻿&amp;lt;/div&amp;gt;</description><start>2016.03.28 19:00</start><end>2016.04.30 21:00</end><location>Hangzhou, Zhejiang, China</location><participantscount>20</participantscount></event>
+	<event><title>2016 Study Jams China SJ09 Group</title><chapterid>107736551552874801480</chapterid><description>&amp;lt;div class=&quot;Ct&quot;&amp;gt;我们是来自中国的StudyJam 09小组，团队成员来自全国不同的城市，在本次活动中，由于组长的个人原因以及没有及时解决，我们小组的学习进度拉下啦很多，目前只到了1B阶段，今后我将带领大家加快学习的进度，争取3天解锁一门课程，并在4月月末完成整个课程，努力调高成员们的积极性，督促他们又快又好的完成学习任务，让组员们更上一层楼。&amp;lt;br&amp;gt;小组论坛链接：&amp;lt;a class=&quot;ot-anchor aaTEdf&quot; dir=&quot;ltr&quot; href=&quot;http://www.studyjamscn.com/forum.php?mod=forumdisplay&amp;amp;fid=128&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&amp;gt;http://www.studyjamscn.com/forum.php?mod=forumdisplay&amp;amp;fid=128&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;感谢 Google Developers StudyJams ﻿&amp;lt;/div&amp;gt;</description><start>2016.03.25 19:00</start><end>2016.04.30 21:00</end><location>Hangzhou, Zhejiang, China</location><participantscount>27</participantscount></event>
+	<event><title>更新Google I/O&apos;16</title><chapterid>107736551552874801480</chapterid><description>https://plus.google.com/+SundarPichai/posts/Gi7EcHRTrNc:
+&quot;Exciting news: we’re only 18 weeks away from Google I/O! 2016 is going to be a special year for us -- we held our first developer day 10 years ago at the Googleplex. To celebrate our 10th anniversary of developer gatherings, we’ll be hosting I/O in our backyard at the Shoreline Amphitheatre in Mountain View, CA from May 18th - 20th. We’ll have 3 full days together to dive deep into developer content, code labs, and more. If you can’t make it in person, you can still join us via I/O Live and through an I/O Extended event in your local community. Stay tuned to #io16 and +GoogleDevelopers in the coming weeks for more details.﻿
+Show less&quot;﻿</description><start>2016.02.14 07:00</start><end>09:00</end><location>Hangzhou, Zhejiang, China</location><participantscount>6</participantscount></event>
+	<event><title>GDG DevFest Hangzhou 2015</title><chapterid>107736551552874801480</chapterid><description>GDG DevFest Hangzhou 2015, gathering all google fans, and invite experts, guest speakers to make public speech, demo great design and hands-on workshop etc. which under google technology ecosystem. To help software engineers follow google new technologies tightly, build a great software craftsmanship culture in GDG Hangzhou community.
+
+enroll portal: https://docs.google.com/forms/d/1yAX9wzkvHFY3XhXxrQyWfVAsbVTvsxmtN1Eknq3_JAk/viewform
+</description><start>2015.11.15 13:00</start><end>18:00</end><location>Hangzhou, Zhejiang, China</location><participantscount>93</participantscount></event>
+	<event><title>IO回顾及VR设备体验</title><chapterid>107736551552874801480</chapterid><description>2015 Google I/O 内容丰富，本次活动计划将着重VR内容及设备体验。</description><start>2015.09.11 19:00</start><end>21:00</end><location>中国浙江省杭州西湖区通普路贝塔咖啡</location><participantscount>8</participantscount></event>
+	<event><title>APAC Day of Coderetreat (亚太地区代码静修日) 2015</title><chapterid>107736551552874801480</chapterid><description></description><start>2015.06.13 09:00</start><end>17:00</end><location>杭州市滨江区信诚路567号诺基亚通信26楼杭州会议室</location><participantscount>19</participantscount></event>
+	<event><title>Google I/O&apos;15 Extended - Hangzhou</title><chapterid>107736551552874801480</chapterid><description>*
+本次活动免费，会提供充足的点心、饮料、啤酒等。
+**
+Google I/O&apos;15: https://events.google.com/io2015/
+杭州GDG“Google I/O 直播之夜”，来G+报名吧，你懂的～
+在本次活动G+ 报名且已关注+GDG Hangzhou 的优先有活动纪念品。</description><start>2015.05.28 22:00</start><end>2015.05.29 06:00</end><location>Hangzhou, Zhejiang, China</location><participantscount>80</participantscount></event>
+	<event><title>杭州Gopher 聚会#1暨GopherChina 2015参会分享</title><chapterid>107736551552874801480</chapterid><description></description><start>2015.05.16 14:00</start><end>17:00</end><location>登云路金花路丝联166创意园</location><participantscount>12</participantscount></event>
+	<event><title>开源搜索与海量数据分析系列沙龙</title><chapterid>107736551552874801480</chapterid><description></description><start>2015.03.28 14:00</start><end>17:00</end><location>中国浙江省杭州江干区杭州电子科技大学下沙分校</location><participantscount>10</participantscount></event>
+	<event><title>Women Techmakers 2015 - Hangzhou</title><chapterid>107736551552874801480</chapterid><description>Women Techmakers 2015 - Hangzhou</description><start>2015.03.28 07:00</start><end>08:00</end><location>中国浙江省杭州市滨江区信诚路567号</location><participantscount>40</participantscount></event>
+	<event><title>GDE(Google Developers Expert)干货分享</title><chapterid>107736551552874801480</chapterid><description>
+嘉宾: +Alpha Yang，墙内稀缺的GDE(Google Developers Expert)
+简要日程:
+1. Make Maps Beautiful
+2. Google cloud overview
+3. How Google works discussion
+4. Q&amp;amp;A
+[会前透露]
+1. Make maps beautiful；地理位置信息无处不在；
+1.1 通过Google maps API、 利用大数据和云计算的技术为大家制作出令人惊艳的丰富的地图展示；
+1.2 收集的地图应用与大家分享，全球开发者在地图上的创新；
+1.3 想通过这种形式让大家看到其他国外的开发者都做了哪些很有意思的事情，可以做对比参照；
+1.4 介绍国外的一些案例，很酷很先进的东西给大家感受；
+2. Google cloud overview；与Amazon云，Microsoft云，阿里云比较；
+2.1 从整体安装自动化、测试、部署、使用的全过程，自动扩展；
+2.2 Google 几万人怎么在云端上开发工作的；
+2.3 Google每天要用200k build，然后每天产生20个P的数据；
+2.4 全球几万人在这个独一无二的超大型协作开发平台上面办公coding，程序员把代码写好，以最快的速度得到验证；
+2.5 Google Cloud Platform的架构，
+2.6 怎么利用Google Cloud达到环境定制和敏捷开发，达到完美的统一。
+3. How Google Works Discussion；
+3.1 56页的PPT其实是个影子，书名和作者；
+3.2 两个人的故事；
+3.3 从六个方面看：文化、战略、招聘、决策、沟通、创新；
+3.4 一个几十人的Startup 到全球化。
+4. Q&amp;amp;A</description><start>2015.01.17 13:30</start><end>17:00</end><location>中国浙江省杭州市西湖区文二路</location><participantscount>51</participantscount></event>
+	<event><title>杭州GDG Python 聚会#2</title><chapterid>107736551552874801480</chapterid><description></description><start>2015.01.10 14:00</start><end>17:00</end><location>中国浙江省杭州西湖区文二路188</location><participantscount>10</participantscount></event>
+	<event><title>Docker Hangzhou Meetup #3</title><chapterid>107736551552874801480</chapterid><description>具体地址：浙江大学玉泉校区永谦活动中心二楼报­告厅
+正式报名：http://www.meetup.com/docker-hangzhou/events/218612551/
+
+话题:
+1. 使用 Golang 构建 Docker 编排工具 Figo ：无闻（www.docker.cn）
+2. Docker 生态社区：喻勇（VMWare ）
+3. Docker Europe Con 见闻和未来：耿辉（华为）
+4. Docker架构浅析及基于Docker的轻量级Cloud Foundry：孙宏亮/陈星宇（浙大）
+5. LeanCloud 的 Docker 实践：陈伟（LeanCloud）
+
+合办方：
+docker.cn 、Docker Hangzhou、浙江大学、SegmentFault
+协办方：
+LeanCloud、开源社、杭州GDG(谷歌开发者社区)­、GitCafe
+感谢浙江大学对本次活动的场地支持，以及孙宏亮同学的协调。
+
+活动纪念品与小礼物：
+杭州GDG： Android玩偶（G+ 报名优先）、Docker贴纸等
+docker.cn：T恤、卫衣
+SegmentFault：马克杯
+GitCafe：马克杯
+LeanCloud：小礼物
+
+PS: 你如对Golang话题也感兴趣的，后续可关注http://www.meetup.com/golang-hangzhou﻿</description><start>2014.12.27 13:00</start><end>18:00</end><location>中国浙江省杭州西湖区浙大路浙江大学玉泉校区</location><participantscount>220</participantscount></event>
+	<event><title>杭州Python 聚会 #1(周三 #26)</title><chapterid>107736551552874801480</chapterid><description>简要日程：
+1.杭州Py 社区发起说明
++magicx，PyCon大会组委，杭州GDG组委
+2.《使用Python写Web需要准备些什么》
++Hepo Chen，PyCon大会讲师，FarBox创始人
+3.空缺或自由交流，欢迎推荐</description><start>2014.12.17 19:00</start><end>21:00</end><location>中国浙江省杭州市西湖区万塘路</location><participantscount>19</participantscount></event>
+	<event><title>开源搜索与海量数据沙龙(下沙校区)</title><chapterid>107736551552874801480</chapterid><description>开源搜索与海量数据沙龙(下沙校区)</description><start>2014.12.06 18:00</start><end>20:00</end><location>中国浙江省杭州市江干区杭州电子科技大学下沙分校</location><participantscount>57</participantscount></event>
+	<event><title>PyCon大会2014 杭州场</title><chapterid>107736551552874801480</chapterid><description>筹备中：http://cn.pycon.org/2014/﻿</description><start>2014.11.22 13:00</start><end>17:00</end><location>中国浙江省杭州滨江区诺基亚西门子通信</location><participantscount>150</participantscount></event>
+	<event><title>Global Day of Coderetreat 2014 Hangzhou</title><chapterid>107736551552874801480</chapterid><description>你是否还记得2012, 2013全球Coderetreat日？对，我们在2014年再次回归！
+热爱编程的你，是否受限于进度压力而未能细心雕琢你的代码？是否想讨论编程问题时，又苦于身边没有合适的人一起切磋？
+Global Day of Coderetreat (GDCR)杭州站的活动，将创造一个没有进度压力的氛围，用一天时间，轻轻松松写点程序，让你可以精雕细琢你的代码，演练各种工程实践。
+同时，身边有一群和你兴趣背景类似的人，随时可以进行切磋。在这一天中，我们将视参与者具体情况涉及到部分或所有以下领域：
+• 结对开发(pair-programming)
+• 单元测试
+• 测试驱动开发(TDD)
+• 代码重构(refactoring) 
+• 软件设计
+同时我们还会在每个环节加入一些有趣的规则限制，让你挑战并突破平时的编程习惯，重新思考编程的一些重要方面。
+
+Coderetreat官方网站: www.coderetreat.org 
+GDCR官方网站: http://gdcr.coderetreat.org/ 
+活动时间：2014年11月15日（周六）9：30至17:00
+地点：杭州市滨江区信诚路567号诺基亚通信14楼
+费用：免费。同时诺基亚通信杭州研发中心赞助了免费午餐，杭州GDG赞助精美小礼品
+报名截止日期：报满即止
+
+同时在G+ Event: https://plus.google.com/events/cor70jf936ard9pt6hata6jqon8 中报名，优先有纪念品。
+
+周边公交车站：
+横街埠： B支6，B支3路
+江南大道环兴路口：294路（社区通勤高峰线），B支5路，352， 225(夜间线)，113，315
+信诚路江南大道口：107路</description><start>2014.11.15 09:30</start><end>17:00</end><location>中国浙江省杭州滨江区信诚路567号</location><participantscount>25</participantscount></event>
+	<event><title>杭州GDG DevFest 2014</title><chapterid>107736551552874801480</chapterid><description></description><start>2014.10.25 13:00</start><end>21:00</end><location>中国浙江省杭州</location><participantscount>80</participantscount></event>
+	<event><title>杭州GDG 周三聚会 #25(Docker #2)</title><chapterid>107736551552874801480</chapterid><description>第25期 时间: 9月24日(周三) 19：00至21：00；地点：西湖区西城广场二楼东南角 当堂网咖；推荐报名：G+ Event
+
+备选话题：
+1. use case: Android Environment by Docker On Google Cloud Platform
+-- 折腾: 在GCE(或其他云平台)上利用Docker搭建Android开发环境
+2. LXC - Linux Containers 或Cgroup
+3. 欢迎提供或推荐话题
+
+补充说明：正常情况本次活动将会发放Docker T恤纪念品，上次也参加了的且G+报名成员优先。
+“We will ship it(t-shirts) today afternoon(2014/9/2). Usually it takes 2 weeks to arrive to China. Hopefully the package will be there on time.”</description><start>2014.09.24 19:30</start><end>21:30</end><location>中国浙江省杭州西湖区文二西路西城广场</location><participantscount>36</participantscount></event>
+	<event><title>杭州GDG 周三聚会 #24</title><chapterid>107736551552874801480</chapterid><description>第24期 时间: 8月27日(周三) 19：00至21：00；地点：西湖区通普路 贝塔咖啡；推荐报名：G+ Event
+
+征集、备选话题：
+1. Docker on Google Cloud Platform
+2. LXC - Linux Containers
+3. 欢迎提供或推荐话题
+
+http://www.hzgdg.org/events/wednesday﻿</description><start>2014.08.27 19:00</start><end>21:00</end><location>中国浙江省杭州西湖区通普路贝塔咖啡</location><participantscount>25</participantscount></event>
+	<event><title>杭州GDG 技术沙龙</title><chapterid>107736551552874801480</chapterid><description>此次沙龙针对开源的大数据搜索引擎elasticsearch，如何来构建每日处理TB级以上的海量数据处理平台技术交流，话题将涉及分布式搜索的技术架构，同等量级的MQ选型、优化经验交流。
+我们根据现实案例中每日数TB级的实时日志处理所遇到的性能瓶颈展开分析和问题探讨，希望对这些模块有研究经验和有兴趣的朋友们加入。 
+
+注：本次沙龙非现成的成功经验分享，而是侧重实际问题探讨，希望能通过沙龙聚集细分领域的同行朋友，总结出一些好的经验。 
+交流主题： 
+
+1. 探讨elasticsearch和logstash高并发量的架构设计 
+2. 针对应对较大MQ的其他架构经验的分享和交流 
+3. Redis、RabbitMQ、ZeroMQ和Apache Kafka等性能的对比、选型和调优探讨</description><start>2014.08.23 14:00</start><end>17:00</end><location>中国浙江省杭州西湖区通普路贝塔咖啡</location><participantscount>40</participantscount></event>
+	<event><title>杭州GDG 周三聚会 #23</title><chapterid>107736551552874801480</chapterid><description>已定话题：
+1. Google I/O现场回顾 -- +Oasis Feng
+2. 智能手表试用体验(带已完成“Preview for Wear”设置装备的成员优先)
+http://developer.android.com/preview/google-play-services-wear.html
+3. 欢迎提供或推荐话题</description><start>2014.07.16 19:30</start><end>21:00</end><location>中国浙江省杭州西湖区文二西路西城广场</location><participantscount>20</participantscount></event>
+	<event><title>Google I/O&apos;14 Extended - Hangzhou(下沙会场)</title><chapterid>107736551552874801480</chapterid><description>http://www.hzgdg.org/events/io_extended</description><start>2014.06.25 22:00</start><end>2014.06.26 06:00</end><location>中国浙江省杭州</location><participantscount>120</participantscount></event>
+	<event><title>Google I/O&apos;14 Extended - Hangzhou(西湖会场)</title><chapterid>107736551552874801480</chapterid><description>http://www.hzgdg.org/events/io_extended</description><start>2014.06.25 22:00</start><end>2014.06.26 06:00</end><location>中国浙江省杭州西湖区文二西路西城广场</location><participantscount>50</participantscount></event>
+	<event><title>杭州GDG 周三聚会 #21</title><chapterid>107736551552874801480</chapterid><description>已定话题：
+1. 面向可穿戴设备优化Android应用 -- 由+Oasis Feng带来
+备选话题：
+1. Android Wear相关话题
+2. 欢迎提供或推荐话题
+
+本次活动联系人： +谢海雁
+在G+ Event报名的，前20名有效参与的同学，优先谷歌提供纪念T恤。
+
+更新信息：http://www.hzgdg.org/events/wednesday﻿</description><start>2014.05.28 19:30</start><end>21:00</end><location>西城广场二楼广场（当堂网咖）</location><participantscount>18</participantscount></event>
+	<event><title>杭州GDG校园季2014 #2</title><chapterid>107736551552874801480</chapterid><description>杭州GDG 校园季2014 #2
+
+时间：2014-05-24（周六）；地点：浙江大学紫金港校区西-211
+
+内容：继上一次Android进校园活动介绍了Android开发的相关基础和一些编码准备工作，这一期将继续介绍Android开发入门。
+
+包括Android的技术架构，编写第一个Android App，使用组件等。</description><start>2014.05.24 02:00</start><end>03:00</end><location>浙江大学紫金港校区西-211</location><participantscount>30</participantscount></event>
+	<event><title>测试驱动开发(TDD)公开课</title><chapterid>107736551552874801480</chapterid><description>透视敏捷－测试驱动开发
+什么是“透视敏捷”？
+
+“透视敏捷”是一系列旨在帮助大家深入理解和实际应用各种敏捷实践的公开课程。我们认为，除了敏捷概述、CSM/CSPO这样的课程帮助大家学习敏捷和Scrum的框架以外，要想追求敏捷实践的卓越，有必要对各种敏捷实践加以“透视”。我们会在每月有一天选取一个特定的敏捷话题来做培训和交流。
+
+本次课程
+
+本次我们选取的话题是测试驱动开发（TDD）。
+
+课程介绍
+
+4月23日，Ruby on Rails的创始人David Heinemeier Hansson (DHH) 在RailsConf大会上大力抨击测试驱动开发(TDD)，会后DHH在其Blog上发表 《TDD is dead. Long live testing》一文，由此也引发了世界级的笔战。Martin Fowler、Kent Beck和DHH更是在5月9日通过Google Hangouts讨论TDD，并且视频公之于众。
+
+那么，什么是测试驱动开发，如何通过单元测试进行测试驱动开发，如何有效地编写单元测试，测试驱动开发有什么既定的模式吗，针对遗留代码，怎么做单元测试，能否进行测试驱动开发？Talk is cheap, show me the code。
+
+本次课程我们将通过实际演练测试驱动开发的方式，一同体会那些大牛们的爱与恨。
+
+该课程内容：
+什么是单元测试
+如何编写有效的单元测试
+什么是测试驱动开发
+如何做测试驱动开发
+
+课前要求：需要学员能写简单的Java代码，自带电脑，安装好最新的VirtualBox</description><start>2014.05.23 09:30</start><end>17:30</end><location>贝塔咖啡</location><participantscount>24</participantscount></event>
+	<event><title>Free Software and Your Freedom</title><chapterid>107736551552874801480</chapterid><description>报告会主题
+Free Software and Your Freedom
+
+自由软件运动为确保计算机用户能自由的合作并控制它们电脑的计算活动而战。为此，自由软件运动开发了GNU操作系统，它通常与Linux核心一起使用，并被安装在成千上万的计算机上。与此相对的现状是，当今被广泛使用的是专利软件/版权软件，这损害了计算机用户的上述自由权。自由软件的关键在于用户能自由的运行、复制、分发、学习、改变和改进软件。对自由软件的用户来讲，它包含四种自由：以任何目的运行它的自由；学习它的工作原理，修改并使其适合自己需求的自由；再发行它从而能够帮助他人的自由；改进程序并对公众发布自己的改进，从而使整个社区受益的自由。</description><start>2014.05.19 18:30</start><end>21:30</end><location>浙江大学玉泉校区邵逸夫科学馆</location><participantscount>24</participantscount></event>
+	<event><title>下沙校区Android沙龙</title><chapterid>107736551552874801480</chapterid><description>活动名称：下沙校区Android沙龙
+
+时间： 5月10日（周六） 14点开始； 地点：杭职创业园实训基地1346室（正门右转3楼）
+
+此次活动针对下沙高校学生，旨在把Android开发在校园中活跃起来，通过交流和经验学习，让更多对Android感兴趣的人进行思想碰撞，通过活动组成Android的兴趣小组，完成更多作品的实践。
+
+简要日程：
+
+14：10 -- 14：40 《android应用开发入门分享》 —— Android应用层开发的内容及开发中的一些技巧分享
+
++焦少 &amp;amp;&amp;amp; 胡嘉齐：HDU信息安全协会资深成员；HDU安卓协会会长.
+
+14：50 -- 15：20 《那些年开发过和正在开发的安卓APP》 —— 简述APK搜索器开发历程和创新设计中对AR &amp;amp;&amp;amp; 传感器的一些理解
+
++曹建军 &amp;amp;&amp;amp; 徐彤：杭州安卓越成员；杭电在校生，安卓越成员.
+
+15：50 -- 16：30 《SecOn网站监控平台的安卓版开发构想》 —— 谈论SecOn网站监控平台从Web端到Android的规划，让大家一起参与构思
+
++Zooboa：杭州谷歌开发者社区组织者.
+
+
+
+另有其他话题备选，也希望大家能推荐适合于在校生的话题。 
+
+通过本次G+ Event报名的，前10名有效参与的同学，将会得到谷歌云服务器试用机会。</description><start>2014.05.10 14:00</start><end>17:00</end><location>杭职创业园实训基地1346室（正门右转3楼）</location><participantscount>30</participantscount></event>
+	<event><title>杭州GDG 周三聚会 #20</title><chapterid>107736551552874801480</chapterid><description>已定话题：
+1. Linux用户空间的文件系统Fuse和示例 -- 继续由 +HongHui Ding 带来
+备选话题：
+1. Google Project Ara 项目随意聊？
+2. 欢迎提供或推荐话题</description><start>2014.04.30 19:00</start><end>21:00</end><location>中国浙江省杭州西湖区通普路贝塔咖啡</location><participantscount>11</participantscount></event>
+	<event><title>杭州GDG 校园季2014 #1</title><chapterid>107736551552874801480</chapterid><description>https://plus.google.com/events/c0mt6sp2kr7goiac76ordaeot3g</description><start>2014.04.12 14:00</start><end>16:30</end><location>中国浙江省杭州</location><participantscount>120</participantscount></event>
+	<event><title>开发者如何做好SEO及内容推广</title><chapterid>107736551552874801480</chapterid><description>更多内容：http://www.hzgdg.org/events/seo</description><start>2014.03.29 14:00</start><end>16:30</end><location>浙江理工大学创业园</location><participantscount>20</participantscount></event>
+	<event><title>杭州GDG 周三聚会 #19 (Hybrid App)</title><chapterid>107736551552874801480</chapterid><description>已定话题：
+1. 《Hybrid App的误区》
+为什么要选择Hybrid App？什么团队适合Hybrid App？Hybrid App有没有替代品？一起聊聊Hybrid App的那些事。
+由高嘉峻(+Jiajun Gao)：天猫资深工程师，曾就职于口碑等，杭州GDG组委成员 发起
+
+欢迎推荐讲师或内容。
+
+备选话题：
+1. Google’s Cloud Platform
+** 报名参与有机会得2000刀 谷歌云平台试用推荐码 **</description><start>2014.03.26 19:00</start><end>21:00</end><location>中国浙江省杭州西湖区通普路贝塔咖啡</location><participantscount>20</participantscount></event>
+	<event><title>杭州GDG 讲师专场分享 #1(试行)</title><chapterid>107736551552874801480</chapterid><description>试行中，具体请稍后关注https://plus.google.com/events/c3enkta1a316febqevf23i2falc</description><start>2014.03.22 14:00</start><end>16:00</end><location>中国浙江省杭州西湖区通普路贝塔咖啡</location><participantscount>12</participantscount></event>
+	<event><title>Women Techmakers (杭州GDG)</title><chapterid>107736551552874801480</chapterid><description>Women Techmakers的全球活动介绍: http://womentechmakers.com/
+去年的: https://plus.google.com/events/ci16e0somhlgrflag0ef7o0as8k﻿
+--
+现场可能穿插谷歌云平台的，一些内容及适用优惠：
+Google’s Cloud Platform has come a long way since we launched App Engine in 2008, and the event should be really interesting because Cloud Platform is built on all the core technology that’s enabled Google to deliver at such scale. </description><start>2014.03.22 13:30</start><end>17:00</end><location>中国浙江省杭州西湖区通普路贝塔咖啡</location><participantscount>40</participantscount></event>
+	<event><title>杭州GDG 周三聚会 #18</title><chapterid>107736551552874801480</chapterid><description>已定话题：
+1. “OpenStack Swift Object Storage”，由+HongHui Ding发起
+2. “Django Web 开发实践”，Django入门和开发，由+Mugong Jian带来
+
+备选话题：
+1. 谷歌DevArt(艺术与科技)项目话题(https://devart.withgoogle.com/)﻿
+2. Google’s Cloud Platform
+3. 欢迎话题推荐
+
+* G+报名并参与活动，得2000刀谷歌云平台试用推荐码 (3月5日截止) *
+杭州GDG 周三聚会活动：http://www.hzgdg.org/events/wednesday
+--
+现场可能穿插谷歌云平台的，一些内容及适用优惠：
+Google’s Cloud Platform has come a long way since we launched App Engine in 2008, and the event should be really interesting because Cloud Platform is built on all the core technology that’s enabled Google to deliver at such scale. </description><start>2014.03.05 19:00</start><end>21:00</end><location>中国浙江省杭州西湖区通普路贝塔咖啡</location><participantscount>18</participantscount></event>
+	<event><title>Dart Flight School Hangzhou (杭州GDG)</title><chapterid>107736551552874801480</chapterid><description></description><start>2014.02.23 13:30</start><end>17:30</end><location>中国浙江省杭州西湖区通普路贝塔咖啡</location><participantscount>8</participantscount></event>
+	<event><title>杭州GDG 周三聚会 #17 (Golanger)</title><chapterid>107736551552874801480</chapterid><description>本期继续Golang话题，很荣幸在年前再次邀请到 +Jiahua Chen：
+• 《Go 入门指南》译者
+• 《Go编程基础》《Go Web基础》网易云课堂学习人次近2000，满5星评
+• 中文入门指南： http://tour.golang.tc
+• 中文官网： http://docs.studygolang.com/
+• 在线 API 文档： http://gowalker.org/﻿
+
+欢迎话题推荐及分享；有效G+报名并参与，都可获Google提供的活动纪念品一份</description><start>2014.01.08 19:00</start><end>21:00</end><location>中国浙江省杭州西湖区通普路贝塔咖啡</location><participantscount>12</participantscount></event>
+	<event><title>杭州GDG 校园季 #3 浙大紫金港站</title><chapterid>107736551552874801480</chapterid><description>具体地点：浙大紫金港校区 西2-104教室
+
+本次活动主要关于Android及入门，拟定的话题如下：
+1. 《我在学校做Android的那些事》-- +於卓慧
+2. 另个Android话题，将由 阿里巴巴 来往 资深工程师 带来
+
+在本G+ Event报名，优先有Google定制的纪念品机会。﻿</description><start>2013.12.28 13:30</start><end>16:30</end><location>中国浙江省杭州西湖区浙大紫金港校区</location><participantscount>30</participantscount></event>
+	<event><title>Hour of Code @GDG Hangzhou</title><chapterid>107736551552874801480</chapterid><description>什么是编程一小时（Hour of Code）?
+编程一小时活动是一种自学活动
+每个人（包括编程小白们）,在自己的班级或者俱乐部里都可以开展.
+大约两小时的内容，参加者可以尝试学习一些基本的计算机科学知识.
+带上你的笔记本, 来加入我们特邀中国美院跨媒体学院为大家带来的Processing编程一小时活动中吧! 
+ 
+简要内容：中国美院 +崔鲁海 主持
+Processing编程语言背景知识介绍
+Processing编程练习指导
+答疑解惑及小结
+
+报名链接：G Doc 或 G+ Event 席位有限 抓紧报名:-)
+
+Processing编程语言：http://processing.org/
+编程一小时（Hour of Code）相关介绍：
+http://code.org/hourofcode
+http://csedweek.org/﻿</description><start>2013.12.15 13:30</start><end>16:30</end><location>中国浙江省杭州西湖区文二西路西城广场</location><participantscount>42</participantscount></event>
+	<event><title>Coderetreat Co with GDG Hangzhou</title><chapterid>107736551552874801480</chapterid><description>具体地址：滨江区信诚路567号诺基亚通信26F Hangzhou 会议室
+参加须在底部的“票务”链接统一报名；同时在本G+ 报名的优先有纪念品
+
+Global Day of Coderetreat  2013，简称GDCR2013。
+GDCR2013 杭州站的活动，将创造一个没有进度压力的氛围，用一天时间，轻轻松松写点程序，让你可以精雕细琢你的代码，演练各种工程实践。同时，身边有一群和你兴趣背景类似的人，随时可以进行切磋。
+ 在这一天中，我们将视参与者具体情况涉及到部分或所有以下领域：
+结对开发(pair-programming)
+单元测试
+测试驱动开发(TDD)
+代码重构(refactoring) 
+软件设计
+ 同时我们还会在每个环节加入一些有趣的规则，让你挑战并突破平时的编程习惯，重新思考编程的一些重要方面。
+
+简言之就是程序员花一天的时间写一天的代码，演练各种编程实践。
+
+诺基亚通信提供活动场地及中午简餐，杭州GDG提供活动纪念品等。</description><start>2013.12.14 07:00</start><end>18:00</end><location>中国浙江省杭州滨江区信诚路567号</location><participantscount>16</participantscount></event>
+	<event><title>杭州GDG 周三聚会 #16 (Golanger)</title><chapterid>107736551552874801480</chapterid><description> 
+更新内容：http://www.hzgdg.org/activities/wednesday
+已有备选话题：
+1. Golang&amp;amp;GAE
+2. Go 1.2(Release Notes http://golang.org/doc/go1.2)﻿
+3. Go 1.3 “To Do” List
+https://docs.google.com/document/d/1s6MxBsLyBG45SRS60a-aM01DmZ4hD1nMzGAKdTopKGY/edit﻿
+
+欢迎推荐聚会话题，有意或推荐请联系hzgdgplus#gmail
+有效G+报名并参与，可获Google提供的活动纪念品一份</description><start>2013.12.11 19:00</start><end>21:00</end><location>中国浙江省杭州西湖区通普路贝塔咖啡</location><participantscount>7</participantscount></event>
+	<event><title>PyCon 2013 杭州GDG 会场</title><chapterid>107736551552874801480</chapterid><description>更新内容：http://www.hzgdg.org/activities/PyCon
+
+14:00 - 14:45	Hepo Chen	《FarBox的Python实践》-- 主要讲述FarBox的Python实战经验
+15:00 - 15:45	Nimo Qu	《内容聚合与数据抓取》-- 主要讲述Python在内容聚合方面的应用
+16:00 - 17:00 本地话题或看PyCon视频等自由交流
+
+欢迎推荐聚会话题，有意或推荐请联系hzgdgplus#gmail
+有效G+报名并参与，可获Google提供的活动纪念品一份</description><start>2013.12.08 14:00</start><end>17:00</end><location>中国浙江省杭州西湖区通普路贝塔咖啡</location><participantscount>24</participantscount></event>
+	<event><title>杭州GDG 安全沙龙 (Hacker)</title><chapterid>107736551552874801480</chapterid><description>已有议题：
+Chrome浏览器的安全机制
+Web蜜罐，提权等新型攻击方法
+绕过百度杀毒主防
+
+每天，全球20亿人使用互联网
+每天，全球发生网络攻击2亿次
+每天，20万安全工作者守护网络安全
+
+本次安全沙龙汇聚：蓝莲花队员，资深安全研究员和杭电CTF决赛队员
+这是一场交流的聚会，这是一个分享的平台
+如果你爱好网络，如果你关注安全，欢迎报名参加
+这里给你更广的视野，给你一个更大的世界！</description><start>2013.11.23 19:00</start><end>21:00</end><location>中国浙江省杭州江干区杭州电子科技大学下沙分校</location><participantscount>100</participantscount></event>
+	<event><title>杭州GDG 周三聚会 #15 (Arduino等)</title><chapterid>107736551552874801480</chapterid><description>需G+报名，内容更新：http://www.hzgdg.org/activities/wednesday
+
+话题会涉及pcDuino\Arduino\Android\Ubuntu开发板等
+1. 已邀 pcDuino 资深工程师分享话题并展示开发板
+2. 已邀《Arduino技术内幕》译者参与分享
+其他话题欢迎补充推荐，谢谢！</description><start>2013.11.13 19:00</start><end>21:00</end><location>中国浙江省杭州西湖区通普路贝塔咖啡</location><participantscount>6</participantscount></event>
+	<event><title>DevFest @GDG Hangzhou</title><chapterid>107736551552874801480</chapterid><description>13：00 – 13：30  签到
+13：30 – 13：45  《杭州GDG及DevFest简介》 -- +谢海雁
+13：50 – 14：35  《Android程序插件化的原理和实践》 -- 马云峰
+14：40 – 15：25  《唯一值得学的前端MVC框架 -- Angular JS》 -- +Mark Huang
+15：30 – 16：00  中场休息、合影及茶歇
+16：00 – 16：45  《Golang Sevice Api及SDK自动生成》 -- +孙凤民
+16：50 – 17：35  《艺术环境中的编程与实践》 -- +崔鲁海(指导老师, 中国美术学院跨媒体学院)
+17：40 – 18：30  自由交流、体验、娱乐（Chrome Pixel、3D打印机、XBox等）及晚上简餐（需报名参与Golang编码练习解题）
+
+18：30 – 20：00  Golang 编码练习解题 -- +张燎原
+该活动将视参与者具体情况涉及到部分或所有以下领域：结对开发(pair-programming)、测试驱动开发(TDD)、代码重构(refactoring)等
+
+本次杭州GDG，还特邀请了杭州地区Ingress游戏（Google出品、虚拟现实、社交、户外、全球互动）活跃玩家，晚上在会场附近进行游戏对抗，参与该活动同样有小纪念品。</description><start>2013.11.09 13:00</start><end>20:00</end><location>中国浙江省杭州西湖区文二西路西城广场</location><participantscount>90</participantscount></event>
+	<event><title>杭州GDG 校园季#2 浙江传媒站</title><chapterid>107736551552874801480</chapterid><description>详见：http://www.hz-gdg.org/activities/university
+
+简要日程： 
+14：10 -- 15：00 《Android知多少？》
+高嘉俊：淘宝资深开发者，曾就职于口碑、搜狐
+15：10 -- 16：00 《如何发布Android程序？》 
+王星月：美女嘉宾，其他暂略
+
+欢迎继续推荐话题
+通过本次G+活动报名的，前20名有效参与的同学，将会得到谷歌为杭州GDG定制的2013版T恤一件（2012版已发完，2013版11月11日前会到货）</description><start>2013.11.02 14:00</start><end>16:30</end><location>中国浙江省杭州江干区学源街浙江传媒学院</location><participantscount>40</participantscount></event>
+	<event><title>杭州GDG 周三聚会 #14</title><chapterid>107736551552874801480</chapterid><description>详细情况参加：http://www.hz-gdg.org/activities/wednesday
+
+话题会涉及OpenWRT及Ti低功耗蓝牙开发板\Android ADK\Raspberry Pi
+1. 已邀请 +於卓慧 展示他的下载机、音箱及分享OpenWRT相关话题
+2. 同时会展示Android ADK及嵌入式Linux的音箱
+3. 其他话题欢迎补充推荐，谢谢！</description><start>2013.10.30 07:00</start><end>08:00</end><location>中国浙江省杭州西湖区通普路贝塔咖啡</location><participantscount>22</participantscount></event>
+	<event><title>杭州GDG Coderetreat</title><chapterid>107736551552874801480</chapterid><description>http://www.hz-gdg.org/activities/coderetreat
+杭州GDG(谷歌开发者社区) Coderetreat 2013 
+
+热爱编程的你，是否受限于进度压力而未能细心雕琢你的代码？是否想讨论编程问题时，又苦于身边没有合适的人一起切磋？
+杭州谷歌开发者社区组织的Coderetreat活动，将创造一个没有进度压力的氛围，用一天时间，轻轻松松写点程序，让你可以精雕细琢你的代码，演练各种工程实践。同时，身边有一群和你兴趣背景类似的人，随时可以进行切磋。
+在这一天中，我们将视参与者具体情况涉及到部分或所有以下领域：
+    结对开发(Pair-programming)
+    单元测试
+    测试驱动开发(TDD)
+    代码重构(refactoring)
+    软件设计
+同时我们还会在每个环节加入一些有趣的规则，让你挑战并突破平时的编程习惯，重新思考编程的一些重要方面。
+本活动，我们限定如下开发语言，不论你是初出茅庐，还是造诣精深，没有任何水平的限制：
+Python、Golang、PHP、JAVA及各种JS，更欢迎使用Google 推荐的语言：）
+
+活动时间：2013年10月27日(周日) 9:00至18:00
+地点：西湖区文二西路551号西城广场2楼平台 当堂网咖 (8781 5787)
+人数限制：20人，报满即止
+费用：免费。同时杭州谷歌开发者社区赞助了免费午餐和饮料 
+
+报名：链接及G+ 活动（有效G+报名参加，另有纪念品）
+
+* Coderetreat 活动介绍参考：http://coderetreat.org/
+* 本次由资深教练 +Liao-Yuan Zhang 主导组织
+
+As person who loves programming, have you ever regretted not crafting your source code into beautiful one, due to the pressure of schedule? Or have you had trouble to find right person for a deep discussion on programming issues? We can help you to remove these troublesome. ?
+In Coderetreat Event, you’ll have an environment without the pressure of schedule, spend one day coding for fun, craft your source code, and try different engineering practices. Meanwhile, you can discuss with people around you who have common interests. 
+
+In this day, you’ll practice part or all of below issues according to participants average level:
+    Pair-programming
+    Unit test
+    Test driven development (TDD)
+    Code refactoring
+    SW design 
+
+In each session there’re some interesting rules/limitation, to guide people go beyond the border of their programming habits, and re-think of important aspects of programming.
+We prefer you programming in below language:
+Python、Golang、PHP、JAVA and kinds of JS, which has relationship with Google is plus :) 
+Schedule：Oct 27, 2013, Sunday, 9：00-18:00
+Location: DangTang Coffee Shop, Western City Square, WenEr Rd. 551#
+20 participants allowed
+For Free, and Google Developer Group Hangzhou will serve free lunch and drink</description><start>2013.10.27 09:00</start><end>18:00</end><location>中国浙江省杭州西湖区文二西路西城广场</location><participantscount>18</participantscount></event>
+	<event><title>杭州GDG 周三聚会 #13</title><chapterid>107736551552874801480</chapterid><description>http://www.hz-gdg.org/activities/wednesday
+
+备选话题（活动）:
+
+1. 用GitHub搭建博客 +於卓慧 
+
+2. [OT]近期看到一个在线制作电路图，仿真Chrome插件，https://www.circuitlab.com/，
+看视频介绍上手很容易，如在当初学电路时能有这样的网站多好啊，各种YY，
+现在玩硬件的门槛也低了，特别是Arduino、Raspberry Pi等，
+平时聊得的大都是软件相关的，不知是否有人能分享或有兴趣一起聊聊硬件方面的话题或科普一下也很欢迎。
+
+透露一下，於同学据说焊工也了得：）
+
+其他话题欢迎继续推荐。</description><start>2013.09.25 19:00</start><end>21:00</end><location>中国浙江省杭州西湖区通普路贝塔咖啡</location><participantscount>22</participantscount></event>
+	<event><title>杭州GDG 校园季#1 杭电下沙站</title><chapterid>107736551552874801480</chapterid><description>具体地址：杭州电子科技大学高教园校区6教中楼201 ××× 不是图书馆
+
+http://www.hz-gdg.org/activities/university
+简要日程：
+14：10 -- 14：40 《成为Developer》 —— 如何定义开发者，他（她）们都在做什么  +Jiajun Gao 
+14：50 -- 15：20 《Developer在用什么》 —— 工欲善其事，必先利其器，资深开发者的器 +於卓慧 
+
+15：50 -- 16：30 《OpenCDN开源实践之路》 —— 现场分享杭州GDG开发者的作品之一 +zoo boa 
+
+通过本次G+活动报名的，前30名有效参与的同学，将会得到谷歌为杭州GDG定制的2013版T恤一件（2012版已发完，2013版预计10月份到货）</description><start>2013.09.14 14:00</start><end>17:00</end><location>中国浙江省杭州江干区杭州电子科技大学高教园校区-图书馆</location><participantscount>110</participantscount></event>
+	<event><title>杭州GDG 周三聚会 #12</title><chapterid>107736551552874801480</chapterid><description>http://www.hz-gdg.org/activities/wednesday
+
+备选话题（活动）:
+1. Golang 1.1.x 版本更新介绍
+
+2. Golang的编程练习活动，利用第11期周三活动中Eric Zhang，分享的一个有趣的编程练习站点http://www.cyber-dojo.com。
+该编程站点可选语言（language）很多，对应有各练习（exercise），参与该活动必须带电脑并推荐安装好Golang环境；
+对于初学者（或刚入门的）能较快的提升，已有一定编程经验的可作为“教练”参与指导或进行“比赛”。</description><start>2013.08.21 19:00</start><end>21:00</end><location>中国浙江省杭州西湖区通普路贝塔咖啡</location><participantscount>32</participantscount></event>
+	<event><title>杭州GDG 周三聚会 #11</title><chapterid>107736551552874801480</chapterid><description>http://www.hz-gdg.org/activities/wednesday 备选话题 1. 敏捷开发方面的话题《程序员度量》 -- 敏捷大会讲师、资深Coach，Eric Zhang（http://www.scrumgathering.cn/profile/zhangliaoyuan） 2. CDN架构及服务端运维的相关话题 -- 热心成员、Ingress 基友，wotheai 其他话题欢迎继续推荐。</description><start>2013.07.24 19:00</start><end>21:00</end><location>中国浙江省杭州西湖区通普路贝塔咖啡</location><participantscount>18</participantscount></event>
+	<event><title>杭州GDG Android&amp;蓝牙低功耗 (BLE)</title><chapterid>107736551552874801480</chapterid><description>内容：
+1、蓝牙开发相关的GDL（谷歌IO在线视频）观看结合PPT做讲解。
+2、自由发言讨论。
+3、做蓝牙v4.0的基础知识的普及和行业前景。
+
+本次活动将主要由 +Sun Jialin 组织，细节后续会跟进。
+http://www.hz-gdg.org/activities/gdls</description><start>2013.06.30 14:00</start><end>17:00</end><location>中国浙江省杭州西湖区通普路贝塔咖啡</location><participantscount>6</participantscount></event>
+	<event><title>杭州GDG 周三聚会 #10</title><chapterid>107736551552874801480</chapterid><description>杭州GDG 周三聚会 #10 http://www.hz-gdg.org/activities/wednesday
+备选话题
+1. Google的AR游戏Ingress话题 http://www.ingress.com/ 等级达到3级的童鞋将有机会得到magicx从Google带回来的Ingress小纪念品一小件：）
+
+2. Chromebook（pixel）体验
+相关参考：Google Chromebook Pixel 正式发布，高分触摸屏、我想买一个 Chromebook，这不是玩笑
+
+3. 旧金山及IO会后 见闻分享之一</description><start>2013.06.05 19:00</start><end>21:00</end><location>中国浙江省杭州西湖区通普路贝塔咖啡</location><participantscount>18</participantscount></event>
+	<event><title>I/O Extended @GDG Hangzhou</title><chapterid>107736551552874801480</chapterid><description>Google I/O Extended：https://developers.google.com/events/io/io-extended 点心、饮料、礼物 充足 + 现场发挥</description><start>2013.05.15 22:00</start><end>2013.05.16 02:00</end><location>中国浙江省杭州西湖区西溪路福云咖啡</location><participantscount>70</participantscount></event>
+	<event><title>杭州GDG 周三聚会 #8</title><chapterid>107736551552874801480</chapterid><description>时间：4月24日（周三）晚上7：30开始；地点：西湖区通普路41号（贝塔咖啡）
+
+备选话题
+1. 关于GAE 1000$ 资助项目的申请及成功案例分享 --- Morpheus Deng
+2. Python 爬网页 方面的分享 --- Nimo Qu
+3. 小型团体做软件外包相关话题 --- Hardy Simpson ？
+
+其他话题欢迎继续推荐。
+
+关于GAE的 1000$ 资助计划：https://cloud.google.com/resources/startups/ 截止时间4月30日。</description><start>2013.04.24 19:30</start><end>21:00</end><location>中国浙江省杭州西湖区通普路贝塔咖啡</location><participantscount>24</participantscount></event>
+	<event><title>互联网运营大会 杭州GDG 会场</title><chapterid>107736551552874801480</chapterid><description>IOCon大会官网：http://iocon.org 杭州分会场主办方：杭州GDG（http://www.hz-gdg.org）
+
+》》详细地址见，确认报名审核邮件。《《
+
+报名连接：https://docs.google.com/forms/d/1O9r2KJ_gKN1u0M0gVayg2e1xi6AMgrvsfeNtYpttpSs/viewform 免费参与但需审核。
+
+简要日程及更多介绍：（本地嘉宾分享+直播主会场及可选互动）
+1. 《App运营的案例分享》 -- 挖财网（wacai.com） 联合创始人 全云峰
+2. 网上厨房 创始人 李卓林（邀请中） 
+
+更多邀请中，欢迎合作&amp;amp;推荐...</description><start>2013.03.30 13:00</start><end>17:00</end><location>中国浙江省杭州西湖区杭州数字娱乐产业园</location><participantscount>34</participantscount></event>
+	<event><title>杭州GDG 周三聚会 #7</title><chapterid>107736551552874801480</chapterid><description>更多信息：http://www.hz-gdg.org/activities/wednesday
+
+话题一：关于Google IO（2013）参会及抢票攻略（接上海GDG）
+说明：
+Google IO 2013门票（正常票售价900美元），将于美国时间3月13日上午7点发售，预估30分钟内会被抢完，有意去参加或关注该话题的成员建议来参加。
+同时今年情况类似，杭州GDG将依旧会有成员代表去美国旧金山参会，下周应该也知道具体名额了，到时也是个话题：）
+话题二：欢迎继续推荐，但感觉话题一就够有的聊了：）</description><start>2013.03.13 19:00</start><end>21:00</end><location>中国浙江省杭州西湖区通普路贝塔咖啡</location><participantscount>12</participantscount></event>
+	<event><title>DevFestW @GDG Hangzhou</title><chapterid>107736551552874801480</chapterid><description>Google believes diversity and inclusion is important for thriving, vibrant communities. 
+Focusing on women-inclusion is the first step in a larger effort to diversify the global Google developer community. 
+The GDG community has shown great interest in this initiative, so we are offering them the reigns to push it forward with a women-focused DevFest.</description><start>2013.03.10 14:00</start><end>17:00</end><location>中国浙江省杭州西湖区通普路贝塔咖啡</location><participantscount>66</participantscount></event>
+	<event><title>杭州GDG 周三聚会 #6</title><chapterid>107736551552874801480</chapterid><description>话题一：开发一款以公益为核心理念的产品 -- 杭州GDG成员“润仁”带头分享。
+--杭州GDG也计划尝试发起或组织几款开源小项目，希望最终能放到Google应用商店中（Android/Chrome）
+--到时有意推进落实该想法的组织者们（Gaosboy/agassi）也会到场交流。
+
+可选话题二：搞定shadowsocks -- agassi分享
+传说比openvpn快不少--你懂的
+
+可选话题三：如何更好的组织一次女性开发者为主的小型技术沙龙活动？
+--杭州GDG近期正在筹备一次类似活动，目前急缺女性分享嘉宾！
+--有钱的出钱有力的出力，有人的也别藏着，请出人吧～
+
+可选话题四：“你会用Google Glass或AR(增强现实)眼镜做什么，最多不能超过50个(英文)单词”﻿
+
+其他随意话题？欢迎推荐。
+
+这次通过G+报名（https://plus.google.com/events/cdfm60acfsv2drn6afftkqib8u0）的童鞋，都有小小纪念品赠送及抽奖机会：）</description><start>2013.02.27 19:00</start><end>21:00</end><location>中国浙江省杭州西湖区通普路贝塔咖啡</location><participantscount>28</participantscount></event>
+	<event><title>杭州GDG 周三聚会 #5</title><chapterid>107736551552874801480</chapterid><description>杭州GDG 2012年度小结、2013年计划，包括其他随意话题”
+http://www.hz-gdg.org/activities/wednesday
+
+首先，对不住大家：）春节前的最后一次活动没有啥技术含量，但依旧非常欢迎来大家来参与，提出建议与想法，参与其中！
+这时不由得想起近一年前的2012年2月10日，我们第一次硬着头皮尝试组织活动，也是在贝塔咖啡的碰头会。
+正因为有了这次的碰头筹备，促成了“第一季活动：http://www.hz-gdg.org/activities/2012_3_11”，才有了后续第二季及更多的活动及合作机会；
+也是正是这次活动，在大家的宣传及支持下，才将该活动搞起，其宣传方面特别要感谢“於卓慧”童鞋，内容方面特别感谢“高嘉峻、张磊、黄峥峼等”；
+现在回想起来，让我们更高兴的是包括“高嘉峻、张磊、黄峥峼等”讲师，最终都被magicx忽悠进来成为了杭州GDG的组织者：） http://www.hz-gdg.org/organizers
+
+其他不多说了，感谢所有成员（包括讲师、志愿者等）的支持与帮助，预祝新年快乐！
+上广告：“将杭州本地技术社区的活动做起来，我们一起努力！”</description><start>2013.01.30 19:00</start><end>21:00</end><location>西湖区通普路41号</location><participantscount>22</participantscount></event>
+	<event><title>Owasp安全沙龙 杭州GDG 合办</title><chapterid>107736551552874801480</chapterid><description>Android/Web/Security...
+http://www.hzgdg.org/activities/security</description><start>2013.01.12 13:30</start><end>17:30</end><location>中国浙江省杭州市下城区潮王路169号</location><participantscount>160</participantscount></event>
+	<event><title>杭州GDG 周三聚会 #4</title><chapterid>107736551552874801480</chapterid><description>GDG Hangzhou Wednesday #4</description><start>2012.12.19 19:00</start><end>21:00</end><location>中国浙江省杭州西湖区通普路贝塔咖啡</location><participantscount></participantscount></event>
+	<event><title>黑客马拉松 杭州GDG 协办</title><chapterid>107736551552874801480</chapterid><description>Hangzhou Hackathon https://plus.google.com/events/ctcdl76vidl1s2l3m10vcsklj3k</description><start>2012.12.15 00:00</start><end>2012.12.16 00:00</end><location>中国浙江省杭州西湖区西溪路628号</location><participantscount></participantscount></event>
+	<event><title>GDG Hangzhou Wednesday #3</title><chapterid>107736551552874801480</chapterid><description>&quot;Web and JS&quot;
+KendoJS、Elastic Search、NodeJS、SocketIO、WebSocket
+It is Tuesday :)</description><start>2012.11.20 19:00</start><end>21:00</end><location>中国浙江省杭州西湖区通普路贝塔咖啡</location><participantscount></participantscount></event>
+	<event><title>DevFest @GDG Hangzhou</title><chapterid>107736551552874801480</chapterid><description>Mini DevFest @GDG Hangzhou</description><start>2012.11.10 13:30</start><end>21:00</end><location>中国浙江省杭州西湖区益乐路数字娱乐产业园</location><participantscount></participantscount></event>
+	<event><title>Golang at QCon</title><chapterid>107736551552874801480</chapterid><description>&amp;lt;p&amp;gt;Golang at QCon&amp;lt;/p&amp;gt;</description><start>2012.10.26 19:00</start><end>21:00</end><location>Hangzhou,China</location><participantscount></participantscount></event>
+	<event><title>PyConChina2012 - Hangzhou</title><chapterid>107736551552874801480</chapterid><description>&amp;lt;p&amp;gt;With Shanghai&apos;s PyConChina2012 &amp;lt;a href=&quot;http://cn.pycon.org/2012&quot;&amp;gt;http://cn.pycon.org/2012&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;</description><start>2012.10.20 13:30</start><end>17:00</end><location>Hangzhou,China</location><participantscount></participantscount></event>
+	<event><title>GDG Hangzhou Wednesday #1</title><chapterid>107736551552874801480</chapterid><description>&amp;lt;p&amp;gt;GDG Hangzhou Wednesday #1@ &amp;lt;a href=&quot;http://www.hz-gdg.org/activities/wednesday&quot;&amp;gt;http://www.hz-gdg.org/activities/wednesday&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;</description><start>2012.10.17 19:00</start><end>21:00</end><location>Hangzhou,China</location><participantscount></participantscount></event>
+	<event><title>Android Meetup #2</title><chapterid>107736551552874801480</chapterid><description>&amp;lt;p&amp;gt;Android Meetup 2, about &amp;lt;a href=&quot;http://developer.android.com/training/index.html&quot;&amp;gt;http://developer.android.com/training/index.html&amp;lt;/a&amp;gt; for new Androiders.&amp;lt;/p&amp;gt;</description><start>2012.10.14 14:00</start><end>16:00</end><location>Hangzhou,China</location><participantscount></participantscount></event>
+	<event><title>Mobile Developer Salon - Hangzhou</title><chapterid>107736551552874801480</chapterid><description>&amp;lt;p&amp;gt;Mobile Developer Salon - Hangzhou&amp;lt;/p&amp;gt;</description><start>2012.10.14 14:00</start><end>17:00</end><location>Hangzhou,China</location><participantscount></participantscount></event>
+	<event><title>Mobile Developer Conference 2012 - Hangzhou Technical part</title><chapterid>107736551552874801480</chapterid><description>&amp;lt;p&amp;gt;Android/HTML5/iOS&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;More details: http://www.hz-gdg.org/activities/2012_9_22&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt; &amp;lt;/p&amp;gt;</description><start>2012.09.22 13:00</start><end>17:30</end><location>Hangzhou,China</location><participantscount></participantscount></event>
+	<event><title>Mobile Developer Conference 2012 - Hangzhou Summit part</title><chapterid>107736551552874801480</chapterid><description>&amp;lt;p&amp;gt;News Media App Research/Investments of Mobile Case Study/Alipay SDK&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;More details: http://www.hz-gdg.org/activities/2012_9_22&amp;lt;/p&amp;gt;</description><start>2012.09.22 09:30</start><end>12:00</end><location>Hangzhou,China</location><participantscount></participantscount></event>
+	<event><title>Android Meetup #1</title><chapterid>107736551552874801480</chapterid><description>&amp;lt;p&amp;gt;Android Meetup, about &amp;lt;a href=&quot;http://developer.android.com/training/index.html&quot;&amp;gt;http://developer.android.com/training/index.html&amp;lt;/a&amp;gt; for new Androiders.&amp;lt;/p&amp;gt;</description><start>2012.09.16 13:30</start><end>16:30</end><location>Hangzhou,China</location><participantscount></participantscount></event>
+	<event><title>SFD(Software Freedom Day) 2012</title><chapterid>107736551552874801480</chapterid><description>&amp;lt;p&amp;gt;Open source, Linux, Python topics with Linux User Group at Software Freedom Day 2012&amp;lt;/p&amp;gt;</description><start>2012.09.15 14:00</start><end>17:00</end><location>Hangzhou,China</location><participantscount></participantscount></event>
+	<event><title>Mobile、Pad、Smart TV Multi-screen Salon</title><chapterid>107736551552874801480</chapterid><description>&amp;lt;p&amp;gt;The developers  introduced the smart TV, cross-platform interactive development of new technologies.&amp;lt;/p&amp;gt;</description><start>2012.08.19 13:30</start><end>19:00</end><location>Hangzhou,Zhejiang,China</location><participantscount></participantscount></event>
+	<event><title>Review Google IO Sessions</title><chapterid>107736551552874801480</chapterid><description>&amp;lt;p&amp;gt;Review Google IO Sessions: Google Plus/ADK/Nosql&amp;lt;/p&amp;gt;</description><start>2012.07.29 13:30</start><end>16:30</end><location>Hangzhou,China</location><participantscount></participantscount></event>
+	<event><title>RSCon China 2012 - Hangzhou</title><chapterid>107736551552874801480</chapterid><description>&amp;lt;p&amp;gt;RSCon China 2012 Hangout with GDG Shanghai &amp;lt;a href=&quot;http://resys.51qiangzuo.com/&quot;&amp;gt;http://resys.51qiangzuo.com/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;</description><start>2012.05.27 13:30</start><end>17:00</end><location>Hangzhou,China</location><participantscount></participantscount></event>
+	<event><title>PMCon 2012 - Hangzhou</title><chapterid>107736551552874801480</chapterid><description>&amp;lt;p&amp;gt;Hangout with Shanghai &amp;lt;a href=&quot;http://pmcon.51qiangzuo.com/&quot;&amp;gt;http://pmcon.51qiangzuo.com/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;</description><start>2012.05.19 13:30</start><end>17:00</end><location>Hangzhou,China</location><participantscount></participantscount></event>
+	<event><title>GAE/Golang introduction</title><chapterid>107736551552874801480</chapterid><description>&amp;lt;p&amp;gt;Gae/Golang introduction Hangout with GDG Shanghai&amp;lt;/p&amp;gt;</description><start>2012.05.12 13:30</start><end>16:30</end><location>Hangzhou,China</location><participantscount></participantscount></event>
+	<event><title>Android/Linux</title><chapterid>107736551552874801480</chapterid><description>&amp;lt;p&amp;gt;Android/Linux Topics&amp;lt;/p&amp;gt;</description><start>2012.05.10 19:00</start><end>21:00</end><location>Hangzhou,China</location><participantscount></participantscount></event>
+	<event><title>iOS and Google AdMob</title><chapterid>107736551552874801480</chapterid><description>&amp;lt;p&amp;gt;iOS Topics &amp;amp; Introduces Google  AdMob&amp;lt;/p&amp;gt;</description><start>2012.03.25 13:30</start><end>17:00</end><location>Hangzhou,China</location><participantscount></participantscount></event>
+	<event><title>Google AdMob introduction planning</title><chapterid>107736551552874801480</chapterid><description>&amp;lt;p&amp;gt;Organizers\Volunteers, planning Admob introduction for Hangzhou Developers with googler&amp;lt;/p&amp;gt;</description><start>2012.03.22 14:00</start><end>16:00</end><location>Hangzhou,China</location><participantscount></participantscount></event>
+	<event><title>Hangzhou GTUG 2012 Q1 event</title><chapterid>107736551552874801480</chapterid><description>&amp;lt;p&amp;gt; &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The first topic &quot;Building mobile applications&quot;, Gaosboy with his development practices and lessons learned, focus on the optimization of the performance.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The second topic is by Luo Guanghui, about &quot;Chrome Courgette&quot;, combined with his own previous products the actual update needs,  do a very detailed explanation and live demonstration of the DEMO.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Break links, Hangzhou GTUG the organizers, play the china GTUGs video, to facilitate other cities&apos;s GTUG situation, and feel the vitality of the GTUGs.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Later third theme is Zooboa, &quot;Web Application Security Analysis&quot;, a deep accumulation of Zooboa in the technical aspects of information security attack and defense, the speech content is very rich, and give a lot of practical advice.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The final topic, is the Mark Huang, he brought the &quot;Python Virtualenv &amp;amp; Virtualenv Wrapper &quot;, he like python very much, but he hate java:-)&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt; &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt; &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Thank you!&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Hangzhou GTUG&amp;lt;/p&amp;gt;</description><start>2012.03.11 13:00</start><end>19:00</end><location>Hangzhou,China</location><participantscount></participantscount></event>
+	<event><title>Hangzhou GTUG 2012 Q1 planning</title><chapterid>107736551552874801480</chapterid><description>&amp;lt;p&amp;gt;organizers/speakers/volunteers Q1 event planing&amp;lt;/p&amp;gt;</description><start>2012.02.12 13:30</start><end>17:00</end><location>Hangzhou,China</location><participantscount></participantscount></event>
+	<event><title>Mobile Web Development In 2011.10.29</title><chapterid>107736551552874801480</chapterid><description>&amp;lt;p&amp;gt;October 29, 2011,  &quot;Move the development of a new direction&quot; as the theme of community Hangzhou GTUG activities in Ali cloud &quot;mantra Hills&apos; conference room, about 70 people or so attended the event. The main contents of the &quot;Ali cloud developer contest,&quot; the relevant information, the mobile Web development, based on the Sencha, Jquery Mobile developing mobile applications, development of mushroom-related technologies to share the street.&amp;lt;/p&amp;gt;</description><start>2011.10.29 13:30</start><end>18:30</end><location>Hangzhou,Zhejiang,China</location><participantscount></participantscount></event>
+	<event><title>HTML5，Android in 2011.03.13</title><chapterid>107736551552874801480</chapterid><description>&amp;lt;p&amp;gt;The event on March 13, 2011 held in Hangzhou Overseas Sea Hotel, the main agenda of a Taobao programming game development, HTML5-related technologies, and Android technology promotion, developers and engineers, and other interactive content.&amp;lt;/p&amp;gt;</description><start>2011.03.13 13:00</start><end>18:30</end><location>Hangzhou,Zhejiang,China</location><participantscount></participantscount></event>
+	<event><title>Hangzhou Android Developer Labs</title><chapterid>107736551552874801480</chapterid><description>&amp;lt;p&amp;gt;Hangzhou GTUG in the November 21, 2010 at the Android Developer Lab activities, by me and Bill, Tony, Ken chaired the meeting. Lecture topics for the Android Market, Android Platform, Android application development, graphical interface guides, Android Market Licensing, Android application development guide to improve operational performance. Activities, nearly 100 attended, thank you for your support!&amp;lt;/p&amp;gt;</description><start>2010.11.21 13:30</start><end>17:30</end><location>Hangzhou,China</location><participantscount></participantscount></event>
+	<event><title>Hangzhou Da Qing Gu spring outing</title><chapterid>107736551552874801480</chapterid><description>&amp;lt;p&amp;gt;Just today, we held this year in Hangzhou GTUG the first spring outing, the Qing Dynasty Valley tour, the theme of &quot;barbecue.&quot; There are 13 friends attended the event, activity was unanimously welcomed by everyone.&amp;lt;/p&amp;gt;</description><start>2010.04.25 10:00</start><end>16:30</end><location>Hangzhou,China</location><participantscount></participantscount></event>
+	<event><title>Hangzhou NetBook OS Competition</title><chapterid>107736551552874801480</chapterid><description>&amp;lt;p&amp;gt;In the December 27, 2009, by Zhou Ding and Shen Chao Initiated &quot;NETBOOK OS Competition&quot; won the support of many friends, among participants in the activities and even friends from Shanghai. Glad to see Hangzhou GTUG is slowly growing in the coming days need everyone&apos;s support and concern, it is also because of you, Hangzhou GTUG become so colorful. The beginning of anything is a difficult process and creative process, welcome to join the team in Hangzhou GTUG!&amp;lt;/p&amp;gt;</description><start>2009.12.27 13:30</start><end>17:00</end><location>Hangzhou,China</location><participantscount></participantscount></event>
+	<event><title>Hangzhou GTUG first Event</title><chapterid>107736551552874801480</chapterid><description>&amp;lt;p&amp;gt;This is Jack Davis from Hangzhou, and I am now working on development of web front. We are GTUG Hangzhou China. （&amp;lt;a href=&quot;http://groups.google.com/group/hangzhou-gtug&quot;&amp;gt;Hangzhou GTUG&amp;lt;/a&amp;gt;）&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;We held the GTUG kick-off in Pingfeng Campus Zhejiang Industrial University in Nov 22, 2009 with Bill, Marketing manager Google China as special guest and other guests from all sectors of IT. Steve Zhi from Shanghai shared the experience on Python, Bill demonstrated products such as  Google Maps,O3D and Chrome OS. What is really exciting is our GTUG user TualatriX successfully demoed his own system built on Chrome OS and here is the &amp;lt;a href=&quot;http://hangzhou-gtug.googlegroups.com/web/HZ_GTUG_Overview_1st_Event_Photos.pdf?gda=q92LuVgAAACoZAWfNpGZYd92s9pAYC3r7Xg80ufYQZOKQGlqLLHSDa7-6jIHtzrYc_Xc_5iCIRFFJ_j9kOZsu_E5C45lHxlZpsMJpo2PJSxJJuRrHXFqXxo1YHcDYvgcK1MwRk9oTs4&quot;&amp;gt;link&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;GTUG Hangzhou aims at helping IT people to learn and communicate about the latest Internet development tools, Google products, open web and open source technology as well as start up based on these technologies.We will co-operate with Google and other local partners in business ,media and academy to hold events and provide more opportunities for our members to discuss and share Google technologies and potential start-ups.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The theme of GTUG is &quot;Free, Creative, Dream&quot;. GTUG Hangzhou welcomes all friends domestic and abroad to discuss the development of technologies and improve ourselves together!&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Thank you!&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;From GTUG Hangzhou Team Jack, Hongqi shan, Chao Shen, cabinw, TualatriX, Mary&amp;lt;/p&amp;gt;</description><start>2009.11.22 13:30</start><end>17:30</end><location>Hangzhou,China</location><participantscount></participantscount></event>
+</events>
+</data>

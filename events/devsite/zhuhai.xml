@@ -1,0 +1,2557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<number>77</number>
+<events>
+	<event><title>2017 Google I/O Extended Zhuhai</title><chapterid>113382777332300419074</chapterid><description> 
+I/O Extended events include a variety of options for developers—from live streaming sessions to local demos, hackathons, codelabs, and more.&amp;lt;p&amp;gt;
+This year we still prepare hangout in Zhuhai for all friends interesting in Google I/O, the same as last year. You can talk with others about I/O keynotes and we also prepare foods for you. All is free. Welcome to Join us.﻿&amp;lt;/p&amp;gt;</description><start>2017.05.17 22:30</start><end>2017.05.18 07:00</end><location>广东省珠海市吉大景山路莲山巷8号金山软件大厦1楼</location><participantscount></participantscount></event>
+	<event><title>Women Techmakers 2017 - GDG Zhuhai</title><chapterid>113382777332300419074</chapterid><description>Women Techmakers 2017 is coming to Zhuhai! This year&apos;s global theme is: Telling Our Story. This time we have invited four awesome women to share their experiences in Robots Design, Career Development, Project Management, etc. Welcome to join us now!&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+Schedule:&amp;lt;br&amp;gt;
+13:30~14:00 Sign in&amp;lt;br&amp;gt;
+14:00~14:15 Introduction about Women Techmakers&amp;lt;br&amp;gt;
+14:15~15:00 Luyao Li: Career Development of Female Programmers&amp;lt;br&amp;gt;
+15:00~15:45 Xu Li: Security Service Architecture&amp;lt;br&amp;gt;
+15:45~16:00 Break&amp;lt;br&amp;gt;
+16:00~16:45 Eva: Robots Design&amp;lt;br&amp;gt;
+16:45~17:30 Liayna: Differences between Chinese and foreign IT companies&amp;lt;br&amp;gt;
+17:30~17:45 Discussion and Take Photos﻿&amp;lt;br&amp;gt;
+</description><start>2017.04.15 14:00</start><end>18:00</end><location>珠海市吉大景山路莲山巷8号金山软件大厦</location><participantscount>65</participantscount></event>
+	<event><title>GDG ZhuHai TensorFlow Dev 2017-1</title><chapterid>113382777332300419074</chapterid><description> 
+活动内容：
+在机器学习如火如荼的当下，你怎能错过TensorFlow！
+Google开源Tensorflow框架已经一年多了，深受大家喜爱~
+今年2月15日更是在Mountain View举办TensorFlow Dev Summit！
+大会前我们快来一起学习下TensorFlow吧~
+
+
+14:00 ~ 15:30
+TensorFlow相关视屏学习
+15:30 ~ 15:45
+茶歇
+15:45 ~ 16:30
+TensorFlow相关内容讨论分享
+16:30 ~ 17:30
+交流年度计划﻿</description><start>2017.02.11 14:00</start><end>17:30</end><location>中国广东省珠海市珠海金山软件</location><participantscount>9</participantscount></event>
+	<event><title>GDG DevFest2016 ZhuHai</title><chapterid>113382777332300419074</chapterid><description>&amp;lt;h2&amp;gt;2016珠海GDGDevfest is coming &amp;lt;/h2&amp;gt;
+&amp;lt;br&amp;gt;玩转VR，开启不一样的视觉盛宴，backbone\go\firebase\pwa尽在珠海GDG，11月12日，不见不散。
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;时间：2016年11月12日，10：30-18：00
+&amp;lt;br&amp;gt;地点：广东省珠海市吉大莲山巷8号金山软件大厦（519015） 
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;流程：
+&amp;lt;br&amp;gt;10:00  Sign in
+&amp;lt;br&amp;gt;10:45  GDG introduction
+&amp;lt;br&amp;gt;11:00  Android backbone
+&amp;lt;br&amp;gt;11:30  The virtue and design ideas of go 
+&amp;lt;br&amp;gt;12:00  lunch break+Group photo +interaction time
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;14:00  hello VR 
+&amp;lt;br&amp;gt;15:00  Rest +nteraction time
+&amp;lt;br&amp;gt;15:30  Firebase brief introduction
+&amp;lt;br&amp;gt;16:00  Rest
+&amp;lt;br&amp;gt;16:10  PWA Technical points
+&amp;lt;br&amp;gt;17:00  The developer presentation skill 
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;Work shop
+&amp;lt;br&amp;gt;15:00 -15:40
+&amp;lt;br&amp;gt;F9会议室：VR 体验
+
+
+
+
+
+为了推广谷歌开发技术，宣传谷歌的技术文化，倡导更多的爱好者积极关注谷歌的发展，了解谷歌的技术和产品，同时为珠海热爱技术交流的开发者提供一次交流的机会。在珠海GDG组委的共同努力下，珠海GDG社区举办了2016年珠海DevFest活动。活动吸引了数百开发者到场，现场气氛高涨，大家热情满满。
+本次活动主要向大家介绍的内容有：Android 前端框架的选择和举例:
+backbone、angularjs1.5.8、angularjs2、go语言的优点与设计理念、hello VR、Firebase 简介、PWA 技术要点以及技术讲座演讲技巧。
+时间：2016年11月12日 10:30-18:00
+地点：珠海金山软件大厦1楼VIP会议室
+参与人数：115人
+
+活动开始
+第一部分，由主持人吕学娥shere向大家介绍Devfest活动的内容和活动宗旨。并向所有参会人员表示欢迎，随后Spawnris，重申本社区举办活动的活动宗旨，并介绍了珠海GDG社区的情况，以及中国区GDG组织的情况。
+第二部分, Android 前端框架的选择和举例:backbone、angularjs1.5.8、angularjs2
+第三部分，go语言的优点与设计理念，分为三个部分展开，Part I: The virtue of go、Part II: the design ideas of go 、Part III: examination；
+第四部分，合影+免费午餐+聊天时间。
+第五部分，hello VR，介绍了，VR目前的技术，应用的场景，未来的展望等信息；
+第六部分，VR 工作坊,参加活动的小伙伴们，积极体验了我们的VR设备，感受了VR虚拟世界的魅力。
+第七部分，Firebase 简介。
+第八部分，PWA 技术要点。
+第九部分，技术讲座演讲技巧，针对技术讲座的内容容易让人枯燥，告诉了参与者如何去把我听众心态，如何让自己的演讲内容变得幽默风趣，从而增强演讲的趣味性。
+
+主持人宣布活动的圆满结束,始终不变的告诉来参加活动的小伙伴，Google欢迎大家，开放分享，共同成长，希望大家持续的关注，还组建了微信群。
+</description><start>2016.11.12 10:30</start><end>18:30</end><location>ChinaGuangdongZhuhai</location><participantscount>148</participantscount></event>
+	<event><title>Android Coding Now</title><chapterid>113382777332300419074</chapterid><description>对Android感兴趣和希望学习的小伙伴，一起现场搭建环境和coding﻿，创建自己的第一个Android APP</description><start>2016.10.22 14:00</start><end>17:00</end><location>中国广东省珠海市香洲区金山二巷珠海左右创意园</location><participantscount>19</participantscount></event>
+	<event><title>52H STARUP THIS SUMMER</title><chapterid>113382777332300419074</chapterid><description>体验项目从零到一的过程
+全新的IDEA，从周五晚上的一分钟自我介绍和创意阐述，到周日晚上10分钟项目路演和投资人交流，52小时，从零到一，你身处其中。
+
+与几个伙伴建立革命友谊
+从素不相识，到因为同一个项目，一起脑暴、一起做用户调查、一起和导师碰撞新思路、一起拉票、一起让路演内容更完善、一起为队友加油呐喊，一起为胜利欢呼，一起为失落干杯！
+
+与NB的人讨论你的项目
+你没有创业经验，他们有；你不知道如何与投资人沟通，他们已经拿到投资了；你不知道创业中有哪些坑，他们也许经历过一些；你不确定自己的项目是否可行，他们也许有好的建议。﻿</description><start>2016.07.30 09:00</start><end>2016.07.31 18:00</end><location>中国广东省珠海市香洲区金山二巷珠海左右创意园</location><participantscount>57</participantscount></event>
+	<event><title>Easy Code From Zero</title><chapterid>113382777332300419074</chapterid><description>主题：0基础外行人学习代码开发SO EASY
+内容：资深Android开发现场教搭建环境以及写代码﻿</description><start>2016.07.16 14:00</start><end>18:00</end><location>中国广东省珠海市香洲区金山二巷珠海左右创意园</location><participantscount>17</participantscount></event>
+	<event><title>IO Redux 北理工</title><chapterid>113382777332300419074</chapterid><description>+ review IO16 show kinds of new tech and local touch;
+&amp;lt;br&amp;gt;
++ how to leaning any program language in one day
+
+2016 06 19 Io Review Summary | ZHGDG Static Wiki 
+    http://wiki.zhgdg.org/et/2016-06-19-io-review-summary.html</description><start>2016.06.19 16:00</start><end>18:00</end><location>中国广东省珠海市香洲区北理工南门</location><participantscount>24</participantscount></event>
+	<event><title>I/O 2016 Redux Zhuhai </title><chapterid>113382777332300419074</chapterid><description>
+本帖最后由 谭莉_浆果薇蓝 于 2016-5-26 06:38 编辑
+
+
+#Google I/O 2016# 一年一度的I/O大会已经落下了帷幕,珠海谷歌开发者社区不仅于5.18日当晚顺利举办了IO的直播，并有组委在I/O现场参与震撼的新品发布。本次I/O大会中让人目不暇接的精彩,哪一个是你的最爱?
+亲历I/O现场的组委们，将为大家分享一下此次IO之行的见闻，以及Google的新技术。</description><start>2016.05.28 09:00</start><end>12:00</end><location>中国广东省珠海市香洲区珠海金山软件公司</location><participantscount>43</participantscount></event>
+	<event><title>I/O 2016 Extended Zhuhai</title><chapterid>113382777332300419074</chapterid><description>#io16 #io16extended 谷歌开发者大会I/O 2016将于5月18日至20日举行，本届最大看点无疑是已经有所曝光的全新安卓7.0系统。此外，能够见到谷歌自动驾驶车，甚至是谷歌的无人机产品。
+珠海GDG将加入2016年Google I/O全球开发者大会现场直播行列，一起观看现场开幕式，观看振奋人心的技术演讲！﻿</description><start>2016.05.18 22:00</start><end>2016.05.19 04:00</end><location>中国广东省珠海市香洲区珠海金山软件公司</location><participantscount>37</participantscount></event>
+	<event><title>School Open Day - Enjoy Floss</title><chapterid>113382777332300419074</chapterid><description> 
+开源技术交流不仅仅限于行业之间，从技术传播的深远影响力来看，大学校园里充满梦想的年轻人是一群忠实可靠的技术传播，简单执着的热爱技术。为此珠海GDG特别邀请了来自奇虎360，腾讯，金山的技术达人们，为广大的辛辛学子带来一堂丰富的技术分享，在未来职业规划的道路上给出中肯的建议。
+
+
+【免费报名】
+欢迎每一个在大学校园里努力追求卓越的你，不论男女。
+
+
+【活动时间】
+2016年4月17日，09：30 --- 12：40
+
+
+【活动地点】
+珠海金山大厦1楼展厅
+交通: 广东省珠海市吉大莲山巷8号金山软件大厦（519015）
+
+
+【活动流程】
+09:30 - 09:40
+自我介绍&amp;amp;GDG介绍	温&amp;amp;Spawnris	
+
+09:40 - 10:00
+参观交流	Belle	
+
+10:00 - 10:40
+openresty技术分享 温铭
+
+10:40 - 11:10	
+女程序员经验交流	苏MM
+
+11:10 - 11:50
+Python技术分享	Spawnris
+
+11:50 - 12:10
+踏入社会前准备	Belle
+
+12:10 - 12:30
+圆桌访谈	ALL	
+
+12:30 - 12:40
+合影留恋	Belle	
+
+
+【嘉宾介绍】
+温铭
+openresty社区组织者&amp;amp;珠海GDG组委之一
+
+苏MM
+金山软件，开发经理一枚，不仅仅是技术牛人，更是美女一枚。
+ 
+Spawnris
+不折腾就死星人, 码农一枚，珠海GDG组委之一
+皂片
+
+belle
+热爱培训和技术分享的妹子，珠海GDG组委之一﻿</description><start>2016.04.17 09:00</start><end>12:40</end><location>中国广东省珠海市香洲区金山软件大厦</location><participantscount>35</participantscount></event>
+	<event><title>Women Techmakers:Tech Makes Women More Beautiful</title><chapterid>113382777332300419074</chapterid><description>4.16日，珠海谷歌开发者社区邀请从事IT及移动互联网的程序媛们，以及热爱技术热爱生活的MM们，一起分享技术经验，谈谈职业规划，畅聊成长心得。</description><start>2016.04.16 13:30</start><end>18:00</end><location>南方软件园</location><participantscount>20</participantscount></event>
+	<event><title>2016 Study Jams China rainbowbirds Group (SJ31）</title><chapterid>113382777332300419074</chapterid><description>来自中国的StudyJam 31小组，团队成员来自全国不同的城市，有珠海的、有天津的，有西安的，有北京的等等，社会角色也各不相同，有安卓工程师，有学生，甚至没有接触过安卓开发的朋友。我们小组的名称叫StduyJam_Share, “Share”就是我们小组活动的核心主题，希望能够通过学习分享，共同成长！
+活动开始后，从工具的安装指导，到课程知识的交流，难点的讨论分析等，都是呈现互帮互助的气氛，创造出了一个非常好的学习环境，新人进来后，都能够很快融入小组。
+由于大部分组员都是白天工作、上课，晚上开始活动课程的学习，很多时候笔记提交都已经是晚上12点之后了，大家对安卓的热爱，让大家都很勤奋，我相信我们小组都会按时完成相关课程的学习 !
+大家能通过因特网聚在一起学习喜欢的知识，是一件幸福，并值得珍惜的过程！
+小组论坛链接：
+http://www.studyjamscn.com/group-204-1.html</description><start>2016.03.29 19:00</start><end>2016.04.30 21:00</end><location>中国广东省珠海市</location><participantscount>24</participantscount></event>
+	<event><title>How To Be Android Developers</title><chapterid>113382777332300419074</chapterid><description>Android作为市场份额最高的移动操作系统，吸引了越来越多的年轻人加入移动互联网大军，也有太多值得移动互联网从业者可以聊聊的那些事儿！
+珠海GDG走进高校，和期望从事移动互联网应用开发者的同学们一起来聊一聊，移动互联网公司是怎么运营的？应届生毕业后如何顺利步入开发者圈子？
+
+活动议程
+14:00 ~ 14:20 GDG珠海社区情况介绍，当天议程以及讲师介绍
+14:20 ~ 15:00  移动互联网的角色分工及工作内容介绍
+15:00 ~ 15:40  Android开发者的日常工作以及入门基础
+下午茶休息+合影
+16:00 ~ 16:40  一节课教你学会测试Android应用﻿</description><start>2016.03.26 14:00</start><end>17:00</end><location>北京师范大学珠海分校</location><participantscount>29</participantscount></event>
+	<event><title>珠海GDG校园行-Polymer</title><chapterid>113382777332300419074</chapterid><description>2016珠海GDG校园行第一场来了
+本期分享主题为
+《高性能云查询系统的性能优化》
+《运营的多面性
+《Polymer简述以及谷歌最近的几件事儿》
+
+讲师介绍
+温铭，奇虎企业安全高级工程师
+Bonnie, 前WPS运营经理,现金融圈新星
+老高, 前西山居程序员一枚，现鹅厂程序员一枚﻿</description><start>2016.03.19 14:00</start><end>17:00</end><location>中国广东省珠海市香洲区北京理工大学珠海学院</location><participantscount>27</participantscount></event>
+	<event><title>一次以运营为主的专场分享活动</title><chapterid>113382777332300419074</chapterid><description> 
+去年11.28日组织了Android产品及运营专场后，大家纷纷表示受益匪浅但是没有听够。。。希望继续开展此类的专场活动。所以特别追加一次运营专场，邀请从事Android硬件及软件应用的运营者们一起来分享一下经验。
+
+【活动地点】
+公交：地址: 珠海吉大 景山路 莲山巷8号 金山软件大厦
+会场: 15层 瑜伽厅
+
+【活动流程】
+13:30 ~ 14:00 现场签到
+14:00 ~ 14:20 GDG珠海社区情况介绍，当天议程以及讲师介绍 （Alice Tan）
+14:20 ~ 15:10 运营喵的入门必备工具（魅族：杨捷）
+15:10~ 16:10 自媒体运营 （西山居：牙牙）
+16:10 ~ 16:30 下午茶休息+合影
+16:30 ~ 17:20 我在北京（小米）的学习笔记（WPS：李佳）
+17:20 ~ 17:30  Q&amp;amp;A﻿
+
+
+【活动总结】http://chinagdg.com/thread-32033-1-1.html</description><start>2016.03.12 13:30</start><end>17:30</end><location>珠海金山软件公司</location><participantscount>18</participantscount></event>
+	<event><title>2016 Android tech speech planning</title><chapterid>113382777332300419074</chapterid><description>2016来了，新的一年珠海GDG又要开始新的旅程！作为开年第一场活动，珠海GDG邀请小伙伴们一起谈谈现在的Google有什么新的好玩的技术？猜猜今年的IO又有什么惊喜？高校的学生又有哪些Android的idea？16年又有哪些技术分享呢？Join Us!
+
+【活动时间】
+2016年2月21日 14:00~16:00
+【活动地点】
+珠海市吉大景山路莲山巷8号金山软件大厦 15F
+【活动】
+14:00~14:20 签到，暖场
+14:20~14:40 GDG自述
+14:40~15:30 珠海高校Android项目孵化
+15:30~16:00 技术分享主题系列投票</description><start>2016.02.21 14:00</start><end>16:00</end><location>中国广东省珠海市香洲区珠海金山软件公司</location><participantscount>5</participantscount></event>
+	<event><title>Android app的推广及运营的秘籍</title><chapterid>113382777332300419074</chapterid><description>【活动介绍】&amp;lt;br&amp;gt;
+怎样才能设计出一个好的产品？为什么说一个好的产品是运营出来的？又如何在最短期内积累更多的运营经验和提高自己的运营效率？珠海GDG社区邀请对Android app关注并且对移动互联网技术学习渴望的攻城师们齐聚一堂，一起学习，探讨产品、运营的秘籍！&amp;lt;br&amp;gt;
+本次活动是由珠海GDG（全称：珠海谷歌开发者社区）发起。邀请珠海三大互联网公司魅族、多玩、金山的产品和运营进行分享和交流。&amp;lt;br&amp;gt;
+【活动时间】&amp;lt;br&amp;gt;
+2015年11月28日，13:30-17:30&amp;lt;br&amp;gt;
+
+【活动地点】&amp;lt;br&amp;gt;
+公交：地址: 珠海吉大 景山路 莲山巷8号 金山软件大厦&amp;lt;br&amp;gt;
+会场: 15楼瑜伽室&amp;lt;br&amp;gt;
+交通: 珠海中天酒店对面,工商银行隔壁,  4路,9路,K10路,13路,22路,23路,26路,99路 到“水湾北”站下，&amp;lt;br&amp;gt;
+- 具体位置：http://j.map.baidu.com/mvfU6&amp;lt;br&amp;gt;
+
+签到：因为金山大厦有严格的门禁制度，,有签到表在门卫,请听从志愿者引导进入&amp;lt;br&amp;gt;
+【活动流程】&amp;lt;br&amp;gt;
+13:30 ~ 14:00 现场签到&amp;lt;br&amp;gt;
+14:00 ~ 14:30 GDG珠海社区情况介绍，当天议程以及讲师介绍 （Alice Tan）&amp;lt;br&amp;gt;
+14:30 ~ 15:30 Android app的推广及运营（杨捷）&amp;lt;br&amp;gt;
+15:30 ~ 15:45 下午茶休息+合影&amp;lt;br&amp;gt;
+15:45 ~ 16:40  我在多玩的这些年（付传立）&amp;lt;br&amp;gt;
+16:40 ~ 17:10  自媒体运营 （牙牙）&amp;lt;br&amp;gt;
+
+【讲师介绍】&amp;lt;br&amp;gt;
+杨捷，魅族资深运营&amp;lt;br&amp;gt;
+付传立，珠海多玩资深产品&amp;lt;br&amp;gt;
+牙牙，金山西山居剑网三运营妹子一枚&amp;lt;br&amp;gt;
+Vijay，魅族负责合作拓展的帅哥一枚&amp;lt;br&amp;gt;
+
+
+
+加入 珠海GDG&amp;lt;br&amp;gt;
+· 注册 G+&amp;lt;br&amp;gt;
+· 关注 GDG Zhuhai&amp;lt;br&amp;gt;
+· 成为 GDG Zhuhai开发者&amp;lt;br&amp;gt;
+   
+订阅方法&amp;lt;br&amp;gt;
+· 搜索微信号 GDG-ZhuHai&amp;lt;br&amp;gt;
+· 或查找公众号: GDG珠海&amp;lt;br&amp;gt;
+
+GDG珠海 社区资源:
+· 邮件列表: gdg-zhuhai@googlegroups.com  (可发空邮件到 gdg-zhuhai+subscribe@googlegroups.com 即完成订阅)&amp;lt;br&amp;gt;
+· 微博: @GDG珠海&amp;lt;br&amp;gt;
+· 微信: GDG珠海&amp;lt;br&amp;gt;
+· G+ 主页: GDG ZhuHai&amp;lt;br&amp;gt;
+· G+ 社群: ZhuHai GDG&amp;lt;br&amp;gt;</description><start>2015.11.28 13:30</start><end>17:30</end><location>中国广东省珠海香洲区珠海金山软件公司</location><participantscount>30</participantscount></event>
+	<event><title>BAS-Py101-不甘社之Python通介</title><chapterid>113382777332300419074</chapterid><description>- 时间: 2015-11-15 15:00~17:45
+- 地点: 唐家湾
+- 议程:
+    + 珠海GDG 回顾
+    + Python 通介
+    + 蠎营推荐
+    + 现场 QA
+- 幻灯: [Python 快速通介 (powered by S5)](http://s5rst.qiniucdn.com/100820-introPy/index.html)</description><start>2015.11.15 14:00</start><end>18:00</end><location>中国广东省珠海香洲区唐家湾镇</location><participantscount>27</participantscount></event>
+	<event><title>DevFest 2015 +WTM - GDG ZhuHai</title><chapterid>113382777332300419074</chapterid><description>&amp;lt;h1&amp;gt;DevFest15WTM 珠海&amp;lt;/h1&amp;gt;
+
+    &amp;lt;p&amp;gt;每年最盛大的 DevFest ~ 开发者节日又来了!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;img alt=&quot;WT_Cover_TW_OPTION-B_1500X500.jpg（JPEG 图像，1500x500 像素） - 缩放 (84%)&quot; src=&quot;http://zoomq.qiniucdn.com/ZHGDG/design/wtm/SocialMedia/Twitter/Cover/WT_Cover_TW_OPTION-B_1500X500.jpg?imageView2/2/w/420&quot;&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;展示最新 Google 技术,
+组织技能学习班,当天获得完备体验!&amp;lt;/p&amp;gt;
+
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;时间: 151031 周六 10:42~17:17&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;地点: 金山软件大厦 F15 瑜珈 厅&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;报名: https://jinshuju.net/f/WYEUBN&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;img alt=&quot;devfest15wtm-zh.png（PNG 图像，512x512 像素）&quot; src=&quot;http://zoomq.qiniucdn.com/ZHGDG/design/DevFest/151031-wtm/devfest15wtm-zh.png?imageView2/2/w/360&quot;&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+
+&amp;lt;p&amp;gt;&amp;lt;img alt=&quot;zh_gdg-devfest.png（PNG 图像，1568x529 像素） - 缩放 (81%)&quot; src=&quot;http://zoomq.qiniucdn.com/ZHGDG/design/DevFest/151031-wtm/zh_gdg-devfest.png?imageView2/2/w/420&quot;&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;h2&amp;gt;地址和交通&amp;lt;/h2&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;地址: 珠海吉大 景山路 莲山巷8号 金山软件大厦&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;会场: 15层 瑜珈厅&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;交通: 珠海中天酒店对面,工商银行隔壁,
+  4路,9路,K10路,13路,22路,23路,26路,99路 到水湾北下,即见!
+  坐船,到九洲港下; 城铁到终点 拱北站下; TEXI 13元即达!&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+
+&amp;lt;h2&amp;gt;议程&amp;lt;/h2&amp;gt;
+
+&amp;lt;p&amp;gt;(因不可抗力,可能有小范围变更)&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;10:00 开始签到&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;10:45 DevFest 综合介绍&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;11:45 合影&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;12:00 午餐+社交时间&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;14:00 git 在OSC&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;14:45 休息&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;14:55 用 Qpython 进行 Android 应用开发 (南宁/北京三地空中课程)&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;15:55 休息&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;16:05 什么是好的技术演讲&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;16:45 Google Play 运营体验&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;17:15 闪电演讲&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+
+&amp;lt;h2&amp;gt;工作坊&amp;lt;/h2&amp;gt;
+
+&amp;lt;blockquote&amp;gt;&amp;lt;p&amp;gt;14:30 ~ 16:42&amp;lt;/p&amp;gt;&amp;lt;/blockquote&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;F14 会议室 : CardBoard 现实增强开发入门&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;F13 会议室 : Android 应用服务开发入门&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+</description><start>2015.10.31 00:00</start><end>00:00</end><location>中国广东省珠海市香洲区金山软件大厦</location><participantscount>127</participantscount></event>
+	<event><title>HTML5 &amp; Golang Tech Talk</title><chapterid>113382777332300419074</chapterid><description>做最炫的页面展示和愉快地写代码！
+本次GDG Zhuhai走进唐家，在科技园内举办关于HTML5和Golang相关的技术分享。
+主题涵盖HTML5和Golang的介绍和具体应用，由来自魅族和腾讯的3位朋友做分享。告诉我们如果避开开发中的”陷阱“，以及如何轻松有趣地玩转HTML5，做出让用户耳目一新的展示界面。并解释了Golang的并发模型。</description><start>2015.08.23 14:30</start><end>18:00</end><location>珠海市唐家湾高新区大洲科技园（海怡湾畔东门）5楼505</location><participantscount>10</participantscount></event>
+	<event><title>Google IO 2015 Redux 珠海</title><chapterid>113382777332300419074</chapterid><description>&amp;lt;a href=&quot;http://blog.zhgdg.org/2015-07/et-ioredux-summary/&quot;&amp;gt;Google IO 2015 Redux 珠海总结 | GDG Livin ZhuHai Life;-)&amp;lt;/a&amp;gt;
+&amp;lt;hr&amp;gt;
+&amp;lt;br&amp;gt;Google IO 2015 结束已有段时日,大家还对大会内容有印象吗?类似往年,让我们约个时间,找个地方,&amp;lt;br&amp;gt;一起对这次大会做个回顾. 
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;这次回顾包含括 Android M,Chrome Custom Tabs,NOW On Tap,Offline Maps&amp;amp;Navigation&amp;lt;br&amp;gt;,Brillo&amp;amp;Weave(IoT),Cardboard&amp;amp;Jump 等技术推荐,
+&amp;lt;br&amp;gt;现场还可以体验Android Wear,Cardboard以及最新Nexus 9 Pad等
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;- 时间: 150705 周日 14:42~17:17
+&amp;lt;br&amp;gt;- 地点: 金山软件大厦 F15 瑜珈 厅
+&amp;lt;br&amp;gt;- 报名: https://jinshuju.net/f/AL58G5
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;##  地址和交通
+&amp;lt;br&amp;gt;- 地址: 珠海吉大 景山路 莲山巷8号 金山软件大厦 
+&amp;lt;br&amp;gt;- 会场: 15层 瑜珈厅
+&amp;lt;br&amp;gt;- 交通: 珠海中天酒店对面,工商银行隔壁,
+&amp;lt;br&amp;gt;    4路,9路,K10路,13路,22路,23路,26路,99路 到水湾北下,即见! 
+&amp;lt;br&amp;gt;    坐船,到九洲港下; 城铁到终点 拱北站下; TEXI 13元即达!
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;## 议程
+&amp;lt;br&amp;gt;(因不可抗力,可能有小范围变更)
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;- 14:30 开始签到
+&amp;lt;br&amp;gt;- 14:50 背景介绍
+&amp;lt;br&amp;gt;- 15:00 老高的 IO 私人回忆
+&amp;lt;br&amp;gt;- 15:42 休息
+&amp;lt;br&amp;gt;- 15:50 合影
+&amp;lt;br&amp;gt;- 16:00 GDG 字幕组介绍
+&amp;lt;br&amp;gt;- 16:15 珠海GDG 年度开发计划
+&amp;lt;br&amp;gt;- 16:30 Lighting talk
+&amp;lt;br&amp;gt;- 17:17 结束
+</description><start>2015.07.05 14:30</start><end>2015.07.06 05:30</end><location>中国广东省珠海香洲区珠海金山软件公司</location><participantscount>19</participantscount></event>
+	<event><title>[5/28]Google 2015 I/O Extended ZhuHai I/O大会珠海直播之夜</title><chapterid>113382777332300419074</chapterid><description>一年一度的Google I/O全球谷歌开发者大会将于美国时间2015年5月28日至5月29日在美国旧金山举行！每一次I/O大会都是一场互联网开发者和企业的盛会，每次演讲都为与会者和企业带来完全不一样的科技冲击！&amp;lt;br&amp;gt;
+珠海谷歌开发者社区将参与2015年Google I/O全球开发者大会现场直播行列，与全世界各地的开发者一起加入大会现场开幕式，并和珠海GDG参与美国旧金山IO大会现场的组委进行互动，观看振奋人心的技术演讲，共同拥抱科技新变化！&amp;lt;br&amp;gt;
+
+2015年Google I/O开发者大会于美国当地时间早上9点举行，国内时间为深夜一点。对于追求互联网创新的你们来说，准备好和我们一起熬夜了吗！
+
+欢迎你们加入！&amp;lt;br&amp;gt;
+
+本次活动是由珠海GDG（全称：珠海谷歌开发者社区）发起。&amp;lt;br&amp;gt;
+
+
+在线报名：&amp;lt;br&amp;gt;
+墙外地址：https://docs.google.com//forms/d/1C4EhkOUXA3hmLiRdxbVrWxUJz7f0a0DbYetUEMangU0/viewform?c=0&amp;amp;w=1&amp;lt;br&amp;gt;
+墙内地址：https://www.gdgdocs.org/forms/d/1C4EhkOUXA3hmLiRdxbVrWxUJz7f0a0DbYetUEMangU0/viewform?edit_requested=true&amp;lt;br&amp;gt;
+
+【活动时间】&amp;lt;br&amp;gt;
+2014年5月28日，22：00-次日04：00&amp;lt;br&amp;gt;
+
+【活动地点】&amp;lt;br&amp;gt;
+::  地址和交通
+由于场地原因，原定于北理珠咖啡厅的场地现在改为海怡湾畔
+地址: 珠海市香洲区唐家湾金唐路333号海怡湾畔
+交通:  3a路 3路 10a路 10f 10路 66路68路 69路 k1路 k2路于&quot;海怡湾畔-公交车站&quot;站下,步行两分钟即到海怡湾畔南门或者北门
+（由于小区有门禁，请到达南门或北门后，联系小言出去接人）&amp;lt;br&amp;gt;
+
+【活动流程】&amp;lt;br&amp;gt;
+22:00 ~ 22:30 现场签到&amp;lt;br&amp;gt;
+22:30 ~ 23:00 GDG珠海社区情况介绍&amp;lt;br&amp;gt;
+23:00 ~ 24:00 2014 Google IO大会回顾，和IO现场组委互动&amp;lt;br&amp;gt;
+00:00 ~ 04:00 IO Extended ﻿&amp;lt;br&amp;gt;
+
+---------------------------------------------------
+活动关键数据
+参会人数：31人
+时间：150528 22:00-次日3:00 
+地点：海怡湾畔公寓
+
+流水
+22:00 ~ 22:30 现场签到
+22:30 ~ 23:00 GDG珠海社区情况介绍
+23:00 ~ 24:00 2014 Google IO大会回顾，和IO现场组委互动
+00:00 ~ 03:00 IO Extended</description><start>2015.05.28 22:00</start><end>2015.05.29 03:00</end><location>中国广东省珠海市香洲区海怡湾畔</location><participantscount>31</participantscount></event>
+	<event><title>Android App Training Camp</title><chapterid>113382777332300419074</chapterid><description>&amp;lt;p&amp;gt;这次收到暨南大学开发者社区的邀请，GDG珠海走进暨南大学，与来自大一、大二的爱好技术开发的同学们举行了Android App创意设计活动，为同学们的创意作品带来最专业和辛辣的现场点评。&amp;lt;/p&amp;gt;
+
+【活动时间】 2015年5月9日 14:30~16:30 &amp;lt;p&amp;gt;
+【活动地点】 暨南大学珠海校区教学楼多媒体教室208 &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+【参与人数】26人 （其中：导师3人）&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+【活动流水】&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+- 各参赛队伍介绍自己团队的Android App创意作品&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+- 导师辛辣点评时间&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+- 公布评比结果，颁奖&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+【详细内容】&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+&amp;gt; 本次活动共6支参赛队伍，分为App创意、App界面和App制作三个类型，作品概述和亮点如下：&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+APP创意&amp;lt;/p&amp;gt;
+    1. 校园通 by 许晋嘉&amp;lt;p&amp;gt;
+        + 痛点: 校园生活的些许不便&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+        + 功能囊括教务, 校园卡, 课堂线下线上互动, 信息推送, 寻物等功能&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+        + 进行了可行性分析&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+    2. 试衣间 by 汤炜聪 陈有铭 陈旭琳 白雪松&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+        + 痛点: 在网上购买衣服的同学很多，但会买到自己不合适的衣服&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+        + 进行了市场调查与数据分析&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+        + 实现用户全身图片与衣服的合成, 创建人偶试穿, 以及前置摄像头识别功能&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+        + 需要后台提供数据库, 记录用户喜好, 并作出商品推荐, 商品分享&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+    3. 爱课课程表&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+         + 痛点: 便签应用记录课堂笔记比较麻烦&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+         + 功能有导入课程表，查看课程表，修改与添加课程信息, 以及添加课堂笔记等&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+         + APP界面亦有创新, 采用时间轴风格罗列课程信息&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+         + 进行了市场调查与数据分析&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+         + APP界面原型的实现 (Axure RP)&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+APP界面&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+    4. Crazy Clock by 孙昭宇&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+         + 用创新的手绘风格的图画装点闹钟应用&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+    5. Open Music by 林施铭&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+         + 全新的音乐应用界面设计&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+APP制作&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+    6. Timeberry by 欧振羽 卢星宇 吴书颖 何振宇 覃振宇&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+         + 痛点: 希望随时随地进行简单高效的时间管理&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+         + 用于 `番茄时间工作法` 的计时器, 并将 `番茄` 形象换为 `草莓`&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+         + 除了计时, 简单记录了总共获得的 `草莓` 数量以及 `最大连击数`&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+
+&amp;gt; 导师辛辣点评。GDG珠海的大妈全力开启吐槽模式，对学生们的作品进行了一针见血的专业点评，这次主要点评了以下几支队伍，包括对他们的点评意见。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+爱课课程表&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+    + 作品展示和演讲能力需要进一步提升&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+    + 需要善于挖掘开发作品的亮点和自己独特的创意&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+    + 明确作品的需求定位&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+Open Music&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+   + 需要对竞品有清晰的认识，以及详细的分析&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+    + 对Android目前的设计标准及Material Design缺乏了解&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+    + 产品界面设计能力欠缺，需要提升和学习&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+    + 要学会利用专业的优势发挥在App的设计上&amp;lt;/p&amp;gt;
+Timeberry&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+   + 要学会团队的合理分工，团队协作&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+   + 唯一有试用demo的团队，值得鼓励&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+   + 加入了自己的创意想法，学会产生产品差异性
+   + 产品功能需要后续扩展和挖掘&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+
+&amp;gt; 颁奖时间&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+最后 Timeberry团队凭借着较强的开发和创意能力，同时提供demo的现场试用等优势脱颖而出，获得最后的优胜。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+
+【写在最后】&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+目前Android App在校园已经很普及，但是正在做到Android App的设计和开发，相关知识还需要大力普及和学习，学生们的热情很高涨，但还有很大一部分需要发掘和激发，之后GDG珠海也会更加深入举办训练营的相关活动。﻿&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;</description><start>2015.05.09 14:30</start><end>16:30</end><location>中国广东省珠海香洲区暨南大学珠海校区</location><participantscount>26</participantscount></event>
+	<event><title>Android Develop Use Webapp</title><chapterid>113382777332300419074</chapterid><description>【活动介绍】&amp;lt;br&amp;gt;
+Android app已经成为我们生活中必不可少的一部分了。那么一个Android Webapp是如何诞生的？本次活动将为你一一拆解它的诞生过程，从零开始，从无到有。&amp;lt;br&amp;gt;
+【活动报名】&amp;lt;br&amp;gt;
+免费参加&amp;lt;br&amp;gt;
+通过Google+账号，点击本活动 上的“参与”，即成功报名参加活动。
+如果一时无法科学上网的,也可使用墙内报名表：http://t.cn/RACbqp8&amp;lt;br&amp;gt;
+【活动流程】&amp;lt;br&amp;gt;
+13:30-14:00：签到&amp;lt;br&amp;gt;
+14:00-14:10：暖场&amp;lt;br&amp;gt;
+14:10-15:10：Android Webapp开发浅析，主讲人：老高&amp;lt;br&amp;gt;
+15:10-15:20：茶歇&amp;lt;br&amp;gt;
+15:20-15:40：Android Webapp开发浅析的Q&amp;amp;A&amp;lt;br&amp;gt;
+15:40-16:40：Android测试分享，主讲人：Alice Tan&amp;lt;br&amp;gt;
+16:40-17:00：Android测试分享的Q&amp;amp;A&amp;lt;br&amp;gt;
+【讲师】&amp;lt;br&amp;gt;
+老高，金山西山居程序猿一枚&amp;lt;br&amp;gt;
+Alice Tan，测试经理妹子一枚，也有一点点产品和运营方面的经验&amp;lt;br&amp;gt;
+
+活动关键数据
+-       参会人数：12人，其中：
+        -       报名7人
+        -       实到10人
+        -       讲师2人
+-       时间：150419 14:30-17:00
+地点：北理工珠海学院游泳馆TomYorkCoffe
+
+流水
+-       老高讲述Andriod以及移动端webapp的发展过程，进行项目解释代码演示
+-       AliceTan分享Android测试的相关内容
+-       Q&amp;amp;A环节，大家对之前分享内容的讨论以及解答
+
+资源
+-       [老高幻灯](https://drive.google.com/file/d/0B5e1heFCTL6LQmdXc19BMTdXSkU/view?usp=sharing)
+-       AliceTan幻灯
+
+[当天活动照片](https://plus.google.com/b/113382777332300419074/events/gallery/c3r438neidssj70ma8g19m7vhok)
+
+活动提及的珠海GDG webapp,欢迎大家fork，完善
+https://gitcafe.com/spawnris/webapp.git
+
+WebApp相关资料地址
+-       [JqMobi](http://app-framework-software.intel.com/)
+-       [Sencha](http://www.sencha.com/)
+-       [Phonegap](http://phonegap.com/)
+-       [Cordava](https://cordova.apache.org/)
+-       [Ionic](http://ionicframework.com/)
+</description><start>2015.04.19 14:00</start><end>17:00</end><location>中国广东省珠海香洲区北京理工大学珠海学院</location><participantscount>12</participantscount></event>
+	<event><title>DevFest-WTM</title><chapterid>113382777332300419074</chapterid><description>【活动介绍】
+&amp;lt;br&amp;gt;Women Techmakers 是由 Google 支持的全球系列活动，这一愿景的一个关键组成部分是赋予女性权力去追求自己的梦想。
+&amp;lt;br&amp;gt;现在的IT 行业以男性为主，技术领域虽然男性占多数，但仍有越来越多的女性参与到IT行业中来，并不乏有很多杰出的女性。珠海GDG社区邀请广大对IT及移动互联网技术学习渴望的程序媛们齐聚一堂，在这里一起学习互联网技术，交流开发心得！
+&amp;lt;br&amp;gt;本次活动是由珠海GDG（全称：珠海谷歌开发者社区）发起。邀请IT互联网中扮演着重要角色的各个岗位女性开发者来分享。
+
+&amp;lt;br&amp;gt;【活动时间】
+&amp;lt;br&amp;gt;2014年3月14日，9:30-17:30
+
+&amp;lt;br&amp;gt;【活动报名】
+&amp;lt;br&amp;gt;免费参加
+&amp;lt;br&amp;gt;通过Google+账号，点击[3.14]DevFest-WTM(Women Techmakers) ZhuHai 上的“参与”，即成功报名参加活动。
+&amp;lt;br&amp;gt;如果一时无法科学上网的,也可使用墙内报名表:珠海GDG[3.14]DevFest-WTM 报名表
+&amp;lt;br&amp;gt;还可发送邮件到support@zhgdg.org进行报名
+
+&amp;lt;br&amp;gt;现场的女生将会免费获得由珠海GDG 精心准备的礼品一份！
+&amp;lt;br&amp;gt;我们也欢迎男生报名来参加，和程序媛们一起感受WTM的魅力！
+&amp;lt;br&amp;gt;tips：如果你是男生，携带女生一起来参加活动，你也将获得礼品一份哦
+
+&amp;lt;br&amp;gt;【活动地点】
+&amp;lt;br&amp;gt;珠海吉大景山北路 金山软件大厦一楼
+&amp;lt;br&amp;gt;- 公交：“水湾北”站下，
+&amp;lt;br&amp;gt;- 具体位置：http://j.map.baidu.com/mvfU6
+
+
+&amp;lt;br&amp;gt;【活动流程】
+&amp;lt;br&amp;gt;09:30 ~ 10:00 现场签到
+&amp;lt;br&amp;gt;10:00 ~ 10:30 GDG珠海社区情况介绍，介绍WTM 30min
+&amp;lt;br&amp;gt;10:30 ~ 12:00 你不知道的Android （TL）
+
+
+&amp;lt;br&amp;gt;12:00 ~ 14:00 午餐+休息+KT板合影
+
+&amp;lt;br&amp;gt;14:00 ~ 14:30 WTM暖场视频
+&amp;lt;br&amp;gt;14:30 ~ 15:00 IT Geek如何像Jobs一样演讲 (贺嘉)
+&amp;lt;br&amp;gt;15:00  ~  15:45 程序媛MM分享:UI MM的日常 （夏左左）
+&amp;lt;br&amp;gt;16:00 ~ 16:45 程序媛MM分享：何谓交互设计 （Cattleya）
+&amp;lt;br&amp;gt;17:00 ~ 17:30 对话程序媛:师姐答疑 （夏左左、Cattleya、TL、Bonnie）
+
+
+&amp;lt;br&amp;gt;【讲师&amp;amp;内容介绍】
+&amp;lt;br&amp;gt;夏左左，金山软件WPS部门可爱的UI萌妹纸
+&amp;lt;br&amp;gt;Cattleya，美貌与智慧并重的北师大师姐，舞蹈功底也很不错哟
+
+
+&amp;lt;br&amp;gt;欢迎大家猛戳全球官网：http://womentechmakers.com/</description><start>2015.03.14 09:30</start><end>17:30</end><location>中国广东省珠海香洲区金山软件大厦</location><participantscount>58</participantscount></event>
+	<event><title>GSoC推荐会</title><chapterid>113382777332300419074</chapterid><description>GSoC，一年一度的谷歌编程之夏又要来了。这是一个大学生的盛日，想让真正的大神带你飞么？想拿5000美元变高富帅么？本期邀请Jactry为大家分享，如何真正的参与GSoC！
+
+
+- ~ 14:00 签到 login
+
+- ~ 14:30 Jactry分享
+
+- ~ 15:30  Q&amp;amp;A环节
+
+- ~ 16:00 线下讨论
+
+- ~ 16:10 结束﻿
+
+总结
+http://www.chinagdg.com/thread-6522-1-1.html
+活动关键数据
+
+参会人数：15人，其中：
+
+报名17人
+
+实到15人
+
+讲师1人
+
+时间：150110 14:30-17:00
+
+地点：北理工珠海学院
+
+流水
+
+配合幻灯播放Jactry的GSoC的主题录音
+
+与Jactry本人Hangout连线进行Q&amp;amp;A
+
+ZQ大妈对珠海GDG进行解读
+
+资源
+
+Jactry幻灯
+
+Jactry录音
+
+当天活动录音和照片
+
+GSoC推荐文章
+
+《做一名开源社区的扫地僧(上)》
+
+《做一名开源社区的扫地僧(下)》
+
+《做一名开源社区的扫地僧(外一篇)》
+
+珠海GDG解读
+
+关于珠海GDG
+
+致在校同学:为什么应该加入珠海GDG社区?
+
+如何加入珠海GDG
+
+思考
+
+大家一起讨论了关于社区的定义，也分享了在社区的经历和收获，以对社区的看法。而如何真正的合理的参与到社区大妈的一句话很是重要，要么你让社区让大家知道你有什么，会什么，能贡献什么，要么让社区让大家知道你没有什么，不会什么。
+
+作业
+
+&quot;我最 NB 的是什么?为什么?怎么复用?&quot;
+
+描述,自个儿最擅长作什么事儿?
+怎么作到的?
+从中可以总结出什么经验?
+这一经验如何复用到自个儿现在最想改进的一个方面技能的改进上?
+交付:
+回复邮件正文中说明
+不要使用 word
+时限:
+2015-1-19 24:00 前
+任何问题,随时在列表或是微信群中交流.</description><start>2015.01.10 14:00</start><end>16:00</end><location>中国广东省珠海香洲区北理工珠海学院</location><participantscount>15</participantscount></event>
+	<event><title>JNU PythoniCamp.4</title><chapterid>113382777332300419074</chapterid><description>&amp;lt;br&amp;gt;兹定于2014年12月7日(本周日) 15:00—17:30，在暨南大学珠海校区教702进行蟒营迭代演示W4交流会，
+&amp;lt;br&amp;gt;在此，诚挚邀请您莅临指导。
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;谨邀！
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;二〇一四年十二月四日
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;##参与人员##
+&amp;lt;br&amp;gt;-导师：周琦（以下简称大妈）
+&amp;lt;br&amp;gt;-蟒营学员（10+人）
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;##活动流程##
+&amp;lt;br&amp;gt;-15:00-16:00 10分钟团队演示+点评
+&amp;lt;br&amp;gt;-16:00-16:10 休息
+&amp;lt;br&amp;gt;-16:10-17：00集中答疑
+&amp;lt;br&amp;gt;-结束
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;##网络环境##
+&amp;lt;br&amp;gt;-教室主机能上网
+&amp;lt;br&amp;gt;-wifi可用，但不太稳定
+&amp;lt;br&amp;gt;-在开始之前会有卢星宇进行网络测试
+&amp;lt;br&amp;gt;##场地条件##
+&amp;lt;br&amp;gt;-有投影
+&amp;lt;br&amp;gt;- 暨大方面没有可靠的录音和录像设备,如果需要,就只好自己携带了.
+</description><start>2014.12.07 15:00</start><end>18:00</end><location>中国广东省珠海香洲区金山软件大厦</location><participantscount>11</participantscount></event>
+	<event><title>SOD-SYSU</title><chapterid>113382777332300419074</chapterid><description>&amp;lt;br&amp;gt;主动向 企业/社区 靠拢,
+&amp;lt;br&amp;gt;虽说, 机会永远青睐有准备的人,
+&amp;lt;br&amp;gt;但是, 还有另外半句呢:&quot; 机会是要自个儿创造的 !-)&quot;
+&amp;lt;br&amp;gt;所以, 这周6 你赢得了自个儿的一次机会.
+&amp;lt;br&amp;gt;特此邀请 前来金山软件大厦, 参观/交流, 共同完成一次各有收获的 SOD 活动 ;-)
+&amp;lt;br&amp;gt;::  地址和交通
+&amp;lt;br&amp;gt;地址: 珠海吉大 景山路 莲山巷8号 金山软件大厦
+&amp;lt;br&amp;gt;会场: 一层北侧 会议厅
+&amp;lt;br&amp;gt;交通: 珠海中天酒店对面,工商银行隔壁,
+&amp;lt;br&amp;gt;    4路,9路,K10路,13路,22路,23路,26路,99路 到水湾北下,即见!
+&amp;lt;br&amp;gt;    坐船,到九洲港下; 城铁到终点 拱北站下; TEXI 13元即达!
+&amp;lt;br&amp;gt;:: 议程
+&amp;lt;br&amp;gt;2014.12.6 (星期六)
+&amp;lt;br&amp;gt;(因不可抗力,可能有小范围变更)
+&amp;lt;br&amp;gt;- 14:50 开始签到, 先到同学在一层中厅安静等候
+&amp;lt;br&amp;gt;- 15:15 各层游览
+&amp;lt;br&amp;gt;- 15:55 顶层合影
+&amp;lt;br&amp;gt;- 16:05 访谈/交流
+&amp;lt;br&amp;gt;- 17:42 结束</description><start>2014.12.06 14:00</start><end>18:00</end><location>中国广东省珠海香洲区金山软件大厦</location><participantscount>29</participantscount></event>
+	<event><title>JNU PythoniCamp.3</title><chapterid>113382777332300419074</chapterid><description>&amp;lt;br&amp;gt;#蟒营迭代演示W3#
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;录音: http://zoomq.qiniudn.com/CPyUG/PythoniCamp/141101-jnu/141130-jnu-w3
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;##概述##
+&amp;lt;br&amp;gt;- 时间：11月30日下午15:00-17:30
+&amp;lt;br&amp;gt;- 地点：暨南大学珠海校区教702
+&amp;lt;br&amp;gt;- 参与人员：
+&amp;lt;br&amp;gt;+ 蟒营学员：10+
+&amp;lt;br&amp;gt;+ 导师：Zoom.Quiet(以下简称“大妈”)
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;###流程###
+&amp;lt;br&amp;gt;1.演示（15:00-15:40）
+&amp;lt;br&amp;gt;-第一组:管家婆 3人
+&amp;lt;br&amp;gt;-上周：做了GUI，总共做了三个小窗口，分开了三个文件窗口
+&amp;lt;br&amp;gt;           实现的功能：让用户输入个人信息然后储存
+&amp;lt;br&amp;gt;                                修改用户信息
+&amp;lt;br&amp;gt;                                输入和输出需要缴纳金额
+&amp;lt;br&amp;gt;-下周：提醒功能放弃，打算直接在电脑上使用，放弃移动端（因为连续两周未达进度）
+&amp;lt;br&amp;gt;-最大困难:多线程问题，程序没有按自己的想法运行
+&amp;lt;br&amp;gt;-点评：演示代码时大家看不清，演示时未说打算有的功能，现在演示的功能，可做关系图来说明功能之间的联系。数据没有加密，不够安全，未体现功能优势，实用性。
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;-第二组:组我吧（Take me up)2人
+&amp;lt;br&amp;gt;-上周：微信公众号基本做完了，设置账号：“:&quot;+微信号;设定了活动面板；各种命令完成的输入设定
+&amp;lt;br&amp;gt;-下周：扩展功能、运行问题
+&amp;lt;br&amp;gt;-难题：邮件察看方面
+&amp;lt;br&amp;gt;-点评:演示了代码并解说，附组我吧的使用手册说明这个订阅号不主动给别人发东西，可主动告诉别人每天有什么活动
+&amp;lt;br&amp;gt; 
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;-第三组：邮泡（mailpop）3人
+&amp;lt;br&amp;gt;-上周：设置了登录窗口、主窗口、查看窗口、编辑邮件功能
+&amp;lt;br&amp;gt;-下周：借鉴QQ气泡窗口，投入更多时间解决特色功能，上网找模板
+&amp;lt;br&amp;gt;-难题：怎样把特色功能弄出来，不知道如何搜索模板，主界面的气泡功能难以实现
+&amp;lt;br&amp;gt;         
+&amp;lt;br&amp;gt;-第四组：乐帮帮（happyhelper）5人
+&amp;lt;br&amp;gt;-本次组员未到未演示，之后会交周报说明
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;2.休息（15:40-15:50）
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;3.大妈与学员面对面交谈（15:50-15:30）
+&amp;lt;br&amp;gt;&amp;gt;要阅读，学会如何搜索
+&amp;lt;br&amp;gt;&amp;gt;保持好奇心
+&amp;lt;br&amp;gt;&amp;gt;选择了就至少要坚持2个月
+&amp;lt;br&amp;gt;&amp;gt;在产品中看到自己的成长
+</description><start>2014.11.30 15:00</start><end>18:00</end><location>中国广东省珠海香洲区暨南大学珠海校区</location><participantscount>10</participantscount></event>
+	<event><title>DevFest2014 Polymer Zhuhai </title><chapterid>113382777332300419074</chapterid><description>Polymer 是 Google 成熟的未来Web 开发统一框架,值得深入体验!
+
+可能的主题:
+
+- I/O review again
+- Polymer intro.
+- cardboard intro.
+- CodeLab for Polymer
+- Joint Event with SouthEastAsia GDG
+
+其它待定....﻿</description><start>2014.11.29 13:00</start><end>18:00</end><location>中国广东省珠海香洲区金山软件大厦</location><participantscount>12</participantscount></event>
+	<event><title>JNU PythoniCamp.2</title><chapterid>113382777332300419074</chapterid><description>&amp;lt;br&amp;gt;#蟒营迭代演示W2#
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt; 录音: &amp;lt;a href=&quot;http://zoomq.qiniudn.com/CPyUG/PythoniCamp/141101-jnu/141122-jnu-w2&quot;&amp;gt;141122-jnu-w2/&amp;lt;/a&amp;gt;
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;##概述##
+&amp;lt;br&amp;gt;- 时间：11月22日下午15:00-17:30
+&amp;lt;br&amp;gt;- 地点：暨南大学珠海校区教702
+&amp;lt;br&amp;gt;- 参与人员：
+&amp;lt;br&amp;gt;+ 蟒营学员：15+
+&amp;lt;br&amp;gt;+ 导师：Zoom.Quiet(以下简称“大妈”)
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;###流程###
+&amp;lt;br&amp;gt;1.演示（15:00-15:40）
+&amp;lt;br&amp;gt;-第一组:组我吧(Take me up) 2人
+&amp;lt;br&amp;gt;   -上周:开通了微信的注册号,设置了注册账号、组团等大致的基本功能
+&amp;lt;br&amp;gt;   -下周：完成多个项目的同时进行组团功能
+&amp;lt;br&amp;gt;   -最大困难:调试
+&amp;lt;br&amp;gt; 
+&amp;lt;br&amp;gt;-第二组:邮泡(mailpop)4人
+&amp;lt;br&amp;gt;    -上周：完成邮件的接收，读取，新建，发送等基本功能，以及GUI的基本设计
+&amp;lt;br&amp;gt;    -下周：CLI与GUI之间的连接
+&amp;lt;br&amp;gt;    -难题：邮件察看方面
+&amp;lt;br&amp;gt; 
+&amp;lt;br&amp;gt;-第三组：乐帮帮（happyhelper）5人
+&amp;lt;br&amp;gt;     -上周：界面的设置显示
+&amp;lt;br&amp;gt;     -下周：发布、注册、登录等基本功能的实现
+&amp;lt;br&amp;gt;     -难题：在不同手机上显示的界面情况不一致
+&amp;lt;br&amp;gt;         
+&amp;lt;br&amp;gt; -第四组：管家婆3人
+&amp;lt;br&amp;gt;     -上周：实现搜寻缴费记录功能，用字典管理实现存储用户帐号密码等
+&amp;lt;br&amp;gt;     -下周：学习关于网络方面的编程、GUI等问题
+&amp;lt;br&amp;gt;     -难题：数据库问题
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;2.休息（15:40-15:50）
+&amp;lt;br&amp;gt; 
+&amp;lt;br&amp;gt;3.大妈与学员面对面交谈（15:50-17:30）
+&amp;lt;br&amp;gt; &amp;gt;坚持团队分工,缺乏沟通依旧是存在的主要问题
+&amp;lt;br&amp;gt; &amp;gt;学会去使用工具库,而不要用QQ(解决不了问题)等
+&amp;lt;br&amp;gt; &amp;gt; 代码为客观依据
+&amp;lt;br&amp;gt; &amp;gt;演示的时候希望能够以一个可用的实体操作系统来进行
+&amp;lt;br&amp;gt; &amp;gt; 命令行、基础、数据库
+&amp;lt;br&amp;gt; 
+&amp;lt;br&amp;gt;-本周退出的成员:潘琦、黄嘉欣、廖颖湳
+(原因将会以邮件的形式呈现) </description><start>2014.11.22 15:00</start><end>18:00</end><location>中国广东省珠海香洲区暨南大学珠海校区</location><participantscount>17</participantscount></event>
+	<event><title>JNU PythoniCamp.1</title><chapterid>113382777332300419074</chapterid><description>&amp;lt;br&amp;gt;#蟒营迭代演示W1#
+&amp;lt;br&amp;gt;录音:
+&amp;lt;br&amp;gt;http://zoomq.qiniudn.com/CPyUG/PythoniCamp/141101-jnu/141116-jnu-w1
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;嘦涉及各团队演示的,严正提醒
+&amp;lt;br&amp;gt;- 一定要提前对目标教室的设备进行测试,环境配置
+&amp;lt;br&amp;gt;- 以便现场快速进入演示状态
+&amp;lt;br&amp;gt;- 不能让俺大老远跑过来, 为大家修电脑吧?
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;为了正式起见
+&amp;lt;br&amp;gt;- 请各团队在自个儿仓库的维基中 发布 w2 演示脚本
+&amp;lt;br&amp;gt;- 说明:
+&amp;lt;br&amp;gt;    - 环境要求
+&amp;lt;br&amp;gt;    - 演示内容
+&amp;lt;br&amp;gt;    - 演示步骤
+&amp;lt;br&amp;gt;    - 细节代码
+&amp;lt;br&amp;gt;    - 已知问题
+&amp;lt;br&amp;gt;    - 主要困难
+&amp;lt;br&amp;gt;    - 方案探索﻿</description><start>2014.11.16 15:00</start><end>18:00</end><location>中国广东省珠海香洲区暨南大学珠海校区</location><participantscount>33</participantscount></event>
+	<event><title>PyCon2014China Zhuhai</title><chapterid>113382777332300419074</chapterid><description>&amp;lt;br&amp;gt;世界Pythoneer 的品牌盛会PyCon! 由 Python软件基金会 下的 PyCon.org 授权中国举办第四届 &amp;lt;br&amp;gt;PyConChina 大会。 本次大会由CPyUG、GDG、TopGeek在 上海、北京、珠海、杭州、苏州同时举办&amp;lt;br&amp;gt;。 
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;Schedule in Zhuhai
+&amp;lt;br&amp;gt;http://cn.pycon.org/en/zhuhai.html
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;meta info:
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;attend: 133+ :
+&amp;lt;br&amp;gt;    - sign up: 159 
+&amp;lt;br&amp;gt;    - invite: 2
+&amp;lt;br&amp;gt;    - be present 109 (local sign in: 3)
+&amp;lt;br&amp;gt;    - speeker 9+1 (hangot TW :1 ;-)
+&amp;lt;br&amp;gt;    - volunteer 15 人
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;detail report: &amp;lt;a href=&quot;http://blog.zhgdg.org/2014-11/et-pycon-zh/&quot;&amp;gt;PyCon2014China-珠海场 无负责报道 | GDG Livin ZhuHai Life;-)&amp;lt;/a&amp;gt;</description><start>2014.11.15 09:00</start><end>18:00</end><location>中国广东省珠海香洲区金山软件大厦</location><participantscount>133</participantscount></event>
+	<event><title>JNU PythoniCamp.0</title><chapterid>113382777332300419074</chapterid><description>
+&amp;lt;br&amp;gt;14:30 Python 自学途径建议
+&amp;lt;br&amp;gt;14:45 蠎营 式工程解释:
+&amp;lt;br&amp;gt;    - 流程
+&amp;lt;br&amp;gt;    - 工具链
+&amp;lt;br&amp;gt;15:15 休息
+&amp;lt;br&amp;gt;15:20 自组团队,设想作品
+&amp;lt;br&amp;gt;    - 明确人
+&amp;lt;br&amp;gt;    - 头脑风暴,圈定 1~2 目标作品
+&amp;lt;br&amp;gt;    - 对作品 进行产品描述:
+&amp;lt;br&amp;gt;        - 名称
+&amp;lt;br&amp;gt;        - 解决什么问题
+&amp;lt;br&amp;gt;        - 怎么解决
+&amp;lt;br&amp;gt;        - 迭代计划
+&amp;lt;br&amp;gt;16:00 逐一评点
+&amp;lt;br&amp;gt;17:00 结束﻿</description><start>2014.11.08 02:00</start><end>06:00</end><location>中国广东省珠海香洲区暨南大学珠海校区</location><participantscount>41</participantscount></event>
+	<event><title>BAS-Python re模块以及爬虫讲解</title><chapterid>113382777332300419074</chapterid><description></description><start>2014.10.26 19:00</start><end>21:00</end><location>中国广东省珠海香洲区北京理工大学珠海学院</location><participantscount>18</participantscount></event>
+	<event><title>DevFest 2014 Zhuhai ware things 珠海开发者节日之可穿戴思考</title><chapterid>113382777332300419074</chapterid><description>&amp;lt;h3&amp;gt;&amp;lt;a href=&quot;http://blog.zhgdg.org/2014-10/devfest-summary-zh/&quot;&amp;gt;DevFest14 珠海 Wear 主题大会总结 | GDG Livin ZhuHai Life;-)&amp;lt;/a&amp;gt;
+&amp;lt;/h3&amp;gt;
+
+&amp;lt;hr&amp;gt;
+&amp;lt;table cellspacing=&quot;0&quot; class=&quot;sites-layout-name-one-column sites-layout-hbox&quot; xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&amp;gt;&amp;lt;tbody&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td class=&quot;sites-layout-tile sites-tile-name-content-1&quot;&amp;gt;&amp;lt;div dir=&quot;ltr&quot;&amp;gt;&amp;lt;span&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; font-weight: bold; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;Google DevFest&amp;lt;/span&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;(谷歌开发者节)是全球各地 Google 开发者社区(&amp;lt;/span&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; font-weight: bold; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;GDG&amp;lt;/span&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;)组织的本地大型开发者活动. &amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;致力于推动 Google 的各种先进技术(包括 Android, Chrome, Google Map, Google 云计算技术,HTML5, Golang 等)在全球的研发和应用,每年都在美国,中国,法国,德国,意大利,瑞士,新西兰,印度,日本等数十个国家举行,堪称谷歌技术爱好者的盛宴!&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;img border=&quot;0&quot; src=&quot;http://www.zhgdg.org/_/rsrc/1412153487556/devfest2014wear/141001-zhgdg-devfest.png&quot; style=&quot;width: 100%;&quot;&amp;gt;&amp;lt;span&amp;gt;&amp;lt;br&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;今年珠海的 &amp;lt;/span&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; font-weight: bold; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;DevFest&amp;lt;/span&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt; 主题内容基于6月在旧金山举行的 &amp;lt;/span&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; font-weight: bold; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;Google I/O&amp;lt;/span&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt; 大会推出的核心技术:&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;    &amp;lt;/span&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; font-weight: bold; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;Android Wear&amp;lt;/span&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt; ~ 可穿戴式移动互联网技术 &amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;为核心主题,组织多种形式的分享 ;-)&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;div&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;同时 珠海GDG 将联合印度/文莱/香港 等其它国家/地区的 GDG社区,&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;通过网络直播(HOA)的形式进行直播分享. 通由直接交流,增强自信心,树立国际化意识;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;br&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; font-weight: bold; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;活动时间:&amp;lt;/span&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt; 2014年10月18日(周六)  13:30~18:30&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; font-weight: bold; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;活动地点:&amp;lt;/span&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt; 珠海市唐家湾镇 金凤路 北京师范大学珠海分校&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; font-weight: bold; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;公交线路:&amp;lt;/span&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt; 乘 69/10A/k3/70/72A 到&quot;北师大&quot;站下&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;br&amp;gt;&amp;lt;h1 dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 21px; font-family: Trebuchet MS; color: rgb(0,0,0); background-color: transparent; font-weight: normal; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;活动形式:&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/h1&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;- 主题分享, 通过现场或是网络直播,就相关技术命题进行阐述&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;- Demo实战, 通过现场编程或是实际穿戴设备的实际体验,就相关技术的开发进行演示&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;- 交流体验, 设立专门的时间,以智能设备为分组,由讲师现场和同学们面对面进行交流,解答疑问&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;a name=&quot;TOC-:&quot;&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;h1 dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:&quot;&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;a name=&quot;TOC-:1&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 21px; font-family: Trebuchet MS; color: rgb(0,0,0); background-color: transparent; font-weight: normal; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;预备建议:&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/h1&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:1&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;- 最好有一定的 Java 或是 HTML5 编程体验,&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:1&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;- 最好能先自行观看 Google I/O 的 Keynote 视频&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:1&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;    &amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;a href=&quot;http://v.youku.com/v_show/id_XNzMxOTE3MTU2.html&quot;&amp;gt;http://v.youku.com/v_show/id_XNzMxOTE3MTU2.html&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;br&amp;gt;&amp;lt;h1 dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:2&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 21px; font-family: Trebuchet MS; color: rgb(0,0,0); background-color: transparent; font-weight: normal; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;报名:&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/h1&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:2&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;- G+: &amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;a href=&quot;http://t.cn/RhnIEkJ&quot;&amp;gt;http://t.cn/RhnIEkJ&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;- 表单: &amp;lt;/span&amp;gt;&amp;lt;a href=&quot;https://gdgdocs.org/r/lB1BNM&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 24px; font-family: Arial; color: rgb(17,85,204); background-color: transparent; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;https://gdgdocs.org/r/lB1BNM&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;- &amp;lt;/span&amp;gt;&amp;lt;span style=&quot;font-size: 16px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; font-weight: bold; font-style: italic; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;或是扫描访问&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15; text-align: center;&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 19px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; font-weight: bold; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;&amp;lt;img alt=&quot;1018_lB1BNM.png&quot; height=&quot;291px;&quot; src=&quot;https://lh3.googleusercontent.com/6mrxmh70-8_XASa3mf-53OxV_0LmjHjFISM3l_MMRjlxehhde1MEd-GQ5je3rzTE_AgFk4UfpZLK9GWBjfgLnoP4LIKOI03OcwiBnizDNojFf2eHkkBmMojO31AtAKc59g&quot; style=&quot;&quot; width=&quot;291px;&quot;&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&amp;lt;h1 dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:3&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 21px; font-family: Trebuchet MS; color: rgb(0,0,0); background-color: transparent; font-weight: normal; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;现场提示:&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/h1&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:3&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;有专人专线,现场指导,注册为 珠海GDG 成员, 不仅为获得特种纪念品&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:3&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;而且, 通过 珠海GDG 可以:&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:3&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;    - 第一时间获知谷歌最新的技术,&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:3&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;    - 可以学到如何去谷歌平台上赚钱的思路和方法,&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:3&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;    - 可以认识很多有可能将来一起走上自己创业道路的人,&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:3&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;    - 可以学会把你的创新带向国际市场,&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:3&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;    - 参加那里的活动有经常和国际上的开发者们进行交流的机会...&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:3&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;    - 这在珠海没有其它社区和会议可以做到!&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;a name=&quot;TOC-:3&quot;&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;h1 dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:3&quot;&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;a name=&quot;TOC-:4&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 21px; font-family: Trebuchet MS; color: rgb(0,0,0); background-color: transparent; font-weight: normal; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;活动议程:&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/h1&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15; text-align: center;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:4&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 24px; font-family: Arial; color: rgb(0,0,255); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;2014-10-18(Sat.) (as Zhuhai Local time UTC+8:00)&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:4&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;- 13:00 启动 open&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:4&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;- ~ 13:30 签到 login&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:4&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;- ~ 14:00 开场, 介绍GDG珠海 &amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:4&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;    start, intro. GDG&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:4&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;- ~ 14:45 IO 回顾 &amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:4&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;    IO-review&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:4&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;- ~ 15:45 多国联合空中分享 &amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:4&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;    Cross-Countrys Joint Hangout with&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:4&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;    - 14:40~14:45 和文莱互动&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:4&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;        Hangout say hallo Brunei&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:4&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;    - 14:45~15:00 文莱GDG 技术分享&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:4&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;        Hangout speech from Brunei&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:4&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;    - 14:45~15:00 直播问答&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:4&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;        Hangout Q&amp;amp;A&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:4&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;    - 15:00~15:15 香港GDG 有关 ~ Google Map 技术分享&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:4&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;        Hangout speech from HK about Google Map&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:4&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;    - 15:15~15:20 直播问答&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:4&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;        Hangout Q&amp;amp;A&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:4&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;    - 15:20~15:35 班加罗尔GDG ~ Android Wear设计思想&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:4&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;        Hangout speech from Blrdroid about Wear design&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:4&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;    - 15:35~15:40 直播问答&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:4&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;        Hangout Q&amp;amp;A&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:4&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;    - 15:45~16:00 珠海本地分享 ~ 介绍 QPython&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:4&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;        speech from Zhuhai QPython intro. &amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:4&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;- ~ 16:00 间歇 合照 &amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:4&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;    break and foto&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:4&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;- ~ 16:45 广州团队分享 Glass 开发体验 &amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:4&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;    GlassX intro.&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:4&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;- ~ 17:30 珠海WPS工程师 演示 Android Wear 应用开发 &amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:4&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;    Android Wear demo&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:4&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;- ~ 18:00 珠海WPS工程师 演示 &amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:4&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;    Cardboard demo&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:4&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;- ~ 18:30 设备体验和自由问答 &amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:4&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;    end and QA&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;a name=&quot;TOC-:4&quot;&amp;gt;&amp;lt;br&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;其它任何疑问, 随时向珠海GDG 发信咨询:&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.15;&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: Arial; color: rgb(0,0,0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;support@zhgdg.org&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.5909091342579236;&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 16px; font-family: Verdana; color: rgb(152,0,0); font-weight: bold; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;有关活动形式 ~ HOA&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.5909091342579236;&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 16px; font-family: Verdana; color: rgb(68,68,68); vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;- E文名: Hangout on Air&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.5909091342579236;&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 16px; font-family: Verdana; color: rgb(68,68,68); vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;- 中文名: 技术无界分享会&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.5909091342579236;&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 16px; font-family: Verdana; color: rgb(68,68,68); vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;- 常规技术分享,通过 Hangout 服务直播为 YouTube 视频&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.5909091342579236;&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 16px; font-family: Verdana; color: rgb(68,68,68); vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;- 在珠海GDG 平均每月至少会组织一次&amp;lt;/span&amp;gt;&amp;lt;span style=&quot;font-size: 16px; font-family: Verdana; color: rgb(68,68,68); vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;.&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.5909091342579236;&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 16px; font-family: Verdana; color: rgb(68,68,68); font-style: italic; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;------------------------- GDG珠海 -------------------------&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.5909091342579236;&quot;&amp;gt;&amp;lt;a name=&quot;TOC-:4&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 16px; font-family: Verdana; color: rgb(68,68,68); vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;邮件列表: &amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;a href=&quot;mailto:gdg-zhuhai@googlegroups.com&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 16px; font-family: Verdana; color: rgb(17,85,204); text-decoration: underline; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;gdg-zhuhai@googlegroups.com&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;span style=&quot;font-size: 16px; font-family: Verdana; color: rgb(68,68,68); vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt; &amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.5909091342579236;&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 16px; font-family: Verdana; color: rgb(68,68,68); vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt; (可发空邮件到 gdg-zhuhai+subscribe@googlegroups.com 即完成订阅)&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.5909091342579236;&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 16px; font-family: Verdana; color: rgb(68,68,68); vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;Blog: &amp;lt;/span&amp;gt;&amp;lt;a href=&quot;http://blog.zhgdg.org&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 16px; font-family: Verdana; color: rgb(17,85,204); font-weight: bold; text-decoration: underline; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;http://blog.zhgdg.org&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.5909091342579236;&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 16px; font-family: Verdana; color: rgb(68,68,68); vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;G+ 主页: GDG ZhuHai &amp;lt;/span&amp;gt;&amp;lt;a href=&quot;http://gplus.to/gdgzh&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 16px; font-family: Verdana; color: rgb(17,85,204); text-decoration: underline; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;http://gplus.to/gdgzh&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.5909091342579236;&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 16px; font-family: Verdana; color: rgb(68,68,68); vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;G+ 社群: ZhuHai GDG &amp;lt;/span&amp;gt;&amp;lt;a href=&quot;http://gplus.to/zhGDG&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 16px; font-family: Verdana; color: rgb(17,85,204); text-decoration: underline; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;http://gplus.to/zhGDG&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.5909091342579236;&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 16px; font-family: Verdana; color: rgb(68,68,68); vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;微博: @GDG珠海 &amp;lt;/span&amp;gt;&amp;lt;a href=&quot;http://weibo.com/gdgzh&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 16px; font-family: Verdana; color: rgb(17,85,204); text-decoration: underline; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;http://weibo.com/gdgzh&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.5909091342579236;&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 16px; font-family: Verdana; color: rgb(68,68,68); vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;+ 微信: &amp;lt;/span&amp;gt;&amp;lt;span style=&quot;font-size: 16px; font-family: Verdana; color: rgb(68,68,68); font-weight: bold; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;GDG珠海&amp;lt;/span&amp;gt;&amp;lt;span style=&quot;font-size: 16px; font-family: Verdana; color: rgb(68,68,68); vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt; &amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.5909091342579236;&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 16px; font-family: Verdana; color: rgb(68,68,68); vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;    - 搜索微信号: &amp;lt;/span&amp;gt;&amp;lt;span style=&quot;font-size: 16px; font-family: Verdana; color: rgb(68,68,68); font-weight: bold; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;GDG-ZhuHai&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.5909091342579236;&quot;&amp;gt;&amp;lt;span style=&quot;font-size: 16px; font-family: Verdana; color: rgb(68,68,68); vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;    - 查找公众号: &amp;lt;/span&amp;gt;&amp;lt;span style=&quot;font-size: 16px; font-family: Verdana; color: rgb(68,68,68); font-weight: bold; vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;GDG珠海&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;span style=&quot;font-size: 15px; font-family: SimSun; color: rgb(68,68,68); vertical-align: baseline; white-space: pre-wrap;&quot;&amp;gt;&amp;lt;img alt=&quot;qrcode_for_gh_5e32c47b5b23_344.jpg&quot; height=&quot;344px;&quot; src=&quot;https://lh4.googleusercontent.com/RDRCfSZ7kSwqzf37KYv7dlvCENywlW_TQYWEcSppCUAuTEKCxzXT45C7EFiYgv8fvQj3cCZ5chgLb5xATrPf_v7pbOYtai-i5KrFk98Uieuce_F5-xSU5Xzk2O1Gunyp_A&quot; style=&quot;&quot; width=&quot;344px;&quot;&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/tbody&amp;gt;&amp;lt;/table&amp;gt;</description><start>2014.10.18 14:00</start><end>18:00</end><location>中国广东省珠海香洲区金凤路北京师范大学珠海分校</location><participantscount>108</participantscount></event>
+	<event><title>HwH 之 SAE初体验</title><chapterid>113382777332300419074</chapterid><description>
+&amp;lt;br&amp;gt;首次折腾的怎么样儿呢?
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;    #gdg 
+&amp;lt;br&amp;gt;    #zhouhai
+&amp;lt;br&amp;gt;    #rport
+&amp;lt;br&amp;gt;    #2014
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;感谢 北师珠 师生的支持, 得以令 珠海GDG 又进入一个大学 ;-)
+&amp;lt;br&amp;gt;详细: &amp;lt;a href=&quot;http://blog.zhgdg.org/2014-09/hwh-sae-summary/&quot;&amp;gt;HwH 之 SAE初体验-回顾小结 | GDG Livin ZhuHai Life;-)&amp;lt;/a&amp;gt;
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;总计:
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;- G+报名: 4人
+&amp;lt;br&amp;gt;- Docs报名: 21
+&amp;lt;br&amp;gt;- 现场: 44人(讲师+助教3人)
+&amp;lt;br&amp;gt;- 线上: 6人
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+议程:&amp;lt;br&amp;gt;
+15分钟, 主题介绍, 快速总览目标准备命题涉及的方面&amp;lt;br&amp;gt;
+2.5小时, Demo实战, 在导师引导下,同学们一步步自主完成系列小任务,最终各自完成一个可运行的实例系统&amp;lt;br&amp;gt;
+30分钟,闪电秀, 3分钟一次演讲的形式,请所有同学向所有人分享现场体验/自得&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+报名:&amp;lt;br&amp;gt;
+https://gdgdocs.org/r/Mws797 &amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+面向:&amp;lt;br&amp;gt;
+对新技术有好奇心&amp;lt;br&amp;gt;
+对程序员这一行业有认同感,期望毕业后能继续从事相关职业&amp;lt;br&amp;gt;
+平常有关注 Google 发布的前沿技术&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+预备:&amp;lt;br&amp;gt;
+参与同学有私人笔记本电脑&amp;lt;br&amp;gt;
+参与同学有一定的任意编程语言基础,独立完成超过100行可运行代码的撰写&amp;lt;br&amp;gt;
+自行在个人电脑上安装好 activepython&amp;lt;br&amp;gt;
+http://www.activestate.com/activepython&amp;lt;br&amp;gt;
+自行完成 SAE 的注册并能根据文档创建 demo 工程&amp;lt;br&amp;gt;
+http://sae.sina.com.cn&amp;lt;br&amp;gt;
+
+预习: Python — SAE文档中心 1.0 文档 &amp;lt;br&amp;gt;http://sae.sina.com.cn/doc/python/index.html 最好能完成文档中简单 demo 的部署和运行&amp;lt;br&amp;gt;
+参考在线教程:SAE基础 (用Python 在 SINA应用云上完成系统原型) &amp;lt;br&amp;gt;http://chaos2.zoomquiet.io/sae/build/html/﻿&amp;lt;br&amp;gt;</description><start>2014.09.27 14:00</start><end>17:30</end><location>中国广东省珠海香洲区金凤路北京师范大学珠海分校 励耘楼 B206</location><participantscount>44</participantscount></event>
+	<event><title>CodeGirls.4 Zhuhai</title><chapterid>113382777332300419074</chapterid><description>&amp;lt;p&amp;gt;活动主题：做更美丽的你&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+活动介绍：CodeGirls是专注于女性的分享交流活动，我们会是一场有意义的讲座，一次有趣的沙龙，还会是一个认识志同道合的朋友的平台。从参与者到嘉宾都是来自互联网圈、科技圈或是跨界的女性朋友。这一次我们将来谈谈在面对新的职业规划时我们如何做出抉择，在工作和生活中，女性往往扮演着重要角色，两者该如何处理和协调。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+活动时间：2014年8月30日 14:00~16:00&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+活动地点：广东省珠海市吉大景山路莲山巷8号 金山软件大厦 1F贵宾厅&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+报名地址：http://t.cn/RP3XnVU &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+活动安排：&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+13:50~14:00 现场签到&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+14:00~14:15 到场人员介绍 social time&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+14:15~14:30 GDG珠海情况介绍&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+14:30~15:30 主题内容分享&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+15:30~15:40 茶歇&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+15:40~16:00 交流分享&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+将有从事测试、运营、设计等岗位的女生讲述她们的心得感受、职场和生活中发生的故事，与大家分享里面的心情、经验。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;</description><start>2014.08.30 14:00</start><end>16:00</end><location>广东省珠海市吉大景山路莲山巷8号金山软件大厦 </location><participantscount>18</participantscount></event>
+	<event><title>【8.29】CBI.7  For Zhuhai ，一起动手玩CT</title><chapterid>113382777332300419074</chapterid><description>
+【活动时间】&amp;lt;br&amp;gt;
+2014年8月29日（周五），15:00~17:30&amp;lt;br&amp;gt;
+
+【活动地点】&amp;lt;br&amp;gt;
+珠海市唐家湾镇港湾大道科技园一路十号民营科技大厦主楼三楼&amp;lt;br&amp;gt;
+
+【参会人数】&amp;lt;br&amp;gt;
+15人&amp;lt;br&amp;gt;
+
+【活动流程】&amp;lt;br&amp;gt;
+    14:50~15:00  现场签到&amp;amp;活动准备&amp;lt;br&amp;gt;
+
+    15:00~15:10  GDG社区简介以及自我介绍&amp;lt;br&amp;gt;
+
+    15:10~16:40  动手做基于CT和DVK的实践小项目&amp;lt;br&amp;gt;
+
+    16:40~17:00  茶歇&amp;lt;br&amp;gt;
+
+    17:00~17:30  动手在CT上安装街机游戏，现场回顾学生时期经典的街机游戏&amp;lt;br&amp;gt;
+
+
+【活动资料】&amp;lt;br&amp;gt;
+照片、刷机视频、小项目详情和街机详情：http://cbi7.qiniudn.com/CBI.7.rar
+&amp;lt;br&amp;gt;
+-----------------------------------宣传------------------------------------------------&amp;lt;br&amp;gt;
+CBI的系列活动已经举行了6次了，之前的活动内容大部分都是“刷机”。半年过去了，大家“刷机”也刷累了，刷够了吧？这一次就以CT为例子，带大家玩一些好玩的东西。&amp;lt;br&amp;gt;
+
+【活动报名】&amp;lt;br&amp;gt;
+*免费参加&amp;lt;br&amp;gt;
+*本次活动人数上限为30，由于人数的限制，报名快的小伙伴将会被优先邀请哦！&amp;lt;br&amp;gt;
+*墙内链接：http://t.cn/RPditTN&amp;lt;br&amp;gt;
+*G+活动页面注册：http://t.cn/RPd66cb&amp;lt;br&amp;gt;
+【活动时间】&amp;lt;br&amp;gt;
+2014年8月29日（周五），15:00~17:30&amp;lt;br&amp;gt;
+
+【活动地点】&amp;lt;br&amp;gt;
+珠海市唐家湾镇港湾大道科技园一路十号民营科技大厦主楼三楼&amp;lt;br&amp;gt;
+
+【活动流程】&amp;lt;br&amp;gt;
+    14:50~15:00  现场签到&amp;lt;br&amp;gt;
+    15:00~15:10  GDG社区简介以及自我介绍&amp;lt;br&amp;gt;
+    15:10~16:40  动手做基于CT和DVK的实践小项目&amp;lt;br&amp;gt;
+    16:40~17:00  茶歇&amp;lt;br&amp;gt;
+    17:00~17:30  动手在CT上安装街机游戏，现场回顾学生时期经典的街机游戏&amp;lt;br&amp;gt;
+【活动现场】&amp;lt;br&amp;gt;
+会给大家准备好美食&amp;amp;饮料&amp;lt;br&amp;gt;
+动手环节中，最先做出的小伙伴能获得安卓小机器人一个&amp;lt;br&amp;gt;</description><start>2014.08.29 15:00</start><end>17:30</end><location>珠海市唐家湾镇港湾大道科技园一路十号民营科技大厦主楼三楼</location><participantscount>15</participantscount></event>
+	<event><title>HOA.9 for ZhuHai as LitePyConChina</title><chapterid>113382777332300419074</chapterid><description>#gdg 
+#zhouhai
+#hoa 
+#gdl 
+#rport
+#2014
+
+&amp;lt;br&amp;gt;Summary:
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;G+ reg.: 22人 docs reg.: 8人
+&amp;lt;br&amp;gt;local: 12人
+&amp;lt;br&amp;gt;board: 17人
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+&amp;lt;img src=&quot;http://zoomq.qiniudn.com/ZQCollection/foto/140816-hoa9_4.pic.jpg?imageMogr2/thumbnail/800x/crop/!600x300a120a250&quot;&amp;gt;
+
+&amp;lt;br&amp;gt;回顾报道(Chinese):
+&amp;lt;br&amp;gt;HOA.9 LitePyCon | GDG Livin ZhuHai Life;-) 
+&amp;lt;br&amp;gt;    http://blog.zhgdg.org/2014-08/et-hoa9-summary/
+
+&amp;lt;br&amp;gt;为了筹备 11/15 的PyConChina 珠海场,
+&amp;lt;br&amp;gt;我们决定进行一系列小型的 LitePyCon 活动来激发珠三角地区的 Pythoneer ;-)
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;首次来访的是珠三角技术沙龙的创始人之一 赖勇浩
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;可能主题:
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;+ 赖勇浩《python web dev 的困惑与突破》
+&amp;lt;br&amp;gt;+ 大妈 在移动设备上用Python完成App原型
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;报名链接:
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;http://t.cn/RPXHDrP</description><start>2014.08.16 15:00</start><end>18:00</end><location>中国广东省珠海香洲区金山软件大厦</location><participantscount>29</participantscount></event>
+	<event><title>HOA.8 in ZhuHai joint Suzhu for Chaos2go</title><chapterid>113382777332300419074</chapterid><description>&amp;lt;br&amp;gt;#zhuhai   #gdg   #hoa   #golang  
+&amp;lt;br&amp;gt; pure Hangout , CodeLab with GAE+golang
+&amp;lt;br&amp;gt;joint Evnets:
+&amp;lt;br&amp;gt;https://plus.google.com/events/c0r5pnhr14fd3sj9irfl9qm0f0k
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;Summary:
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;G+ reg: 34
+&amp;lt;br&amp;gt;local: 17
+&amp;lt;br&amp;gt;board: 23
+&amp;lt;br&amp;gt;
+&amp;lt;img src=&quot;http://zoomq.qiniudn.com/ZHGDG/2014/140813-hoa8-go4gae/140813-zq-gae-go.png?imageView2/2/w/600&quot;&amp;gt;
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;回顾报道:
+&amp;lt;br&amp;gt;HOA.8 go在GAE | GDG Livin ZhuHai Life;-) 
+&amp;lt;br&amp;gt;    http://blog.zhgdg.org/2014-08/et-hoa8-summary/
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;教程:42分钟乱入 GAE(with go1) !-) — chaos2go1 1.0.120510 documentation 
+&amp;lt;br&amp;gt;    http://chaos2.qiniudn.com/go1/build/html/﻿
+</description><start>2014.08.13 19:30</start><end>20:30</end><location>中国广东省珠海香洲区金山软件大厦</location><participantscount>33</participantscount></event>
+	<event><title>【7.24】CBI.6 For Zhuhai，硬件也能玩出灿烂的花火</title><chapterid>113382777332300419074</chapterid><description>【活动时间】&amp;lt;br&amp;gt;
+2014年7月24日（周四），16:00~18:00&amp;lt;br&amp;gt;
+
+【活动地点】&amp;lt;br&amp;gt;
+珠海市唐家湾镇港湾大道，科技园一路十号，民营科技大厦主楼三楼&amp;lt;br&amp;gt;
+
+【参会人数】&amp;lt;br&amp;gt;
+26人（包括小言一枚，志愿者5枚以及小伙伴N枚）&amp;lt;br&amp;gt;
+
+【活动流程】&amp;lt;br&amp;gt;
+    16:00~16:15  现场签到&amp;amp;准备&amp;lt;br&amp;gt;
+
+    16:15~16:25  小言做GDG社区介绍&amp;lt;br&amp;gt;
+
+    16:25~17:40  小伙伴们分享学习的经历以及学习中遇到的好玩的事&amp;lt;br&amp;gt;
+
+侯德善：在跟小伙伴一起学习很轻松，由于有一定的基础，所以学习过程很顺利&amp;lt;br&amp;gt;
+
+宋平：渐渐了解Linux嵌入式相关的知识，遇到的好玩的事是自己折腾出了“无线摄像头”，私下可以跟小伙伴进行分享&amp;lt;br&amp;gt;
+
+吴海添：还停留在单片机的学习阶段，还没真正体会到嵌入式好玩的地方&amp;lt;br&amp;gt;
+
+方灿鑫：学习嵌入式的过程比较吃力，需要加强动手实践的能力。最happy的是每天都很充实，忙到吃饭时间才停下来歇会&amp;lt;br&amp;gt;
+
+李东杭：从小白进化到半小白，很努力地学习。但是只是动手实践，没有深究其原理。感觉不是很自信，觉得自己比不上别人（小言有话说：其实每个人都会有处于小白的阶段的时候，这真的不用太小看自己。如果真的喜欢嵌入式，就自己多折腾哈）&amp;lt;br&amp;gt;
+
+蔡晓海：作为小组长，自己虽然有时候也会有点跟不上，但是还是带着组员努力折腾&amp;lt;br&amp;gt;
+
+梁天智：刚开始跟大家有差距，但是逐渐跟上大家的脚步。平时学习也蛮积极的，还跟大家分享了朋友丢失CT的经历，进而展开了一连串的幻想（小言有话说：不得不佩服他的想象能力呀）&amp;lt;br&amp;gt;
+
+刘剑彬：对于嵌入式的学习有点难上手，但是平常折腾得比较多&amp;lt;br&amp;gt;
+
+潘祖堂：还停留在学习单片机的阶段，现阶段学习有点跟不上。最纠结的是卡系统做不出来，也进行了自我检讨。对四轴飞行器很感兴趣&amp;lt;br&amp;gt;
+
+杨文峰：有自己折腾的习惯，正处于半小白的阶段，由于一些客观的原因有点跟不上进度（小言有话说：赶紧去配眼镜哪）&amp;lt;br&amp;gt;
+
+谭建新：分享了一年来自己折腾Linux的经历，也跟大家分享了如何科学上网&amp;lt;br&amp;gt;
+
+校长：作为讲师，校长给我们分享了这半个月来大家一起成长的经历，也发现了自己分享方式的缺点，在后续的跟大家一起学习的过程中会进行改进&amp;lt;br&amp;gt;
+
+Payne：由于要跟大家进行分享，所以自己私下要花更多的时间去学习嵌入式的相关知识，跟大家一起共同成长&amp;lt;br&amp;gt;
+
+    17:40~17:50  茶歇&amp;lt;br&amp;gt;
+    17:50~18:00  体验基于CT的安卓系统上的APP，以及活动结束&amp;lt;br&amp;gt;
+
+【活动资料】&amp;lt;br&amp;gt;
+现场录音：http://t.cn/RPGpthg （PS：由于设备的问题，部分内容没能进行录音）&amp;lt;br&amp;gt;
+现场幻灯：&amp;lt;br&amp;gt;
+GDG介绍：&amp;lt;br&amp;gt;
+http://t.cn/RPGpaPo&amp;lt;br&amp;gt;
+谭建新的分享&amp;lt;br&amp;gt;
+http://t.cn/RPGplzX&amp;lt;br&amp;gt;
+现场照片：http://t.cn/RPy6QiO （PS：需科学上网）&amp;lt;br&amp;gt;
+
+-----------------------------------分割线-------------------------------------------&amp;lt;br&amp;gt;
+时隔1个月，CBI系列活动强势回归！最近很多小伙伴都在学习CT以及一些嵌入式相关的知识，那么在学习的过程中，小伙伴们遇到过哪些好玩的事呢？赶紧来和我们一起分享吧！&amp;lt;br&amp;gt;
+
+【活动报名】&amp;lt;br&amp;gt;
+* 免费参加&amp;lt;br&amp;gt;
+* 本次活动人数上限为30，由于人数的限制，报名快的小伙伴将会被优先邀请哦！&amp;lt;br&amp;gt;
+* 墙内链接：http://t.cn/RPyiVrm&amp;lt;br&amp;gt;
+* G+活动页面注册：http://t.cn/RPy6QiO&amp;lt;br&amp;gt;
+【活动时间】&amp;lt;br&amp;gt;
+2014年7月24日（周四），16:00~18:00&amp;lt;br&amp;gt;
+
+【活动地点】&amp;lt;br&amp;gt;
+珠海市唐家湾镇港湾大道，科技园一路十号，民营科技大厦主楼三楼&amp;lt;br&amp;gt;
+
+【活动流程】&amp;lt;br&amp;gt;
+    16:00~16:05  现场签到&amp;lt;br&amp;gt;
+    16:05~16:20  GDG社区简介以及自我介绍&amp;lt;br&amp;gt;
+    16:20~17:20  小伙伴们分享学习中遇到的好玩的事&amp;lt;br&amp;gt;
+    17:20~17:30  茶歇&amp;lt;br&amp;gt;
+    17:30~18:00  制作Android卡启动固件，并在上面安装一些好玩的程序&amp;lt;br&amp;gt;
+
+【活动现场】&amp;lt;br&amp;gt;
+会给大家准备好美食&amp;lt;br&amp;gt;
+参与分享的小伙伴还可以获得小礼品哦&amp;lt;br&amp;gt;</description><start>2014.07.24 16:00</start><end>18:00</end><location>珠海市唐家湾镇港湾大道，科技园一路十号，民营科技大厦主楼三楼</location><participantscount>26</participantscount></event>
+	<event><title>IO-review HOA.7 for ZhuHai IO回顾</title><chapterid>113382777332300419074</chapterid><description>#gdg #zhuhai #2014 #report 
+&amp;lt;br&amp;gt;一年一度的 Google I/O 结束了，这次GDG Zhuhai有三位成员有幸可以直达I/O现场，亲身感受此次Google给大家带来的惊喜。
+本次活动，我们将此次在美国的所见所闻，以及I/O的编外见闻与大家分享，还带来了一些有意思的玩意儿，感受新鲜科技的魅力。
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;【活动时间】
+&amp;lt;br&amp;gt;2014年7月20日 14:00~16:00
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;【活动地点】
+&amp;lt;br&amp;gt;珠海市吉大景山路莲山巷8号金山软件大厦 15F
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;【参会人数】
+&amp;lt;br&amp;gt;6人
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;【活动流水】
+&amp;lt;br&amp;gt;14:00~14:20 签到，暖场
+&amp;lt;br&amp;gt;14:20~14:40 珠海GDG社区组委老高介绍珠海GDG的相关情况
+&amp;lt;br&amp;gt;14:40~15:30 I/O回顾和分享，以及美国见闻 - 珠海GDG社区 谭莉MM
+&amp;lt;br&amp;gt;15:30~15:40 茶歇+合影留念
+&amp;lt;br&amp;gt;15:40~16:00 分享Cardboard、Android Wear实物和相关技术，讨论 
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;【神器展示】
+&amp;lt;br&amp;gt;1. Cardboard: 谷歌这款虚拟现实解决方案非常平易近人，拥有Android手机的用户都可参与其中。它也无需任何特殊的硬件，成本几乎为零。
+你只需要把纸壳叠成预设的形状，把Android设备放入其中，然后将其放在眼前，便可开始一段虚拟现实之旅。
+&amp;lt;br&amp;gt;2. Android Wear, Samsung Gear live
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;【活动资料】
+&amp;lt;br&amp;gt;1.更多照片：
+&amp;lt;br&amp;gt;https://plus.google.com/u/0/b/113382777332300419074/events/c02a6jllijtva2etcg5sd20b97s
+&amp;lt;br&amp;gt;2.HOA地址：
+&amp;lt;br&amp;gt;https://plus.google.com/u/0/b/113382777332300419074/events/co982d6dlt1i6dtulhbie4v0j6c
+&amp;lt;br&amp;gt;3.神器相关资料:
+&amp;lt;br&amp;gt;- cardboard 
+&amp;lt;br&amp;gt;https://play.google.com/store/apps/details?id=com.google.samples.apps.cardboarddemo
+&amp;lt;br&amp;gt;https://gweb-cardboard.appspot.com/
+&amp;lt;br&amp;gt;- Android Wear
+&amp;lt;br&amp;gt;http://www.android.com/wear/
+&amp;lt;br&amp;gt;http://developer.android.com/wear/index.html
+&amp;lt;br&amp;gt;</description><start>2014.07.20 14:00</start><end>17:30</end><location>中国广东省珠海香洲区珠海金山软件公司</location><participantscount>6</participantscount></event>
+	<event><title>Google I/O Extended Zhuhai</title><chapterid>113382777332300419074</chapterid><description>#io14extended  #zhuhai #gdg #2014 #report&amp;lt;br&amp;gt;
+
+I / O Ext ZhuHai night special live post a summary post to the ......
+Tang concert on June 25 ended successfully as early as 3:00&amp;lt;br&amp;gt;
+
+And people around the world concerned about Google&apos;s new technology for the first time released&amp;lt;br&amp;gt;
+Opportunity to finally provide technical enthusiasts a night long conversation really do, eat together, drink together, sleep together, watching live&amp;lt;br&amp;gt;
+I hope to bring everyone shines new technology works with Google&amp;lt;br&amp;gt;
+
+This year I / O conference highlights:&amp;lt;br&amp;gt;
+AndroidOne plan&amp;lt;br&amp;gt;
+AndroidOne is a program for developing markets. Through a wide range of optional components designed to create high-quality, low-cost smartphone.&amp;lt;br&amp;gt;
+
+Android L system&amp;lt;br&amp;gt;
+The system uses a new design, with simple buttons, rounded font application icon and a new, multi-task switching to a card stack effect, the default runtime environment using ART, fully compatible with 64-bit mobile processor, using the precompiled approach will make Android the system run more smoothly, the new increase 5000 new API. Android L system is the official version will be launched this fall.&amp;lt;br&amp;gt;
+
+Android Wear&amp;lt;br&amp;gt;
+Google Android Wear a smart watch to create a new intelligent platform Android Wear.&amp;lt;br&amp;gt;
+Google said it would publish the full Android Wear SDK, API consistent with the standard version of its Android API, developers porting applications do not exist difficulty.&amp;lt;br&amp;gt;
+
+
+Android Auto&amp;lt;br&amp;gt;
+Google released the Android Auto Assembly on-board systems to destabilize Apple&apos;s CarPlay, new AndroidAuto SDK contains a system similar to other Android Notification Center API interface allows developers to develop applications for the automobile.&amp;lt;br&amp;gt;
+
+Android TV&amp;lt;br&amp;gt;
+This is a Google user to occupy the living room of a product, it will be a platform product, the system can be used for television set-top boxes, there is a corresponding SDK, and not just the TV itself.&amp;lt;br&amp;gt;
+Android TV is a dual-purpose platforms: television and games. It needs to be a voice control D Pad. In addition, users can also use Android Wear smart wristwatch device to control Android TV.&amp;lt;br&amp;gt;
+
+Google Fit&amp;lt;br&amp;gt;
+Google Fit through a series of API to manage collected from sensors, application of health data. Currently, Google Fit has a large number of partners, Adidas and Nike certainly will not be an exception.&amp;lt;br&amp;gt;
+
+Google&apos;s cloud offerings&amp;lt;br&amp;gt;
+Google Drive and Google cloud platform. Google Drive lets Microsoft has clearly felt the pressure:&amp;lt;br&amp;gt;
+
+     Google Drive is now 30 days average number of active users has reached 190 million people or more.&amp;lt;br&amp;gt;
+     The world&apos;s top 100 start-ups, the 67 converted from Microsoft Office to use Google products;&amp;lt;br&amp;gt;
+     Fortune 500 companies, the 58% have switched to Google;&amp;lt;br&amp;gt;
+     The world&apos;s top 100 universities, 72 have been put into the arms of Google.&amp;lt;br&amp;gt;
+
+Participants welfare&amp;lt;br&amp;gt;
+Conference final, Google said that all participants can get free LG G Watch or Samsung Gear Live smart watches, and after MOTO 360 released, Google will be presented to each participant. After returning everyone some playing Aunt&amp;lt;br&amp;gt;
+
+
+Theme: 2014Google I / O Conference in Zhuhai GDG Night Live - Tang Session&amp;lt;br&amp;gt;
+Location: Zhuhai Harbour Town Science and Technology Park Avenue Tangjiawan Vice Floor, Block B all the way to ten Private Technology Building, fourth floor, No. A15, A16&amp;lt;br&amp;gt;
+Moderator: Spawnris(I)&amp;lt;br&amp;gt;
+Events water:&amp;lt;br&amp;gt;
+21:30 ~ 22:00 Volunteers reach the venue, ready to sign, venue layout&amp;lt;br&amp;gt;
+22:00 - 22:20 Registration, equipment commissioning&amp;lt;br&amp;gt;
+22:20 ~ 22:40 Opening, I do GDG Community Profile and self-introduction of participants&amp;lt;br&amp;gt;
+22:40 ~ 23:10 Google&apos;s universal knowledge, and communication with the junior partner in the United States in line&amp;lt;br&amp;gt;
+23:10 - 24:00 Review 2013 Google I / O conference, and small partners site exchange&amp;lt;br&amp;gt;
+Live 0:00 ~ 2:40 I / O Conference, released midway food and drink&amp;lt;br&amp;gt;
+2:40 ~ 3:00 distributed prizes to exchange again&amp;lt;br&amp;gt;
+3:00 ~ 3:10 to announce the end of the activities&amp;lt;br&amp;gt;
+
+Participation in the crowd: college based primarily Zhuhai&amp;lt;br&amp;gt;
+
+Participation:&amp;lt;br&amp;gt;
+          23 people attended&amp;lt;br&amp;gt;
+
+Members Distribution:&amp;lt;br&amp;gt;
+Northern Polytechnic College in Zhuhai&amp;lt;br&amp;gt;
+Sugar Technology Co. employees&amp;lt;br&amp;gt;
+                Zhuhai City, the first high school&amp;lt;br&amp;gt;
+                Zhuhai other IT companies&amp;lt;br&amp;gt;
+
+Data compilation:&amp;lt;br&amp;gt;
+GDG warm up slide: https://docs.google.com/file/d/0 ... TA / edit usp = sharing?&amp;lt;br&amp;gt;
+Photo: G+ event&amp;lt;br&amp;gt;
+
+
+Summary of Activities:&amp;lt;br&amp;gt;
+Because there Zhuhai Games, 3/5 to the United States to participate in the I / O conference, only two Games, live in Zhuhai night organization I / O, so this year I / O night live only in Zhuhai Tang held here.&amp;lt;br&amp;gt;
+Spawnris (I) last year, has organized a I / O live night, they still experienced. Venue sugar in Zhuhai Co., Ltd., the scene there is a lot of technical staff. So be prepared to work in an orderly manner, not out of any major flaws.&amp;lt;br&amp;gt;
+When 0:00, I / O live start on time. Small partner while watching live I / O live, eat and drink while enjoying themselves. Site is a volunteer to do the translation, but I / O live with simultaneous translation, so we can understand the contents of the subtitles to see live. But also very grateful to the volunteers from the city to catch up to us to do the translation.
+The I / O really feel that the world is android, the world is chrome, the world is Google&apos;s .....&amp;lt;br&amp;gt;
+Overall, the I / O live is quite satisfactory. Thank junior partner site support and understanding. This is not to go to the scene of a small partner, we will again next year&amp;lt;br&amp;gt;
+
+I/O直播珠海之夜唐家专场的总结帖子来了......&amp;lt;br&amp;gt;
+唐家专场于6月25日早3点成功结束了&amp;lt;br&amp;gt;
+
+和全世界人民在第一时间关注Google新技术的发布&amp;lt;br&amp;gt;
+终于提供给技术爱好者们一个彻夜长谈的机会真真正正做到了，一起吃，一起喝，一起睡觉，一起看直播&amp;lt;br&amp;gt;
+希望用Google的新技术带来让大家眼前一亮的作品&amp;lt;br&amp;gt;
+
+今年I/O大会的亮点：&amp;lt;br&amp;gt;
+AndroidOne计划&amp;lt;br&amp;gt;
+AndroidOne是一项针对发展中国家市场的计划。旨在通过广泛可选择的部件，打造出高质量、低成本的智能手机。&amp;lt;br&amp;gt;
+
+Android L系统&amp;lt;br&amp;gt;
+该系统采用全新设计，拥有简约的按钮、圆润的应用图标及全新字体，多任务切换改为了卡片堆叠效果，默认采用ART运行环境，完全兼容64位移动处理器，采用预编译的方式将使得Android系统运行更为流畅，新增加了5000个新的API。 Android L系统正式版将于今年秋季推出。&amp;lt;br&amp;gt;
+
+Android Wear&amp;lt;br&amp;gt;
+Android Wear是Google为智能手表打造的全新智能平台Android Wear。&amp;lt;br&amp;gt;
+Google表示将发布完整的Android Wear SDK，其API与标准版Android API基本一致，开发人员移植应用不存在难度。&amp;lt;br&amp;gt;
+
+Android Auto&amp;lt;br&amp;gt;
+Google在大会上发布了Android Auto车载系统来叫板苹果的CarPlay，新的AndroidAuto SDK包含与其他Android系统类似的通知中心API接口，可以允许开发者开发针对汽车的应用。&amp;lt;br&amp;gt;
+
+Android TV&amp;lt;br&amp;gt;
+这是Google用来占据用户客厅的一款产品，这将是一个平台产品，是一套可用于电视机顶盒的系统，有相应的SDK，而不仅仅针对电视本身。&amp;lt;br&amp;gt;
+Android TV是个两用平台：电视和游戏。它需要一个D Pad来进行语音控制。此外，用户也可以用Android Wear智能手表设备来控制Android TV。&amp;lt;br&amp;gt;
+
+Google Fit&amp;lt;br&amp;gt;
+Google Fit通过一系列API来管理搜集自传感器、应用的健康数据。目前，Google Fit有大量合作伙伴，阿迪达斯和耐克必然不会例外。&amp;lt;br&amp;gt;
+
+Google的云产品&amp;lt;br&amp;gt;
+Google Drive和Google云平台。Google Drive已经明显让微软感到了压力：&amp;lt;br&amp;gt;
+
+    Google Drive如今30天内平均活跃用户数达到了1.9亿人以上。&amp;lt;br&amp;gt;
+    全球前100家初创企业里，67家已从微软Office转为使用谷歌产品；&amp;lt;br&amp;gt;
+    世界500强企业里，58%已转投谷歌；&amp;lt;br&amp;gt;
+    全球排名前100的大学，72所已开始投入谷歌怀抱。&amp;lt;br&amp;gt;
+
+参会者福利&amp;lt;br&amp;gt;
+大会最后，Google表示，所有与会者都可以免费得到LG G Watch或三星Gear Live智能手表，而且在MOTO 360发布之后，Google还将赠送给每个与会者。大妈归来后大家有的玩了&amp;lt;br&amp;gt;
+
+
+活动主题：2014Google I/O大会珠海GDG直播之夜——唐家专场&amp;lt;br&amp;gt;
+活动地点：珠海市唐家湾镇港湾大道科技园一路十号民营科技大厦副楼B座四楼A15，A16&amp;lt;br&amp;gt;
+主持人：老高（本人）&amp;lt;br&amp;gt;
+活动流水：&amp;lt;br&amp;gt;
+　　　　21:30~22:00　志愿者到达活动场地，准备签到，布置会场&amp;lt;br&amp;gt;
+　　　　22:00~22:20    签到，设备调试&amp;lt;br&amp;gt;
+　　　　22:20~22:40    开场，本人做GDG社区简介以及参会人员的自我介绍&amp;lt;br&amp;gt;
+　　　　22:40~23:10    谷歌相关知识的普及，以及与身在美国的小伙伴在线上沟通&amp;lt;br&amp;gt;
+　　　　23:10~24:00    回顾2013谷歌I/O大会，以及小伙伴们现场交流&amp;lt;br&amp;gt;
+　　　　0:00~2:40　　I/O大会直播，中途发放美食饮品&amp;lt;br&amp;gt;
+　　　　2:40~3:00       派发奖品，再次交流&amp;lt;br&amp;gt;
+　　　　3:00~3:10       宣布活动结束&amp;lt;br&amp;gt;
+
+参与人群：主要以珠海大学生为主　　&amp;lt;br&amp;gt;
+
+参与情况：&amp;lt;br&amp;gt;
+         到场23人&amp;lt;br&amp;gt;
+
+成员分布：&amp;lt;br&amp;gt;
+　　　　北理工珠海学院&amp;lt;br&amp;gt;
+　　　　方糖科技有限公司员工&amp;lt;br&amp;gt;
+               珠海市第一中学&amp;lt;br&amp;gt;
+               珠海市其他IT公司&amp;lt;br&amp;gt;
+
+资料整理：&amp;lt;br&amp;gt;
+　　　 暖场GDG幻灯：https://docs.google.com/file/d/0 ... TA/edit?usp=sharing&amp;lt;br&amp;gt;
+　　　 照片：G+ event&amp;lt;br&amp;gt;
+
+
+活动总结：&amp;lt;br&amp;gt;
+由于珠海组委有3/5去了美国参加这次I/O大会，只剩下2个组委在珠海组织I/O直播之夜，所以今年珠海的I/O直播之夜只在唐家这边举行。&amp;lt;br&amp;gt;
+老高（本人）去年已经组织过一次I/O直播之夜，所以还是有经验的。活动场地是在珠海市方糖科技有限公司，现场就有不少的技术人员。所以准备工作有条不紊地进行着，没有出什么大的纰漏。&amp;lt;br&amp;gt;
+0点时，I/O直播准时开始。现场的小伙伴一边看I/O直播，一边吃吃喝喝，不亦乐乎。现场是有一位志愿者做翻译的，只是I/O直播有同声翻译，所以大家看字幕就可以了解直播的内容。但是也非常感谢这位志愿者，从市区赶过来为我们做翻译。&amp;lt;br&amp;gt;
+本次I/O真真正正的感受到,世界是android的 ,世界是chrome的,世界是谷歌的.....&amp;lt;br&amp;gt;
+总的来说，这次I/O直播还是比较圆满的。谢谢现场小伙伴的支持与理解。这次没能到现场的小伙伴，我们明年再会～&amp;lt;br&amp;gt;
+
+
+
+每年一次的 Google I/O 大会就要来了,
+今年珠海依然有 IO-ext 活动,
+大家一齐来看实况,共同第一时间体验 Google 对未来的设想!﻿
+内容: 
+以下活动都有可能
+I/O 直播围观
+程序媛和程序猿现场互动
+畅饮编程
+Lighting Talk
+或者你有什么好的想法和创意
+
+现场:
+会给大家准备美食&amp;amp;饮料
+还有小礼品赠送哦</description><start>2014.06.25 22:00</start><end>2014.06.26 02:00</end><location>中国广东省 珠海市唐家湾镇港湾大道科技园一路十号民营科技大厦副楼B座四楼A15，A16</location><participantscount>23</participantscount></event>
+	<event><title>CBInstallfest.5 For Zhuhai 来袭“中大”</title><chapterid>113382777332300419074</chapterid><description>#gdg    #zhuhai  #2014 #report  &amp;lt;br&amp;gt;
+在全球火热的创客活力下，相信大家已经感受到全球创客的发展潜力；由珠海Cubie和珠海GDG联合开展第二次创客空间活动将于6月7日下午2点半，在中山大学行政楼五楼移动信息工程学院报告厅举行，以开源硬件为主导的Qmaker将在开源科技界引起新的技术革新。我们热情期待你们的参与！！&amp;lt;br&amp;gt;
+
+就像我们的名字“Qmaker”一样，我们有很多新的想法，很多新的DIY;此次我们将邀请珠海创客创始人黄祖奔给大伙分享相关资讯，同时也邀请创客玩家和大家一起分享他们有趣的故事。&amp;lt;br&amp;gt;
+
+【活动报名人数】&amp;lt;br&amp;gt;
+  32人&amp;lt;br&amp;gt;
+
+【活动时间】&amp;lt;br&amp;gt;
+  2014年6月7日，14:30~17:30&amp;lt;br&amp;gt;
+
+【活动地点】&amp;lt;br&amp;gt;
+  中山大学行政楼五楼移动信息工程学院报告厅&amp;lt;br&amp;gt;
+
+【活动主办方】&amp;lt;br&amp;gt;
+  Cubie团队，珠海GDG&amp;lt;br&amp;gt;
+
+【活动对象】&amp;lt;br&amp;gt;
+  Cubie嵌入式爱好者&amp;lt;br&amp;gt;
+
+【活动流程】&amp;lt;br&amp;gt;
+  14 ：10 ～ 14 ：30  活动现场签到&amp;lt;br&amp;gt;
+  14 ：30 ～ 14 ：50  珠海创客介绍&amp;lt;br&amp;gt;
+ 14 ：50 ～ 15 ：30  cubie讲师分享&amp;lt;br&amp;gt;
+  15 ：30 ～ 16 ：30  美科讲师带来创客项目分享，及基于CB3的云存储产品&amp;lt;br&amp;gt;
+  16 ：30 ～ 17 ：00  资深产品经理 给大家带来：“引领设计时代，如何规划产品”的分享&amp;lt;br&amp;gt;
+  17 ：00 ～ 17： 30  同学们自由讨论，跟讲师们一起分享开源硬件社区和珠海创客空间的魅力；最后活动结束，集体大合照。&amp;lt;br&amp;gt;
+
+【活动流水】&amp;lt;br&amp;gt;
+1.珠海GDG社区组委Bonnie介绍珠海GDG的相关情况。&amp;lt;br&amp;gt;
+2.中山大学王军老师介绍美国军方机器人大狗，并对比日本和意大利机器人的设计理念，引出当今智能化时代需要“创客”精神。&amp;lt;br&amp;gt;
+3.Cubieboard创始人黄祖奔先生分享其Cubie创业的艰苦历程，历经团队人员离散、年底产品生产困难、硬件设计失误等种种考验和挫折后，Cubie在开源硬件竞争激烈的环境下“活下来”，脱颖而出，成为享誉国外Linux圈子里的新宠儿。&amp;lt;br&amp;gt;
+4.扬智产品经理工兴平先生带来“引领设计时代”主题创新分享。作为一位产品经理的他，以独特的设计思维方式，比较ipad与惠普平板的内在价值与品牌效益，导致其价格与供应的差异，说明创新时代经典产品将成为未来航标。&amp;lt;br&amp;gt;
+5.最后，参加活动的部分人员合影留念&amp;lt;br&amp;gt;
+</description><start>2014.06.07 14:30</start><end>17:30</end><location>中国广东省珠海市香洲区中山大学珠海校区</location><participantscount>32</participantscount></event>
+	<event><title>BAS-NB2 For Zhuhai 天真粉碎机之2 设计篇</title><chapterid>113382777332300419074</chapterid><description>&amp;lt;br&amp;gt;时隔1个月，NB系列活动强势回归！大家期待已久的“设计类”NB活动即将开始咯！这次活动我们请来了金山&amp;lt;br&amp;gt;软件旗下的西山居游戏工作室的游戏美术设计师——王勇智来给我们进行“设计类”的分享。&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;树莓的妹子，喜欢设计的妹子，想来看妹子的汉纸，时不再来，机不可失，还等什么呢？&amp;lt;br&amp;gt;赶紧报名呀～&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;以往参加过NB系列活动的小伙伴们都知道，我们一般只有2个环节——讲师分享和圆桌讨论&amp;lt;br&amp;gt;。但是这次活动我&amp;lt;br&amp;gt;们&amp;lt;br&amp;gt;会增加一个【模拟面试】的环节，让大家更早地接触到找工作的技巧。&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;【活动报名】
+&amp;lt;br&amp;gt; * 免费参加 
+&amp;lt;br&amp;gt; * 本次活动人数上限为50，由于人数的限制，填写了反馈信息的小伙伴将会被优先邀请哦！
+&amp;lt;br&amp;gt; * 墙内链接：http://t.cn/Rvw8ofk
+&amp;lt;br&amp;gt; * G+活动页面注册：http://t.cn/RvwdxsO 
+&amp;lt;br&amp;gt;【活动时间】
+&amp;lt;br&amp;gt;2014年5月25日（周日），14:00~16:00
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;【活动地点】
+&amp;lt;br&amp;gt; 广东省珠海市唐家湾金凤路6号北京理工大学珠海学院化工楼
+&amp;lt;br&amp;gt;- 公交：10A/69/K3/70/72A路于“北理工”站下，步行三分钟即到北京理工大学珠海学院正门
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;【活动流程】
+&amp;lt;br&amp;gt;14:00~14:10  现场签到
+&amp;lt;br&amp;gt;14:10~14:50  请讲师跟小伙伴们分享“设计”相关的职场生涯
+&amp;lt;br&amp;gt;14:50~15:00  中场休息
+&amp;lt;br&amp;gt;15:00~15:30  &amp;lt;br&amp;gt;圆桌讨论，小伙伴&amp;lt;br&amp;gt;们积极提问，与讲师面对面交流（小伙伴们可以先想一下有什么想了解的）
+&amp;lt;br&amp;gt;15:30~16:00  &amp;lt;br&amp;gt;模拟面试，讲师面对面与小伙伴们进行与“设计”相关的岗位的模拟面试
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;【讲师介绍】
+&amp;lt;br&amp;gt; - 王勇智     游戏美术设计师，专注于角色动画部分，animator一枚，工作6年，在金山软件旗下的西&amp;lt;br&amp;gt;山居游戏工作室，常年负责《剑网叁》的动画设计和制作，动画组leader 
+</description><start>2014.05.25 14:00</start><end>16:00</end><location>中国广东省珠海市香洲区金凤路北京理工大学珠海分校</location><participantscount>12</participantscount></event>
+	<event><title>SOD.5 Zhuhai 学校开放日之中大访谈</title><chapterid>113382777332300419074</chapterid><description>&amp;lt;br&amp;gt;金山在珠海已经有 25+年历史,
+&amp;lt;br&amp;gt;对于珠海本地学生而言值得亲近了解,
+&amp;lt;br&amp;gt;作为在校学生,想进入类似金山的前沿IT 企业应该具备什么素质?
+&amp;lt;br&amp;gt;f2f 问出问题,问对问题,才有可能在毕业前完成自我升级
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;小结:
+&amp;lt;br&amp;gt;SOD.5 学校开放日之中大访谈 | GDG Livin ZhuHai Life;-) 
+&amp;lt;br&amp;gt;    http://blog.zhgdg.org/2014-05/et-sod5-summary/
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;: 议程
+&amp;lt;br&amp;gt;(因不可抗力,可能有小范围变更)
+&amp;lt;br&amp;gt;2014.5.24 (星期六)
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;14:55 - 15:05   门卫签到
+&amp;lt;br&amp;gt;15:05 - 15:25   各层游览
+&amp;lt;br&amp;gt;15:25 - 15:30   顶层合影
+&amp;lt;br&amp;gt;15:40 - 17:00   对面访谈
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;::  签到
+&amp;lt;br&amp;gt;因为金山大厦有严格的门禁制度,有签到表在门卫,请听从志愿者引导进入;
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;:: 礼品
+&amp;lt;br&amp;gt;由珠海GDG 准备了少量纪念品,作为访谈时,提问积极同学的答谢.
+
+</description><start>2014.05.24 15:00</start><end>18:00</end><location>中国广东省珠海香洲区金山软件大厦</location><participantscount>9</participantscount></event>
+	<event><title>CodeGirls.3</title><chapterid>113382777332300419074</chapterid><description>#gdg #zhuhai #report #2014
+
+&amp;lt;br&amp;gt;时隔5个月，专属MM的技术交流沙龙又来了！
+这次我们针对希望加入互联网、IT圈，或者已经进入这个圈子正期待转型的MM们，对互联网中最受女性欢迎的各个岗位进行了全面解析！借此希望更好地帮助MM们理性面对实习季、毕业季以及招聘季。&amp;lt;br&amp;gt;
+
+&amp;lt;br&amp;gt;活动时间：2014年5月24日，14:00~16:30 &amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;活动地点：广东省珠海市唐家湾金凤路6号北京理工大学珠海学院弘毅楼HD201 &amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;活动总结：2小时活动分享，半小时自由交流讨论&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;报名人数：11人，其中通过G+报名6人&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;现场参与：10人，包括3名志愿者&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;活动流水：&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;14:00~14:15 现场签到，讲师到场准备&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;14:15~16:00 内容分享，解析职场要求，根据报名情况重点介绍了设计师职位&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;16:00~16:30 自由交流讨论，答疑&amp;lt;br&amp;gt;
+
+&amp;lt;br&amp;gt;活动资料：&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;现场人数较少，没有进行录音。希望补课的同学请参考资料。&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;[现场幻灯]&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;http://vdisk.weibo.com/s/ukM6BLXGsLCg2&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;[设计师解析资料参考]&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;http://www.zcool.com.cn/article/ZNzgyOTY=.html&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;http://www.zcool.com.cn/article/ZNzg0NDQ=.html&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;http://www.zcool.com.cn/article/ZNzg2ODg=.html&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;[设计师学习网站推荐] 站酷，UI中国，dribbble&amp;lt;br&amp;gt;
+
+&amp;lt;br&amp;gt;这次特别挑选了在互联网企业中，比较受女生欢迎的职位进行了全面的解析和描述，包括工作职责和任职的要求（绝对不是现场招聘！！），同时根据报名情况中很多女生想了解设计师的具体要求，对设计师相关的要求和发展进行了详细的解析。我们希望通过这一系列的活动，为女性从业者提供良好的职业帮助和交流平台，寻找适合自己发展的方向，就像我们的口号一样：创造你自己的美丽！&amp;lt;br&amp;gt;</description><start>2014.05.24 14:00</start><end>17:00</end><location>中国广东省珠海香洲区金凤路北京理工大学珠海分校</location><participantscount>10</participantscount></event>
+	<event><title>HOA.6 from Zhuhai ~ Algorithm Storys (算法故事)</title><chapterid>113382777332300419074</chapterid><description>&amp;lt;br&amp;gt;#gdg #zhuhai #2014 #report
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;HOA.6 from Zhuhai ~ Algorithm Storys
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;we know the formula
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;    program = data structure + algorithm
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;but, there is so few programmer realy witing some Algorithm,
+&amp;lt;br&amp;gt;that is odd, and not should.
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;so we make the topic event:  Algorithm Storys
+&amp;lt;br&amp;gt;sharing some realy Algorithm Storys with us.
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;NOT unexpected, this aftnoon realy so few people come here for 
+&amp;lt;br&amp;gt;Algorithm Storys
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;- sign up 30
+&amp;lt;br&amp;gt;- check in only 4 people
+&amp;lt;br&amp;gt;- but through HOA boardcast in Youtube, more then 10 people ;-)
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;there is media stuff:
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;- video: https://www.youtube.com/watch?v=PmB-88vCIEQ
+&amp;lt;br&amp;gt;- foto: https://plus.google.com/u/1/events/gallery/cdq8u7q98e6f2cab380o9bl2u3c
+&amp;lt;br&amp;gt;- presentations:
+&amp;lt;br&amp;gt;    - https://speakerdeck.com/zoomquiet/zhgdg-hoa-dot-6-fen-bu-shi-yuan-shu-ju-kuai-su-tong-bu-suan-fa
+&amp;lt;br&amp;gt;    - https://speakerdeck.com/zoomquiet/zhgdg-hoa-dot-6-wei-shi-yao-qu-xue-suan-fa
+&amp;lt;br&amp;gt;    - http://s5.zoomquiet.io/140511-hoa6-start4game/index.html
+&amp;lt;br&amp;gt;- record: http://zoomq.qiniudn.com/ZHGDG/2014/140511-hoa6-algorithm/
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;that all.
+&amp;lt;br&amp;gt;
+
+&amp;lt;br&amp;gt;软件 = 数据+算法
+&amp;lt;br&amp;gt;这一公式大家都知道,但是,日常开发活动中主动应用算法的机会真心不多
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;这次,专门组织了几个真实的算法小故事,引导大家体验算法的爽利
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;+ 鹄思乱想 ~ Sorting Algorithm Visualization
+&amp;lt;br&amp;gt;+ 大妈 ~ 一切从游戏开始
+&amp;lt;br&amp;gt;+ 其它未定...</description><start>2014.05.11 15:00</start><end>18:00</end><location>中国广东省珠海香洲区金山软件大厦</location><participantscount>18</participantscount></event>
+	<event><title>SOD.4 进击的金山</title><chapterid>113382777332300419074</chapterid><description>&amp;lt;br&amp;gt;Summary:
+&amp;lt;br&amp;gt;local college students, mainly freshmen or sophomores,
+&amp;lt;br&amp;gt;f2f asking Kingsoft programmers,clear future direction of self-study,
+&amp;lt;br&amp;gt;GDG as one can focus on long-term technical exchanges were introduced.
+&amp;lt;br&amp;gt;Involving Android client / server technology developed route analysis, experience sharing.
+&amp;lt;hr&amp;gt;
+&amp;lt;br&amp;gt; ::  地址和交通
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;地址:  珠海吉大 景山路 莲山巷8号 金山软件大厦
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;会场:  一层北侧 会议厅
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;交通:  珠海中天酒店对面,工商银行隔壁,
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;    4路,9路,K10路,13路,22路,23路,26路,99路 到水湾北下,即见!
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;    坐船,到九洲港下; 城铁到终点 拱北站下; TEXI 13元即达!
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;:: 议程
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;(因不可抗力,可能有小范围变更)
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;2014.4.27 (星期日)
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;14:30 - 14:55   门卫签到
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;14:55 - 15:25   各层游览
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;15:25 - 15:30   顶层合影
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;15:40 - 16:30   WPS,西山居,金山网络 分别自述
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;16:30 - 16:40   休息
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;16:40 - 17:30   圆桌访谈
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;::  签到
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;因为金山大厦有严格的门禁制度,有签到表在门卫,请听从志愿者引导进入;
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;:: 礼品
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;由珠海GDG 准备了少量纪念品,作为访谈时,提问积极同学的答谢.
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;具体的,先不告诉了. 
+</description><start>2014.04.27 15:00</start><end>18:00</end><location>中国广东省珠海香洲区金山软件大厦</location><participantscount>39</participantscount></event>
+	<event><title>CBInstallfest.4 For ZhuHai</title><chapterid>113382777332300419074</chapterid><description>#gdg #Zhuhai #report #2014
+【Summary】&amp;lt;br&amp;gt;
+The event, a total of 25 participants, most of students from BEIJING INSTITUTE OF TECHNOLOGY in Zhuhai, as well as another students from Beijing Normal University and Sun Yat-Sen University in Zhuhai.&amp;lt;br&amp;gt;
+Spawnris made the first opening, to introduce the situation of Zhuhai GDG.&amp;lt;br&amp;gt;
+Next is  Cherry  introduce Cubie&apos;development in the form of stories, and the establishment of CubieBoard Makerspace.&amp;lt;br&amp;gt;
+Then Arron to share embedded linux development. Introduces Cubieboard, and shared a few to get started playing CB problem. Finally, and also introduced the linux community and kernel development model.&amp;lt;br&amp;gt;
+The fourth,Peng Yongle to share Android development. The main share eclipse installation, SDK configuration, the new Android projects and eclipse commonly used shortcuts.&amp;lt;br&amp;gt;
+Finally, we are most looking forward to install flash OS, we are installed flash OS under the guidance of engineers, to experience the fun of practice.&amp;lt;br&amp;gt;
+
+
+【活动时间】&amp;lt;br&amp;gt;
+2014年4月26日(周六)，13:30~18:00&amp;lt;br&amp;gt;
+
+【活动地点】&amp;lt;br&amp;gt;
+珠海市唐家湾镇港湾大道，科技园一路十号，民营科技大厦副楼B座，四楼A15，A16&amp;lt;br&amp;gt;
+
+【活动总结】&amp;lt;br&amp;gt;
+4.5小时的Cubieboard分享以及刷机实践&amp;lt;br&amp;gt;
+
+【参会人数】&amp;lt;br&amp;gt;
+25人（包括老高1枚，讲师3枚以及小伙伴N枚）&amp;lt;br&amp;gt;
+
+【活动流水帐】&amp;lt;br&amp;gt;
+1：30-2：00  签到&amp;lt;br&amp;gt;
+到场的人数，加上组委共25人。和老高布置现场，调试投影。&amp;lt;br&amp;gt;
+
+ 
+2：00-2：20  暖场，三句话介绍自己&amp;lt;br&amp;gt;
+自我介绍的时候才发现多数是北理工的学生，当然还有来自北师大和中大的2位大学生，奔着CB嵌入式来的小伙伴还真不少&amp;lt;br&amp;gt;
+2：20-2：40 GDG社区时间&amp;lt;br&amp;gt;
+老高一贯珠海GDG自述&amp;lt;br&amp;gt;
+ 
+2：40-3：00 CubieBoard创客空间介绍&amp;lt;br&amp;gt;
+方糖科技的HR 汤姐 用讲故事的形式，让我们了解了CB的发展和创客空间的成立&amp;lt;br&amp;gt;
+  
+3：50-4：20 方糖科技 Aaron  嵌入式linux开发&amp;lt;br&amp;gt;
+1）我们的Cubie,CubieBoard究竟几个意思：&amp;lt;br&amp;gt;
+价格便宜，性能强劲的ARM开发板&amp;lt;br&amp;gt;
+功能齐全的微型电脑&amp;lt;br&amp;gt;
+开放的学习平台&amp;lt;br&amp;gt;
+是一个技术圈、交流圈、人脉圈&amp;lt;br&amp;gt;
+2）介绍了玩CB的几个上手的问题：刷机#串口调试#和无线网络的配置&amp;lt;br&amp;gt;
+3）介绍了linux社区和内核的开发模式&amp;lt;br&amp;gt;
+ 
+4：20-4：30 茶歇&amp;lt;br&amp;gt;
+4:30-5:00  彭永乐分享基于eclipse的安卓开发&amp;lt;br&amp;gt;
+1）eclipse的安装&amp;lt;br&amp;gt;
+2）SDK配置&amp;lt;br&amp;gt;
+3）新建 Android 项目( Hello world )&amp;lt;br&amp;gt;
+4）最后补充了eclipse的一些有用的快捷键&amp;lt;br&amp;gt;
+5：00-6：00 刷机实践&amp;lt;br&amp;gt;
+最后是动手刷机，互动环节，方糖的工程师们现场指导。&amp;lt;br&amp;gt;
+
+【活动相关链接及其他内容】&amp;lt;br&amp;gt;
+G+：https://plus.google.com/b/113382777332300419074/events/cb1breehf5mndnv6n6btc1mo144   &amp;lt;br&amp;gt;
+照片：https://plus.google.com/b/113382777332300419074/events/cb1breehf5mndnv6n6btc1mo144   &amp;lt;br&amp;gt;
+幻灯：http://cbi4.qiniudn.com/Cubie.ppt     &amp;lt;br&amp;gt;
+安卓开发分享-相关资料：http://cbi4.qiniudn.com/eclipse%20for%20android.pdf   &amp;lt;br&amp;gt;
+
+【讲师介绍】&amp;lt;br&amp;gt;
+彭永乐    方糖科技Android工程师，活跃在CubieBoard社区，从事Android系统开发和维护。&amp;lt;br&amp;gt;
+Aaron-凌祥华    来自方糖科技，Linux 底层开发工程师，Linux内核发烧友，从事Linux底层开发，CubieBoard忠实玩家。&amp;lt;br&amp;gt;
+汤姐    方糖科技HR&amp;lt;br&amp;gt;
+
+【现场的反馈】&amp;lt;br&amp;gt;
+比较喜欢这样和课堂不一样的学习方式&amp;lt;br&amp;gt;
+希望可以看到更加完善&amp;amp;人性化的文档，就怕不详细呀&amp;lt;br&amp;gt;
+如果参加比赛的同学还是没有立项，赶紧去中文论坛看看大牛们在干呐&amp;lt;br&amp;gt;
+
+
+
+-------------------------活动前期-------------------------------&amp;lt;br&amp;gt;
+The diverting CBInstallfest coming again! The lecturer will teach you that establish system develop environment through this event. In the same time,the lecturer will show you the Android development and the Linux development.&amp;lt;br&amp;gt;
+DIY is becoming widely popular, it not only can make the opus which meet our requirement by yourself, but also match the graphical interface which you like.&amp;lt;br&amp;gt;
+In this event, our main practice is making SD Card System(Linux System).Do you want to DIY a Linux System which belong to ourselves. Would you like to see the System structure of Linux? Acting on your dream! Hurry up!Click the linking to join us!&amp;lt;br&amp;gt;
+
+
+【Time】&amp;lt;br&amp;gt;
+On April 26,2014(Sat) 13:30~18:00&amp;lt;br&amp;gt;
+
+【Address】&amp;lt;br&amp;gt;
+Room A15 and A16, 4 Floor, Privately Operated Science Mansion B Guest House, No.10, Science Park First Road, Harbour Road, Tangjiawan, ZhuHai, Guangdong, China&amp;lt;br&amp;gt;
+
+【Schedule】&amp;lt;br&amp;gt;
+13：30-14：00  Sin in&amp;lt;br&amp;gt;
+14：00-14：20  Warm-up，introduce yourself by three sentences&amp;lt;br&amp;gt;
+14：20-14：40  Introduce Zhuhai GDG&amp;lt;br&amp;gt;
+14：40-15：00  Introduce CubieBoard Makerspace&amp;lt;br&amp;gt;
+15：10-15：40  Parker show the Android Development who is from CUBIETECH LIMITED&amp;lt;br&amp;gt;
+15：40-15：50  Tea Break&amp;lt;br&amp;gt;
+15：50-16：20  Aaron  show the Linux Development who is from CUBIETECH LIMITED&amp;lt;br&amp;gt;
+16：20-16：40  Interaction of technology or originality&amp;lt;br&amp;gt;
+16：40-18：00  Practice：Making Card System(Linux System) and simple App with CubieBoard&amp;lt;br&amp;gt;
+
+
+【Lecturer】&amp;lt;br&amp;gt;
+Parker Android Development Engineer of CUBIETECH LIMITED.Active in CubieBoard-Community. Be engage in Android System Development and Maintenance.&amp;lt;br&amp;gt;
+Aaron Linux Basic Development Engineer of CUBIETECH LIMITED. Linux kernel&apos;s fans.Be engage in Linux Basic Development. CubieBoard&apos;s fans.&amp;lt;br&amp;gt;
+
+
+
+好玩的CBI又来咯~这次活动会继续教大家搭建系统开发环境，同时有讲师给大家讲解android开发和Linux开发。&amp;lt;br&amp;gt;
+现在都流行DIY，自己DIY出来的作品不仅能够符合自身的需求，而且还能配上自己喜欢的图形界面。
+这次我们的主要实践就是来做SD卡系统（Linux系统），想DIY一个属于自己的Linux系统吗？想进一步了解Linux系统的结构吗？心动不如行动，赶紧点击报名链接参加我们这次活动吧！&amp;lt;br&amp;gt;
+
+【活动时间】&amp;lt;br&amp;gt;
+2014年4月26日（周六） 13：30~18:00&amp;lt;br&amp;gt;
+
+【活动地点】&amp;lt;br&amp;gt;
+珠海市唐家湾镇港湾大道，科技园一路十号，民营科技大厦副楼B座，四楼A15，A16&amp;lt;br&amp;gt;
+公交3a路, 3路, 10a路, 10路, 10路班车, 66路, 68路, 69路, k2路于「宝莱特科技站」下，步行2分钟进入科技园，走到园区大道尽头，到达民营科技大厦，副楼B座位于大厦后面&amp;lt;br&amp;gt;
+【活动流程】&amp;lt;br&amp;gt;
+13：30-14：00  签到&amp;lt;br&amp;gt;
+14：00-14：20  暖场，三句话介绍自己&amp;lt;br&amp;gt;
+14：20-14：40  GDG社区介绍&amp;lt;br&amp;gt;
+14：40-15：00  CubieBoard创客空间介绍&amp;lt;br&amp;gt;
+15：10-15：40  方糖科技 parker Android开发讲解&amp;lt;br&amp;gt;
+15：40-15：50  茶歇&amp;lt;br&amp;gt;
+15：50-16：20  方糖科技 aaron  嵌入式Linux开发&amp;lt;br&amp;gt;
+16：20-16：40  技术/创意互动&amp;lt;br&amp;gt;
+16：40-18：00  动手实践：卡制作Linux/CubieBoard简单应用&amp;lt;br&amp;gt;
+
+【讲师介绍】&amp;lt;br&amp;gt;
+           Parker 刘夀麟 方糖科技Android工程师，活跃在CubieBoard社区，从事Android系统开发和维护。&amp;lt;br&amp;gt;
+           Aaron 凌祥华 来自方糖科技，Linux 底层开发工程师，Linux内核发烧友，从事Linux底层开发，CubieBoard忠实玩家。&amp;lt;br&amp;gt;</description><start>2014.04.26 13:30</start><end>18:00</end><location>珠海市唐家湾镇港湾大道，科技园一路十号，民营科技大厦副楼B座，四楼A15，A16</location><participantscount>25</participantscount></event>
+	<event><title>BAS-CodeCamp For ZhuHai</title><chapterid>113382777332300419074</chapterid><description>#gdg#2014#zhuhai#report
+活动相关数据&amp;lt;br&amp;gt;
+【活动时间】：2014年4月20日，16:00~17:00&amp;lt;br&amp;gt;
+【活动地点】：广东省珠海市唐家湾金凤路6号北京理工大学珠海学院明德楼MD507&amp;lt;br&amp;gt;
+【报名人数】：16人（已剔除重复报名的，即重复报名只算一人）&amp;lt;br&amp;gt;
+【现场参与】：12人（包括大妈1枚、老高1枚、小言1枚和小伙伴N枚）&amp;lt;br&amp;gt;
+【活动流水记录】：&amp;lt;br&amp;gt;
+【16:00~16:45】活动开始, 介绍蟒营&amp;lt;br&amp;gt;
+【16:45~17:00】自由讨论并分组&amp;lt;br&amp;gt;
+【17:00~17:30】模拟开营, 项目分析&amp;lt;br&amp;gt;
+项目小组(附加大妈的评注)&amp;lt;br&amp;gt;
+cc0: JumpChess 跳棋&amp;lt;br&amp;gt;
+4人&amp;lt;br&amp;gt;
+计划: C++/Qt&amp;lt;br&amp;gt;
+难点: 对战策略 AI&amp;lt;br&amp;gt;
+评注: 太简单,没有AI 的事儿,纯粹开源的棋牌规则组合就好&amp;lt;br&amp;gt;
+cc1: MealOrder 点餐&amp;lt;br&amp;gt;
+2人&amp;lt;br&amp;gt;
+计划: jQ/jsp/MySQL&amp;lt;br&amp;gt;
+难点: DB 结构设计&amp;lt;br&amp;gt;
+评注: 太简单,选择了最复杂的架构,建议 jQ/node/redis&amp;lt;br&amp;gt;
+cc2: Motion-sensing fly 体感飞机器&amp;lt;br&amp;gt;
+4人&amp;lt;br&amp;gt;
+计划: 固定摄像头/4轴飞行器/手机回放/嵌入机&amp;lt;br&amp;gt;
+难点: 数据双向/姿态控制&amp;lt;br&amp;gt;
+评注: 太复杂,图像识别独立完成不稳定,其它的联调也过于麻烦,最好基于现有的稳定框架完成&amp;lt;br&amp;gt;
+推荐: cubier@googlegroups.com 是珠海本地 cubieboard 团队工程师的列表,有硬件/嵌人式系统的问题,可以直接请教&amp;lt;br&amp;gt;
+个人感受分享&amp;lt;br&amp;gt;
+时隔三年,蟒营再次进入北理,大妈还是那么年轻,我已经老了。。。时间真的很珍贵，且行且珍惜。
+三年后的蟒营让我从小伙伴身上看到了三年前的我，那时我第一次见到Ubuntu,第一次听说Hg,第一次知道Python,三年里我渐渐学会了这些，知道了更多东西，知道除了ubuntu还有centos,fedora,redhat,知道了git,知道了php,lua,golang。正像大妈所说大学生不能为了学习而学习，应该为了解决问题而学习。我们不应该局限在学校的教学内容上，我们要学会用更好更简单地方式来解决问题，思考问题。&amp;lt;br&amp;gt;
+大学真的个自由的地方，自由的时间段，它带给我们的不仅仅是身体的自由，更是思想的自由。如果在大学里有什么想做的一定要实现它。&amp;lt;br&amp;gt;
+【4.20】BAS-CodeCamp For ZhuHai，码营来袭，还等毛线！！！&amp;lt;br&amp;gt;
+
+一天到晚想做App,想做WEB,想做Game的你行动了么？&amp;lt;br&amp;gt;
+Talk is cheap, show me your code ! 马年参加码营就对了！&amp;lt;br&amp;gt;
+不限编程语言，不限工具，不限方向，找到投基的小伙伴，实现自己的开发梦！&amp;lt;br&amp;gt;
+
+【活动报名】&amp;lt;br&amp;gt;
+ * 免费参加 &amp;lt;br&amp;gt;
+【活动时间】&amp;lt;br&amp;gt;
+2014年4月20日（周日），16:00~17:50&amp;lt;br&amp;gt;
+
+【活动地点】&amp;lt;br&amp;gt;
+ 广东省珠海市唐家湾金凤路6号北京理工大学珠海学院明德楼MD507&amp;lt;br&amp;gt;
+- 公交：10A/69/K3/70/72A路于“北理工”站下，步行三分钟即到北京理工大学珠海学院正门&amp;lt;br&amp;gt;
+
+【活动流程】&amp;lt;br&amp;gt;
+    15:50~16:00  现场签到&amp;lt;br&amp;gt;
+    16:00~16:50  码营讲解&amp;lt;br&amp;gt;
+    16:50~17:00  中场休息,小组讨论&amp;lt;br&amp;gt;
+　17:00~17:30  项目认领  &amp;lt;br&amp;gt;
+
+【讲师介绍】&amp;lt;br&amp;gt;
+ - 大妈：参加过活动的GDGer都知道: ) 本区版主&amp;amp;管理员 参考:　俺的标准 自述:Zoom.Quiuet |蠎周刊 |汇集全球蠎事儿 !-)&amp;lt;br&amp;gt;
+ 
+ 【相关资源】&amp;lt;br&amp;gt;
+活动形式可以参考蟒营&amp;lt;br&amp;gt;
+https://code.google.com/p/kcpycamp/&amp;lt;br&amp;gt;</description><start>2014.04.20 16:00</start><end>17:30</end><location>广东省珠海市北京理工大学珠海学院</location><participantscount>12</participantscount></event>
+	<event><title>BAS-NB1 For ZhuHai</title><chapterid>113382777332300419074</chapterid><description>#gdg#2014#zhuhai#report
+4月20日，珠海GDG不甘社NB系列回归咯！这次来参加活动的小伙伴基本都是老伙伴了，所以大家彼此间都开始熟络。&amp;lt;br&amp;gt;
+首先当然少不了介绍这次的讲师——大妈。大妈是珠海GDG的发起人之一，也是珠海GDG的组委，同时也是金山网络的周导。其实也不用再多做介绍了，因为大妈已经成了我们小伙伴们的老熟人了。&amp;lt;br&amp;gt;
+第一环节还是先由讲师来给大家分享开发相关的信息。什么开发？开发有哪些职位？想了解或重温的小伙伴，请移步到幻灯链接和录音链接咯。&amp;lt;br&amp;gt;
+第二环节是小伙伴们最喜欢的圆桌讨论。大妈和小伙伴们究竟探讨了什么内容呢？小伙伴们又有木有解决了自己的困惑了呢？详情点击录音链接哈。&amp;lt;br&amp;gt;
+ 
+活动时间：2014年4月20日，14:00~16:00&amp;lt;br&amp;gt;
+活动地点：广东省珠海市唐家湾金凤路6号北京理工大学珠海学院明德楼MD507&amp;lt;br&amp;gt;
+活动总结：2小时的“开发”专题分享&amp;amp;讨论活动&amp;lt;br&amp;gt;
+报名人数：16人（已剔除重复报名的，即重复报名只算一人）&amp;lt;br&amp;gt;
+现场参与：12人（包括大妈1枚、老高1枚、小言1枚和小伙伴N枚）&amp;lt;br&amp;gt;
+活动流水记录：   &amp;lt;br&amp;gt;
+【14:00~14:30  现场签到】&amp;lt;br&amp;gt;
+【14:30~15:00  讲师分享】请讲师跟小伙伴们分享“开发”相关的职场生涯&amp;lt;br&amp;gt;
+【15:00~15:10  中场休息】&amp;lt;br&amp;gt;
+【15:10~16:00  圆桌讨论】小伙伴们积极提问，与讲师面对面交流&amp;lt;br&amp;gt;
+
+活动相关链接及其他内容：&amp;lt;br&amp;gt;
+G + :http://t.cn/8sOwIVY   &amp;lt;br&amp;gt;
+录音:http://t.cn/8sYD3BQ   &amp;lt;br&amp;gt;
+幻灯:http://t.cn/8sYDsMi   &amp;lt;br&amp;gt;
+照片:http://t.cn/8sYkv1r   &amp;lt;br&amp;gt;
+
+这次活动发生了一点小小小事故。由于组织方的问题，没能及时赶到会场，让大家在会场里久等了。组织方表示真的非常非常的抱歉啊！！！！！！&amp;lt;br&amp;gt;
+可能由于小伙伴们都不是第一次来参加NB系列的活动了，所以大家都不再像以前那么拘束，都勇于积极地跟讲师进行交流了。&amp;lt;br&amp;gt;
+开发到底是怎么一回事呢？说白了，我们现阶段所能接触到的跟开发相关的就是——程序猿。所以如果真心想走开发道路的小伙伴们，现在就开始打代码吧。用你所学的知识，解决你现在最困惑的问题。即使是在宿舍太无聊了，写个游戏给自己玩玩也不错哦~&amp;lt;br&amp;gt;
+
+另附：提问的智慧：&amp;lt;br&amp;gt;
+http://wiki.woodpecker.org.cn/moin/AskForHelp    &amp;lt;br&amp;gt;
+
+
+--------------------------活动前期--------------------------------&amp;lt;br&amp;gt;
+【4.20】Naive Breaker1 For ZhuHai，&amp;lt;strong&amp;gt;“开发”&amp;lt;/strong&amp;gt;终于来咯！  &amp;lt;br&amp;gt;
+上一次的BAS-NB0活动之后，小伙伴们都积极填写了反馈信息，这给了我们更大的动力将BAS-NB活动持续下去。 &amp;lt;br&amp;gt;
+根据小伙伴们的反馈信息，本次BAS-NB1的主题是“开发”。届时，我们将会请“开发”相关的讲师来跟我们进行分享和互动。 &amp;lt;br&amp;gt;
+
+ &amp;lt;br&amp;gt;
+【活动报名】 &amp;lt;br&amp;gt;
+ * 免费参加  &amp;lt;br&amp;gt;
+ * 本次活动人数上限为20，由于人数的限制，填写了反馈信息的小伙伴将会被优先邀请哦！ &amp;lt;br&amp;gt;
+ 
+【活动时间】 &amp;lt;br&amp;gt;
+2014年4月20日（周日），14:00~15:50 &amp;lt;br&amp;gt;
+
+【活动地点】 &amp;lt;br&amp;gt;
+ 广东省珠海市唐家湾金凤路6号北京理工大学珠海学院 &amp;lt;br&amp;gt;
+- 公交：10A/69/K3/70/72A路于“北理工”站下，步行三分钟即到北京理工大学珠海学院正门
+ &amp;lt;br&amp;gt;
+【活动流程】 &amp;lt;br&amp;gt;
+    14:00~14:10  现场签到 &amp;lt;br&amp;gt;
+    14:10~14:40  请讲师跟小伙伴们分享“开发”相关的职场生涯 &amp;lt;br&amp;gt;
+    14:40~14:50  中场休息 &amp;lt;br&amp;gt;
+    14:50~15:50  圆桌讨论，小伙伴们积极提问，与讲师面对面交流（小伙伴们可以先想一下有什么想了解的） &amp;lt;br&amp;gt;
+
+【讲师介绍】 &amp;lt;br&amp;gt;
+ - 大妈：参加过活动的GDGer都知道: ) 本区版主&amp;amp;管理员 参考:　俺的标准 自述:Zoom.Quiuet |蠎周刊 |汇集全球蠎事儿 !-) &amp;lt;br&amp;gt;</description><start>2014.04.20 14:00</start><end>15:50</end><location>广东省珠海市唐家湾金凤路6号北京理工大学珠海学院</location><participantscount>12</participantscount></event>
+	<event><title>BAS-NB0.1 For ZhuHai</title><chapterid>113382777332300419074</chapterid><description>#gdg #zhuhai #2014 #report&amp;lt;br&amp;gt;
+3月30日，珠海GDG不甘社NB系列再次席卷北理工！这次来参加活动的大部分都是新的小伙伴，所以我们首先进行了一次回顾，并让现场的一位老伙计（上一次参加过的小伙伴）分享了上一场的感受。接着我们围绕着what,why,how进行了讨论，小伙伴们都说出了自己的想法，给我们下一次活动的组织提供了参考。下半场主要分享大学生涯，用自身的事例跟一起分享，一起探讨大学怎么过。&amp;lt;br&amp;gt;
+ 
+活动时间：2014年3月30日，14:00~16:30&amp;lt;br&amp;gt;
+活动地点：广东省珠海市唐家湾金凤路6号北京理工大学珠海学院迦南风情咖啡厅&amp;lt;br&amp;gt;
+活动总结：2.5小时的回顾及大学生涯分享会&amp;lt;br&amp;gt;
+报名人数：20人（已剔除重复报名的，即重复报名只算一人），其中G+上有14人报名&amp;lt;br&amp;gt;
+现场参与：10人（包括老高1枚、小言1枚、摄影师1枚和小伙伴N枚）&amp;lt;br&amp;gt;
+活动流水记录：   &amp;lt;br&amp;gt;
+【14:00~14:20  现场签到】&amp;lt;br&amp;gt;
+【14:20~15:00  回顾及讨论】对上一场活动进行了回顾，并讨论接下来的活动怎样进行会比较好&amp;lt;br&amp;gt;
+【15:00~15:20  中场休息】&amp;lt;br&amp;gt;
+【15:20~16：30 分享会】小伙伴们积极分享自己的大学生涯，主要分享自己最得意的事&amp;lt;br&amp;gt;
+活动相关链接及其他内容：&amp;lt;br&amp;gt;
+G+：https://plus.google.com/events/cmd3ln5vrb0mfsdgai9m8mtiq60
+幻灯：https://speakerdeck.com/zoomquiet/2-dot-22-sod-zq-zhgdg-intro&amp;lt;br&amp;gt;
+录音：后续增补&amp;lt;br&amp;gt;
+照片：&amp;lt;br&amp;gt;
+https://plus.google.com/b/113382777332300419074/events/gallery/cmd3ln5vrb0mfsdgai9m8mtiq60  &amp;lt;br&amp;gt;
+非常感谢大家来参加这次活动。这次活动是跟老高一起负责的，很忙的老高这次终于能出席我们的活动了。同时他也给我们分享了他3年多的大学生涯。&amp;lt;br&amp;gt;
+经过这次活动，小言发现大家的大学生涯其实都是有很多相似的地方的。然而为什么有一些小伙伴会比我们过得更充实，得到更多的东西呢？所以我们去借鉴别人的生活方式和学习方式是很有必要的，但是仅仅是借鉴，而不是套用。 &amp;lt;br&amp;gt;
+
+
+【具体地点】&amp;lt;br&amp;gt;
+- 广东省珠海市唐家湾金凤路6号北京理工大学珠海学院咖啡厅&amp;lt;br&amp;gt;
+【活动流程】&amp;lt;br&amp;gt;
+- 14:00~14:20  现场签到&amp;lt;br&amp;gt;
+- 14:20~15:20  小伙伴们相互进行自我介绍，分享自己为什么想来参加NB系列，以及上一次参加NB系列的感受&amp;lt;br&amp;gt;
+- 15:20~15:30  中场休息&amp;lt;br&amp;gt;
+- 15:30~16:30  分享自己的大学生涯，说说自己大学生涯中最得意的事 &amp;lt;br&amp;gt;</description><start>2014.03.30 14:00</start><end>16:30</end><location>中国广东省珠海香洲区金凤路北京理工大学珠海分校</location><participantscount>10</participantscount></event>
+	<event><title>CBInstallfest.3 For ZhuHai</title><chapterid>113382777332300419074</chapterid><description>#gdg#zhuhai#2014#report
+&amp;lt;br&amp;gt;
+3月29日，珠海开发者社区GDG 联合Cubieboard的创始人黄祖奔(Benn),共同发起的珠海创客空间正式成立。Cubieboar +GDG= 硬件+软件的结合，互相依托，为创客提供平台。&amp;lt;br&amp;gt;
+
+
+
+活动主题：珠海创客空间成立       &amp;lt;br&amp;gt;
+
+活动时间：2014年3月29日，14:30~17:30&amp;lt;br&amp;gt;
+
+活动地点：广东省珠海市唐家湾镇港湾大道，科技园一路十号，民营科技大厦副楼B座 ，四楼A15 A16&amp;lt;br&amp;gt;
+
+活动人数：29 人(包括老高1枚、讲师1枚、志愿者6枚 、北理工学生9枚、中山大学王军老师及学生8枚、相关行业人士 4枚）&amp;lt;br&amp;gt;
+
+内容简述:&amp;lt;br&amp;gt;
+                Benn分享时下创客组织发展背景和珠海创客发展环境，联合各方资源正式成立珠海创客空间，孵化能落地的创意，让它成为真正的受大众欢迎的产品，聚集各路精英加盟参与其中。&amp;lt;br&amp;gt;
+                活动动手实践环节在学生的活跃下推进。从掌握开源硬件平台的使用，到基本功能的实现，再到自己动手做个最小linux系统。&amp;lt;br&amp;gt;
+
+活动流水:&amp;lt;br&amp;gt;
+14:10~14:45    活动签到，小伙伴陆续冒着大雨过来，开始参观开源硬件产品，并有3D打印机现场打印，小伙伴惊呼：终于见到”活的”3D打印机   &amp;lt;br&amp;gt;
+14:45~15:00    主持人Darren暖场，每人三句自我介绍&amp;lt;br&amp;gt;
+15:00~15:45　 由Benn开始讲说创客发展前景，成立珠海创客空间的原因与目的，现场解答提问&amp;lt;br&amp;gt;
+15:45~16:55    Darren 介绍动手实践内容与规则，安排人员参赛&amp;lt;br&amp;gt;
+16:55~17:30　 动手实践开始，小伙伴各自选择项目完成，竞争第一，剩余人与Benn畅谈技术。 因为动手实践，小伙伴都饥渴难耐，茶歇都自己动手丰衣足食，风云残云。　       &amp;lt;br&amp;gt;
+17：30~17：55  小伙伴还在奋战项目，捉紧完成。毫无意外，活动果断延时       &amp;lt;br&amp;gt;
+17：55~18：20  送出奖励，分享实践体会，Benn 与王军老师分享对这次活动看法，集体大合影&amp;lt;br&amp;gt;
+
+活动总结:&amp;lt;br&amp;gt;
+
+这次是珠海创客的活动公测，磕磕碰碰地完成了活动。但总算没白费，各自有收获，让更多的人了解创客，让人觉得创客离我们不远，我们也可是一员。后续会有更多类似的活动推广和实践。请关注订阅号 ：Qmaker  微信号：TobeQmaker&amp;lt;br&amp;gt;
+
+
+
+珠海市唐家湾镇港湾大道，科技园一路十号，民营科技大厦副楼B座，四楼A15，A16&amp;lt;br&amp;gt;
+ 这是一次在闲暇时间里创客们之间的交流与分享活动。活动自由，开放，且包含动手环节。从掌握开源硬件平台的使用，到基本功能的实现，再到自己动手做个系统，在这短短的时间的需要快速上手完成。许多技术在这里碰撞、汇集。当然此次活动只是一个begin，从这个begin 出发，我们可以思考怎么将创意和想法转变为现实。&amp;lt;br&amp;gt;
+【活动时间】&amp;lt;br&amp;gt;
+3月29日14：30pm- 5：30pm  （3个小时）&amp;lt;br&amp;gt;
+【活动地点】&amp;lt;br&amp;gt;
+珠海市唐家湾镇港湾大道，科技园一路十号，民营科技大厦副楼B座，四楼A15，A16&amp;lt;br&amp;gt;
+- 公交3a路, 3路, 10a路, 10路, 10路班车, 66路, 68路, 69路, k2路于「宝莱特科技站」下，步行2分钟进入科技园，走到园区大道尽头，到达民营科技大厦，副楼B座位于大厦后面&amp;lt;br&amp;gt;
+【活动流程】&amp;lt;br&amp;gt;
+1）2：30-2：45 签到&amp;lt;br&amp;gt;
+2）自我介绍&amp;lt;br&amp;gt;
+3）主题演讲&amp;lt;br&amp;gt;
+   内  容：为什么创建珠海创客组织？&amp;lt;br&amp;gt;
+   主讲人：黄祖奔(Benn)，方糖科技创始人之一&amp;lt;br&amp;gt;
+4) 由Darren主持并宣布比赛流程&amp;lt;br&amp;gt;
+5）3：30-5：00 正式分组比赛&amp;lt;br&amp;gt;
+  新手组：参与1、2项目，每2-4人1组/根据现场人数确定；&amp;lt;br&amp;gt;
+6）5：00-5：30 分享活动心得&amp;lt;br&amp;gt;
+7）5：30 本次活动结束。﻿&amp;lt;br&amp;gt;</description><start>2014.03.29 14:30</start><end>17:30</end><location>珠海市唐家湾镇港湾大道，科技园一路十号，民营科技大厦副楼B座，四楼A15，A16</location><participantscount>29</participantscount></event>
+	<event><title>BAS-NB For ZhuHai</title><chapterid>113382777332300419074</chapterid><description>﻿#gdg#2014#zhuhai&amp;lt;br&amp;gt;
+#BAS#NaiveBreaker&amp;lt;br&amp;gt;
+#report
+3月15日，珠海GDG不甘社NB系列活动于北理工开启咯！所谓NB，就是Naive Breaker（天真粉碎机）。NB系列的首场活动，小伙伴们虽然还是很迷惘的样子，但是经历圆桌会议之后，大家都开始思考如何Break掉我们的Naive！&amp;lt;br&amp;gt;
+活动时间：2014年3月15日，14:00~16:30&amp;lt;br&amp;gt;
+活动地点：广东省珠海市唐家湾金凤路6号北京理工大学珠海学院弘毅楼HD202&amp;lt;br&amp;gt;
+活动总结：2.5小时的职场分享&amp;lt;br&amp;gt;
+报名人数：35人（已剔除重复报名的，即重复报名只算一人），其中G+上有12人报名&amp;lt;br&amp;gt;
+现场参与：28人（包括大妈1枚、小言1枚和志愿者5枚）&amp;lt;br&amp;gt;
+活动流水记录：   &amp;lt;br&amp;gt;
+【14:00~14:10  现场签到】现场播放了一段视频入门&amp;lt;br&amp;gt;
+【14:10~15:00  大妈分享】NB系列介绍，以及NB0的开启。 大妈简略介绍了职场规划等内容。&amp;lt;br&amp;gt;
+【15:00~15:30  茶歇 + 如何称为GDG官方会员】由于设备问题，小言的幻灯无法展示G+入圈操作，这一环节只能简单介绍了珠海GDG的情况，在此小言深感抱歉&amp;lt;br&amp;gt;
+【15:30~16:30  圆桌讨论】小伙伴们积极与大妈面对面交流。活动现场，小伙伴们分享了自身作为销售者经历 + 技术面试相关提问&amp;lt;br&amp;gt;
+【16:30~16:40  现场填写反馈表】原定的现场填写，改为活动后通过邮件方式发放，希望小伙伴们认真填写。这次反馈关系到后面NB系列活动的内容，还有作为大家下次能否再次被邀请来参加NB系列活动的参考哦。&amp;lt;br&amp;gt;
+幻灯：&amp;lt;br&amp;gt;
+http://s5.zoomquiet.io/140315-nb0/&amp;lt;br&amp;gt;
+https://speakerdeck.com/zoomquiet/2-dot-22-sod-zq-zhgdg-intro&amp;lt;br&amp;gt;
+录音：http://res.zoomquiet.io/ZHGDG/2014/140315-nb0/index.html&amp;lt;br&amp;gt;
+非常感谢大家来参加这次活动。这次活动是跟老高一起负责的，但是因为老高最近比较忙，所以没能来参加NB系列的首场活动。由于老高没回来坐镇，小言我在主持这个活动的时候还是有点经验不足，还有点小紧张。这也是Naive的一个表现吧。&amp;lt;br&amp;gt;
+其实，对于小伙伴们来说，有兴趣来参加这次的活动，就是Break掉自身Naive的第一步。至少大家都想去Break掉它，而不是纵容它，或者逃避它。在此小伙伴们应该为自己鼓掌。&amp;lt;br&amp;gt;
+我想搞这一系列的活动的初衷其实很简单，也是有点小私心。毕竟我和小伙伴们一样，十多年来待得最多的地方就是学校。但是毕业后，就要正式走进职场了。那么，我们如何能够快速地从一个“消费者”转变成“销售者”呢？这是我们想在这一系列活动中跟小伙伴们一起探讨的一个问题。&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+-14:00~14:10  现场签到&amp;lt;br&amp;gt;
+-14:10~15:10  职场职位扫盲&amp;lt;br&amp;gt;
+-15:10~15:30  茶歇 + 如何成为GDG官方会员&amp;lt;br&amp;gt;
+-15:30~16:30  圆桌讨论&amp;lt;br&amp;gt;
+-16:30~16:40  现场填写反馈表&amp;lt;br&amp;gt;</description><start>2014.03.15 14:00</start><end>16:00</end><location>中国广东省珠海市香洲区金凤路北京理工大学珠海分校</location><participantscount>28</participantscount></event>
+	<event><title>DevFest-WTM(Women Techmakers) ZhuHai</title><chapterid>113382777332300419074</chapterid><description>#gdg #zhuhai #report #2014 #WTM #DevFest
+
+
+&amp;lt;p&amp;gt;Summary:&amp;lt;/p&amp;gt;
+
+&amp;lt;pre&amp;gt;&amp;lt;code&amp;gt;8.5 hours full day event
+77 people registered
+49 people registered showed up, 26 WOMEN! (&amp;gt;50%)
+8 speakers, 4 for Site Interview (all women!)
+&amp;lt;/code&amp;gt;&amp;lt;/pre&amp;gt;
+
+&amp;lt;p&amp;gt;Free food and soft drink all day&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;100 boxes of chocolates (nobody not love chocolate)
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;as gift for all participants&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;include man, but order them must sent girlfriend ;-)&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;15 Pizza as lunch&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+
+
+
+
+&amp;lt;p&amp;gt;in Schedule:&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;10:00~10:30 Ms. Bonnie - intro. DevFest-W and GDG Zhuhai&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href=&quot;http://zoomquiet.io/res/s5/130727-gdgzhgdl/&quot;&amp;gt;Slides&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href=&quot;http://res.zoomquiet.io/ZHGDG/2014/140308-devfest-wtm/140308_devfest-wtm_1_intro.MP3&quot;&amp;gt;Record&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;10:30~11:00 Ms. xuee - Impromptu speech: Think in working.&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;awoke three important points for woman in working:
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;platfrom&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;boss&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;chance&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href=&quot;http://res.zoomquiet.io/ZHGDG/2014/140308-devfest-wtm/140308_devfest-wtm_2_lvxuee.MP3&quot;&amp;gt;Record&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;especial ! Live a &amp;lt;a href=&quot;http://res.zoomquiet.io/ZHGDG/2014/140308-devfest-wtm/140308_devfest-wtm_3_song.MP3&quot;&amp;gt;cappella fragment ;-)&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;11:00~12:00 Site Interview&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Ms. xuee/bonnie/tanli/xiaojiao&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;topic as: if back 7 years ago, what is u need tell uself?&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;this topic touch girls deep memories,&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;share a lot of life experience for fix major problems:
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;found realy like things&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;found the right offer&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;need Puppy love&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;jump out of fear&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href=&quot;http://res.zoomquiet.io/ZHGDG/2014/140308-devfest-wtm/140308_devfest-wtm_4_liv-talk.MP3&quot;&amp;gt;Record&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+
+&amp;lt;p&amp;gt;Original plan is 12:00~14:00 lunch+society time.
+usage GDG Istanbul&apos;d design &quot;Don;t as Google&quot; Frame, so happy shoting.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;but 13:05 GDG NewDelhi ask hangout us.
+immediately shout all people back room,and make cross-country Hangout.
+after try 3 times , Live Hangout showing !&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Mr. Shrey Malhotra - Google Cloud Platform&amp;lt;/p&amp;gt;
+
+&amp;lt;pre&amp;gt;&amp;lt;code&amp;gt;unfortunately the sound is always intermittent.
+people in Zhuhai all not understanded the details of speech.
+hope Shrey can shring us the presentation.
+&amp;lt;/code&amp;gt;&amp;lt;/pre&amp;gt;
+
+&amp;lt;p&amp;gt;Ms. Grace Wang - WPS Story
+    woman engineer local zhuhai,talk about story for
+    original common office software: WPS
+    for fixed Cnglish, we publich &amp;lt;a href=&quot;https://docs.google.com/document/d/17VRdmyewqkzh-ux4gynVQwVUSzUubqfDyjvJBHkWBqI&quot;&amp;gt;Speeches&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;end the unite-time, one NewDelhi girls ask us:&amp;lt;/p&amp;gt;
+
+&amp;lt;pre&amp;gt;&amp;lt;code&amp;gt;Under what operating system developing WPS?
+&amp;lt;/code&amp;gt;&amp;lt;/pre&amp;gt;
+
+&amp;lt;p&amp;gt;because WPS is Cross-platform common office software;
+so us engineers coding under all kinds of OS:
+- windows
+- Ubuntu
+- MAC OS&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;in fact,today WPS all files include more than 200+ million lines of code!
+real complex big project, soooo many tech story can talk.&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href=&quot;http://res.zoomquiet.io/ZHGDG/2014/140308-devfest-wtm/140308_devfest-wtm_5_newdelhi-unitime.MP3&quot;&amp;gt;Record&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href=&quot;https://docs.google.com/document/d/17VRdmyewqkzh-ux4gynVQwVUSzUubqfDyjvJBHkWBqI&quot;&amp;gt;Speeches&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+
+&amp;lt;p&amp;gt;btw: in fact Zhuhai prepare two topic, but forgeted ScreenShare can not scrap the Video streaming, had to cancel at that time:
+    - &amp;lt;a href=&quot;https://www.youtube.com/watch?v=mhTkqBvXNEY&quot;&amp;gt;CleanMaster Story&amp;lt;/a&amp;gt;
+    - &amp;lt;a href=&quot;https://speakerdeck.com/zoomquiet/140308-devfest-wtm-zhuhai-cleanmaster-story&quot;&amp;gt;Slides&amp;lt;/a&amp;gt;
+    - &amp;lt;a href=&quot;https://docs.google.com/document/d/1kAcMBPol6Il_wsBptDHHYGHZbc4qdbEmNm8qpyoYBLQ&quot;&amp;gt;Speeches&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Thanks to Shrey Malhotra, Anubha Balani and others
+for make ture for unite-time with NewDelhi.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;After the hangout, we back schedule:&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;15:45~16:15 Ms. Grace Wang - Wearable computer and Smart Home&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;show us so many ehe most cutting-edge electronic products!&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href=&quot;http://res.zoomquiet.io/ZHGDG/2014/140308-devfest-wtm/140308_devfest-wtm_6_wearable.MP3&quot;&amp;gt;Record&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;16:20~17:30 Ms. YaYa - Model Making&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;woman engineer self-defined as &quot;the Electronic second generation&quot;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;because parents are electricians ;-)&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;show us all kinds of model and building story.&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href=&quot;http://res.zoomquiet.io/ZHGDG/2014/140308-devfest-wtm/140308_devfest-wtm_7_prototype.MP3&quot;&amp;gt;Record&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;p&amp;gt;17:30~18:05 Ms. zhao - Etiquette in working
+  show us how to makeup woman engineer become beauty and youth.&amp;lt;/p&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+
+&amp;lt;p&amp;gt;when event end,rainning,
+but everyone excitement for know such pretty CodeGirls.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Important is, them pretty not only base skin,
+just through the activity for learnning/try anythings!&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;A big thank must give all volunteers come from Beijing Institute of Technology Zhuhai for support envet.&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;another big thank you to Zoom.Quiet and GDG Zhuhai Team
+(Bonnie Liu,SpawnrisG,langqixu,LiTan).&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Event Links:
+G+ : &amp;lt;a href=&quot;https://plus.google.com/u/0/b/113382777332300419074/events/ctihkaqah74hj74vvrvge1iidqo&quot;&amp;gt;DevFest-WTM(Women Techmakers) ZhuHai - Google+&amp;lt;/a&amp;gt;
+Session Videos :&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;1:55:40 &amp;lt;a href=&quot;https://www.youtube.com/watch?v=YfGKJVcacE8&quot;&amp;gt;DevFest-WTM ZhuHai&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;54:11   &amp;lt;a href=&quot;https://www.youtube.com/watch?v=N7QpML1qvd0&quot;&amp;gt;DevFest-WTM Zhuhai pm&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;1:16:55 &amp;lt;a href=&quot;https://www.youtube.com/watch?v=odjn9Mu3XSU&quot;&amp;gt;DevFest-WTM ZhuHai pm.2&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+
+&amp;lt;p&amp;gt;the lost topic:&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;16:01   &amp;lt;a href=&quot;https://www.youtube.com/watch?v=mhTkqBvXNEY&quot;&amp;gt;CleanMaster Story&amp;lt;/a&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href=&quot;https://speakerdeck.com/zoomquiet/140308-devfest-wtm-zhuhai-cleanmaster-story&quot;&amp;gt;Slides&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href=&quot;https://docs.google.com/document/d/1kAcMBPol6Il_wsBptDHHYGHZbc4qdbEmNm8qpyoYBLQ&quot;&amp;gt;Speeches&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;http://res.zoomquiet.io/ZHGDG/2014/140308-devfest-wtm/&quot;&amp;gt;Session Records&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Session Slide :
+    - &amp;lt;a href=&quot;http://zoomquiet.io/res/s5/130727-gdgzhgdl/&quot;&amp;gt;130727-gdgzhgdl&amp;lt;/a&amp;gt;
+        base S5 (one kinds of html5 slides)
+    - right version: &amp;lt;a href=&quot;https://speakerdeck.com/zoomquiet/2-dot-22-sod-zq-zhgdg-intro&quot;&amp;gt;2-22-sod-zq-zhgdg-intro&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;https://plus.google.com/u/0/b/113382777332300419074/events/gallery/ctihkaqah74hj74vvrvge1iidqo&quot;&amp;gt;Photos&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;TEAM :&amp;lt;/p&amp;gt;
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href=&quot;https://plus.google.com/113382777332300419074/about&quot;&amp;gt;GDG Zhuhai&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href=&quot;https://plus.google.com/114576537688641864561/about&quot;&amp;gt;GDG New Delhi&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+</description><start>2014.03.08 00:00</start><end>00:00</end><location>中国广东省珠海香洲区珠海金山软件公司</location><participantscount>49</participantscount></event>
+	<event><title>CBInstallfest.2+SOD.3 for ZhuHai</title><chapterid>113382777332300419074</chapterid><description>SOD+CBI 欢乐完成&amp;lt;br&amp;gt;
+http://blog.zhgdg.org/2014-02/et-sod-cbi/&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+活动关键数据:&amp;lt;br&amp;gt;
+参会人数: 86 其中:&amp;lt;br&amp;gt;
+报名68人; 现场报名7人&amp;lt;br&amp;gt;
+讲师 6人&amp;lt;br&amp;gt;
+志愿者 5人&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+CubieBoard+SchoolOpenDay&amp;lt;br&amp;gt;
+CubieBord分享&amp;lt;br&amp;gt;
+不甘社的2014规划&amp;lt;br&amp;gt;
+DevArt的推广&amp;lt;br&amp;gt;
+资深程序媛的分享&amp;lt;br&amp;gt;
+
+#gdg #2014 #report&amp;lt;br&amp;gt;
+[2.22]SOD.3 + CBI.2 happy summary&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
+Number of participants: 86: &amp;lt;br&amp;gt;
+Time: 2014-02-22 14:03 ~ 17:58 &amp;lt;br&amp;gt;
+Location: BeiJing Institute of Technology,ZhuHai,&quot;SanNeng　Laboratory&quot;&amp;lt;br&amp;gt;
+-SOD ~ School Open Day&amp;lt;br&amp;gt;
+- GDG enter college, sharing anything with students&amp;lt;br&amp;gt;
+- this is the 3nd SOD local ZhuHai&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+- CB ~ CubieBoard is originate miniPC local Zhuhai, like Raspberry Pi,
+base ARM, more powerful, and more expensive&amp;lt;br&amp;gt;
+- Installfest is classic event in Linux community&amp;lt;br&amp;gt;
+- CBI ~ CubieBoard Installfest ,is GDG ZHuhai originate event, base CB
+learnning how to progeamming in Embedded Systems.&amp;lt;br&amp;gt;
+- we plan ,every month make CBI one more time local Zhuhai&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+Summary&amp;lt;br&amp;gt;
+Zoom.Quiet   How to play Email&amp;lt;br&amp;gt;
+TanLi	     Student to staff, what we need&amp;lt;br&amp;gt;
+Bonnie	     Art made with code - DevArt&amp;lt;br&amp;gt;
+Spawnris     University student how to save themselves&amp;lt;br&amp;gt;
+Aaron        How to become a good Cubier&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+Slides&amp;lt;br&amp;gt;
+2.22-SOD-ZQ-ZHGDG_intro.    https://speakerdeck.com/zoomquiet/2-dot-22-sod-zq-zhgdg-intro&amp;lt;br&amp;gt;
+2.22-SOD-Kaoupulity-email   https://speakerdeck.com/zoomquiet/2-dot-22-sod-kaoupulity-email&amp;lt;br&amp;gt;
+2.22-SOD-codegirls-grownup  https://speakerdeck.com/zoomquiet/2-dot-22-sod-codegirls-grownup&amp;lt;br&amp;gt;
+2.22-SOD-ButAgainStartup    https://speakerdeck.com/spawnris/bu-gan-she&amp;lt;br&amp;gt;
+2.22-SOD-CubieDeveloper     https://speakerdeck.com/spawnris/cubieboard&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+Radio&amp;lt;br&amp;gt;
+http://zoomq.qiniudn.com/ZHGDG/2014/140222-sod-cbi/index.html&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+Photos&amp;lt;br&amp;gt;
+https://plus.google.com/u/0/events/c5173hmb859ctc83at6qpg5dbog&amp;lt;br&amp;gt;</description><start>2014.02.22 13:30</start><end>17:30</end><location>中国广东省珠海香洲区金凤路北京理工大学珠海分校</location><participantscount>86</participantscount></event>
+	<event><title>CBInstallfest.1 珠海GDG安装集市</title><chapterid>113382777332300419074</chapterid><description>&amp;lt;br&amp;gt;## Installfest
+&amp;lt;br&amp;gt;安装集市(Installfest) 是Linux 社区经典的线下活动形式之一,
+&amp;lt;br&amp;gt;也是最有爱心的形式之一!
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;- 由成员自发组织
+&amp;lt;br&amp;gt;- 聚集在交通方便的场所,相互帮助完成 Linux 的安装,解决实际的小问题
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;活动关键数据:
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;    参会人数: 30 , 其中:
+&amp;lt;br&amp;gt;        报名7人; 实到22人(北理实验室15人)
+&amp;lt;br&amp;gt;        导师 6人
+&amp;lt;br&amp;gt;        志愿者 2人
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;活动小节:CBInstall.1 欢乐完成 | GDG Livin ZhuHai Life;-) 
+&amp;lt;br&amp;gt;    http://blog.zhgdg.org/2014-01/et-cbi1/
+&amp;lt;br&amp;gt;
+
+&amp;lt;br&amp;gt;## CBI
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;- 时间: 140111 14:00~17:30
+&amp;lt;br&amp;gt;- 地点: 完成报名后邀请邮件说明
+&amp;lt;br&amp;gt;- 报名: [[1.11]CBInstallfest报名表](https://docs.google.com/forms/d/1EARpLUGfWuqWxMcLTpZPV-0dth3NlhVZgsb5eifj5zg/viewform)
+&amp;lt;br&amp;gt;- 安装: 系统暂定以下发行版
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;    1. lubuntu
+&amp;lt;br&amp;gt;    1. debian
+&amp;lt;br&amp;gt;    1. arch linux
+&amp;lt;br&amp;gt;    1. android
+&amp;lt;br&amp;gt;    1. fedora 20
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;### 挑战: 
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;1. 把中文配置好
+&amp;lt;br&amp;gt;1. 搭建一个有意思的应用，比如owncloud，vpn等
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;安装者如果能独立完成以下配置,经过公投:
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;- 第1名 奖励1台CB2
+&amp;lt;br&amp;gt;- 第2名 奖励1台CB11
+&amp;lt;br&amp;gt;- 第3名 奖励1个我们的蓝牙小音响。
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;`提示::` 一定要事先作好预习哪!!!
+</description><start>2014.01.11 14:00</start><end>17:30</end><location>中国广东省珠海香洲区珠海金山软件公司</location><participantscount>30</participantscount></event>
+	<event><title>GDG珠海 CodeGirl.2</title><chapterid>113382777332300419074</chapterid><description>感谢所有程序媛, 本次活动总结:
+&amp;lt;br&amp;gt;[12.21]专属女生的GDG珠海CodeGirl第二季 小结 
+&amp;lt;br&amp;gt;    http://www.chinagdg.com/thread-3453-1-1.html
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;thanx for all CodeGirls ;-)
+&amp;lt;br&amp;gt;the 2nd event for girl in code summary is:
+&amp;lt;br&amp;gt;    http://www.chinagdg.com/thread-3453-1-1.html
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;only girls also can disscus abt. tecg, all kinds of tech!
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;the event flow:
+&amp;lt;br&amp;gt;- intro. self,
+&amp;lt;br&amp;gt;- review self 2013
+&amp;lt;br&amp;gt;- view Google 2013 review video
+&amp;lt;br&amp;gt;- review global tech-women info.,
+&amp;lt;br&amp;gt;- intro. RailsGirls , and discuss : How to make CodinGirl 
+&amp;lt;br&amp;gt;...
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;the loal foto is: https://plus.google.com/u/0/b/113382777332300419074/events/cefi2iqft7v1n4829fu9jg90734
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;首次 CodeGirl 记要:
+&amp;lt;br&amp;gt;http://zhgdg.gitcafe.com/2013-10/et10-summary/
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;这次继续 程序媛的私密分享:
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;- 多玩的程序媛
+&amp;lt;br&amp;gt;- 金山的程序媛
+&amp;lt;br&amp;gt;- WPS的程序媛
+&amp;lt;br&amp;gt;- 澳门的未来程序媛
+&amp;lt;br&amp;gt;- ...
+&amp;lt;br&amp;gt;都来!
+&amp;lt;br&amp;gt;报名问卷:
+&amp;lt;br&amp;gt;https://docs.google.com/forms/d/17xFTupw4n_enwLwl6n3vnmVG0-vG-JazCx0u4MmeZIk/viewform
+</description><start>2013.12.21 13:30</start><end>18:00</end><location>中国广东省珠海香洲区珠海金山软件公司</location><participantscount>11</participantscount></event>
+	<event><title>ZHGDG[12.15]But Again Startup.2 ~ 不甘社:我的工具箱</title><chapterid>113382777332300419074</chapterid><description>16：00—18：00
+北京理工大学珠海学院弘毅楼F座107举行
+不甘社 专题分享:
+
+幻灯: http://zoomquiet.org/res/s5/131113-MyTools/
+录音: http://zoomq.qiniudn.com/CPyUG/zq2voice/131215-bit-zh-toolbox
+
+这是 大妈 私人分享:
+涉及什么是工具,
+如何选择工具;
+为什么要组成工具链;
+大妈的当前工具箱...﻿
+</description><start>2013.12.15 16:00</start><end>18:00</end><location>中国广东省珠海香洲区北京理工大学珠海学院</location><participantscount>33</participantscount></event>
+	<event><title>PyCon2013China-ZhuHai</title><chapterid>113382777332300419074</chapterid><description>#gdg #2013 #zhuhai #report
+#PyConChina
+&amp;lt;br&amp;gt;议程:
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;2013年12月8日(星期日)
+&amp;lt;br&amp;gt;09:30 - 10:00   签到
+&amp;lt;br&amp;gt;10:00 - 10:10   Zoom.Quiet  赞助商Google;主办方GDG/TopGeek/CPyUG...组织介绍
+&amp;lt;br&amp;gt;10:10 - 10:40   各国Pythoner  世界Pythonista 短片联播
+&amp;lt;br&amp;gt;10:45 - 11:15   赖勇浩 论 Python 与设计模式
+&amp;lt;br&amp;gt;11:15 - 12:00   潘俊勇 我经历的软件重构
+&amp;lt;br&amp;gt;12:00 - 14:00   午餐+Jeff乐队助兴!
+&amp;lt;br&amp;gt;14:00 - 14:30   李路  Artisan &amp;amp; Artist
+&amp;lt;br&amp;gt;14:30 - 15:00   Jeff    移动应用中的python技术架构
+&amp;lt;br&amp;gt;15:00 - 15:30   王健  用Python架设大型多人在线游戏服务端
+&amp;lt;br&amp;gt;15:30 - 15:40   休息/抽奖
+&amp;lt;br&amp;gt;15:40 - 16:00   Martin  从TED/TEDx社区的繁荣看独特的用户体验设计
+&amp;lt;br&amp;gt;16:00 - 16:30   黄毅  Python性能优化实践
+&amp;lt;br&amp;gt;16:35 - 17:15   Zoom.Quiet  再再再再谈文学化编程
+&amp;lt;br&amp;gt;17:15 - 17:25   休息/抽奖
+&amp;lt;br&amp;gt;17:25 - 18:05   wuvist  论使用Python开发推荐引擎的优越性
+&amp;lt;br&amp;gt;18:05 - 18:15   结束 抽奖
+&amp;lt;br&amp;gt;19:00 - 21:00   华蠎晚餐,限额20名,同嘉宾深入沟通的好机会!
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;其它情况参考: http://cn.pycon.org/2013
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;PyCon2013China 珠海场小结 
+&amp;lt;br&amp;gt;    http://zhgdg.gitcafe.com/2013-12/et16-pycon-zh/
+
+&amp;lt;br&amp;gt;最终议程:
+&amp;lt;br&amp;gt;    http://cn.pycon.org/2013/zhuhai
+&amp;lt;br&amp;gt;    资料也发布到其中;
+&amp;lt;br&amp;gt;PyCon2013China 珠海场小结 
+&amp;lt;br&amp;gt;    http://zhgdg.gitcafe.com/2013-12/et16-pycon-zh/
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;活动关键数据:
+&amp;lt;br&amp;gt;参会人数: 128 , 其中:
+&amp;lt;br&amp;gt;    报名141人
+&amp;lt;br&amp;gt;    实到95人(现场报名12人)
+&amp;lt;br&amp;gt;    讲师 9人
+&amp;lt;br&amp;gt;    乐队 6人
+&amp;lt;br&amp;gt;    志愿者 18人
+&amp;lt;br&amp;gt;时间: 9:30~18:07
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;for Global GDG::
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;PyCon is the bigest Python year conference;
+&amp;lt;br&amp;gt;China from 2011 begin make PyConChina;
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;the PyCon2013China is 3 city conference!
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;2013-12-08 is Shanghai, Zhuhai;
+&amp;lt;br&amp;gt;2013-12-14 is Beijing
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;PyCon2013China Zhuhai &apos;s schedule:
+&amp;lt;br&amp;gt;    http://cn.pycon.org/2013/zhuhai
+&amp;lt;br&amp;gt;the detail report published :
+&amp;lt;br&amp;gt;    http://zhgdg.gitcafe.com/2013-12/et16-pycon-zh/
+&amp;lt;br&amp;gt;Register: 144
+Attendees: 128
+&amp;lt;br&amp;gt;this full 8 hours conference,
+&amp;lt;br&amp;gt;Pythonner come from PearlRiverDelta, 
+&amp;lt;br&amp;gt;and even one speechmaker come from Singapore !
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;the topics :
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;1. play the Global Pythonista&apos;s video:
+&amp;lt;br&amp;gt;    - Japan: HRYR built with Python signal acquisition and analysis system
+&amp;lt;br&amp;gt;        http://v.youku.com/v_show/id_XNjQ1OTMzODQw.html
+&amp;lt;br&amp;gt;    - USA: EKR into. Leo 
+&amp;lt;br&amp;gt;        http://v.youku.com/v_show/id_XNjQ1OTM3MDk2.html
+&amp;lt;br&amp;gt;2. LaiYongHao: discuss Pythonic design model
+&amp;lt;br&amp;gt;    Slides: https://speakerdeck.com/zoomquiet/pycon2013china-zhuhai-laiyonghao
+&amp;lt;br&amp;gt;3. PanJunYong: review all my experience re-Architecture
+&amp;lt;br&amp;gt;    Slides: https://speakerdeck.com/zoomquiet/pycon2013china-zhuhai-panjunyong
+&amp;lt;br&amp;gt;YouTube Hangout Video for am:
+&amp;lt;br&amp;gt;    https://www.youtube.com/watch?v=kKkLIGM0-fc
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;4. LiLu: Artisan &amp;amp; Artist 
+&amp;lt;br&amp;gt;    Slides: http://zoomq.qiniudn.com/CPyUG/PyCon2013China/Artisan_and_Artist/artist.html
+&amp;lt;br&amp;gt;    in face, LiLu is Ruby-China.org &apos;s orgnizer, but share us the Pythoinc Design for web
+&amp;lt;br&amp;gt;5. Jeff: mobile app. with Python team
+&amp;lt;br&amp;gt;    Slides: http://zoomq.qiniudn.com/CPyUG/PyCon2013China/Jeff_pyconf2013/pyconf2013.html
+&amp;lt;br&amp;gt;6. WangJian: usgae Python build MMOG&apos;s server
+&amp;lt;br&amp;gt;    Slides: https://speakerdeck.com/zoomquiet/pycon2013china-zhuhai-wangjian
+&amp;lt;br&amp;gt;7. Martin: TEDx &apos;s community
+&amp;lt;br&amp;gt;    Slides: https://speakerdeck.com/zoomquiet/pycon2013china-zhuhai-tedx
+&amp;lt;br&amp;gt;8. codeplauer: Python Performance Optimization Practice
+&amp;lt;br&amp;gt;    Slides: http://zoomq.qiniudn.com/CPyUG/PyCon2013China/python-optim-pycon2013/python-optim.html
+&amp;lt;br&amp;gt;YouTube Hangout Video for pm:
+&amp;lt;br&amp;gt;    https://www.youtube.com/watch?v=yVmkEdHvTDM
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;9. wuvist: On the recommendation engine developed using Python superiority
+&amp;lt;br&amp;gt;    Slides: https://speakerdeck.com/zoomquiet/pycon2013china-zhuhai-wuvist-1
+</description><start>2013.12.08 00:00</start><end>00:00</end><location>中国广东省珠海香洲区珠海金山软件公司</location><participantscount>128</participantscount></event>
+	<event><title>珠海GDG HOA.5</title><chapterid>113382777332300419074</chapterid><description>第5次Hangout 直播社区活动,包含:
+&amp;lt;br&amp;gt;+ Jeff乐队演练
+&amp;lt;br&amp;gt;+ 一斌的跨界自白
+&amp;lt;br&amp;gt;+ TI:SensorTag 试用
+&amp;lt;br&amp;gt;+ 刘老湿的神密分享
+&amp;lt;br&amp;gt;+ Cubieboard 的常规分享
+&amp;lt;br&amp;gt;+ 大妈的 Leo 体验
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;报名表:
+&amp;lt;br&amp;gt;http://f.jeffkit.info/zoomquiet/zhgdg1123hoa/
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;GDG ZhuHai every Events try collected all media stuff
+&amp;lt;br&amp;gt;so the future members can learnning self
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;us usage:
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;- words: official Blog http://zhgdg.gitcafe.com  (some kinds of github-pages serveice in China)
+&amp;lt;br&amp;gt;- record: http://zoomq.qiniudn.com/ZHGDG
+&amp;lt;br&amp;gt;- slides: https://speakerdeck.com/zoomquiet
+&amp;lt;br&amp;gt;- video: base Hangout publish into YouTube
+&amp;lt;br&amp;gt;    - http://www.youtube.com/user/ZoomQuiet4cn/videos
+&amp;lt;br&amp;gt;    - http://www.youtube.com/channel/UCOJJNUwva_K8jSZ2gcZnblA/videos
+
+</description><start>2013.11.23 13:30</start><end>17:30</end><location>中国广东省珠海香洲区珠海金山软件公司</location><participantscount>39</participantscount></event>
+	<event><title>ZHGDG[11.17]But Again Startup.1 ~ 不甘社:时.识管理</title><chapterid>113382777332300419074</chapterid><description>北京理工大学珠海学院弘毅楼F座107举行
+不甘社 专题分享:
+
+幻灯: http://zoomquiet.org/res/s5/120229-time2km/
+录音: http://zoomq.qiniudn.com/CPyUG/zq2voice/131117-bit-zh-tkm
+
+这是金山内部新员工培训内部,
+涉及什么是时间/知识管理,
+怎么从学生转变成职员,
+工作持续改进的思路,工具...﻿</description><start>2013.11.17 19:00</start><end>21:00</end><location>中国广东省珠海香洲区北京理工大学珠海学院</location><participantscount>24</participantscount></event>
+	<event><title>CodeGirls in ZhuHai GDG - 相约美丽程序媛专场活动</title><chapterid>113382777332300419074</chapterid><description>&amp;lt;br&amp;gt; ❤活动流程❤
+&amp;lt;br&amp;gt; 13:00~13:30 入场签到
+&amp;lt;br&amp;gt; 13:30~13:40 活动开始，暖场介绍
+&amp;lt;br&amp;gt; 13:40~15:00 嘉宾分享
+&amp;lt;br&amp;gt; 15:00~15:20 中场休息，自由交流
+&amp;lt;br&amp;gt; 15:20~17:00 嘉宾分享
+&amp;lt;br&amp;gt; 17:00~17:30 现场提问、分享感受
+&amp;lt;br&amp;gt; 
+&amp;lt;br&amp;gt; ❤Summary❤
+
+&amp;lt;br&amp;gt; Maybe ZhuHai&apos;s beauty , GDG events always joined some CodeGirls,
+&amp;lt;br&amp;gt; so for thanx this beautys in ZhuHai,
+&amp;lt;br&amp;gt; this month, we try make one pure girls evnet;-)
+&amp;lt;br&amp;gt; - from the star, we try keep pure girl!
+&amp;lt;br&amp;gt; - organizer/volunteer/speech/listener/photographer ... 
+&amp;lt;br&amp;gt; all must girls!
+&amp;lt;br&amp;gt; 
+&amp;lt;br&amp;gt; CodeGirl&apos;s rule:
+&amp;lt;br&amp;gt; - female only, and enjoy Intetnet, love tech sharing, want new firends
+&amp;lt;br&amp;gt; - issue only foucs female in Internet Technic
+&amp;lt;br&amp;gt; - topic only come frome the realy own experience
+&amp;lt;br&amp;gt; - not tech only, also care female in tech world&apos;s life
+&amp;lt;br&amp;gt; 
+&amp;lt;br&amp;gt; The Moving:
+&amp;lt;br&amp;gt; - in Programming areas, there is sooooo many beauty girls 
+&amp;lt;br&amp;gt;     - working hard like man
+&amp;lt;br&amp;gt;     - learnning hard like man
+&amp;lt;br&amp;gt;     - living hard like man
+&amp;lt;br&amp;gt;     BUT keep them beauty in man &apos;s tech world
+&amp;lt;br&amp;gt; - so Serious, suggest that programmer monkeys Cheering for CodeGirls
+&amp;lt;br&amp;gt; - let&apos;s CodeGirls and guys working together make world better and better
+
+
+&amp;lt;br&amp;gt; ❤活动小结❤
+&amp;lt;br&amp;gt; 
+&amp;lt;br&amp;gt; 也许是受到珠海渔女的熏陶吧，珠海GDG活动经常能吸引很多美女程序媛的参加，这也使得珠海GDG在全国GDG社区里别具特色，常常吸引到不少社区GG们的羡慕哇~
+&amp;lt;br&amp;gt; 为了感谢长期以来女生同胞的支持，本月我们特别举办了只针对女生开放的专场交流活动，从工作人员、讲师，甚至到场地经理，我们都严格执行“必须女生”的第一要义。
+&amp;lt;br&amp;gt; 为此在前期报名中，Bonnie可是忍痛把一大波试图闯进的GG们严厉地排除在外。在次也向给予我们此次活动精神支持和劳力支持的GG们表示感谢，谢谢你们的消息传播和物资运输: )
+&amp;lt;br&amp;gt; 
+&amp;lt;br&amp;gt; 【此次活动主打特色】
+&amp;lt;br&amp;gt; * 参与者必须为女性，热爱互联网，喜欢技术交流，爱结交朋友
+&amp;lt;br&amp;gt; * 活动主题将围绕女性在互联网企业里的角色扮演展开讨论
+&amp;lt;br&amp;gt; * 分享内容主要来自女性在互联网公司常见岗位所处的领域
+&amp;lt;br&amp;gt; * 抛弃过往沉闷的技术交流，以女性技术爱好者的需求为中心，分享更适合女性接受的技术内容
+&amp;lt;br&amp;gt; 
+&amp;lt;br&amp;gt; 
+&amp;lt;br&amp;gt; 【最后感慨几句】
+&amp;lt;br&amp;gt; 非常感动在男生云集的技术互联网圈子里，依然拥有那么多可爱并对技术抱有热情的MM们。她们在各个互联网公司里实现着自己的梦想，发挥着自己的魅力。
+&amp;lt;br&amp;gt; 希望GG们看到这篇小结后，也能小小地敬佩一下你周围的女性同事们，为她们打气加油和鼓励。: P
+&amp;lt;br&amp;gt; 
+</description><start>2013.10.26 13:00</start><end>18:00</end><location>珠海唐家湾唐乐街古船西餐厅酒吧</location><participantscount>33</participantscount></event>
+	<event><title>珠海DGD 2013 DevFest</title><chapterid>113382777332300419074</chapterid><description>#gdg #2013 #zhuhai #report
+#DevFest
+&amp;lt;br&amp;gt;10:00~10:30 check in
+&amp;lt;br&amp;gt;10:30~10:45 welcome, report full day&apos;s event
+&amp;lt;br&amp;gt;10:45~11:45 speech:Cubieboard ~ mini host for android
+&amp;lt;br&amp;gt;11:45~13:45 BBQ and Hackfair
+&amp;lt;br&amp;gt;13:45~14:45 speech: DevOps in Android apps
+&amp;lt;br&amp;gt;14:45~15:45 speech: Google Anlytics with play market
+&amp;lt;br&amp;gt;15:45~16:45 speech: AngularJS in Chrome crx
+&amp;lt;br&amp;gt;16:45~18:00 BarCamp
+&amp;lt;br&amp;gt;18:00~18:15 foto for end</description><start>2013.09.14 00:00</start><end>00:00</end><location>中国广东省珠海香洲区景山路金山</location><participantscount>134</participantscount></event>
+	<event><title>珠海GDG总第四次DGL from ZhuHai No,4</title><chapterid>113382777332300419074</chapterid><description>- 时间: 8.11 14:00~18:00
+&amp;lt;br&amp;gt;- 地点: 金山大厦一层
+&amp;lt;br&amp;gt;- 可能内容:
+&amp;lt;br&amp;gt;    - MEIZU Android 持续集成工具链
+&amp;lt;br&amp;gt;    - 布卡 不卡的漫画 App
+&amp;lt;br&amp;gt;    - [Bonnie](https://trello.com/c/od2BGmKt/35-lxc)
+&amp;lt;br&amp;gt;        - GA 的使用期待
+&amp;lt;br&amp;gt;    - [黄祖奔benn](https://trello.com/c/rINFMfXD/16-cubieboard-benn)
+&amp;lt;br&amp;gt;        - Cubieboard 教程
+&amp;lt;br&amp;gt;   - &quot;不甘社&quot;进展
+&amp;lt;br&amp;gt;...</description><start>2013.08.11 14:00</start><end>18:00</end><location>中国广东省珠海香洲区景山路金山</location><participantscount>44</participantscount></event>
+	<event><title>珠海GDG总第三回DGL in ZhuHao No.3</title><chapterid>113382777332300419074</chapterid><description>&amp;lt;br&amp;gt;    13:30~14:00 签到,及暖场
+&amp;lt;br&amp;gt;    14:00~14:15 珠海GDG 介绍,G+ 号召
+&amp;lt;br&amp;gt;    14:15~15:00 韩国恺 ~ Dart 语言入门与开发示例讲解
+&amp;lt;br&amp;gt;    15:00~15:45 刘鑫 ~ 小企业的高弹性架构设计
+&amp;lt;br&amp;gt;    15:50~16:30 布卡 ~ 不卡的漫画 App
+&amp;lt;br&amp;gt;    16:30~17:20 许鑫 ~ GOOGLE 地图上的风场可行性研究
+&amp;lt;br&amp;gt;    17:20~17:35 黄祖奔benn ~ Cubieboard的更多玩法
+&amp;lt;br&amp;gt;    17:35~17:45 老高 ~ &quot;不甘社&quot;倡议 
+&amp;lt;br&amp;gt;    17:45~18:00 Bonnie ~ GA 的使用期待
+&amp;lt;br&amp;gt;    18:00~18:05 活动结束，嘉宾合影留念</description><start>2013.07.27 13:30</start><end>18:00</end><location>中国广东省珠海香洲区景山路金山</location><participantscount>47</participantscount></event>
+	<event><title>GDG珠海: DVCS bring what?! [GDL]分布式版本管理带来了什么</title><chapterid>113382777332300419074</chapterid><description>- 14:00~14:30 签到,及观众进场
+- 14:30~15:20 《Git的基础使用及Chatterbox》ghosTM55，GitCafe 创始人
+- 15:20~15:40 问答 
+- 15:40~16:00 茶歇
+- 15:40~16:30 《聊聊跨平台迁移开发》金持重，WPS架构师之一，WPS for Linux研发负责人
+- 16:30~16:50 问答
+- 16:50~17:00 活动结束，嘉宾合影留念
+</description><start>2013.07.13 14:00</start><end>18:00</end><location>中国广东省珠海市香洲区景山路金山</location><participantscount>52</participantscount></event>
+	<event><title>G+两周年照片行走及生日大趴 G+ 2 Year Anniversary Party+Photowalk</title><chapterid>113382777332300419074</chapterid><description>To celebrate 2 years of Google Plus, Googlers, Photographers and fans from around the world will be hosting photowalks in their areas.  Come join us for the ZhuHai Photowalk for some fun and a chance to meet some great people.
+&amp;lt;br&amp;gt;
+庆祝Google Plus2周年庆，全球谷歌人，摄影者和粉丝会在各地主持举办拍照行走活动。请来加入珠海拍照行走活动，见见一些有趣的人，边行走边拍照边玩乐。Have fun!
+&amp;lt;br&amp;gt;
+Hosts: Zoom.Quiet
+
+&amp;lt;br&amp;gt;When : June 29, 2013
+&amp;lt;br&amp;gt;Time: 13:30
+&amp;lt;br&amp;gt;Route: from ur home to party locale
+&amp;lt;br&amp;gt;Who: Photographers of all skill levels are welcome.
+&amp;lt;br&amp;gt;How Much:  NOTHING!  It&apos;s Free!
+&amp;lt;br&amp;gt;Why: To celebrate the two year anniversary of Google+ by Angelia King in the G+ photo community. To hang out with other fun Google+ photographers. To SHARE MORE PHOTOS! To meet new and interesting people. Thanks so much from  +GDG ZhuHai   &amp;amp;  others  !
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;主持: Zoom.Quiet
+&amp;lt;br&amp;gt;日期 : 2013年6月29
+&amp;lt;br&amp;gt;时间: 13:30
+&amp;lt;br&amp;gt;路线: 从你家到会场的沿途
+&amp;lt;br&amp;gt;参与者: 不管你手持何种手机，只要有拍照功能，或有相机等，欢迎各层次水平的摄像爱好者。）
+&amp;lt;br&amp;gt;费用：绝对免费！欢迎大小家庭，请带小朋友，小伙伴等前来。
+&amp;lt;br&amp;gt;为什么: 庆祝Google+2周年庆， 由 +Zoom Quiet /常年大妈主持，也谢谢各种友情社区的顶力支持和参与这G+社区和图片分享社区的活动。大家聚聚，在行走中拍摄并分享你认为是美的地方，并认识一些Google+社区或者其它摄影爱好者，新的朋友，有趣的玩家，吃货等等。
+&amp;lt;br&amp;gt;
+
+&amp;lt;br&amp;gt;If you&apos;re in ZhuHai and are up for an adventure, keep your eyes on this event as well as the +The Google + Two Year Anniversary Photowalk  Page where we will also post the latest news and updates. Thanks for your joining and sharing and your precious time.
+&amp;lt;br&amp;gt;如果你当天6.29号在珠海，请来加入这次探险，除此之外也请关注这活动总网页  +The Google + Two Year Anniversary Photowalk   那里有最近的更新和新活动。说不准，在你所在的城市，有拍照行走活动，当然也可以自建了。也谢谢你的参与，分享和你宝贵的时间。
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;Please use #Photowalkzh  #Photowalk   #GplusAnniversary  to share something with us. Thanks. 
+&amp;lt;br&amp;gt;请用 #Photowalkzh  #Photowalk   #GplusAnniversary  来和我们互动。谢谢。
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;FYI, kindly check these links out for more info
+&amp;lt;br&amp;gt;更多的信息，请链接以下网页：
+&amp;lt;br&amp;gt;+GDG ZhuHai Google+ 2 years event/
+&amp;lt;br&amp;gt;+GDG ZhuHai  Google+ 两周年链接活动： https://plus.google.com/events/cv1g9cl7ib9pnvg97jnmit8gjpc
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;The &quot;Interactive Map&quot; of Google + 2 Year Anniversary Photowalks
+&amp;lt;br&amp;gt;全球G+2周年拍照行走所举办城市的地图
+&amp;lt;br&amp;gt;http://batchgeo.com/map/d6cfb310cce18832c7150e76692b400c
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+
+&amp;lt;br&amp;gt;#photowalk  #wikipedia  维基百科
+&amp;lt;br&amp;gt;http://en.wikipedia.org/wiki/Photowalk 
+&amp;lt;br&amp;gt;Transit and parking info:People&apos;s Square may be reached by taking ZhuHai Metro Line 1, Line 2 or Line 8 to People&apos;s Square station. Public buses, texi and so on.
+
+</description><start>2013.06.29 13:00</start><end>18:00</end><location>中国广东省珠海市香洲区水湾路227号</location><participantscount>32</participantscount></event>
+	<event><title>珠海GDG首次GDL沙龙 ~ Techparty for GDG Zhuhai with HOA</title><chapterid>113382777332300419074</chapterid><description>&amp;lt;br&amp;gt;- 地点:景山路莲山巷8号 金山软件大厦一层会议厅
+&amp;lt;br&amp;gt;- Live:
+&amp;lt;br&amp;gt;+ &amp;lt;a href=&quot;https://www.youtube.com/watch?v=wTpYgEQ5MtY&amp;amp;feature=c4-feed-u&quot;&amp;gt;6.22珠海GDG - DGL&amp;lt;/a&amp;gt;
+&amp;lt;br&amp;gt;+ &amp;lt;a href=&quot;https://www.youtube.com/watch?v=kqop6a8FrAs&amp;amp;feature=c4-feed-u&quot;&amp;gt;6.22珠海GDG-DGL-lighting talk&amp;lt;/a&amp;gt;
+
+&amp;lt;br&amp;gt;- 议程:
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;    + 来者自述
+&amp;lt;br&amp;gt;    + bonnie: Play 现场进入经验谈
+&amp;lt;br&amp;gt;    + ZQ: 程序猿的logo 设计体验
+&amp;lt;br&amp;gt;    + 吴章金: 除了apps Android 还能玩什么?
+&amp;lt;br&amp;gt;    + 志愿招募
+&amp;lt;br&amp;gt;    + 科学福利
+&amp;lt;br&amp;gt;    + G+解说
+&amp;lt;br&amp;gt;    + 下次预告</description><start>2013.06.22 13:30</start><end>18:00</end><location>中国广东省珠海市香洲区石花西路金山软件</location><participantscount>39</participantscount></event>
+	<event><title>中国GDG组织者空中月会 ~ ChinaGDG discuss HOA </title><chapterid>113382777332300419074</chapterid><description>1）DevFest的举办
+      全国有哪些社区愿意加入
+      哪些城市愿意加入九月的，哪些加入10月的
+
+2）Android Developer Day的举办
+     看到全球有15个GDG联合起来办了次Android Developer Day。
+     上海GDG将于7月28日举办1天的Android Developer Day活动，愿意借此机会进行hangout连接办分会场活动的可以提出。
+ 
+3）利用Hangout进行全国GDG活动连接，支持本地活动
+     广州GDG已经做了4期，可以尝试其他地区连线同时举办活动。
+     上海曾经做过一次与杭州GDG的hangout连线，不太成功。但今年3月份举办上海交大的CodeJam活动，连线到上海大学分会场，是很成功的一次尝试。
+</description><start>2013.06.20 21:00</start><end>22:00</end><location>China</location><participantscount>33</participantscount></event>
+	<event><title>Google IO1023 review ~ 回顾大会</title><chapterid>113382777332300419074</chapterid><description>&amp;lt;b&amp;gt;议程&amp;lt;/b&amp;gt;
+&amp;lt;br&amp;gt;- 14：00~14：30 签到,及观众进场
+&amp;lt;br&amp;gt;- 14：30~15：30 Google I/O 亲历回顾 
+&amp;lt;br&amp;gt;- 15：30~15：45 问答 
+&amp;lt;br&amp;gt;- 15：45~16：45 &amp;lt;a href=&quot;http://zoomquiet.org/res/s5/130427-zhgdg2zhbit/&quot;&amp;gt;科学的玩儿 ~ GDG 社区介绍 &amp;lt;/a&amp;gt;
+&amp;lt;br&amp;gt;- 16：45~17：15 Lighing Talk 时间
+&amp;lt;br&amp;gt;- 17:15~17：30 活动结束，嘉宾合影留念
+</description><start>2013.05.25 14:00</start><end>17:30</end><location>中山大学珠海校区教学楼B303</location><participantscount>42</participantscount></event>
+	<event><title>Google I/O Extended ZhuHai 2013I/O大会珠海GDG直播之夜</title><chapterid>113382777332300419074</chapterid><description>详情: http://www.chinagdg.com/thread-1578-1-1.html
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;要求使用 以下标签进行广泛的传播:
+&amp;lt;br&amp;gt;#io13extended
+&amp;lt;br&amp;gt;#IO13﻿
+&amp;lt;br&amp;gt;-----------------------------------------------------------------------
+&amp;lt;br&amp;gt;很高兴正式邀请你来参加2013 Google I/O extended 珠海站 
+
+&amp;lt;br&amp;gt;活动将于5月15日晚10点正式开始，您可以选择前往吉大「金山软件公司」或者唐家「古船咖啡厅」会场。
+
+&amp;lt;br&amp;gt;【地址/交通】
+&amp;lt;br&amp;gt;吉大分场：吉大景山路莲山巷8号 「金山软件大厦」 1楼贵宾厅
+&amp;lt;br&amp;gt;- 公交K1013/22/26路于「水湾北」站下，步行3分钟即到
+&amp;lt;br&amp;gt;- 具体位置：http://j.map.baidu.com/_0GEK
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;唐家分场：唐家湾唐乐街靠近广场处川坊楼后4楼 「古船西餐厅酒吧」
+&amp;lt;br&amp;gt;- 公交3/3A/10/10A/66/68/69/85路于「唐家市场」下，步行5分钟即到 (近川坊楼，唐乐街，唐家湾广场，聚龙酒店)
+&amp;lt;br&amp;gt;- 具体位置：http://j.map.baidu.com/1CGEK
+
+
+&amp;lt;br&amp;gt;【签到入场】
+&amp;lt;br&amp;gt;- 大会签到从 21:00 开始，请准时参会。
+&amp;lt;br&amp;gt;- 珠海 GDG 是完全开放的社区，欢迎带上愿意一起来玩的朋友同学，提前到场，现场报名即可。
+
+&amp;lt;br&amp;gt;【茶歇】
+&amp;lt;br&amp;gt;- 大会将提供茶歇小食品
+
+&amp;lt;br&amp;gt;【大会议程】
+&amp;lt;br&amp;gt;2013年05月15日，周三
+&amp;lt;br&amp;gt;21:00 ~ 22:00 入场注册
+&amp;lt;br&amp;gt;22:00 ~ 22:15 暖场介绍
+&amp;lt;br&amp;gt;22:15 ~ 23:15 特邀讲师作主题演讲和演示
+&amp;lt;br&amp;gt;23:15 ~ 23:30 观众提问
+&amp;lt;br&amp;gt;23:30 ~ 01:30 观看I/O大会现场直播
+&amp;lt;br&amp;gt;01:30 ~ 02:00 中场休息及 Lighting Talk
+&amp;lt;br&amp;gt;02:00 ~ 04:00 直播继续
+&amp;lt;br&amp;gt;04:00 ~ 04:30 交流讨论
+&amp;lt;br&amp;gt;04:30 活动结束，合影留念
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;【线上传播】
+&amp;lt;br&amp;gt;- 在微博互动：统一使用 #io13extended# 作为话题标签发微
+&amp;lt;br&amp;gt;- 在Google + 参与活动互动：使用#io13extended 作为话题互动
+&amp;lt;br&amp;gt;- Google 活动主页：http://t.cn/zTdYXvb
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;无法前来会场的朋友您可以通过以下方式观看Google IO盛宴的直播:
+&amp;lt;br&amp;gt;视频直播地址 
+&amp;lt;br&amp;gt;https://developers.google.com/events/io/io-live
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+</description><start>2013.05.15 22:00</start><end>2013.05.16 05:00</end><location>珠海吉大景山路莲山巷8号 </location><participantscount>113</participantscount></event>
+	<event><title>[GDGinCollege]JNU ~ 珠海GDG校园行之暨大</title><chapterid>113382777332300419074</chapterid><description>详情：&amp;lt;a href=&quot;http://www.chinagdg.com/thread-1649-1-1.html&quot;&amp;gt;
+&amp;lt;br&amp;gt;珠海GDG校园行之暨南大学珠海校区[130421]编程讲座!&amp;lt;/a&amp;gt;
+&amp;lt;br&amp;gt;报名地址：&amp;lt;a href=&quot;http://www.huodongxing.com/event/9173446766700&quot;&amp;gt;http://www.huodongxing.com/event/9173446766700&amp;lt;/a&amp;gt;
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;活动安排：  
+&amp;lt;br&amp;gt;18:45~19:00  嘉宾及观众进场  
+&amp;lt;br&amp;gt;19:00~19:05  司仪宣布宣讲会正式开始，并介绍到场嘉宾  
+&amp;lt;br&amp;gt;19:05~19:45  嘉宾演讲  
+&amp;lt;br&amp;gt;19:45~20:00  学生提问时间  
+&amp;lt;br&amp;gt;20:00~20:30  暨南大学计算机学院老师演讲  
+&amp;lt;br&amp;gt;20:30~20:40  学生提问时间  
+&amp;lt;br&amp;gt;20:40~20:45  活动结束，嘉宾合影留念  
+&amp;lt;br&amp;gt;  
+报名截止于 130421,具体地点/议程将在邀请邮件中发送 ;-)</description><start>2013.04.21 19:00</start><end>21:00</end><location>中国广东省珠海</location><participantscount>98</participantscount></event>
+	<event><title>GDG ZhuHai setup 珠海GDG成立大会</title><chapterid>113382777332300419074</chapterid><description>a Party for make GDG Zhuhai set up!
+&amp;lt;br&amp;gt;- Bill Luan as presider
+&amp;lt;br&amp;gt;- intro. all kinds of Google tech/srv. to all kinds of Zhuhai loc. people
+&amp;lt;hr&amp;gt;
+&amp;lt;b&amp;gt;summary::&amp;lt;/b&amp;gt;
+&amp;lt;br&amp;gt;+ online sign up: &amp;lt;b&amp;gt;262&amp;lt;/b&amp;gt;
+&amp;lt;br&amp;gt;+ local sign up: 68
+&amp;lt;br&amp;gt;+ check in: &amp;lt;b&amp;gt;242&amp;lt;/b&amp;gt;
+&amp;lt;hr&amp;gt;
+&amp;lt;br&amp;gt;议程:  
+&amp;lt;br&amp;gt;    - 12:30 ~ 13:00 入场注册  
+&amp;lt;br&amp;gt;    - 13:00 ~ 14:00 谷歌开发者技术资源和全球社区介绍、珠海[谷歌开发者社区](http://www.chinagdg.com/forum.php)介绍；  
+&amp;lt;br&amp;gt;    - 14:00 ~ 15:00 谷歌地图开发技术及全球创新案例介绍  
+&amp;lt;br&amp;gt;    - 15:00 ~ 15:15 茶歇  
+&amp;lt;br&amp;gt;    - 15:15 ~ 16:15 Android开发介绍；  
+&amp;lt;br&amp;gt;    - 16:15 ~ 17:15 HTML5, WebGL, Native Client 开发技术及全球创新案例介绍；  
+&amp;lt;br&amp;gt;    - 17:15 ~ 17:25 珠海GDG 年度活动计划,以及部分本地讲师/演讲主题介绍  
+&amp;lt;br&amp;gt;    - 17:25 ~ 17:42 问答</description><start>2013.03.30 13:00</start><end>18:00</end><location>中国广东省珠海</location><participantscount>242</participantscount></event>
+</events>
+</data>

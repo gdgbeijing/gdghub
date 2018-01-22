@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<number>25</number>
+<events>
+	<event><title>Google I/O Extended 2017 Fuzhou</title><chapterid>101458543060997187108</chapterid><description>每年一度的全球互联网及新型技术的盛会 Google IO，今年的大会日期和地址已经公布了：大会将在5月17至19日在谷歌公间，地点设在加州山景城的海岸露天剧场。
+
+为了能让更多的人参加到 Google I/O 中，世界各地的 GDG 组织都会借此机会将本地的对谷歌技术感兴趣的行业人才聚集起来观看直播，第一时间感受着 Google 新技术带给我们的最新高科技。</description><start>2017.05.24 22:00</start><end>2017.05.25 03:00</end><location>中国福建福州市闽侯县福建工程学院旗山校区南校区</location><participantscount>15</participantscount></event>
+	<event><title>I/O Extended 2017 fuzhou</title><chapterid>101458543060997187108</chapterid><description>福州谷歌开发者社区将于周三晚上十点与美国google总部同步举办io2017直播之夜活动，同步观看google2017io大会。有纪念tshirt，google io笔记本，io勋章，大玩偶，android机器人，还有零食等着大家。
+时间，周三5月17日晚上十点开始。
+地点，念轻时光网咖，台江区六一中路232号，艾阁停车场内。</description><start>2017.05.17 22:00</start><end>2017.05.18 02:00</end><location>念轻时光网咖，台江区六一中路232号</location><participantscount>15</participantscount></event>
+	<event><title>2017年福州WTM（Women Techmakers）谷歌女性开发者节开放报名</title><chapterid>101458543060997187108</chapterid><description>2017年福州WTM（Women Techmakers）谷歌女性开发者节开放报名
+什么是Women Techmakers？
+Women Techmakers 是Google为技术领域的女生专门设立的品牌和全球项目，这一愿景的一个关键组成部分是帮助女生在IT互联网这个以男生为主导的行业去实现自己的梦想。 
+随着互联网技术的不断发展，在中国，在世界，相继涌出全球知名的互联网公司。而在互联网行业中，女性的身影较为少见。与之相互辉映的是，女性的性格坚韧耐心，融会贯通，更善于倾听，成长性更强，。女性是互联网行业中一道独特的风景线，女孩子们，让我们一起，Connect Creative Celebrate！
+
+在2017年4月26日，福州Woman Techmakers 谷歌女性开发者节日如约而至！我们希望通过本次活动，为福州从事IT及相关行业的女性以及大学生们提供一次难得的交流机会，畅谈自己的 IT故事。希望有更多的女生参与进来，男生同样可以参加，活动免费。
+
+活动时间： 2017年4月26日晚上 19:30-21:30
+活动地点：福州市闽侯县大学城 福州大学新校区 大学物理实验教学中心四楼 大学生创新创业实验室
+
+活动内容：
+19:30-20:00  WTM活动介绍
+20:00-21:00 主题演讲（图像处理之SIFT算法与OpenCV实现）
+21:00-21:15 现场动手演示
+21:15-21:30 拍照合影，领取纪念品
+
+特邀嘉宾：
+Eric ZHANG 福州谷歌开发者社区创始人
+
+最后，还是那句话，有任何疑问，可以加入
+QQ群 福州GDG 209723070 或 加入福州GDG微信公众号（gdgfuzhou）或访问福州GDG的墙内网站  www.chinagdg.com 的福州版块 答疑解惑！
+加入福州GDG的邮件通知列表，可以用任意邮箱发送任意邮件到    gdg-fuzhou+subscribe@googlegroups.com
+</description><start>2017.04.26 19:30</start><end>21:30</end><location>福州市闽侯县大学城 福州大学新校区 大学物理实验教学中心四楼 大学生创新创业实验室</location><participantscount>23</participantscount></event>
+	<event><title>环境感知与Project Tango</title><chapterid>101458543060997187108</chapterid><description>活动主题：环境感知与Project Tango
+活动时间：2017 年 3 月 12 日（周日）19:00
+活动地点：福州市闽侯县大学城福建工程学院博学楼7-101
+主讲人：Eric ZHANG
+活动内容：
+第一部分，介绍虚拟现实中环境感知技术
+第二部分，介绍Google的project tango的进展、能力和应用
+第三部分，现场动手参与。
+
+最后，还是那句话，有任何疑问，可以加入
+QQ群 福州GDG 209723070 或 加入福州GDG微信公众号（gdgfuzhou）或访问福州GDG的墙内网站  www.chinagdg.com 的福州版块 答疑解惑！
+加入福州GDG的邮件通知列表，可以用任意邮箱发送任意邮件到    gdg-fuzhou+subscribe@googlegroups.com
+</description><start>2017.03.12 19:00</start><end>21:00</end><location>福州市闽侯县大学城福建工程学院博学楼7-101</location><participantscount>13</participantscount></event>
+	<event><title>2017 TensorFlow Dev Summit Recap 活动</title><chapterid>101458543060997187108</chapterid><description>随着机器学习，神经网络技术的发展，他们在现实世界发挥着越来越重要的作用。TensorFlow 开源至今，影响甚大。新年伊始，福州 GDG 谷歌开发者社区将举办第一个活动：2017 TensorFlow Dev Summit Recap。
+2017 TensorFlow Dev Summit 峰会将在美国时间 2 月 15 日 9:30 - 18:00（北京时间: 2 月 16 日 01:30 - 10:30）在旧金山进行，活动将由 10 个演讲组成，覆盖 Tensor Flow 的技术、发展、生态、应用的各个环节。
+Google 将组织全球 GDG 谷歌开发者社区在各个地区展开 TensorFlow 系列活动。
+2017 TensorFlow Dev Summit 日程安排
+主题「开场Keynote」 嘉宾: Jeff Dean, Rajat Monga, and Megan Kacholia
+主题「XLA: TensorFlow, Compiled! 」嘉宾: Todd Wang and Chris Leary
+主题「TensorFlow High-Level API」嘉宾: Martin Wicke
+主题「Keras and TensorFlow」 嘉宾: Francois Chollet
+主题「Distributed TensorFlow」嘉宾: Derek Murray
+主题「Creating Art &amp;amp; Music with Project Magenta」嘉宾: Doug Eck
+主题「TensorFlow Ecosystem: Hadoop and More」嘉宾: Jonathan Hseu
+主题「Serving Models in Production with TensorFlow Serving」嘉宾: Noah Fidel
+主题「Memorization + Generalization with TensorFlow Wide and Deep」嘉宾: Heng-Tze Cheng
+主题「Hands-on TensorBoard」嘉宾: Dandelion Mane
+
+福州 GDG 谷歌开发者社区，将举行TensorFlow Recap 活动，欢迎更多的 TensorFlow 开发者一起交流。
+活动主题：2017 TensorFlow fuzhou GDG Recap 活动
+活动时间：2017 年 2 月 18 日（周六）14:00
+活动地点：福州市闽侯县大学城福建工程学院博学楼7-101
+活动主持：Eric ZHANG
+活动内容： TensorFlow Recap，观看录像同时现场派发 TensorFlow 和 Google 正版周边
+
+最后，还是那句话，有任何疑问，可以加入
+QQ群 福州GDG 209723070 或 加入福州GDG微信公众号（gdgfuzhou）或访问福州GDG的墙内网站  www.chinagdg.com 的福州版块 答疑解惑！
+加入福州GDG的邮件通知列表，可以用任意邮箱发送任意邮件到    gdg-fuzhou+subscribe@googlegroups.com
+</description><start>2017.02.18 14:00</start><end>17:00</end><location>福州市闽侯县大学城福建工程学院博学楼7-101</location><participantscount>2</participantscount></event>
+	<event><title>云计算概论</title><chapterid>101458543060997187108</chapterid><description>主题：云计算概论
+
+活动时间：2016年12月4日（周日）下午2点半 
+
+活动地点：福建工程学院大学城校区 博学楼 5-103教室
+
+分享讲师： 江名峰
+
+活动形式： 现场演示+动手体验
+
+江名峰工程师，福州谷歌开发者社区志愿者。从事IT业12年，在研发、设计、产品营销到项目管理均有丰富经验。
+
+
+最后，还是那句话，有任何疑问，可以加入
+QQ群 福州GDG 209723070 或 加入福州GDG微信公众号（gdgfuzhou）或访问福州GDG的墙内网站  www.chinagdg.com 的福州版块 答疑解惑！
+加入福州GDG的邮件通知列表，可以用任意邮箱发送任意邮件到    gdg-fuzhou+subscribe@googlegroups.com
+
+</description><start>2016.12.04 14:30</start><end>17:30</end><location>福建工程学院大学城校区 博学楼 5-103教室</location><participantscount>15</participantscount></event>
+	<event><title>Android界面布局培训</title><chapterid>101458543060997187108</chapterid><description>Android界面布局培训</description><start>2016.09.25 19:00</start><end>21:00</end><location>中国福建福州市闽侯县福建工程学院旗山校区北校区-图书馆</location><participantscount>13</participantscount></event>
+	<event><title>如何优雅地自学Android</title><chapterid>101458543060997187108</chapterid><description>主题：《如何优雅地自学Android》
+讲师：HwangJR
+时间：2016-9-11 09:30 至 2016-9-11 11:30
+地点：福建农林大学创新楼
+流程：
+第一部分：Android 体系结构
+第二部分：打造属于自己的学习路线
+第三部分：Study Jams回顾
+
+本次分享以Android的入门体系结构为切入点，在入门的基础上对Android进行剖析，进而总结学习路线，对同学们进行学习路线引导。在分享过程中，会现场针对生产的项目代码及结构进行剖析，对主流的开发模式进行基础介绍，让同学们对现有的Android理解更为深入。
+Study Jams是Google专门针对Android入门开发的课程，学习形式为在线课程的学习及课后的作业匹配完成。该课程由学员自主发起，以小组形式进行参加，进入Android开发的大门，最终将完成APP上传至Google Play并与他人分享沟通学习过程。
+
+本次分享的同学是福州谷歌开发者社区创始人和组织者，在移动互联网行业工作已五年，一直从事Android方面的研发的HwangJR同学，欢迎各位同学拍砖！
+
+最后，还是那句话，有任何疑问，可以加入以下社区进行答疑解惑：
+QQ群：209723070
+微信公众号：gdgfuzhou﻿</description><start>2016.09.11 09:30</start><end>11:30</end><location>福建农林大学创新楼</location><participantscount>6</participantscount></event>
+	<event><title>Google I/O Redux</title><chapterid>101458543060997187108</chapterid><description>一个多月前，谷歌举办了盛大的I/O 2016大会，吸引了全世界科技界以及投资界的目光，各位朋友还在为不能亲临现场参加大会而感到遗憾吗？6月26日，来自福州的 GDG 社区组织者将给大家分享亲身参加加州山景城的 I/O 大会的经历。如果您之前参加了福州 GDG I/O Extended 直播之夜活动，那么这次不用熬夜就可以再次体会到 I/O 三天的技术与激情。</description><start>2016.06.26 14:00</start><end>17:00</end><location>福建省福州市闽侯县上街镇海西高新区科技园高新大道中国科学院海西园一号楼</location><participantscount>10</participantscount></event>
+	<event><title>Android N特性大纲 &amp; Study Jams答疑</title><chapterid>101458543060997187108</chapterid><description>主要流程：
+第一部分：AndroidN特性介绍
+第二部分：Android N应用分析
+第三部分：Study Jams答疑
+
+本次分享将以Android N的特性为切入点，对其应用进行深入的剖析，进而总结Android N在之后开发和产品规划中产生的影响。整个过程将以分享的形式进行，其中会穿插一些小小的头脑风暴，进行思维拓展。
+Study Jams是Google专门针对Android入门开发的课程，学习形式为在线课程的学习及课后的作业匹配完成。该课程由学员自主发起，以小组形式进行参加，进入Android开发的大门，最终将完成APP上传至Google Play并与他人分享沟通学习过程。
+本次分享的同学是福州谷歌开发者社区创始人和组织者，在移动互联网行业工作已五年，一直从事Android方面的研发的HwangJR同学，欢迎各位同学拍砖！</description><start>2016.05.23 19:30</start><end>21:30</end><location>福建省福州市闽侯县上街镇海西高新区科技园高新大道中国科学院海西园一号楼8层会议室</location><participantscount>22</participantscount></event>
+	<event><title>2016 Google IO Extended-Fuzhou直播之夜</title><chapterid>101458543060997187108</chapterid><description>主题：2016 Google IO Extended-Fuzhou直播之夜
+
+活动时间：2016年5月18日（周三）23:30 - 5月19号 03:00
+
+地点：福州市闽侯县大学城 福州大学新校区 大学物理实验教学中心四楼 大学生创新创业实验室
+
+分享讲师： Eric ZHANG 张晨然
+
+活动流程：
+23:30-00:00 签到
+00:00-01:00 历次IO回顾和本次IO介绍（期间安排茶歇和合影）
+01:00-03:00 观看Google I/O 2016 Keynote直播
+03:00-03:10 活动反馈与合影
+
+交通建议：
+公交的小伙伴注意：开会地点在校内，而最近的公交车站都在校外，可以从东门和北门进入校园，走路到【大学物理实验教学中心四楼大学生创新创业实验室】。
+福大新区东门-公交车站。车次：32路;39路;41路;55路;95路;96路;150路;168路;506路;510路;528路;闽都大庄园接驳专线
+福大新区北门-公交车站。车次：41路;48路;55路;95路;96路
+开车的小伙伴可以从以上两个门开车进入，校内可以停车。
+
+
+最后，还是那句话，有任何疑问，可以加入
+QQ群 福州GDG 209723070 或 加入福州GDG微信公众号（gdgfuzhou）或访问福州GDG的墙内网站  www.chinagdg.com 的福州版块 答疑解惑！
+加入福州GDG的邮件通知列表，可以用任意邮箱发送任意邮件到    gdg-fuzhou+subscribe@googlegroups.com
+</description><start>2016.05.18 23:00</start><end>2016.05.19 03:00</end><location>福州市闽侯县大学城 福州大学新校区 大学物理实验教学中心四楼   大学生创新创业实验室</location><participantscount>21</participantscount></event>
+	<event><title>虚拟现实技术剖析和开发建议</title><chapterid>101458543060997187108</chapterid><description>主题：虚拟现实技术剖析和开发建议
+
+活动时间：2016年4月23日（周六）下午2点半 
+
+活动地点：福建农林大学 下安校区 实验楼 二号楼 601B
+
+教室
+
+分享讲师： Eric ZHANG 张晨然
+
+活动形式： 现场演示+动手体验
+
+注意事项：感兴趣的同学，可以使用自己的手机，进入
+
+Youtube，搜索360关键字，寻找VR视频，或进入
+
+GooglePlay或者AppStore，搜索Cardboard或VR关键字安
+
+装应用程序。届时福州GDG将携带若干Cardboard到现场供
+
+同学们体验。
+
+交通建议：
+请大家注意，我们的会议地点是【福建农林大学 下安校
+
+区 实验楼 二号楼 601B教室】，不要走错了。
+建议提早到校，找熟悉校园的同学带路。另外汽车可以进
+
+入校园。
+
+最后，还是那句话，有任何疑问，可以加入
+QQ群 福州GDG 209723070 或 加入福州GDG微信公众号
+
+（gdgfuzhou）或访问福州GDG的墙内网站  
+
+www.chinagdg.com 的福州版块 答疑解惑！
+加入福州GDG的邮件通知列表，可以用任意邮箱发送任意
+
+邮件到    gdg-fuzhou+subscribe@googlegroups.com</description><start>2016.04.23 14:30</start><end>17:30</end><location>福建农林大学 下安校区 实验楼 二号楼 601B  教室</location><participantscount>18</participantscount></event>
+	<event><title>福州GDG系列创新实践培训之3D打印实战</title><chapterid>101458543060997187108</chapterid><description>主题：福州GDG系列创新实践培训之3D打印实战
+
+活动时间：2015年12月26日（周六）下午2点半 
+
+活动地点：福州市闽侯县大学城福州大学新校区大物实验楼四楼 电子社实验室
+
+分享讲师： 王剑磊 博士
+
+活动形式： 现场演示+动手实践
+
+注意事项：本次3D打印课程承接上次，以动手实践为主。想要打模型的同学记得带个笔记本电脑。
+
+交通建议：
+公交的小伙伴注意：开会地点在校内，而最近的公交车站都在校外，可以从东门和北门进入校园，走路到【大学物理实验教学中心
+
+四楼大学生创新创业实验室】。
+福大新区东门-公交车站。车次：32路;39路;41路;55路;95路;96路;150路;168路;506路;510路;528路;闽都大庄园接驳专线
+福大新区北门-公交车站。车次：41路;48路;55路;95路;96路
+开车的小伙伴可以从以上两个门开车进入，校内可以停车。
+不同显示精度的线路方位图见图片附件。
+
+最后，还是那句话，有任何疑问，可以加入
+QQ群 福州GDG 209723070 或 加入福州GDG微信公众号（gdgfuzhou）或访问福州GDG的墙内网站  www.chinagdg.com 的福州版块 
+
+答疑解惑！
+加入福州GDG的邮件通知列表，可以用任意邮箱发送任意邮件到   
+gdg-fuzhou+subscribe@googlegroups.com
+
+时间调整为周六，地点还是上一次的地点，欢迎大家！</description><start>2015.12.26 14:30</start><end>17:30</end><location>福州市闽侯县大学城福州大学新校区大物实验楼四楼 电子社实验室</location><participantscount>18</participantscount></event>
+	<event><title>你今天3D打印了吗</title><chapterid>101458543060997187108</chapterid><description>主题：你今天3D打印了吗
+
+活动时间：2015年12月20日（周日）下午2点半 
+
+活动地点：福州市闽侯县大学城福州大学新校区大物实验楼四楼 电子社实验室
+
+分享讲师： 王剑磊 博士
+
+活动形式： 理论+现场演示
+
+注意事项：本次3D打印课程分为2次，这次主要以原理介绍和3D打印机拆解为主要内容。下次主要以动手实践为主。边学边做，效果才是最佳的。
+
+交通建议：
+公交的小伙伴注意：开会地点在校内，而最近的公交车站都在校外，可以从东门和北门进入校园，走路到【大学物理实验教学中心四楼大学生创新创业实验室】。
+福大新区东门-公交车站。车次：32路;39路;41路;55路;95路;96路;150路;168路;506路;510路;528路;闽都大庄园接驳专线
+福大新区北门-公交车站。车次：41路;48路;55路;95路;96路
+开车的小伙伴可以从以上两个门开车进入，校内可以停车。
+不同显示精度的线路方位图见图片附件。
+
+最后，还是那句话，有任何疑问，可以加入
+QQ群 福州GDG 209723070 或 加入福州GDG微信公众号（gdgfuzhou）或访问福州GDG的墙内网站  www.chinagdg.com 的福州版块 答疑解惑！
+加入福州GDG的邮件通知列表，可以用任意邮箱发送任意邮件到 gdg-fuzhou+subscribe@googlegroups.com</description><start>2015.12.20 14:30</start><end>17:30</end><location>福州市闽侯县大学城福州大学新校区大物实验楼四楼 电子社实验室</location><participantscount>35</participantscount></event>
+	<event><title>认识安卓与安卓开发平台的搭建</title><chapterid>101458543060997187108</chapterid><description>主题：认识安卓与安卓开发平台的搭建
+
+活动时间：本周五晚七点开始(即12月11日)
+
+活动地点：  福州市闽侯县大学城 福建工程学院 北教7-204     
+
+分享讲师：陈鑫才
+
+活动形式：理论+现场实践
+
+注意事项:记得带上笔记本电脑，和手机。我们边学边做，效果才是最佳的。
+
+交通：
+    附近的两个距离较近的公交站都较远，步行需留出10-15分钟：
+    附近站名一、站名：大学城福建工程学院，步行距离500米。途经公交车：48路, 123路, 157路, 168路
+    附近站点二、站名：岐头村，步行距离300米。途经公交车：48路, 168路
+    特别注意：地点是福建工程学院的旗山校区的北区。谨记：第一工程学院有三个校区分别在福州的西南东三个方位，不要走错，我们是在西边大学城的旗山校区；第二，旗山校区有南北两个区，他们的距离比较远，我们是在北区，万一走错，来回要半个多小时。
+
+
+最后，还是那句话，有任何疑问，可以加入以下社区进行答疑解惑：
+QQ群：209723070
+微信公众号：gdgfuzhou
+福州GDG的墙内网站：http://www.chinagdg.com/forum-105-1.html
+任意邮箱发送至gdg-fuzhou+subscribe@googlegroups.com订阅我们的最新信息！﻿</description><start>2015.12.11 19:00</start><end>22:00</end><location>福州市闽侯县大学城 福建工程学院 北教7-204 </location><participantscount>68</participantscount></event>
+	<event><title>Learning Android Part III (The Design Art Of Android)</title><chapterid>101458543060997187108</chapterid><description>Part I: Layout of android app
+Part II: the art of android design
+Part III: source code of android bluetooth</description><start>2015.11.21 14:30</start><end>17:30</end><location>福州市闽侯县福州大学物理实验教学中心四楼大学生创新创业实验室</location><participantscount>20</participantscount></event>
+	<event><title>《AndroidStudio配置和蓝牙应用实战》</title><chapterid>101458543060997187108</chapterid><description>主题：《AndroidStudio配置和蓝牙应用实战》
+时间：2015-11-15 14:30 至 2015-11-15 17:30
+讲师：Andy ZHANG，Eric ZHANG，HwangJR
+地点： 福州市闽侯县大学城福建工程学院信息学院一楼创新创业孵化基地（辅导员办公室旁）
+
+
+培训内容：
+第一部分：Android Studio安装和配置（自带U盘拷贝，文件大下载较费时）
+第二部分：Hello World 编程和Bluetooth应用分析
+第三部分：CodeLab时间，动手改造完成蓝牙聊天机器人
+
+本次分享采用Code Lab的形式，推迟理论讲解，直接上系统进行编程。
+首先教会大家使用离线安装的形式安装好软件包，配置开发环境。
+然后通过hello world的小程序，迅速验证开发环境是否配置ok，并且熟悉一个程序的生成过程。
+跳过蓝牙的原理和框架，直接通过最简化的代码包熟悉蓝牙编程，为深入编程打下基础。
+
+
+最后，还是那句话，有任何疑问，可以加入以下社区进行答疑解惑：
+QQ群：209723070
+微信公众号：gdgfuzhou
+福州GDG的墙内网站：http://www.chinagdg.com/forum-105-1.html</description><start>2015.11.15 14:30</start><end>17:30</end><location>福州市闽侯县大学城福建工程学院信息学院一楼创新创业孵化基地（辅导员办公室旁）</location><participantscount>5</participantscount></event>
+	<event><title>Learning Android Part II</title><chapterid>101458543060997187108</chapterid><description>I introduce the structure of android app.
+II Bluetooth app analyze
+III Code for Auto Reply Robot</description><start>2015.11.01 14:30</start><end>17:30</end><location>福州市闽侯县福州大学物理实验教学中心四楼大学生创新创业实验室</location><participantscount>20</participantscount></event>
+	<event><title>Learning Android Part I</title><chapterid>101458543060997187108</chapterid><description>Part I
+introduce the mobile network
+Part II
+introduce java
+Part III
+introduce android
+</description><start>2015.10.18 14:30</start><end>17:30</end><location>福州市闽侯县大学城福州大学新校区大学物理与信息学院南楼111报告厅</location><participantscount>29</participantscount></event>
+	<event><title>Google IO 2015 Redux Fuzhou</title><chapterid>101458543060997187108</chapterid><description>培训主题：《Google IO 2015 Redux》
+
+培训时间：7月25日（周六）14:30-17:30
+
+讲师：
+张晨然Eric ZHANG 福州GDG
+
+地点：福州市闽侯县大学城福州大学新校区大学物理实验教学中心四楼大学生创新创业实验室
+
+主要流程：
+第一部分：历次IO大会回顾
+第二部分：2015 Google IO的汽车产业动向
+第三部分：2015 Google IO的虚拟现实趋势
+第四部分：2015 Google IO的android新版本和可穿戴版本
+第五部分：2015 Google IO的ATAP部门与各种黑科技
+
+此次根据参加2015 GOOGLE IO时通过图片和录像记录的所学所见所闻，整理而成，绝对第一手新鲜出炉。
+同时讲师是亲历此次大会福州谷歌开发者社区的创始人组织者，一定会带给你不一样的现场亲历感！
+
+交通建议：
+公交的小伙伴注意：开会地点在校内，而最近的公交车站都在校外，可以从东门和北门进入校园，走路到【大学物理实验教学中心四楼大学生创新创业实验室】。
+福大新区东门-公交车站。车次：32路;39路;41路;55路;95路;96路;150路;168路;506路;510路;528路;闽都大庄园接驳专线
+福大新区北门-公交车站。车次：41路;48路;55路;95路;96路
+开车的小伙伴可以从以上两个门开车进入，校内可以停车。
+不同显示精度的线路方位图见图片附件。
+
+最后，还是那句话，有任何疑问，可以加入
+QQ群 福州GDG 209723070 或 加入福州GDG微信公众号（gdgfuzhou）或访问福州GDG的墙内网站  www.chinagdg.com 的福州版块 答疑解惑！
+
+
+
+</description><start>2015.07.25 14:30</start><end>17:30</end><location>福州市闽侯县大学城福州大学新校区大学物理实验教学中心四楼大学生创新创业实验室</location><participantscount>23</participantscount></event>
+	<event><title>利用CSI培育点滴的创意</title><chapterid>101458543060997187108</chapterid><description>培训主题：《利用CSI培育点滴的创意》
+
+培训时间：6月20日（周一）14:30-17:30
+
+培训讲师：
+郑灵翔     厦门GDG
+Andy ZHANG 福州GDG
+Eric ZHANG 福州GDG
+HuangJR    福州GDG
+
+培训地点：福州市仓山区建新镇金工路1号海峡创意产业园7号楼7306-7310（与厦门GDG远程同步会议）
+
+主要流程：
+第一部分：Start with a well formed challenge值得挑战的一点启示
+1.1、Design thinking basics设计思维基础。
+全神贯注于设计，用乐高、便签、笔记录下所有迸发出的想法。
+1.2、Framing the challenge拆分设计难题
+针对初步的设计构想，团队成员之间逐步开展多轮的质疑（Why or How），在这个过程中从细节问题开始，不断总结扩大问题的尺度。
+第二部分：Get to know the user了解用户需求
+2.1、Focus on the user注重用户体验。
+从用户的角度出发将会简化设计思考，把握主体用户的特征的同时，使得设计兼顾少数用户个性化的需求。
+第三部分：Prototype and test原型和测试
+3.1、Prototyping描述设计原型
+将抽象的设计转化为可感知的原型，并且通过形象画描绘、模拟实际服务、报道概念产品等多种手段可以更加有效地对设计进行改进。
+3.2、Expect the unexpected设想任何缺陷
+设想任何缺陷：考虑设计中所有可能出现的纰漏，不断完善产品设计。
+
+此次邀请厦门大学郑灵翔老师在厦门同步授课，根据参加2015 GOOGLE IO时学习到的GOOGLE CSI（Creative Skills for Innovation），采用国际上公认最先进的思维发散汇聚工具CSI (Creative Skills for Innovation)，通过实践，指导大家如何将一个创意转变为可以实施的流程框图。
+
+参加福州远程会议有福州四支参赛队伍，远程参与的还有厦门的十支参赛队伍和台湾的两支参赛队伍，此次会议代表了海峡两岸创客界的最高水准，欢迎感兴趣的同学一定要参加。
+
+交通建议：
+公交的小伙伴注意：最近的公交车站是【金阵路】，途径公交车：5路 53路 507路。
+开车的小伙伴注意：从市区往仓山方向过洪山桥的时候，原本应当左拐上闽江大道。但车辆禁止左拐，应当右拐在桥下后方的江边小路掉头，实现等价左拐的目的。沿小路走到底，右拐的正前方就是金阵路和闽江大道的交叉口，穿过红绿灯走上金阵路，正前方就是海峡创意产业园，园区内可以停车。
+
+最后，还是那句话，有任何疑问，可以加入QQ群 福州GDG 209723070 或 加入福州GDG微信公众号（gdgfuzhou）或访问福州GDG的墙内网站  www.chinagdg.com 的福州版块 答疑解惑！
+
+
+
+</description><start>2015.06.21 14:30</start><end>17:30</end><location>福州市仓山区建新镇金工路1号海峡创意产业园7号楼7306-7310</location><participantscount>13</participantscount></event>
+	<event><title>国内外创客案例和福州GDG</title><chapterid>101458543060997187108</chapterid><description>培训主题：《国内外创客案例和福州GDG》
+
+培训时间：周六（6月20日）晚课时间段（7点半到9点半）
+
+培训讲师：
+张晨然 福州GDG 
+郑灵翔 厦门GDG  
+Jerry 中科院物构所
+
+培训地点：福建农林大学田家炳实验楼511教室
+
+主要流程：
+第一部分 19:30-20:30
+1、Google IO大会的创客类产品介绍（视频展示）
+1.1 Stockton GDG的Pilot Project
+1.2 CardBoard和Project Tango的低成本VR（虚拟现实）
+1.3 ATAP的JacQuard可穿戴设备
+1.4 Google X部门和帕金森病人专用勺
+2、创客@福州GDG
+2.1 福州GDG介绍和福州GDG在创客创业方面的成长计划
+2.2 福州GDG目前正在进行的两个创客孵化项目
+茶歇  20:30-20:45
+第二部分 20:45-21:30
+3、中国科学院物质结构研究所的低熔点3D打印技术介绍
+4、教育部中美青年创客大赛活动介绍
+5、福州地面创客队伍创意项目介绍和项目成果展示
+5.1 福州大学四轴飞行器项目介绍
+5.2 福建师范大学3D UI+项目展示
+5.3 Connect ME项目介绍
+5.4 福建农林大学智慧开关项目介绍
+
+
+此次邀请相关团队负责人直接参加并介绍项目。热忱欢迎您前来参加我们福州GDG的活动！
+
+交通建议：
+请大家注意，我们的会议地点是【田家炳实验楼511】。根据经验，往往会走错到田家炳楼，尽管他们挨的很近。
+
+给大家一个交通提示，站在【将乐路】（蓝色方块）和【西芹路】（蓝色方块）交叉口，注意路边找到【创新楼】和【田家炳楼】中间的小岔路（红色圆圈，可以开车可以骑自行车），按照红色箭头方向进去，右手边路过一个可以停车的小涵洞，小涵洞上面的楼就是【田家炳实验楼】了。
+
+最后，还是那句话，有任何疑问，可以加入
+QQ群 福州GDG 209723070 或 加入福州GDG微信公众号（gdgfuzhou）或访问福州GDG的墙内网站  www.chinagdg.com 的福州版块 答疑解惑！</description><start>2015.06.20 19:30</start><end>21:30</end><location>福建农林大学田家炳实验楼511教室</location><participantscount>42</participantscount></event>
+	<event><title>Google I/O Extended 2015 Fuzhou</title><chapterid>101458543060997187108</chapterid><description>福州GDG社区将实况转播IO Extended活动。</description><start>2015.05.28 23:00</start><end>2015.05.29 03:00</end><location>Fuzhou, Fujian, China</location><participantscount>5</participantscount></event>
+	<event><title>创客精神与开源软硬件</title><chapterid>101458543060997187108</chapterid><description>培训主题：《创客精神与开源软硬件》
+
+培训时间：5月23日下午14:00-17:30
+
+培训讲师：李冬冬 Senior Engineer
+
+培训地点：闽侯大学城福州大学新校区学生素质拓展中心117室（阅览室）
+
+主要流程：
+
+1、首先进行创科精神、Google Developer Group、Design Spirit的介绍。
+
+2、开展破冰游戏，介绍ideathon（创意马拉松），进行项目培训，
+
+3、介绍开源的软硬件（INTEL的爱迪生），现场分组，并实际手把手的教大家做创客的小项目
+
+如果您是：
+1、软件应用型人才：热衷于Android或IOS手机应用，云计算，数据库，Web等软件设计开发的人员，拥有相应的技术积累和开发经验，您绝对是最佳人选。
+
+2、有自己独立设计并且调试过完整的硬件或者软件作品，具备独立设计硬件或软件的能力，有基于开源硬件或者开源软件开发经验，您绝对是最佳人选。
+
+3、对工业设计有兴趣：能够独立设计和制作出工业和工艺产品模型的设计人员，能够借助3D打印机等辅助加工工具制作出产品模型的人员，您绝对是最佳人选。
+
+4、善于动手实践，有一技之长的各行业能工巧匠，您绝对是最佳人选
+
+5、有创意，有想法，特别是在社区、教育、环保、健康、交通等领域有想法，并且能够清晰描述出其创意设计思路的人，您绝对是最佳人选
+
+欢迎您前来参加我们福州GDG的活动！
+
+最后，还是那句话，有任何疑问，可以加入
+QQ群 福州GDG 209723070 或 加入福州GDG微信公众号（gdgfuzhou）或访问福州GDG的墙内网站  www.chinagdg.com 的福州版块 答疑解惑！﻿
+
+交通和停车信息：交通建议： 公交车的同学，建议从西大门进入，因为该楼离西大门比较近。公交站点如下： 48路;96路;168路；站牌为福大生活一区下车，从福大西大门进入。 48路;96路;168路；站牌为福大生活二区下车，从福大西大门进入。 32路;39路;41路;55路;95路;96路;150路;168路;506路;510路;528路;闽都大庄园接驳专线；站牌为福大新区东门下车，从福大东大门进入。 开车或步行的同学可直接至素质拓展中心楼下。</description><start>2015.05.23 14:00</start><end>17:30</end><location>闽侯大学城福州大学新校区学生素质拓展中心117室（阅览室）</location><participantscount>52</participantscount></event>
+	<event><title>Play with Android - Join GDG and Explore Abroad</title><chapterid>101458543060997187108</chapterid><description>Part I
+1. Android Hardware and Software
+2. Howto: Learn Android in Dorm.
+3. Demo: Startup with an APK and Make Profits Abroad
+TEA BREAK
+Part II
+1. Google Online and Get useful Information
+2. Google Products Intro. of Gmail, G+ Page, Groups, Mail List
+3. Howto: Join Fuzhou GDG and Keep in Touch
+TEA BREAK
+Part III
+Parctice and Team Competition
+</description><start>2015.04.25 14:30</start><end>17:00</end><location>福建工程学院旗山校区北校区C组团（信息学院大楼）C2-416</location><participantscount>69</participantscount></event>
+</events>
+</data>

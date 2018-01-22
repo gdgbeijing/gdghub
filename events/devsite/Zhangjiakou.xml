@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<number>74</number>
+<events>
+	<event><title>Android Things 开发交流会</title><chapterid>114911793225988198469</chapterid><description></description><start>2017.06.24 19:00</start><end>21:00</end><location>河北北方学院东校区C508</location><participantscount>32</participantscount></event>
+	<event><title>Entrepreneurship and Innovation Based on Google DevelopmentTechnology </title><chapterid>114911793225988198469</chapterid><description>三名已经走向工作岗位的毕业生返校讲述自己利用谷歌开发技术的创新和创业的故事。﻿</description><start>2017.06.16 19:00</start><end>21:30</end><location>河北北方学院东校区</location><participantscount>33</participantscount></event>
+	<event><title>Google IO 2017 Redux of Zhangjiakou</title><chapterid>114911793225988198469</chapterid><description> 
+分享了关于2017 IO大会的一些最新技术，分享的内容包括：人工智能能、机器学习、Google Assistant SDK、Google Home、Google Lens、TensorFlow等。</description><start>2017.06.07 19:00</start><end>22:00</end><location>中国河北省张家口市桥东区中兴北路河北北方学院东校区</location><participantscount>36</participantscount></event>
+	<event><title>Google Blockly介绍</title><chapterid>114911793225988198469</chapterid><description></description><start>2017.06.01 19:00</start><end>21:00</end><location>河北北方学院东校区</location><participantscount>29</participantscount></event>
+	<event><title>Google IO 2017 Extended Zhangjiakou</title><chapterid>114911793225988198469</chapterid><description> 
+张家口GDG将会在北京时间2017年5月17日晚上10点半举办Google I/O Extended 直播活动，现场我们会提供舒适的直播环境，免费的零食饮料，专为IO Extended准备的精美T恤，还有一些主题小礼物（徽章、贴纸、本子等），让大家充分享受Google I/O大会这一年度开发者盛宴。﻿</description><start>2017.05.17 22:30</start><end>2017.05.18 03:00</end><location>中国河北省张家口市桥东区五一大街河北北方学院东校区教学楼C508</location><participantscount>43</participantscount></event>
+	<event><title>Implementation of Push Based on Android</title><chapterid>114911793225988198469</chapterid><description>1、基于Android推送实现原理
+2、基于Android推送实现案例﻿</description><start>2017.05.04 19:00</start><end>22:00</end><location>中国河北省张家口桥东区富强路</location><participantscount>35</participantscount></event>
+	<event><title>Firebase技术分享会</title><chapterid>114911793225988198469</chapterid><description>1.firebase简介及与同类数据库横向对比--冯振宇 
+2.firebase在android开发中的应用--窦文
+3.firebase应用实例--王旭﻿</description><start>2017.04.26 19:00</start><end>21:00</end><location>中国河北省张家口市桥东区中兴北路河北北方学院东校区教学楼C508</location><participantscount>49</participantscount></event>
+	<event><title>张家口Gdg 新生宣讲</title><chapterid>114911793225988198469</chapterid><description></description><start>2017.04.25 19:00</start><end>21:00</end><location>河北北方学院东校区</location><participantscount>32</participantscount></event>
+	<event><title>Cloud Next Extended Powered by GDG Zhangjiakou</title><chapterid>114911793225988198469</chapterid><description>Cloud Next Extended
+本次活动观看谷歌Cloud Next会议的录像，
+专家解读Cloud Next大会Keynote</description><start>2017.04.06 19:00</start><end>22:00</end><location>中国河北省张家口桥东区富强路</location><participantscount>37</participantscount></event>
+	<event><title>Android Things开发初步</title><chapterid>114911793225988198469</chapterid><description></description><start>2017.03.29 19:00</start><end>21:00</end><location>中国河北省张家口市桥东区五一大街河北北方学院东校区</location><participantscount>25</participantscount></event>
+	<event><title>Android UE设计</title><chapterid>114911793225988198469</chapterid><description></description><start>2017.03.26 18:30</start><end>20:30</end><location>中国河北省张家口市桥东区五一大街河北北方学院东校区C508</location><participantscount>70</participantscount></event>
+	<event><title>Women Techmakers 2017 powered by GDG Zhangjiakou</title><chapterid>114911793225988198469</chapterid><description>1.女程序员成长之路——刘洋
+2.谷歌最新技术介绍——孙兴华</description><start>2017.03.17 19:00</start><end>21:00</end><location>中国河北省张家口市桥东区富强路</location><participantscount>105</participantscount></event>
+	<event><title>GDG Zhangjiakou 2017 TensorFlow Dev Summit Recap</title><chapterid>114911793225988198469</chapterid><description>      随着机器学习，神经网络技术的发展，他们在现实世界发挥着越来越重要的作用。TensorFlow 开源至今，影响甚大。新年伊始，张家口 GDG 谷歌开发者社区将举办第一个活动：2017 TensorFlow Dev Summit Recap。
+2017 TensorFlow Dev Summit 峰会将在美国时间 2 月 15 日 9:30 - 18:00（北京时间: 2 月 16 日 01:30 - 10:30）在旧金山进行，活动将由 10 个演讲组成，覆盖 Tensor Flow 的技术、发展、生态、应用的各个环节。
+官方活动网址https://events.withgoogle.com/tensorflow-dev-summit/
+
+Google 将组织全球 GDG 谷歌开发者社区在各个地区展开 TensorFlow 系列活动。
+2017 TensorFlow Dev Summit 日程安排
+主题「开场Keynote」 嘉宾: Jeff Dean, Rajat Monga, and Megan Kacholia
+主题「XLA: TensorFlow, Compiled! 」嘉宾: Todd Wang and Chris Leary
+主题「TensorFlow High-Level API」嘉宾: Martin Wicke
+主题「Keras and TensorFlow」 嘉宾: Francois Chollet
+主题「Distributed TensorFlow」嘉宾: Derek Murray
+主题「Creating Art &amp;amp; Music with Project Magenta」嘉宾: Doug Eck
+主题「TensorFlow Ecosystem: Hadoop and More」嘉宾: Jonathan Hseu
+主题「Serving Models in Production with TensorFlow Serving」嘉宾: Noah Fidel
+主题「Memorization + Generalization with TensorFlow Wide and Deep」嘉宾: Heng-Tze Cheng
+主题「Hands-on TensorBoard」嘉宾: Dandelion Mane
+
+张家口 GDG 谷歌开发者社区，将于 2017 年 2 月 26日 19:00 - 23:00 在河北北方学院东校区教学楼，举行 TensorFlow Recap 峰会的录像观看活动，Google 以及 TensorFlow 团队为现场参与活动的开发者准备了精美的周边，欢迎更多的 TensorFlow 开发者一起交流。 活动录像回放中间穿插交流讨论
+
+
+GDG是英语Google Developer Groups的缩写，它的中文名字是：谷歌开发者社区。它是由谷歌公司支持并赞助的全球性项目，目的是通过开发者们自发组成的社区，进行技术分享交流，推动开放型互联网技术和移动技术在业界的使用。谷歌开发者社区是一个面向开发者、大学生、企业经理及创业者们的全球范围的民间组织，以线下技术交流、经验分享为主要组织形式，为广大开发者、创业者提供分享和交流、以及学习国际最新开发技术的平台，谷歌公司将全程参与到社区的组织活动当中，对社区的技术学习活动提供资源的支持、对社区成员提供在全球范围内的技术与人员交流。目前在全球已经有数百个社区，中国也已经有20多个城市成立了GDG社区。﻿</description><start>2017.02.26 19:00</start><end>23:00</end><location>中国河北省张家口市桥东区富强路</location><participantscount>28</participantscount></event>
+	<event><title>Android Wear 2.0 Preview</title><chapterid>114911793225988198469</chapterid><description>Android Wear 2.0 简介
+Android Wear 2.0 开发﻿</description><start>2016.12.23 19:00</start><end>22:00</end><location>中国河北省张家口桥东区富强路</location><participantscount>29</participantscount></event>
+	<event><title>Google IO Redux（三）</title><chapterid>114911793225988198469</chapterid><description>Google Assistant
+Google Home
+Allo / Duo
+Android N Developer Preview 3
+Android Studio Developer Preview 2.2
+Android Wear 2.0﻿</description><start>2016.12.21 09:00</start><end>11:30</end><location>中国河北省张家口市桥东区鱼儿山后街平门大街入口</location><participantscount>62</participantscount></event>
+	<event><title>GDD开发者大会回顾</title><chapterid>114911793225988198469</chapterid><description></description><start>2016.12.10 09:00</start><end>11:00</end><location>中国河北省张家口市桥东区五一大街河北北方学院东校区</location><participantscount>30</participantscount></event>
+	<event><title>Introduce of Instant App</title><chapterid>114911793225988198469</chapterid><description>1、Instant App 概述
+2、Instant App 市场需求
+3、Android UI开发﻿</description><start>2016.11.26 19:00</start><end>22:00</end><location>中国河北省张家口市桥东区富强路</location><participantscount>32</participantscount></event>
+	<event><title>GDG Zhangjiakou DevFest 2016</title><chapterid>114911793225988198469</chapterid><description>13:00——13:30 Devdest和GDG介绍（孙兴华）
+13:30——14:30 Google IO 2016回顾（孙兴华）
+14:30——15:10 Dart语言概述（杨晶晶）
+15:10——15:40 web开发框架是Angular（王志辉）
+15:40——16:00茶歇（免费）
+16:00——17:30 App inverntor开发概述（曹宁）
+16:00——17:10 基于material design UI设计概述
+17:10——18:00 UI设计实践（Code Lab）</description><start>2016.11.19 13:00</start><end>18:00</end><location>中国河北省张家口市桥西区河北北方学院-图书馆</location><participantscount>168</participantscount></event>
+	<event><title>Design of Android UI</title><chapterid>114911793225988198469</chapterid><description>1、Android UI 概述
+2、Android UI原型设计
+3、Android UI原型设计工具﻿</description><start>2016.10.23 19:00</start><end>22:00</end><location>中国河北省张家口桥东区富强路</location><participantscount>30</participantscount></event>
+	<event><title>android 编程基础</title><chapterid>114911793225988198469</chapterid><description></description><start>2016.10.16 19:00</start><end>21:00</end><location>中国河北省张家口市桥东区富强路</location><participantscount>30</participantscount></event>
+	<event><title>Android 7 Overview</title><chapterid>114911793225988198469</chapterid><description>1.Android 7 概述
+2.Android 7新功能
+3.Android 7.0 给开发者带来了什么﻿</description><start>2016.09.01 19:00</start><end>21:00</end><location>中国河北省张家口市桥东区富强路</location><participantscount>28</participantscount></event>
+	<event><title>Google I/O Redux</title><chapterid>114911793225988198469</chapterid><description></description><start>2016.06.22 19:00</start><end>21:00</end><location>河北北方学院东校区B509</location><participantscount>26</participantscount></event>
+	<event><title>2016 google I/O Redux--GDG Zhangjiakou</title><chapterid>114911793225988198469</chapterid><description>活动内容：
+1. 吸收更多的google技术爱好者，扩大GDG Zhangjiakou阵容
+2.  Google I/O 2016精彩内容回顾，包括Google Assistant、Google Home、
+  Allo / Duo、Android Studio Developer Preview 2.2、Android Wear 2.0 等多项技术
+3. 分组讨论，现场答疑</description><start>2016.06.19 15:00</start><end>17:00</end><location>河北省张家口市建筑学院</location><participantscount>31</participantscount></event>
+	<event><title>Google I/O 2016 Extended Zhangjiakou</title><chapterid>114911793225988198469</chapterid><description>一年一度的开发者盛会，快来参加吧</description><start>2016.05.18 22:00</start><end>2016.05.19 03:00</end><location>中国河北省张家口市桥东区富强路</location><participantscount>26</participantscount></event>
+	<event><title>Android SaaS Service</title><chapterid>114911793225988198469</chapterid><description>移动开发SaaS平台
+应用统计
+消息推送
+积分商城
+社交聊天﻿</description><start>2016.05.11 19:00</start><end>22:00</end><location>中国河北省张家口桥东区富强路富强路社区居委会</location><participantscount>26</participantscount></event>
+	<event><title>Develop Android Hybrid App</title><chapterid>114911793225988198469</chapterid><description>1.混合应用基础： WebView控件
+2.Android应用程序和WebView中的Html交互
+3.Apache Cordova
+4.Hybrid App UI框架amazeui﻿</description><start>2016.04.13 19:00</start><end>22:00</end><location>中国河北省张家口市桥东区富强路</location><participantscount>32</participantscount></event>
+	<event><title>Women Techmakers powered by GDG Zhangjiakou</title><chapterid>114911793225988198469</chapterid><description>Introducing development of ChinaGDG and how to be a member ;
+ To share new technology, such as Material Design, Saas platform;
+To galvanize women interest in computer science.</description><start>2016.04.01 18:00</start><end>21:00</end><location>中国河北张家口桥东区北方学院东校区</location><participantscount>60</participantscount></event>
+	<event><title>How to use Android Studio</title><chapterid>114911793225988198469</chapterid><description> 1.Android Studio 界面介绍及功能简介
+2.如何使用Android Studio创建Hello World
+3.Gradle 使用初步﻿</description><start>2016.03.02 19:00</start><end>21:30</end><location>中国河北省张家口市桥东区富强路</location><participantscount>29</participantscount></event>
+	<event><title>Introduction to Android Wear: Hands-On</title><chapterid>114911793225988198469</chapterid><description>Introduction to Android Wear: The Basics
+Sample App 1: Wearable-Ready Notifications
+Sample App 2: Full-Screen Wearable App
+</description><start>2015.12.23 19:00</start><end>22:00</end><location>中国河北省张家口市桥东区富强路</location><participantscount>31</participantscount></event>
+	<event><title>Android Wear技术交流会</title><chapterid>114911793225988198469</chapterid><description> 
+Android Wear
+Android Wear是Android操作系统的一个分支版本，专为智能手表等可穿戴式电脑设备所设计，由Google主导开发。初始原型于2014年3月19日公布，并同时开放开发者预览版下载。
+
+具体活动内容包括：
+1. Android Wear 技术讲座：熟悉Android Wea的技术实现，学习Android Wea开发平台的搭建。
+
+参加 Codelab 的准备工作： 
+1. 参会者需自备电脑。
+2.搭建好开发Android Wear的环境、并准备好用到的文件
+
+现场导师，王志辉 ，张家口GDG组织者，杨晶晶，张家口GDG志愿者﻿</description><start>2015.12.23 15:00</start><end>17:00</end><location>中国河北省张家口桥东区红旗楼 银座2楼西北角HERE THERE COFFEE</location><participantscount>25</participantscount></event>
+	<event><title>使用app inventor构建自己的安卓软件(code lab)</title><chapterid>114911793225988198469</chapterid><description></description><start>2015.12.03 19:00</start><end>21:00</end><location>中国河北省张家口桥东区富强路</location><participantscount>28</participantscount></event>
+	<event><title>AppFramework分享交流会</title><chapterid>114911793225988198469</chapterid><description>APPFramework作为一款跨平台的JS框架，它的轻量级和更快的速度带给人们非常好的体验，其跨平台性能成为越来越多公司的选择。这次分享交流会的内容就是介绍如何将APPframework打包为Android APP，欢迎大家参加我们的分享交流会
+
+具体活动内容包括：
+1.APPFramework 技术讲座：学习如何通过运用APPFramework框架快速打包 app，熟悉 AppFramework开发流程和框架的使用。
+
+参加 Codelab 的准备工作： 
+1. 参会者需自备电脑。
+2.搭建好开发android的环境、并准备好用到的文件
+
+现场导师，王志辉 ，张家口GDG组织者，杨晶晶，张家口GDG志愿者</description><start>2015.12.01 19:00</start><end>22:00</end><location>中国河北省张家口市河北北方学院东校区B505</location><participantscount>74</participantscount></event>
+	<event><title>how to build your first Polymer elements</title><chapterid>114911793225988198469</chapterid><description>1.Polymer 概述
+2.Polymer视频播放
+3.Polymer 开发入门﻿</description><start>2015.11.18 19:00</start><end>22:00</end><location>中国河北省张家口市桥东区富强路</location><participantscount>33</participantscount></event>
+	<event><title>Google DevFest Zhangjiakou 2015</title><chapterid>114911793225988198469</chapterid><description>第三届Google DevFest（张家口站）开发者大会将在2015年10月31日举办，本次活动由GDG Zhangjiakou举办。致力于推动Google的各种先进技术（包括Android, Chrome, Google Map, Google云计算技术，HTML5, Golang等 ）在亚太地区的研发和应用。     
+大会将由丰富的内容和议题组成，届时将有行业技术专家进行讲座，同时还包含现场编程实践等环节，对于Google技术开发者、架构师或者是Google技术的爱好者都将是受益匪浅、不可错过的一次盛会。
+    会议为参会人员提供丰富礼品，将有限量版的T-shirt、Android储钱罐、3D眼睛等礼品赠送。同时女性参与者还有更多礼物等你拿哦。
+   会议期间为大家准备了丰富的水果、点心。
+    会议时间：2015年11月7日下午1：00
+    会议地点：河北北方学院西校区图书馆二楼报告厅
+</description><start>2015.11.07 13:00</start><end>18:00</end><location>中国河北省张家口市桥东区钻石南路11号</location><participantscount>171</participantscount></event>
+	<event><title>Designing of Android App Development Project</title><chapterid>114911793225988198469</chapterid><description>With the intent of helping students to familiar with ChinaGDG and learn more knowledge of Android app development, GDG Zhangjiakou holds the event.</description><start>2015.11.06 15:00</start><end>17:00</end><location>中国河北省张家口桥东区富强路</location><participantscount>35</participantscount></event>
+	<event><title>jQuery Mobile分享交流会</title><chapterid>114911793225988198469</chapterid><description>jQuery Mobile
+基于jQuery.js衍生、为触控做了优化的快速开发web应用的js框架，通过它能够快速构建android应用。
+具体活动内容包括：
+1. jQuery Mobile  技术讲座：学习如何通过运用jQuery技术快速开发 app，熟悉 jQuery Mobile 开发流程和框架的使用。
+
+参加 Codelab 的准备工作： 
+1. 参会者需自备电脑。
+2.搭建好开发android的环境、并准备好用到的文件
+
+现场导师，王志辉 ，张家口GDG组织者，杨晶晶，张家口GDG志愿者﻿</description><start>2015.10.31 14:30</start><end>17:30</end><location>中国河北省张家口桥东区红旗楼 银座2楼西北角HERE THERE COFFEE</location><participantscount>36</participantscount></event>
+	<event><title>how to conduct a Design Sprint</title><chapterid>114911793225988198469</chapterid><description></description><start>2015.10.24 09:00</start><end>12:00</end><location>Fuqiang Road, Zhangjiakou, Hebei, China</location><participantscount>34</participantscount></event>
+	<event><title>Android Material Design</title><chapterid>114911793225988198469</chapterid><description>1.Android UI设计概述
+2. Material Design开发概述
+3.Material Design案例演示﻿</description><start>2015.10.14 19:00</start><end>21:00</end><location>中国河北省张家口桥东区富强路</location><participantscount>47</participantscount></event>
+	<event><title>Web audio and web MIDI application development</title><chapterid>114911793225988198469</chapterid><description>1.2015中国国际乐器展览会网络音乐应用创新开发竞赛介绍
+2.网络音乐应用创新开发技术介绍
+3.网络音乐应用创新开发案例演示</description><start>2015.09.09 19:00</start><end>22:00</end><location>中国河北省张家口市桥东区富强路</location><participantscount>35</participantscount></event>
+	<event><title>Google I/O 2015 Redux in 2nd Season--Zhangjiakou</title><chapterid>114911793225988198469</chapterid><description>1.Absorption more GDG members; 
+2. Overview of Google I/O 2015, sharing the harvest  with every  participant; 
+3. To discuss the application development of Android, and encourage everyone to work hard
+
+The checking in website: https://gdgdocs.org/r/xYhpLg
+https://gdgdocs.org/qr/xYhpLg
+</description><start>2015.06.26 19:00</start><end>21:00</end><location>中国河北张家口桥东区富强路</location><participantscount>64</participantscount></event>
+	<event><title>Google I/O 2015 Redux——GDG Zhangjiakou(1)</title><chapterid>114911793225988198469</chapterid><description>今年的Google I/O大会虽然已经结束，但它的影响已经慢慢开始发酵。I/O上，Google重点发布了3大平台（移动、可穿戴、物联网）、4大软件，并更新VR设备Cardboard以及推出配套的全景拍摄设备。
+
+下周三，张家口谷歌开发者社区邀请了业内技术大拿，给我们聊聊他们眼中的 Android M、Brillo、Android Wear 和 Google VR，如何理解这几个平台，这些给产品的研发和开发者们都带来什么？﻿</description><start>2015.06.17 19:00</start><end>22:00</end><location>中国河北省张家口桥东区富强路</location><participantscount>34</participantscount></event>
+	<event><title>Zhangjiakou GDG 2015 Google I/O Extended</title><chapterid>114911793225988198469</chapterid><description></description><start>2015.05.28 22:00</start><end>2015.05.29 04:00</end><location>河北省张家口市富强路河北北方学院东校区B509</location><participantscount>20</participantscount></event>
+	<event><title>Development of Intelligent Vehicle based on Android</title><chapterid>114911793225988198469</chapterid><description>1.基于android智能小车开发概述
+2.基于Android智能小车开发演示</description><start>2015.05.14 19:00</start><end>21:00</end><location>中国河北省张家口市桥东区富强路</location><participantscount>32</participantscount></event>
+	<event><title>Build apps that display 3D scenes with binocular based on Cardboard</title><chapterid>114911793225988198469</chapterid><description>1.Cardboard 概述
+2.Cardboard 开发入门</description><start>2015.04.14 19:00</start><end>21:00</end><location>中国河北省张家口市桥东区富强路</location><participantscount>32</participantscount></event>
+	<event><title>Dreaming of Becoming Women Techmakers</title><chapterid>114911793225988198469</chapterid><description>1.	Introducing how to be a GDG Zhangjiakou member 
+2.	Facing to Android programming 
+3.	Applying for accounts of Google play 
+</description><start>2015.03.19 16:30</start><end>20:00</end><location>中国河北省张家口市桥东区富强路</location><participantscount>57</participantscount></event>
+	<event><title>How to apply for accounts of Google play</title><chapterid>114911793225988198469</chapterid><description>1.如何申请google play 账号
+2.如何再google play 上发布应用
+3.如何使用google play盈利﻿</description><start>2015.03.11 19:00</start><end>21:00</end><location>中国河北省张家口市桥东区中兴北路</location><participantscount>35</participantscount></event>
+	<event><title>Overview of Google Play</title><chapterid>114911793225988198469</chapterid><description>1.Google Play概述
+2.Gogole play 优势和注意问题
+2.中国开放者如何建立Google play帐户﻿</description><start>2014.12.22 19:00</start><end>22:00</end><location>中国河北省张家口桥东区富强路</location><participantscount>36</participantscount></event>
+	<event><title>polymer codelab</title><chapterid>114911793225988198469</chapterid><description>Polymer 在Web Components 技术的基础上，建立的全新的Web前端技术框架。今年夏季的Google I/O大会上,Eric 等在展示了优异的性能，被google极力倡导。
+
+具体活动内容包括：
+1. Polymer 技术讲座：学习如何通过  Polymer 技术开发Web app，熟悉 Polymer 开发流程和工具的使用。
+2. Codelab：首先介绍 Polymer Codelab 向导，然后再通过2-3个项目的动手实践，让开发者掌握 Polymer 的开发要点。
+
+参加 Codelab 的准备工作： 
+1. 参会者需自备电脑。
+2. 升级 Chrome 至最新版，并安装 Chrome Dev Editor 或者使用其他编辑器和 localhost web server 。
+现场导师，王志辉 ，张家口GDG组织者，杨晶晶，张家口GDG志愿者﻿</description><start>2014.12.06 15:00</start><end>18:00</end><location>中国河北省张家口</location><participantscount>30</participantscount></event>
+	<event><title>Meeting up with Android</title><chapterid>114911793225988198469</chapterid><description>1.Introduction of Google Developer Groups; 2. How to be a member of ZhangjiakouGDG; 3. Creating first Android application</description><start>2014.11.28 15:00</start><end>18:00</end><location>中国 河北省张家口市高新区河北北方学院东校区教学楼C501室</location><participantscount>81</participantscount></event>
+	<event><title>DevFest—Polymer</title><chapterid>114911793225988198469</chapterid><description>      This Developers festival Popularly known as Devfest is aimed at explaining and Introducing the future of Web Components and Web Based Application Development using the Polymer Library. Polymer is a new type of library for the web, targeting the modern web platform, and useful for building web applications based on Web Components. Unlike some other frameworks before it, Polymer attempts to embrace HTML as much as possible by encouraging the use of custom element wherever possible. It includes a handful of independent polyfills for these emerging web standards (Custom Elements, Shadow DOM, etc.) that over time diminish and ultimately disappear as browser vendors implement the native APIs.</description><start>2014.11.23 13:00</start><end>18:00</end><location>中国河北省张家口市桥东区富强路</location><participantscount>210</participantscount></event>
+	<event><title>build great multi-device web experience</title><chapterid>114911793225988198469</chapterid><description>      给不同能力，且多数屏幕尺寸不一、操作方式各异的多种设备创建站点，不说完全不能，也着实让人畏惧。
+     不过，创建一个完全响应的站点并没有你想的那么难，后面通过本次活动将带你体验如何构建多设备站点﻿</description><start>2014.11.19 19:00</start><end>22:00</end><location>河北省张家口市富强路河北北方学院B509</location><participantscount>35</participantscount></event>
+	<event><title>Overview of Polymer</title><chapterid>114911793225988198469</chapterid><description> 1.GDG zhangjiakou概述
+2.Polymer概述
+3.播放.Polymer视频﻿
+4.google startup</description><start>2014.10.08 19:00</start><end>22:00</end><location>中国河北省张家口市桥东区富强路</location><participantscount>40</participantscount></event>
+	<event><title>GDG Zhangjiakou 2014 DevFest Season1</title><chapterid>114911793225988198469</chapterid><description>1. 由冯贵良老师介绍活动的主题及主要内容。概述Andriod Wear的主要功能，及其未来的市场前景。
+2. 由孙兴华老师普及Andriod Wear产品的有关知识，Andriod Wear 的开发平台及技术要点。
+3. 在场成员以Andriod Wear 为主题，讨论其在现实生活中的价值意义，以及对其技术点进行交流。
+4. 茶歇。
+5. 观看Andriod Wear 产品的相关视屏。学习外国IT领域人物的编程思想。</description><start>2014.09.21 13:00</start><end>18:00</end><location>中国河北省张家口市桥东区富强路</location><participantscount>60</participantscount></event>
+	<event><title>Overview of Android Wear</title><chapterid>114911793225988198469</chapterid><description>1.Android Wear 体验
+2.Android Wear 开发
+3.Android Wear 创业﻿</description><start>2014.09.05 19:00</start><end>22:00</end><location>中国河北省张家口市桥东区富强路</location><participantscount>30</participantscount></event>
+	<event><title>Google I/O Extended Zhangjiakou</title><chapterid>114911793225988198469</chapterid><description>一年一度的 Google I/O Extended 活动今年将继续举办，深夜里一起观看 Google I/O 直播，一起 Happy！大家不见不散！</description><start>2014.06.25 22:30</start><end>2014.06.26 04:00</end><location>中国河北省张家口市桥东区富强路</location><participantscount>25</participantscount></event>
+	<event><title>App inventor developer sharing</title><chapterid>114911793225988198469</chapterid><description>1.App inventor 开发环境搭建
+2.App inventor 案例分享</description><start>2014.06.19 18:30</start><end>21:30</end><location>中国河北省张家口桥东区富强路</location><participantscount>35</participantscount></event>
+	<event><title>how to best use github</title><chapterid>114911793225988198469</chapterid><description>1.github使用技巧分享
+2.course-builder 开发分享﻿</description><start>2014.05.09 18:30</start><end>21:30</end><location>中国河北省张家口桥东区富强路</location><participantscount>55</participantscount></event>
+	<event><title>Arduino Day 2014</title><chapterid>114911793225988198469</chapterid><description>1.Outline of PC Arduino  
+2.Develope of Arduino + Android</description><start>2014.04.03 06:30</start><end>09:30</end><location>河北省张家口市富强路河北北方学院教学楼B509</location><participantscount>35</participantscount></event>
+	<event><title>Women Techmakers:Zhangjiakou – Meet of the Female Programmers</title><chapterid>114911793225988198469</chapterid><description>GDG Zhangjiakou organizes the event aiming to empower women to pursue their dreams in computer science. Two contents are included:
+1) Introduction on Google technology 
+2) Free discussion of issues encountered in the study of life
+</description><start>2014.03.07 17:00</start><end>20:00</end><location>中国河北省张家口桥东区富强路</location><participantscount>44</participantscount></event>
+	<event><title>Dart Flight School Zhangjiakou</title><chapterid>114911793225988198469</chapterid><description>Dart helps you build modern web apps with a new language, core libraries, and tools such as a package manager, editor, and a compiler to JavaScript. We will be hosting a 1-2 hour tech talk regarding the language in preparation for our Code Lab that will occur on the 28st of February. </description><start>2014.02.28 19:00</start><end>22:00</end><location>中国河北省张家口市桥东区富强路</location><participantscount>25</participantscount></event>
+	<event><title>New Android new technology exchange</title><chapterid>114911793225988198469</chapterid><description>In 2014 approaching, we Andriod interested persons, but also to start a new challenge of the year,In the meantime, we held the &quot;New Year&apos;s Android technology exchange&quot; to summarize the results of past research on Andriod new technologies and preparing new technologies for the future Andriod！！</description><start>2014.01.01 19:00</start><end>22:00</end><location>Zhangjiakou in Hebei Province, Hebei North University B401 Qiaodong</location><participantscount>20</participantscount></event>
+	<event><title>The Sharing of 2013 University Challenge of Android</title><chapterid>114911793225988198469</chapterid><description>2013谷歌Android大学生挑战赛作品分享  （孙兴华）</description><start>2013.12.17 19:00</start><end>22:00</end><location>河北省张家口市富强路河北北方学院C404</location><participantscount>33</participantscount></event>
+	<event><title>Low-power Bluetooth 4.0 and Android Application Development(Hangout)</title><chapterid>114911793225988198469</chapterid><description>1. Target tracking system implementation base on Ti DSP 2. Introduction for Low-power Bluetooth 4.0 protocol introduction, SensorTag development and Android Bluetooth development. </description><start>2013.12.07 13:30</start><end>17:30</end><location>张家口市富强路河北北方学院B502</location><participantscount>30</participantscount></event>
+	<event><title>Open Source Technology Sharing</title><chapterid>114911793225988198469</chapterid><description>本次活动主要是为开源技术爱好者之间的学习经验交流提供一个平台。</description><start>2013.11.13 16:30</start><end>20:30</end><location>中国河北省张家口市河北北方学院东校区C404</location><participantscount>46</participantscount></event>
+	<event><title>The Sharing of Bluetooth Development Technology based on Android</title><chapterid>114911793225988198469</chapterid><description>1.Android 蓝牙开发技术分享（讲师：张宁）
+2.张家口GDG书漂活动发放仪式</description><start>2013.11.08 19:00</start><end>22:00</end><location>河北省张家口市富强路河北北方学院教学楼C404</location><participantscount>35</participantscount></event>
+	<event><title>The Sharing of Open Source Project of Google Development Technology</title><chapterid>114911793225988198469</chapterid><description>1.张家口GDG 简介（孙兴华）
+2.张家口GDG开源项目介绍（孙兴华）
+3.河北伊诺光学科技有限公司Android开发项目介绍</description><start>2013.11.01 10:00</start><end>12:30</end><location>中国河北省张家口宣化区G6京藏高速东山产业集聚区</location><participantscount>30</participantscount></event>
+	<event><title>HTML 5 technology and sharing</title><chapterid>114911793225988198469</chapterid><description>As a new HTML5 web technologies, which are affecting more people, as an IT staff to keep abreast of HTML5
+The technology will bring us more development. To this end we decided on October 11 at 7:00 pm Eastern Shiqiao Zhangjiakou, Hebei North University East Campus Weiyi B505</description><start>2013.10.19 19:00</start><end>22:00</end><location>Qiaodong District, Zhangjiakou, Hebei, China Hebei North University East Campus B505</location><participantscount>27</participantscount></event>
+	<event><title>How to develop high-quality android applications</title><chapterid>114911793225988198469</chapterid><description>1.讲座：如何开发高质量Android应用程序 
+2.手机应用大赛获奖者经验分享 
+3.Android手机应用开发经验交流</description><start>2013.10.11 19:00</start><end>22:00</end><location>张家口富强路</location><participantscount>30</participantscount></event>
+	<event><title>google开发技术沙龙</title><chapterid>114911793225988198469</chapterid><description>主题一：分享Google开发技术；
+主题二：讨论学习基于C的物联网技术</description><start>2013.09.18 16:30</start><end>18:30</end><location>中国河北省张家口市河北北方学院</location><participantscount>56</participantscount></event>
+	<event><title>GDG Zhangjiakou DevFest 2013</title><chapterid>114911793225988198469</chapterid><description>8:30 AM    Registration / Check-In                          
+9:00 AM    Introduction  of Google Devfest and GDG Zhangjiakou
+9:30 AM   Android &amp;amp; Internet of Things
+10:15 AM   The innovation base on  open-type web development technology
+11:15 AM   Dart Language and web development technology
+11:00 AM   Lunch
+1:30 PM    Hackfair 
+3:00 PM    Break
+3:00 PM    Guided Code Labs
+5:00 PM    After Hours</description><start>2013.09.14 09:00</start><end>17:50</end><location>中国河北省张家口桥东区蓝鲸大厦</location><participantscount>200</participantscount></event>
+	<event><title>Android物联网编程沙龙</title><chapterid>114911793225988198469</chapterid><description>基于Android 物联网编程讲座和技术交流</description><start>2013.08.28 19:00</start><end>21:00</end><location>河北省张家口市纬一路河北北方学院</location><participantscount>35</participantscount></event>
+	<event><title>Google I/O Recap &amp; More </title><chapterid>114911793225988198469</chapterid><description>Sharing the stories of google IO
+Sharing the applications of google technologies 
+</description><start>2013.06.21 19:00</start><end>22:00</end><location>中国河北省张家口桥东区富强路</location><participantscount>45</participantscount></event>
+	<event><title>GDG zhangjiakou of Inaugural Meeting</title><chapterid>114911793225988198469</chapterid><description>GDG zhangjiakou of Inaugural Meeting,bill Luan e will be made report abou Html5 , android and etc.</description><start>2013.06.16 13:00</start><end>18:00</end><location>中国河北省张家口桥东区胜利中路蓝鲸大厦</location><participantscount>210</participantscount></event>
+	<event><title>Google I/O Extended@GDG Zhangjiakou</title><chapterid>114911793225988198469</chapterid><description>Google I/O kickoffYour attendance at Google I/O&apos;s much-anticipated kickoff event will give you a first glimpse at the latest product and platform innovations at Google.</description><start>2013.05.15 22:00</start><end>2013.05.16 16:00</end><location>zhangjiakou</location><participantscount>130</participantscount></event>
+</events>
+</data>

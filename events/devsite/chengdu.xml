@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<number>31</number>
+<events>
+	<event><title>成都GDG 2017 Mobile Open Day活动</title><chapterid>115508453153648032576</chapterid><description>大家好：
+    期待已久的Android专场来了！本次活动我们会分享Android插件化技术，以及如何更好的开发RecyclerView。同时也会跟进最新的技术，Android上的PWA和WeChat上的小程序，孰优孰劣。当然还有最近依旧火热的React Native，同时也会分享实践React Native的一些经验。欢迎大家报名参加。
+【活动时间】2017年5月20日 13:30-17:30
+【活动地点】成都市高新区天府大道中段1268号 天府软件园E1-1栋7楼，ThoughtWorks
+【活动议程】
+    13:30—13:40 签到
+    13:40—13:50 开场&amp;amp;破冰游戏
+    13:50—14:35 《Epoxy让构建复杂列表变得如此简单》
+            话题介绍：RecyclerView是android系统中的一个实现列表的强大工具，也是目前在android应用开发中使用最多的UI控件，但是它的用法比较琐碎，实现复杂度高的列表往往会给开发人员带来困扰。Epoxy的诞生简化了基于RecyclerView的开发，增强了开发人员对RecyclerView的控制力，并能轻易实现各种基于RecyclerView的复杂UI，多种类型item的列表实现将不再是困扰。
+    14:35—15:25 《Atlas是怎样做插件化》
+            话题介绍：Android插件化是近年来的热门话题，前不久阿里开源了自己的手淘插件化框架Atlas，这次就给大家分析一些我对Atlas学习，它是怎样实现插件化以及能为我们开发做些什么。
+    15:25—15:35 茶歇
+    15:35—16:25 《微信小程序 vs PWA vs Instant App》
+            话题介绍：自从微信小程序正式发布后，就备受企业的关注，尤其是最近还开放了个人开发者的申请，那么它相比于Google推广的PWA，又有哪些优势呢？
+    16:25—17:10 《React Native在企业应用中的实践》
+            话题介绍：需求变来变去？应用越来越复杂，发布计划却越来越紧？如何低成本的实现多平台的支撑？越来越多的挑战摆在了Mobile开发团队的面前。周六，我们就来一起聊一聊，怎样用React Native来解决企业级应用的痛点，构建更强大的移动应用。移动技术专家将根据自身项目中的经验和大家一起探讨React Native企业应用中的技术架构和最佳实践。
+
+【报名地址】https://www.gdgdocs.org/forms/d/e/1FAIpQLSegA9Gx0VtJDPo9Xx1I6enrI2wqKdqofJo2g-XZmMy4v7cykA/viewform﻿
+
+
+成都谷歌开发者社区（成都GDG）</description><start>2017.05.20 13:30</start><end>17:30</end><location>成都市高新区天府大道中段1268号 天府软件园E1-1栋7楼，ThoughtWorks</location><participantscount>67</participantscount></event>
+	<event><title>成都GDG 2017 IOExt 活动</title><chapterid>115508453153648032576</chapterid><description> 一年一度的全球互联网及新型技术的盛会 Google IO即将举行，今年的Google IO大会将在5月17至19日在谷歌公司总部边上的会场，美国加州 Mountain View的 Shoreline Amphitheatre 举办。
+成都GDG已经连续三年成功举办了IO大会的直播活动，今年将会继续和大家一起观看直播。我们准备了精美的礼品和美食，期待与你一起共享，一起见证Google给我们带来的惊喜。
+欢迎大家报名参加。
+
+活动时间：2017年5月17日22:30 - 2017年5月18日02:30
+活动地点：成都市锦绣路1号保利中心B座19楼 1911拾级Cafe
+报名地址：https://www.gdgdocs.org/forms/d/e/1FAIpQLSchdDmMzsyihWg5I8Kv4wtYj6xGrWUjG9qOkB4E1iMu0q8ecQ/viewform﻿</description><start>2017.05.17 22:30</start><end>2017.05.18 02:30</end><location>成都市锦绣路1号保利中心B座19楼 1911拾级Cafe</location><participantscount>28</participantscount></event>
+	<event><title>成都GDG 2017 WTM活动</title><chapterid>115508453153648032576</chapterid><description> 2017年3月26日，成都GDG将举办一期WTM活动(Women Techmakers)，WTM是Google支持的面向女性互联网领域从业者的全球系列活动，旨在促进女性在互联网领域的参与，帮助她们创造改变世界的工具，从而有更多机会去实现梦想，在各自的领域获得成长、提升和成功。为有共同目标的女性朋友们提供了一个很好的平台，让大家可以在一起分享交流。我们为大家准备了精美的礼品，欢迎大家报名参加。
+PS：活动不限制参加人员类型，也欢迎互联网领域的男士参加。
+【活动时间】2017年3月26日 14:00 - 16:30
+【活动地点】成都市天府软件园E区1-1栋7楼 ThoughtWorks
+【活动议程】
+13:30--14:00 签到
+14:00--14:40 《女性工作的优势与劣势浅谈》
+话题简介：女性需要在男性为主导的IT行业能发挥自己优势, 对我而言是对语言的热爱。 因为语言的原因我主动或者被动的选择到一些我喜欢做的工作,丰富了我的人生。 而女生天生又有一些劣势, 比如说生孩子. 作为一个已经有两个孩子的妈妈, 我生孩子前, 生孩子时和生孩子后都会遇到什么考验和选择, 希望能和大家一起分享, 并给大家一些参考或者帮助。
+分享嘉宾：郑琪，业务分析师
+14:40--15:20 《Yes, I do look like an IT girl》
+话题简介：女生是IT行业的少数派，此次话题，将讲述自己的经历，如何从一个誓死不搞编程的女孩转变成了一个执着，勇敢，快乐前行，致力做一个爱coding，更爱生活的IT girl
+分享嘉宾：杜雅迪，软件质量咨询师，业务分析师
+15:20--16:00 《撕掉标签，还原真我》
+话题简介：我们总是被社会的各种眼光冠以各色的标签，尤其是职场女性，我们总是被告知，你适合做老师，做文员，适合学艺术，却鲜有人告诉我们，你适合从事IT，做开发，做一些看似更像是男性主场的挑战性工作，这些社会的眼光影响着我们更清晰的审视自己，也影响着我们在这些领域去想的更深更远。很幸运的是，我一直成长在一个男生远多于女生的一个环境，和长期男性一起合作和成长的过程中，居然奇迹般的促使我渐渐对于这些标签给免疫了。。。
+分享嘉宾：罗丽，移动技术顾问，擅长Android，iOS等多平台开发技术，目前任职于TW海外事业部，曾在多个大型移动应用架构中担任技术顾问
+16:00--16:30 自由交流
+【报名地址】
+https://www.gdgdocs.org/forms/d/e/1FAIpQLSfxfzo9cfAbCUecvs39ol_fKdaALHnIngffrtp1Rjau-FeQMw/viewform﻿</description><start>2017.03.26 14:00</start><end>16:00</end><location>成都市天府软件园E区1-1栋7楼 ThoughtWorks</location><participantscount>36</participantscount></event>
+	<event><title>成都GDG 2017 WTM-1活动</title><chapterid>115508453153648032576</chapterid><description> 2017年3月8日，成都GDG将举办一期WTM活动(Women Techmakers)，WTM是Google支持的面向女性互联网领域从业者的全球系列活动，旨在促进女性在互联网领域的参与，帮助她们创造改变世界的工具，从而有更多机会去实现梦想，在各自的领域获得成长、提升和成功。为有共同目标的女性朋友们提供了一个很好的平台，让大家可以在一起分享交流。我们为大家准备了精美的礼品，欢迎大家报名参加。
+PS：活动不限制参加人员类型，也欢迎互联网领域的男士参加。
+【活动时间】2017年3月8日 14:00 - 16:00
+【活动地点】成都市金牛区蜀西路42号WALNUT联合办公咖啡厅
+【本期主题】如何将创业想法变现？
+【活动议程】
+13:30--14:00 签到
+14:00--15:00 嘉宾分享：互联网老司机，运营实力派老将 - 桂小兔
+15:00--16:00 嘉宾分享：影视商务精英，柔性谈判佼佼者 - 张茜
+【报名地址】
+https://www.gdgdocs.org/forms/d/e/1FAIpQLScKo87H9oUEaonS1IbCvCC7sE66Rr_dwoFHA8-Wra77UmfmsA/viewform﻿</description><start>2017.03.08 14:00</start><end>16:00</end><location>成都市金牛区蜀西路42号WALNUT联合办公咖啡厅</location><participantscount>35</participantscount></event>
+	<event><title>成都GDG 2017 TensorFlow Summit活动</title><chapterid>115508453153648032576</chapterid><description> 
+美国时间2月15日早上10点（中国北京时间凌晨2点）在MTV会举办2017 TensorFlow峰会。TensorFlow是谷歌基于DistBelief进行研发的第二代人工智能学习系统，可被用于语音识别或图像识别等多项机器深度学习领域。成都GDG于2017年2月18日举办这次峰会的录像观看和讨论。欢迎大家报名参加。
+【活动时间】2017年2月18日 14:00 - 17:00
+【活动地点】成都市锦绣路1号保利中心B座19楼 1911拾级Cafe
+（拾级Cafe会场电话：028-87037202）
+【活动议程】
+13:30——14:00 签到
+14:00——16:00 2017年TensorFlow峰会录像观看和讨论
+16:00——16:30 自由交流
+【报名地址】
+https://www.gdgdocs.org/forms/d/e/1FAIpQLSfl5If3mMjmn5IFRn9DvVtdBWubqTbcYwBXx4PMoR21i89TEg/viewform﻿</description><start>2017.02.18 13:30</start><end>17:00</end><location>成都市锦绣路1号保利中心B座19楼 1911拾级Cafe</location><participantscount>42</participantscount></event>
+	<event><title>成都GDG 2016 DevFest-2活动</title><chapterid>115508453153648032576</chapterid><description>大家好：
+一年一度的全球谷歌开发者社区的DevFest技术分享系列活动再度来临，我们全中国的GDG社区今年将全体参与，创造一个历史性的和国际接轨的纪录！ 
+DevFest就是开发者节的意思，它是从Developer Festival的简写而来。它是自2008年就开始的由Google发起和赞助的全球性开发者活动，目的是通过技术分享和交流，来推动最新的互联网开放型技术的使用、推动创新、创业，以此来贡献与当地的经济发展。活动内容完全由世界各地的谷歌开发者社区(GDG)自行策划组织，是纯粹的技术分享活动。
+参加DevFest可以学习最新、最酷的互联网和移动开发技术，和技术专家面对面交流，进行经验分享，了解开发案例，还可以现场动手编程进行实践。开发者不但可以免费参与此次活动，还有机会获得我们GDG社区的T恤、各种Google技术和开放型技术的贴纸、甚至神秘小礼物。 我们全国几十个城市的 GDG 社区都分别举办各自的DevFest 活动， 这将是一场代表中国互联网业届规模最大的技术和交流的盛宴！
+欢迎大家踊跃报名参加，我们将会根据报名人数来预订茶歇。
+
+【活动时间】2016年11月26日 13:30 - 17:00
+【活动地点】成都市天府软件园E区1-1栋7楼 ThoughtWorks
+【活动议程】
+13:30——14:00 签到
+14:00——15:00 《人工智能中基于深度学习的图像识别那些事儿》
+分享嘉宾：罗院生，在人工智能领域有深入的研究，曾经发表过人工智能深度学习领域的论文若干篇
+15:00——16:00 《从程序员到产品经理的自我修炼》
+分享嘉宾：林彦君，著有《突破关键：Android核心技术102问》一书，一个从程序猿到CTO，再到产品经理的IT精英
+16:00——17:00 《流水线即代码 - 迁移到Jenkins2》
+分享嘉宾：杨锐，ThoughtWorks咨询师，目前从事DevOps工作，对大型组织的CI，CD，DevOps转型及容器化技术有持续关注和一定经验。
+
+【报名地址】https://www.gdgdocs.org/forms/d/e/1FAIpQLSdrntKa1b118mZMK-vFhRnOUtZhCaSlrFkWEUF4jb4lUbGKsQ/viewform﻿</description><start>2016.11.26 13:30</start><end>17:00</end><location>成都市天府软件园E区1-1栋7楼 ThoughtWorks</location><participantscount>48</participantscount></event>
+	<event><title>成都GDG 2016 DevFest活动</title><chapterid>115508453153648032576</chapterid><description>大家好：
+    一年一度的全球谷歌开发者社区的DevFest技术分享系列活动再度来临，我们全中国的GDG社区今年将全体参与，创造一个历史性的和国际接轨的纪录！ 
+     DevFest就是开发者节的意思，它是从Developer Festival的简写而来。它是自2008年就开始的由Google发起和赞助的全球性开发者活动，目的是通过技术分享和交流，来推动最新的互联网开放型技术的使用、推动创新、创业，以此来贡献与当地的经济发展。活动内容完全由世界各地的谷歌开发者社区(GDG)自行策划组织，是纯粹的技术分享活动。
+     参加DevFest可以学习最新、最酷的互联网和移动开发技术，和技术专家面对面交流，进行经验分享，了解开发案例，还可以现场动手编程进行实践。开发者不但可以免费参与此次活动，还有机会获得我们GDG社区的T恤、各种Google技术和开放型技术的贴纸、甚至神秘小礼物。 我们全国几十个城市的 GDG 社区都分别举办各自的DevFest 活动， 这将是一场代表中国互联网业届规模最大的技术和交流的盛宴！
+     欢迎大家踊跃报名参加，我们将会根据报名人数来预订茶歇。
+【活动时间】2016年9月25日 14:00 - 17:00
+【活动地点】成都市红星路35号创意产业园A区 岛上书店
+【活动议程】
+                14:00——14:30 签到
+                14:30——15:30 ES6开发Angular2应用
+                15:30——16:30 Angular和D3的数据可视化
+                16:30——17:00 自由交流
+【报名地址】https://www.gdgdocs.org/forms/d/e/1FAIpQLScgSrJr-BI8T45SI4Mz2xohynLIA1U8ZStX8NVLwCni05mQhA/viewform</description><start>2016.09.25 14:00</start><end>17:00</end><location>成都市红星路35号创意产业园A区 岛上书店</location><participantscount>76</participantscount></event>
+	<event><title>成都GDG 2016 IO Redux活动</title><chapterid>115508453153648032576</chapterid><description> 2016年的Google I/O大会已经落下帷幕。今年的IO大会成都GDG的旗帜再次飘扬在大洋彼岸。错过了IO大会直播的小伙伴，欢迎参加成都GDG举办的IO大会分享活动。活动由亲历IO大会的成都GDG负责人毕强给大家带来他在IO大会现场的所见所闻。欢迎大家报名参加。
+【时间】2016年7月16日14:00-16:00。
+【地点】成都市锦绣路1号保利中心B座19楼 1911拾级Cafe
+【报名地址】https://www.gdgdocs.org/forms/d/1a0nimRjHve1qTyLZ3eKGOiayaQVT0yXXXAXB1F8jGd0/viewform﻿</description><start>2016.07.16 14:00</start><end>16:00</end><location>成都市锦绣路1号保利中心B座19楼 1911拾级Cafe</location><participantscount>20</participantscount></event>
+	<event><title>成都GDG 2016 Google I/O Ext活动</title><chapterid>115508453153648032576</chapterid><description>2016年的Google I/O大会将会给大家带来哪些惊喜？
+成都GDG已经连续2年成功举办了IO大会的直播活动，今年我们将会继续和大家一起观看直播。我们准备了精美的礼品和美食，期待与你一起共享。欢迎大家报名参加。
+【时间】2016年5月18日晚上10点。
+【报名链接】https://www.gdgdocs.org/forms/d/1leJoVG4OwO4bBVQdUFoVtEM0jiIisShGSEputxd7JRY/viewform﻿</description><start>2016.05.18 22:00</start><end>2016.05.19 03:00</end><location>成都市锦绣路1号保利中心B座19楼 1911拾级Cafe</location><participantscount>45</participantscount></event>
+	<event><title>成都GDG移动互联网+行业及创业</title><chapterid>115508453153648032576</chapterid><description>现在国家正在大力推展互联网+，推动移动互联网、云计算、大数据、物联网等与现代制造业结合，促进电子商务、工业互联网和互联网金融健康发展，引导互联网企业拓展国际市场。本次成都GDG邀请了众多互联网+行业的大咖给大家分享互联网+环境下的大学生创新创业。欢迎大家参加。﻿</description><start>2016.03.26 14:00</start><end>17:30</end><location>中国四川省成都郫县临水轩</location><participantscount>45</participantscount></event>
+	<event><title>成都GDG 2016 WTM活动</title><chapterid>115508453153648032576</chapterid><description>2016年3月8日，成都GDG将举办一期WTM活动(Women Techmakers)，我们邀请了2位女性嘉宾 - 成都品果科技 Camera360的刘伟、英国海归刘玮给大家做精彩分享。欢迎大家报名参加。
+【活动时间】2016年3月8日 14:00 - 16:00
+【活动地点】成都市高新区天府软件园B8 6楼
+【活动议程】
+14:00——14:30 签到
+14:30——15:45 嘉宾分享（成都品果科技 Camera360 刘伟，英国海归 刘玮）
+15:45——16:00 自由交流
+【报名地址】
+https://www.gdgdocs.org/forms/d/1MbZlBv9jrU2XYrm5avmGTpQGabvSYEJXVChp2XqZgtQ/viewform﻿</description><start>2016.03.08 14:00</start><end>16:00</end><location>成都市高新区天府软件园B8 6楼</location><participantscount>25</participantscount></event>
+	<event><title>成都GDG 2015科技体验日活动</title><chapterid>115508453153648032576</chapterid><description>2015年12月12日，成都GDG将联合成都八号平台举办一期“科技体验日”活动，活动将以产品的展示与体验为主，给朋友们创造一次碰撞的机会，让大家了解下炫酷的科技产品，体验非一般的创新感受。活动现场将会展示Google Carboard、3D打印机等高科技产品。双12，八号平台等着你来体验。
+【活动时间】2015年12月12日 14:00 - 17:00
+【活动地点】成都市武侯区领事馆路8号万兴苑B座3楼（8号平台）
+【活动议程】
+		14:00——14:30 签到
+		14:30——16:30 产品展示环节、体验、提问、茶歇、抽奖环节
+		16:30——17:00 自由交流
+</description><start>2015.12.12 14:00</start><end>17:00</end><location>成都市武侯区领事馆路8号万兴苑B座3楼（8号平台）</location><participantscount>68</participantscount></event>
+	<event><title>成都GDG 2015 DevFest活动</title><chapterid>115508453153648032576</chapterid><description>一年一度的谷歌开发者节（Google DevFest）就要来了！作为GDG的年度盛会，成都GDG经过精心的准备和安排，于2015年11月22日盛大举行。活动现场精美的礼品及美食、丰富的技术主题分享等着你。欢迎大家报名参加。
+    【活动时间】2015年11月22日 13:30 - 17:00
+    【活动地点】成都市武侯区领事馆路8号A座3楼 8号平台
+    【报名地址】 https://www.gdgdocs.org/forms/d/13YtpJQE1OEIw3ic-MMb3NBNLbxG_0U_4GA7ztq7EB8c/viewform</description><start>2015.11.22 13:30</start><end>17:00</end><location>成都市武侯区领事馆路8号A座3楼 8号平台</location><participantscount>94</participantscount></event>
+	<event><title>聊聊Google这些年的那些事 - 2015 Google生日庆</title><chapterid>115508453153648032576</chapterid><description>2015年9月27日，Google将迎来他17岁生日。他是如何在如此短时间内成长为全球IT巨头？成都GDG将和你一起分享Google这些年的那些事。欢迎大家参加。</description><start>2015.09.26 14:00</start><end>16:00</end><location>成都市武侯区 领事馆路8号706</location><participantscount>16</participantscount></event>
+	<event><title>成都GDG 大学生创新创业论坛</title><chapterid>115508453153648032576</chapterid><description>大家好：
+  近年创业的大学生越来越多了，你有没有跃跃欲试？来参加成都GDG举办的大学生创新创业论坛吧，这里有优秀的团队，资深创业导师和种子基金为你加油，还有Google IO大会上最新的黑科技给你的项目插上翅膀！
+  欢迎各位同学参加！</description><start>2015.07.10 09:00</start><end>11:30</end><location>四川大学 江安校区 第二基础实验楼报告厅</location><participantscount>280</participantscount></event>
+	<event><title>成都GDG 2015 Google IO大会分享第二场（IO Redux）</title><chapterid>115508453153648032576</chapterid><description>2015年的Google I/O大会已经落下帷幕。今年的IO大会成都GDG的旗帜首次飘扬在大洋彼岸。错过了IO大会直播的小伙伴，欢迎参加成都GDG举办的IO大会分享活动。活动由亲历IO大会的成都GDG负责人王玉成给大家带来他在IO大会现场的所见所闻。欢迎大家报名参加。
+    【时间】2015年6月26日13:00-15:00。
+    【地点】西华大学（郫县校区） 6A教学楼 520教室</description><start>2015.06.26 13:00</start><end>15:00</end><location>西华大学（郫县校区） 6A教学楼 520教室</location><participantscount>91</participantscount></event>
+	<event><title>成都GDG 2015 Google IO大会分享（IO Redux）</title><chapterid>115508453153648032576</chapterid><description>    2015年的Google I/O大会已经落下帷幕。今年的IO大会成都GDG的旗帜首次飘扬在大洋彼岸。错过了IO大会直播的小伙伴，欢迎参加成都GDG举办的IO大会分享活动。活动由亲历IO大会的成都GDG负责人王玉成给大家带来他在IO大会现场的所见所闻。欢迎大家报名参加。
+    【时间】2015年6月25日18:00-20:00。
+    【地点】成都市高新区天益街83号，成都职业技术学院(具体地址稍后通知)
+    【报名链接】https://gdgdocs.org/forms/d/1uJK_9kQh-KDHcbtABZwsSWpoopdM-0yBjkRv3rJ_-6M/viewform</description><start>2015.06.25 18:00</start><end>20:00</end><location>成都市高新区天益街83号，成都职业技术学院</location><participantscount>67</participantscount></event>
+	<event><title>成都GDG 2015 Google IOExt活动</title><chapterid>115508453153648032576</chapterid><description>2015年的Google I/O大会将会给大家带来哪些惊喜？
+去年成都GDG成功举办了IO大会的直播，今年将会继续和大家一起观看直播。我们准备了精美的礼品和美食，期待与你一起共享。欢迎大家报名参加。
+【时间】2015年5月28日晚上10点。
+【地点】成都市武侯区领事馆路8号A座3楼东区八号平台（成都创业沙龙）
+【报名链接】https://gdgdocs.org/forms/d/1Py4D2qxpNFQqIGaJXwbP3mNeCEZb4CpH-P5iIIGxZxM/viewform﻿</description><start>2015.05.28 22:00</start><end>2015.05.29 03:00</end><location>成都市武侯区领事馆路8号A座3楼东区八号平台</location><participantscount>20</participantscount></event>
+	<event><title>移动应用开发 之 Android开发实践</title><chapterid>115508453153648032576</chapterid><description>活动议程：
+话题一：《高效Android应用开发实践》ThoughtWorks  覃宇
+话题二：《聊聊android studio中的gradle》成都GDG 王玉成
+话题三：《让我们聊一聊Swift 》 ThoughtWorks  傅若愚﻿</description><start>2015.04.25 13:30</start><end>17:00</end><location>成都市高新区天府大道中段1268号，天府软件园E区E1栋-7楼</location><participantscount>85</participantscount></event>
+	<event><title>Chat the things we can change, using internet plus</title><chapterid>115508453153648032576</chapterid><description>How we can change using internet? How we can change using the google tools? We stay here to listen speech, chat with internet.</description><start>2015.04.11 13:30</start><end>17:30</end><location>Chengdu, Sichuan, China</location><participantscount>80</participantscount></event>
+	<event><title>中国软件质量大会成都站</title><chapterid>115508453153648032576</chapterid><description>        BQConf（Better Quality Conference）全称软件质量大会，活动以软件质量为主题，旨在为软件行业内对软件质量关心的同事们提供一个沟通交流的平台。
+        迄今为止，来BQConf分享过主题的国内外软件公司包括：微软，淘宝，阿里巴巴，京东，CA，NHN等等。现在BQConf开启了成都分站，为我们成都的小伙伴也带来了参与交流沟通质量的平台，欢迎大家踊跃参加。</description><start>2015.01.18 13:30</start><end>17:00</end><location>成都市天府软件园E区E1-7楼ThoughtWorks</location><participantscount>105</participantscount></event>
+	<event><title>成都GDG 2014 OpenParty活动</title><chapterid>115508453153648032576</chapterid><description>【活动议程】
+由智能硬件说开去（成都GDG 王玉成）
+从Dev到DevOps: 提升软件开发体验实践（ThoughtWorks 郑云龙）
+Intro to Rust Programming Language（唐刚 美洽网络）</description><start>2014.12.20 13:30</start><end>17:00</end><location>成都市高新区天府软件园E1-7楼 ThoughtWorks</location><participantscount>32</participantscount></event>
+	<event><title>医学信息技术探讨</title><chapterid>115508453153648032576</chapterid><description> 
+
+计算机和医学的同学和朋友，大家一起探讨计算机技术和医学如何结合，欢迎前来探讨分享你的idea~</description><start>2014.12.17 19:30</start><end>20:30</end><location>四川大学华西医学院老八教一楼会议室</location><participantscount>28</participantscount></event>
+	<event><title>成都GDG组织者年末聚会</title><chapterid>115508453153648032576</chapterid><description>各位成都GDG组织者，年末聚一聚吧~</description><start>2014.12.08 07:00</start><end>09:00</end><location>中国四川省成都武侯区四川大学望江校区</location><participantscount>6</participantscount></event>
+	<event><title>成都GDG 2014DevFest活动</title><chapterid>115508453153648032576</chapterid><description>10月至11月一年一度的全球谷歌开发者社区的DevFest技术分享系列活动再度来临，我们全中国的GDG社区今年将全体参与，创造一个历史性的和国际接轨的纪录！ 
+    DevFest就是开发者节的意思，它是从Developer Festival的简写而来。它是自2008年就开始的由Google发起和赞助的全球性开发者活动，目的是通过技术分享和交流，来推动最新的互联网开放型技术的使用、推动创新、创业，以此来贡献与当地的经济发展。活动内容完全由世界各地的谷歌开发者社区(GDG)自行策划组织，是纯粹的技术分享活动。
+
+    参加DevFest可以学习最新、最酷的互联网和移动开发技术，和技术专家面对面交流，进行经验分享，了解开发案例，还可以现场动手编程进行实践。开发者不但可以免费参与此次活动，还有机会获得我们GDG社区的T恤、各种Google技术和开放型技术的贴纸、甚至神秘小礼物。 我们全国十几个城市的 GDG 社区都分别举办各自的DevFest 活动， 这将是一场代表中国互联网业届规模最大的技术和交流的盛宴！
+
+【活动时间】2014年11月30日（周日） 13:30 - 18:00
+【活动地点】天府软件园E区E1 7楼 Thoughtworks
+【活动议程】
+签到（13:30 - 14:00）
+GDG及成都GDG介绍；（14:00 - 14:15）
+Polymer介绍（14:15 - 15:15）
+Android自动化测试（15:15 - 16:00）
+茶歇（16:00 - 16:15）
+智能硬件 - 可穿戴设备介绍（16:15 - 17:00）
+聊聊翻译那些事（17:00 - 17:45）
+合影、礼品发放（17:45 - 18:00）</description><start>2014.11.30 13:00</start><end>18:00</end><location>天府软件园E区E1座 7楼 Thoughtworks</location><participantscount>96</participantscount></event>
+	<event><title>2014四川省物联网国际化培养与工程化培养教学研讨会</title><chapterid>115508453153648032576</chapterid><description>为了深入研讨和交流物联网专业人才的国际化培养和工程化培养，交流学习省外院校的优秀实践经验，激发西南地区院校物联网专业建设和人才培养的灵感，结合Android Wear等先进物联网技术，特举办本研讨会。我们竭诚邀请各院校学科负责人、教师、实习实训机构，物联网用人企业参与此次会议，相信您一定不虚此行，期待您的参与！</description><start>2014.11.09 14:30</start><end>17:30</end><location>四川大学望江校区基础教学楼B314</location><participantscount>57</participantscount></event>
+	<event><title>成都GDG走进校园 之 电子科大篇</title><chapterid>115508453153648032576</chapterid><description>    GDG（Google Developer Groups ，谷歌开发者社区）是谷歌发起的全球性技术社区，是面向对 Google 和开源、开放技术感兴趣的公益性开发者社区，内容涵盖 Web/Chrome、Android 和其它 Google API 等。目前已经在全国18个城市成立了GDG。
+    成都谷歌开发者社区（GDG Chengdu）是由成都爱好谷歌开发技术、互联网技术、开源代码及其它开放型技术的开发者组成的一个开放社区，我们的目标是通过举办各种互相帮助和分享的活动，交流开发心得和经验，学习各种谷歌开发技术、开源代码技术等等，来推动互联网应用和移动应用的创新和创业。 
+
+    本次走进电子科大是成都GDG走进校园的第一站，我们准备了丰富的活动内容和精美的礼品等待你的到来。欢迎大家踊跃报名参加，我们将会根据报名人数来预订茶歇。
+
+活动议程：
+1. 13:30 - 14:00  签到；
+2. 14:00 - 14:30  GDG和成都GDG介绍；
+3. 14:30 - 15:30  2014 Google I/O大会分享；
+4. 15:30 - 16:30  Android Wear介绍。
+
+报名地址：
+https://www.gdgdocs.org/forms/d/1w84ZbvRdcI0Zaol1tJTL93v6UYZlPKk1wHRVC1GEYEE/viewform﻿</description><start>2014.10.25 13:30</start><end>16:30</end><location>中国四川省成都电子科技大学清水河校区</location><participantscount>50</participantscount></event>
+	<event><title>成都GDG 2014年DevFest</title><chapterid>115508453153648032576</chapterid><description>DevFest（秋季开发者日）是针对Google技术开发者所举办的大型技术会议，致力于推动Google的各种先进技术（包括Android, Chrome, GoogleMap, HTML5等）在全球的研发和应用，大会将由丰富的内容和议题组成。
+
+成都GDG今年将会举办两场DevFest活动，分别在9月底和11月底举办。欢迎大家报名参加，现场还有精美礼品赠送。
+
+会议主要内容：
+Android Wear介绍；Web Components介绍。</description><start>2014.09.25 18:30</start><end>21:00</end><location>成都市高新区天府软件园C12 11层</location><participantscount>95</participantscount></event>
+	<event><title>解谜APP开发者的西游困境</title><chapterid>115508453153648032576</chapterid><description>目前面向国内市场的APP开发者面临诸如移动互联网竞争激烈、推广费用高昂、商业化无望等困境，越来越多的开发者开始把视野转向海外，把触角伸向海外。他们毅然踏上西游取金的征程，也逐渐发现西游之路并非坦途！
+    本次活动我们邀请到诸多重量级嘉宾，这些公司在拓展海外市场上成绩斐然。这些重量级嘉宾将与众多开发者共同探讨产品出海的喜悦哀愁，解谜APP开发者的西游困境。</description><start>2014.07.05 13:00</start><end>18:00</end><location>成都高新区天府大道天府软件园D区5栋BD层灵感咖啡</location><participantscount>58</participantscount></event>
+	<event><title>Google I/O Extended Chengdu</title><chapterid>115508453153648032576</chapterid><description>Google I/O是由Google举行的网络开发者年会，讨论的焦点是用Google和开放网络技术开发网络应用。今年的Google I/O大会于2014年6月25 - 26日在旧金山举办。成都GDG将和你一起直播观看 Google I/O大会，第一时间感受Google给我们带来的惊喜。精美礼品、美味茶歇等着你，大家不见不散！</description><start>2014.06.25 22:00</start><end>2014.06.26 03:00</end><location>中国四川省成都市青羊区实业街46号二楼</location><participantscount>36</participantscount></event>
+	<event><title>成都GDG成立大会</title><chapterid>115508453153648032576</chapterid><description>成都谷歌开发者社区（GDG Chengdu）是一个开放和自由的社区，任何人都可以来加入。我们的目标是通过举办各种互相帮助和分享的活动，交流开发心得和经验，学习各种谷歌开发技术、开源代码技术、公开网络标准技术等等，来推动互联网应用和移动应用的创新和创业。&amp;lt;br&amp;gt;
+
+成都谷歌开发者社区将于2014年5月10日正式成立。届时，谷歌开发技术推广部（Developer Relations）大中华区主管栾跃(Bill Luan)将亲临社区成立大会，并做技术分享的演讲。&amp;lt;br&amp;gt;
+
+欢迎成都的开发者们、企业经理们、高校教师们和大学生们踊跃报名参加。&amp;lt;br&amp;gt;
+
+【日程安排】&amp;lt;br&amp;gt; 
+时间 内容&amp;lt;br&amp;gt;
+12:30 - 13:00 入场签到&amp;lt;br&amp;gt;
+13:00 - 13:50 谷歌开发者社区、谷歌全球开发技术介绍和成都谷歌开发者社区介绍&amp;lt;br&amp;gt;
+13:50 - 14:00 茶歇&amp;lt;br&amp;gt;
+14:00 - 15:00 谷歌开发技术新进展的介绍：Maps, Chrome, O3D&amp;lt;br&amp;gt;
+15:00 - 15:15 茶歇&amp;lt;br&amp;gt;
+15:15 - 16:15 HTML5 &amp;amp; Web GL开发技术和全球创新案例介绍&amp;lt;br&amp;gt;
+16:15 - 16:30 茶歇&amp;lt;br&amp;gt;
+16:30 - 17:30 Android 开发和最新版本技术介绍&amp;lt;br&amp;gt;
+17:30 - 17:45 问答 &amp;amp; 自由交流</description><start>2014.05.10 13:00</start><end>18:00</end><location>四川大学望江校区学生活动中心三楼文艺厅</location><participantscount>251</participantscount></event>
+</events>
+</data>

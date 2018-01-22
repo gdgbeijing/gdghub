@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<number>81</number>
+<events>
+	<event><title>Google I/O Redux</title><chapterid>114116331730392650768</chapterid><description></description><start>2017.06.11 13:00</start><end>19:00</end><location>Beijing, China</location><participantscount>200</participantscount></event>
+	<event><title>Google IO 2017 Extended Beijing</title><chapterid>114116331730392650768</chapterid><description>一年一度的Google IO Extended~ 和小伙伴们一起围观Google 每年的黑科技大会~</description><start>2017.05.17 23:00</start><end>2017.05.18 05:00</end><location>Zhong Guan Cun e Shi Jie A Zuo, Beijing, China</location><participantscount>248</participantscount></event>
+	<event><title>2017 Women Techmaker Beijing</title><chapterid>114116331730392650768</chapterid><description></description><start>2017.04.16 00:00</start><end>00:00</end><location>中国北京市</location><participantscount>250</participantscount></event>
+	<event><title>Cloud Next Extended Beijing</title><chapterid>114116331730392650768</chapterid><description>报名信息稍后更新</description><start>2017.03.18 13:00</start><end>17:00</end><location>中国北京市北京海淀区中关村大街中关村e世界B座</location><participantscount>50</participantscount></event>
+	<event><title>2017 TensorFlow Dev Summit Recap</title><chapterid>114116331730392650768</chapterid><description>报名链接： https://gdgdocs.org/a/google.com/forms/d/e/1FAIpQLSfD0TKVMkX0kNqYBQOmrJspo0T_oLJV-b9KzWToPw3aHTl_ug/viewform?c=0&amp;amp;w=1
+随着机器学习，神经网络技术的发展，他们在现实世界发挥着越来越重要的作用。TensorFlow 开源至今，影响甚大。新年伊始，北京 GDG 谷歌开发者社区将举办第一个活动：2017 TensorFlow Dev Summit Recap。
+2017 TensorFlow Dev Summit 峰会将在美国时间 2 月 15 日 9:30 - 18:00（北京时间: 2 月 16 日 01:30 - 10:30）在旧金山进行，活动将由 10 个演讲组成，覆盖 Tensor Flow 的技术、发展、生态、应用的各个环节。
+Google 将组织全球 GDG 谷歌开发者社区在各个地区展开 TensorFlow 系列活动。
+2017 TensorFlow Dev Summit 日程安排
+主题「开场Keynote」 嘉宾: Jeff Dean, Rajat Monga, and Megan Kacholia
+主题「XLA: TensorFlow, Compiled! 」嘉宾: Todd Wang and Chris Leary
+主题「TensorFlow High-Level API」嘉宾: Martin Wicke
+主题「Keras and TensorFlow」 嘉宾: Francois Chollet
+主题「Distributed TensorFlow」嘉宾: Derek Murray
+主题「Creating Art &amp;amp; Music with Project Magenta」嘉宾: Doug Eck
+主题「TensorFlow Ecosystem: Hadoop and More」嘉宾: Jonathan Hseu
+主题「Serving Models in Production with TensorFlow Serving」嘉宾: Noah Fidel
+主题「Memorization + Generalization with TensorFlow Wide and Deep」嘉宾: Heng-Tze Cheng
+主题「Hands-on TensorBoard」嘉宾: Dandelion Mane
+
+北京 GDG 谷歌开发者社区，将于 2017 年 2 月 18 日 10:00 - 17:00 在中关村 E 世界 B2 联合创业办公社，举行 TensorFlow Recap 活动，除播放峰会的录像之外，我们将邀请两位国内的 TensorFlow 开发者进行分享。Google 以及 TensorFlow 团队为现场参与活动的开发者准备了精美的周边，欢迎更多的 TensorFlow 开发者一起交流。
+2017 TensorFlow Beijing GDG Recap 活动信息
+时间: 2017 年 2 月 18 日 10:00-17:00
+地点: 海淀区中关村大街 e 世界 A 座 B2 联合创业办公社
+日程:
+10:00 - 17:00 活动录像回放
+14:00 - 16:00 开发者分享以及峰会解读
+
+  备注: 现场派发 TensorFlow 和 Google 正版周边
+2017 TensorFlow Beijing GDG Live
+根据报名人数决定是否开展
+时间: 2017 年 2 月 16 日 01:30 - 10:30
+地点: 海淀区
+日程: 同步美国峰会观看直播
+  备注: 现场派发 TensorFlow 和 Google 正版周边</description><start>2017.02.18 10:00</start><end>17:00</end><location>中国北京市海淀区中关村大街中关村e世界B座</location><participantscount>180</participantscount></event>
+	<event><title>DevFest Beijing 2016</title><chapterid>114116331730392650768</chapterid><description>大会官网：http://chinagdg.org/2016-devfest-beijing/</description><start>2016.11.19 09:00</start><end>17:30</end><location>中国北京市海淀区校园南路北航新主楼</location><participantscount>750</participantscount></event>
+	<event><title>VR meetup</title><chapterid>114116331730392650768</chapterid><description>稍后更新活动信息</description><start>2016.10.29 13:30</start><end>16:30</end><location>中国北京市海淀区中关村东路搜狐网络大厦</location><participantscount>80</participantscount></event>
+	<event><title>Android Meetup</title><chapterid>114116331730392650768</chapterid><description> 
+『活动报名』8 月 7 日，『北京 GDG 谷歌开发者社区』组织了一次 Android Meetup！本次活动主题涵盖了架构设计，注解，Gradle 打包过程详解。同时，社区还邀请到了一位设计师朋友给大家做一个 Material Design 方面的闪电分享。 欢迎大家参加！
+活动介绍：http://t.cn/RtMYQFc
+报名链接：http://t.cn/RtMw2hE﻿</description><start>2016.08.07 13:00</start><end>17:00</end><location>中国北京市海淀区中关村e世界A座</location><participantscount>266</participantscount></event>
+	<event><title>Angular Meetup with Googler</title><chapterid>114116331730392650768</chapterid><description>http://d.eqxiu.com/s/HWihLfKV</description><start>2016.07.09 13:00</start><end>17:00</end><location>中国北京市北京海淀区中关村e世界A座</location><participantscount>155</participantscount></event>
+	<event><title>PWA Summit online pary</title><chapterid>114116331730392650768</chapterid><description>details：http://t.cn/R59grYL</description><start>2016.06.20 00:00</start><end>2016.06.21 00:00</end><location>中国Beijing</location><participantscount>69</participantscount></event>
+	<event><title>GDG Beijing: I/O Redux</title><chapterid>114116331730392650768</chapterid><description>详见：http://t.cn/R5U8O9X</description><start>2016.06.05 13:30</start><end>16:30</end><location>中国北京市海淀区中关村e世界A座</location><participantscount>120</participantscount></event>
+	<event><title>I/O 2016 Extended Beijing</title><chapterid>114116331730392650768</chapterid><description>#io16 #io16extended 谷歌开发者大会I/O 2016将于5月18日至20日举行，本届最大看点无疑是已经有所曝光的全新安卓7.0系统。此外，能够见到谷歌自动驾驶车，甚至是谷歌的无人机产品。 北京GDG将加入2016年Google I/O全球开发者大会现场直播行列，一起观看现场开幕式，观看振奋人心的技术演讲！﻿</description><start>2016.05.18 22:00</start><end>2016.05.19 02:00</end><location>Beijing, China</location><participantscount>243</participantscount></event>
+	<event><title>北京 GDG Women Techmakers</title><chapterid>114116331730392650768</chapterid><description>活动介绍和报名链接：http://h.eqxiu.com/s/7VfkLY5D</description><start>2016.04.24 13:00</start><end>17:30</end><location>中国北京市海淀区中关村大街中关村e世界B座</location><participantscount>150</participantscount></event>
+	<event><title>2016 Study Jams China Arch Rotten Nutella Group (SJ55)</title><chapterid>114116331730392650768</chapterid><description>&amp;lt;div class=&quot;Ct&quot;&amp;gt;我们是来自中国的StudyJams-拱烂花生酱小组，团队成员来自全国不同的城市，我们是计划在4月30号以前呢参加并完成StudyJam活动的!&amp;lt;br&amp;gt;We are from China StudyJams - arch rotten peanut butter team, team members  from different cities of the country, are our plan before the April 30 and complete StudyJam activities&amp;lt;br&amp;gt;小组论坛链接：&amp;lt;a class=&quot;ot-anchor aaTEdf&quot; dir=&quot;ltr&quot; href=&quot;http://www.studyjamscn.com/group-254-1.html&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&amp;gt;http://www.studyjamscn.com/group-254-1.html&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;感谢 Google Developers StudyJams ﻿&amp;lt;/div&amp;gt;</description><start>2016.04.06 19:00</start><end>2016.04.30 21:00</end><location>Beijing, China</location><participantscount>55</participantscount></event>
+	<event><title>2016 Study Jams China The wolves Group (SJ46)</title><chapterid>114116331730392650768</chapterid><description>&amp;lt;div class=&quot;Ct&quot;&amp;gt;&quot;我们（苍狼大地）是来自中国的SJ46线上小组，通过在qq群中的交流，发现参与者来自中国的南方北方，有在校的学生，也有参加工作的人。我们有一个共同的目标——利用空闲时间学习安卓编程，且正为完成这个目标而努力。&amp;lt;br&amp;gt;We (the wolves) ,SJ46 online group are from China.By communicating in the QQ group, we found that participants are from north to south China. College students, workers are both in our group. &amp;lt;br&amp;gt;We have a common goal: using spare time to learn Android programming. we are trying to achieve this goal.&quot;&amp;lt;br&amp;gt;小组论坛链接：&amp;lt;a class=&quot;ot-anchor aaTEdf&quot; dir=&quot;ltr&quot; href=&quot;http://www.studyjamscn.com/group-235-1.html&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&amp;gt;http://www.studyjamscn.com/group-235-1.html&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;感谢 Google Developers StudyJams &amp;lt;/div&amp;gt;</description><start>2016.03.31 19:00</start><end>2016.04.30 21:00</end><location>Shenyang, Liaoning, China</location><participantscount>31</participantscount></event>
+	<event><title>2016 Study Jams China ONEPIECE Group (SJ129)</title><chapterid>114116331730392650768</chapterid><description>&amp;lt;div class=&quot;Ct&quot;&amp;gt;我们是来自北京的Study Jam ONE PIECE 小组，团队成员6人~&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;论坛小组链接：&amp;lt;a class=&quot;ot-anchor aaTEdf&quot; dir=&quot;ltr&quot; href=&quot;http://www.studyjamscn.com/group-232-1.html&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&amp;gt;http://www.studyjamscn.com/group-232-1.html&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;感谢 Google Developers StudyJams&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;谢谢&amp;lt;/div&amp;gt;</description><start>2016.03.30 19:00</start><end>2016.04.30 21:00</end><location>Beijing, China</location><participantscount>6</participantscount></event>
+	<event><title>2016 Study Jams China Magic Rune Group (SJ34)</title><chapterid>114116331730392650768</chapterid><description>&amp;lt;div class=&quot;Ct&quot;&amp;gt;我们是来自中国的神符小组（StudyJam 34，Magic Rune），团队成员来自全国不同的城市。我们现在主要通过线上进行学习和交流，未来可能会发展丰富多彩的线下活动。&amp;lt;br&amp;gt;小组论坛链接：&amp;lt;a class=&quot;ot-anchor aaTEdf&quot; dir=&quot;ltr&quot; href=&quot;http://www.studyjamscn.com/forum.php?mod=forumdisplay&amp;amp;fid=219&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&amp;gt;http://www.studyjamscn.com/forum.php?mod=forumdisplay&amp;amp;fid=219&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;感谢 Google Developers StudyJams ﻿&amp;lt;/div&amp;gt;</description><start>2016.03.29 19:00</start><end>2016.04.30 21:00</end><location>Beijing, China</location><participantscount>27</participantscount></event>
+	<event><title>2016 Study Jams China Object not found Group (SJ32）</title><chapterid>114116331730392650768</chapterid><description>&amp;lt;div class=&quot;Ct&quot;&amp;gt;我们是一个低调又内涵的团队。&amp;lt;br&amp;gt;We are the world。&amp;lt;br&amp;gt;小组论坛链接：&amp;lt;a class=&quot;ot-anchor aaTEdf&quot; dir=&quot;ltr&quot; href=&quot;http://www.studyjamscn.com/group-205-1.html&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&amp;gt;http://www.studyjamscn.com/group-205-1.html&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;感谢 Google Developers StudyJams &amp;lt;/div&amp;gt;</description><start>2016.03.29 19:00</start><end>2016.04.30 21:00</end><location>Shenyang, Liaoning, China</location><participantscount>29</participantscount></event>
+	<event><title>2016 Study Jams China Overflow Group (SJ128)</title><chapterid>114116331730392650768</chapterid><description>&amp;lt;div class=&quot;Ct&quot;&amp;gt;我们是来自中国的StudyJam Overflow小组, 团队成员10人, 来自北京两大程序员聚集城区(海淀朝阳), 我们组员大多是在校学生, 因为有组员已经工作, 所以打算以组员自行观看视频, 在线下进行问题交流的形式开展我们这次的StudyJam活动的。&amp;lt;br&amp;gt;希望通过这次活动认识到更多志同道合的朋友, 一起进步。&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;论坛小组链接：&amp;lt;a class=&quot;ot-anchor aaTEdf&quot; dir=&quot;ltr&quot; href=&quot;http://www.studyjamscn.com/group-222-1.html&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&amp;gt;http://www.studyjamscn.com/group-222-1.html&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;感谢 Google Developers StudyJams &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;谢谢&amp;lt;/div&amp;gt;</description><start>2016.03.29 19:00</start><end>2016.04.30 21:00</end><location>Beijing, China</location><participantscount>10</participantscount></event>
+	<event><title>2016 Study Jams China Hopo Group (SJ121)</title><chapterid>114116331730392650768</chapterid><description>&amp;lt;div class=&quot;Ct&quot;&amp;gt;我们是来自北京的Study Jam 琥珀小组 团队成员6人 我们通过线下自己组织学习来参加Study Jam活动.具体计划是每周自己组织上两节课. 周末时候组织大家答疑。答疑时候会找我们的技术顾问来帮助辅导在课时上遇到的问题.争取在一个月左右的时间里把8节课的内容消化掉，让所有的组员入门android开发。&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;论坛小组链接：&amp;lt;a class=&quot;ot-anchor aaTEdf&quot; dir=&quot;ltr&quot; href=&quot;http://www.studyjamscn.com/group-210-1.html&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&amp;gt;http://www.studyjamscn.com/group-210-1.html&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;感谢 Google Developers StudyJams&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;谢谢&amp;lt;/div&amp;gt;</description><start>2016.03.29 19:00</start><end>2016.04.30 21:00</end><location>Beijing, China</location><participantscount>6</participantscount></event>
+	<event><title>2016 Study Jams China DayDayUp Group (SJ10)</title><chapterid>114116331730392650768</chapterid><description>&amp;lt;div class=&quot;Ct&quot;&amp;gt;&quot;我们是来自中国的StudyJams-DayDayUp组，团队成员来自全国不同的城市。我们希望能通过这次活动提升自己的能力，而且大家对学习怎么制作app的积极性都很高。虽然大家的水平不尽相同，但是都能够互相帮助共同进步，非常感谢给我们提供了这次学习机会的谷歌公司，我们会认真把握这次机会努力学习，并争取取得好的成果的。&amp;lt;br&amp;gt;We are the team named StudyJams-DayDayUp,and we come from China.Our group come from different cities.We do hope that we can improve ourselves through this activity.And everyone in this group is earnest about how to make an app .Even though,different members have different level,we help each other and make progress together.And thanks for the company Google offering us this kind of opportunity to study.We will take this opportunity seriously,and try to get a good result.&quot;&amp;lt;br&amp;gt;小组论坛链接：&amp;lt;a class=&quot;ot-anchor aaTEdf&quot; dir=&quot;ltr&quot; href=&quot;http://www.studyjamscn.com/group-121-1.html&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&amp;gt;http://www.studyjamscn.com/group-121-1.html&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;感谢 Google Developers StudyJams &amp;lt;/div&amp;gt;</description><start>2016.03.25 19:00</start><end>2016.04.30 21:00</end><location>Beijing, China</location><participantscount>17</participantscount></event>
+	<event><title>Android Meetup with Googler Fred Chuang</title><chapterid>114116331730392650768</chapterid><description>第二波 Android 茶话会又来啦，这是一个近距离接触 Google 总部员工的机会，我们邀请到一位名叫 Fred Chung 的 Googler 作为嘉宾来和大家聊聊 Android 开发的那些事儿，欢迎大家来畅聊。</description><start>2016.03.15 19:00</start><end>21:00</end><location>709, E building, Zhongkun Square, Haidian District, Beijing</location><participantscount>14</participantscount></event>
+	<event><title>Go语言开发者聚会</title><chapterid>114116331730392650768</chapterid><description>新年将至，北京GDG又来给大家送福利啦。这次北京GDG将联合Go语言北京用户组共同举办一次Go语言聚会。这不仅仅是给gopher带来的交流机会，更是给众多对Go语言感兴趣的开发者的重磅福利。
+
+年前报名，年后约！让参与者充分温习，让讲师充分准备。不管你听过，用过，正在用或是正想用，我们都能满足你对Go开发的强烈欲望。我们邀请了五位讲师畅谈Go语言实战经验。无论是有深度的性能优化还是热门的移动端开发，五位资深的开发者将带给大家既细致又干货满满的分享。</description><start>2016.02.27 13:30</start><end>17:30</end><location>中国北京市海淀区中关村大街11号e世界财富中心A座</location><participantscount>220</participantscount></event>
+	<event><title>Android Meetup</title><chapterid>114116331730392650768</chapterid><description>新年伊始，北京GDG将为大家举办一场Android开发者茶话会，大家欢聚一堂，聊聊技术。本期茶话会，我们拟定了2个主题，
+
+一、原生、React、hybrid 在实际项目中 孰优孰劣
+二、中国开发者如何在 Play 市场淘金
+
+同时，我们也邀请到了近期非常火的产品：OPEN开腔 的Android工程师徐仙明，为大家分享下他在开发OPEN开腔Android客户端时的一些趣事。当然，每一位与会者其实都是分享嘉宾，大家可以各抒已见，畅所欲言，抛出自己的问题，碰撞一些火花，助力2016年新征程！
+
+最后，大家也可以聊聊2016年对自己的期待，对北京GDG的期待、建议，以及你希望在2016年北京GDG Android活动中，参与到哪些话题。
+</description><start>2016.01.30 14:00</start><end>17:00</end><location>北京市海淀区中关村鼎好大厦</location><participantscount>24</participantscount></event>
+	<event><title>2015 Beijing DevFest</title><chapterid>114116331730392650768</chapterid><description>详见：http://chinagdg.org/2015-devfest-beijing/</description><start>2015.11.08 08:00</start><end>18:00</end><location>中国北京市北京海淀区校园南路北航新主楼会议中心</location><participantscount>500</participantscount></event>
+	<event><title>硅谷 Googler 大叔 Kevin Nilson 分享会</title><chapterid>114116331730392650768</chapterid><description>http://www.chinagdg.com/thread-27125-1-1.html</description><start>2015.07.25 19:00</start><end>21:00</end><location>北京东城区绍衡大厦</location><participantscount>80</participantscount></event>
+	<event><title>6.12 Google I/O Redux</title><chapterid>114116331730392650768</chapterid><description></description><start>2015.06.12 19:30</start><end>21:30</end><location>中国北京市朝阳区望京方恒时代中心</location><participantscount>45</participantscount></event>
+	<event><title>Google I/O Extended: Beijing</title><chapterid>114116331730392650768</chapterid><description></description><start>2015.05.28 22:00</start><end>2015.05.29 02:30</end><location>中国北京市北京海淀区车库咖啡</location><participantscount>200</participantscount></event>
+	<event><title>Material Design专题系列之认识与实践</title><chapterid>114116331730392650768</chapterid><description>自2014年Google I/O发布了新的设计规范Material Design，这种设计语言旨在为手机、平板电脑、台式机和“其他平台”提供更一致、更广泛的“外观和感觉”。Material Design也已经逐渐成为了App设计的趋势，很多知名应用诸如：Evernote、Inbox等都已经采用了Material Design设计。
+
+北京谷歌开发者社区继续为大家奉上以Material Design为主题的活动，希望这次活动能够加深大家对Material Design的了解，解决大家在使用Material Design过程中遇到的困惑，同时也让准备使用Material Design的小伙伴通过这场活动先热个身  =。=
+</description><start>2015.04.25 14:00</start><end>18:00</end><location>北京市东城区和平里南街五区18号龙绍衡大厦二层</location><participantscount>137</participantscount></event>
+	<event><title>Women Techmakers by GDG Beijing</title><chapterid>114116331730392650768</chapterid><description>活动详情见：http://www.chinagdg.com/thread-6613-1-1.html</description><start>2015.03.29 13:00</start><end>17:00</end><location>中国北京市东城区</location><participantscount>45</participantscount></event>
+	<event><title>Cardboard 动手实践学习活动</title><chapterid>114116331730392650768</chapterid><description>http://www.chinagdg.com/thread-6509-1-1.html</description><start>2015.01.25 14:00</start><end>16:30</end><location>中国北京海淀区海淀科技大厦</location><participantscount>40</participantscount></event>
+	<event><title>1月24日WTM：程序媛教你学编程</title><chapterid>114116331730392650768</chapterid><description>时间：1月24日（周六） 下午14：00 -17：00
+地址：北京市海淀区中关村南大街3号海淀科技大厦，3层，第三教室（电梯上来后右手边）。
+乘车路线：公交车20余条，中国农业科学院站。地铁4号线魏公村站A口，向北150米。看见“北京银行”就到了。
+报名：点击前往报名
+
+【活动介绍】
+Women Techmakers 是由 Google 支持的全球系列活动，活动致力于在全球推动完全包容性的工作环境。这一愿景的一个关键组成部分是赋予女性权力去追求自己的梦想，并建立了改变世界的工具。我们认为，当组织创建了正确的环境、方案和政策时，女性在技术领域就可以发展壮大。
+从 Ada Lovelace 到 Grace Hopper，女性在计算机科学和程序设计上都发挥过重要作用。但现在的 IT 行业以男性为主，女性技术工作者们往往容易被忽视。美国只有 1.5% 的开源项目开发者是女性，女程序员的数量有如“稀有动物”。技术领域虽然男性占多数，但仍有越来越多的女性参与到这份工作中来。北京GDG社区邀请广大对编程技术学习渴望的程序媛齐聚一堂，在这里一起学习编程技术，交流开发心得！
+
+本次活动是由北京谷歌开发者社区发起。邀请各种从事技术工作的女性开发者来现场分享WEB技术，HTML5技术，前端技术。
+现场的女生将会免费获得由北京 GDG 精心准备的礼品一份！我们也欢迎男生报名来参加，和程序媛们一起感受编程的魅力！
+
+Tips：如果你是男生，携带女生一起来参加活动，你也将获得礼品一份哦
+
+
+【活动主题】
+1、与后端分离，与设计紧密
+介绍：鉴于当前所做产品、团队的特点和之前的工作经历，尝试寻找出更适合的开发方式与合作方式，主要包括前端与后端完全分离、兼顾设计师的角色、主导或参与产品需求等。此次分享主要是想与大家分享这些经验。
+嘉宾：吕婷，曾就职于豆瓣，负责豆瓣读书、社区等项目的前端开发工作。现在就职在青云 QingCloud ，主要负责前端开发和设计工作，开发的线上产品包括青云官网、用户控制台、管理后台，同时负责这些产品的视觉及交互设计工作。
+
+2、第三个维度（浏览器端的3D世界）
+介绍：随着硬件的发展，WebGL也逐渐从geek的高冷兴趣转变为真正可用于生产的技术。用一系列有趣的例子，带你初探web端绚丽的三维世界
+嘉宾：潘征，爱玩的宅女，专注于游戏开发和数据可视化，偶尔烤烤蛋糕唱唱歌，目前任职于百度FEX。
+
+3、前端组件化实践与演进
+介绍：前端组件化实践与演进， 结合在美团的项目开发经历，分享在前端组件化道路上的遇到的沟沟坎坎以及对未来的一些想法。
+嘉宾：夏姣姣 美团网前端、 技术主管、 4年前端开发经验。
+
+
+【活动流程】
+14：00 - 14：10  主持人开场介绍WTM
+14：10 - 15：00  技术分享+QA（与后端分离，与设计紧密）
+15：00 - 15：10  茶歇
+15：10 - 16：00  技术分享+QA （第三个维度）
+16：00 - 16：10  茶歇
+16：10 - 17：00  技术分享+QA（前端组件化实践与演进）
+17：00 - 17：30  自由讨论+合影
+
+
+欢迎大家猛戳全球官网：http://womentechmakers.com/</description><start>2015.01.24 14:00</start><end>18:00</end><location>北京市海淀区中关村南大街3号海淀科技大厦</location><participantscount>90</participantscount></event>
+	<event><title>Meteor.js Live Coding</title><chapterid>114116331730392650768</chapterid><description>活动时间：2015年1月9日晚7点 - 晚9点
+活动地点：报名通过后邮件通知
+预计人数：30左右
+特别注意：请带好笔记本并安装好 meteor.js 的环境
+活动流程：
+20 MIN：组织者开场语，介绍北京GDG 和 meteor.js。
+20 MIN：尤小右介绍 Meteor 的一些历史和有趣的内部故事。
+60 MIN：Live Coding，带领大家一起来完成一个程序。
+20 MIN：Q&amp;amp;A，讨论。
+</description><start>2015.01.09 19:00</start><end>21:00</end><location>北京市中关村创业大街</location><participantscount>35</participantscount></event>
+	<event><title>Polymer Polytechnic: Beijing</title><chapterid>114116331730392650768</chapterid><description>Introductory presentation；Polymer Basics；Codelab.
+&amp;lt;a href=&quot;https://docs.google.com/forms/d/13EA6F13jgm58orDB5Ljdn6UaY73lBR9faXuZb-t1PZ8/viewform&quot;&amp;gt;Registration Form&amp;lt;/a&amp;gt;
+</description><start>2014.11.30 13:30</start><end>16:30</end><location>Beijing, China</location><participantscount>30</participantscount></event>
+	<event><title>Android智能医疗系统开发实战体验日</title><chapterid>114116331730392650768</chapterid><description></description><start>2014.11.22 10:00</start><end>16:00</end><location>中国北京市海淀区北京明园大学</location><participantscount>36</participantscount></event>
+	<event><title>2014 Pycon Beijing</title><chapterid>114116331730392650768</chapterid><description>PyCon 是全球 Pythoneer 最盛大的年度聚会,由 PSF(Python 基金会)支持,致力于营造愉快的多元化的 Python 技术主题大会. PyConChina 是由 CPyUG(华蠎用户组)获得授权举办的 中国PyCon 年会. 迄今已是第四届, 继续由 CPyUG/TopGeek/GDG 协同,在 北京/上海/珠海/苏州/杭州 五城联办. 无论使用哪种,都可以/应该参加这场完全由社区组织的欢乐集会;-)</description><start>2014.11.15 00:00</start><end>00:00</end><location>中国北京市海淀区中关村南四街4号</location><participantscount>332</participantscount></event>
+	<event><title>2014 DevFest Beijing</title><chapterid>114116331730392650768</chapterid><description>Website : http://devfest.gdgbeijing.org/ </description><start>2014.10.26 08:00</start><end>18:00</end><location>中国北京市北京海淀区校园南路北航新主楼会议中心</location><participantscount>450</participantscount></event>
+	<event><title>Google文化学院体验中心观展</title><chapterid>114116331730392650768</chapterid><description></description><start>2014.09.20 13:00</start><end>15:00</end><location>海淀区中关村东路1号清华科技园6号楼科建大厦</location><participantscount>245</participantscount></event>
+	<event><title>Android root 技术沙龙</title><chapterid>114116331730392650768</chapterid><description>此次分享一共有四个主题，涵盖 Android 安全、Android root 相关技术、Android 产业链现状等内容，由来自 Keen Team、CM Security、360、百度手机卫士等安全团队或厂商的技术骨干组成。在活动结尾还有圆桌会议环节，为讲师以及听众提供一个交流平台。</description><start>2014.08.23 13:30</start><end>17:30</end><location>中国北京市</location><participantscount>90</participantscount></event>
+	<event><title>GSoC Meetup: China</title><chapterid>114116331730392650768</chapterid><description>2014 Google Summer of Code Meetup - China</description><start>2014.08.07 15:00</start><end>18:00</end><location>中国北京市</location><participantscount>21</participantscount></event>
+	<event><title>2014 Google I/O Review #1</title><chapterid>114116331730392650768</chapterid><description>新鲜出炉的来自Google I/O现场的一手资料，本次活动将由北京GDG几位组织者分享从Google I/O现场带回来的精彩内容。活动详情见：http://www.chinagdg.com/thread-4052-1-1.html</description><start>2014.07.26 13:30</start><end>17:30</end><location>Beijing, China</location><participantscount>110</participantscount></event>
+	<event><title>Android系统开发实战体验日</title><chapterid>114116331730392650768</chapterid><description>Android系统开发实战体验日（基于android的智能医疗系统开发）</description><start>2014.07.12 09:00</start><end>17:00</end><location>中国北京市</location><participantscount>51</participantscount></event>
+	<event><title>Google I/O Extended Beijing</title><chapterid>114116331730392650768</chapterid><description>Google I/O Extended Beijing，一起观看 I/O 直播，一起 Happy！</description><start>2014.06.25 22:00</start><end>2014.06.26 04:00</end><location>中国北京市北京海淀区车库咖啡</location><participantscount>150</participantscount></event>
+	<event><title>北京GDG 5月25日周日下午数据库专场活动</title><chapterid>114116331730392650768</chapterid><description>分享主题：分布式 MySQL数据库设计
+主题介绍：主要介绍京东分布式数据库架构设计，如何保障数据高可靠，服务高可用以及如何进行数据的在线无缝迁移，扩容等机制。
+分享嘉宾：张成远
+嘉宾介绍：京东分布式数据库系统核心开发工程师.主要关注技术领域：分布式系统 高性能服务器 NoSQL参与过 京东分布式数据库、分布式缓存等多个大型分布式系统的架构及开发。
+
+分享主题：innodb日志实现浅析
+主题介绍：1. innodb日志相关实现原理，包括redo、undo、doublewrite等2. 性能优化，存在不足
+分享嘉宾：王竹峰
+嘉宾介绍：王竹峰(王怀)，从事多年数据库内核开发，现去哪儿高级DBA，负责MySQL数据库运维及相关开发工作。﻿</description><start>2014.05.25 14:00</start><end>17:00</end><location>北京市西城区百万庄大街22号，机械工业出版社10层报告厅。</location><participantscount>90</participantscount></event>
+	<event><title>Agile Development Training Camp</title><chapterid>114116331730392650768</chapterid><description>Agile Development Training Camp: Refactor and Design. 
+活动总结见：http://www.chinagdg.com/thread-3763-1-1.html</description><start>2014.04.20 09:30</start><end>18:00</end><location>中国北京市</location><participantscount>32</participantscount></event>
+	<event><title>Google Cloud Platform Study</title><chapterid>114116331730392650768</chapterid><description>Google Cloud Platform Study. Hangout with Alpha Yang.</description><start>2014.04.05 13:45</start><end>16:00</end><location>中国北京市</location><participantscount>7</participantscount></event>
+	<event><title>DevArt workshop 3rd</title><chapterid>114116331730392650768</chapterid><description>DevArt workshop</description><start>2014.03.22 09:30</start><end>16:30</end><location>清华科技园6号楼科建大厦</location><participantscount>17</participantscount></event>
+	<event><title> 全栈型工程师</title><chapterid>114116331730392650768</chapterid><description>3月15日下午 1：30开始。
+地址：地点待定，稍后邮件通知参会者…… 
+3月10日刷新本页面，或者等邮件通知也可以。
+报名戳这里：3月15日 全栈型工程师
+
+组织者：黎敏
+活动主办方：Beijing google developers group
+https://plus.google.com/u/0/b/114116331730392650768/+GdgbeijingOrg/about
+有很多项目开发分工比较细，前端、后端、数据库。。。前端不懂服务器，或者工程师完全不了解美工。现在很多小型创业项目就是一个人做一整套东西，各种技术都涉及。可能单方面没有专职开发者精通，但什么都要会一点，包括设计和出图，全都能做到。全栈是指一个人负责人所有这些。
+若前后端都会，思考会更全局，更容易知道怎么做最简单有效。
+
+这就是别人家的工程师，不但能写前端还能写后端，能写代码还会PS，能重装系统改Bug，也能照顾小朋友吓唬恶狗，能泡github也能泡知乎、豆瓣写影评，能陪逛街弹琴看星星能做饭能洗衣能照顾植物能协调项目，总之就是，万能的全栈型工程师。
+这次活动主题是：全栈型工程师。
+补充阅读戳这里：怎样成为全栈工程师（Full Stack Developer）？
+
+1：30——1：40 开场白
+1：40——2：30 豆瓣Bear演讲，快速原型
+2：30——2：40 茶歇10分钟
+2：40——3：30 龚余清 智能控制的拓展与应用（智能家居）
+3：30——3：40 茶歇10分钟
+3：40——4：30 孔淼 创业ing... 从全栈的工程开发到有责任的架构设计
+
+欢迎宅女、宅男、走在学习技术道路上的同学参加，
+想要了解多元文化工程师，以及创业中的产品经理来参加。
+欢迎妹子携带妹子参加~
+欢迎汉子也携带妹子参加~~
+会写代码的携带不会写代码的参加~~
+欢迎一切地球人类参加。
+
+3位演讲者简介：
+1）Bear同学，豆瓣资深多面工程师，快乐的熊爸爸，有可爱小孩。
+2）龚余清，真正商用智能家居工程师，全宅智能控制。
+3）孔淼创业中，独当一面，会写代码会弹琴。
+
+--------------------------------------------
+Bear:
+06年在雅虎中国实习，07年加入豆瓣直到现在。
+开始偏底层偏后端，豆瓣的web产品大部分都挖过坑。
+09年底学习安卓开发，完成豆瓣电台Demo，11年转成移动开发至今。
+参与了豆瓣大多数移动产品，并为几家创业公司做过顾问。
+关注产品细节和用户体验以及移动开发过程改进，是设计师的好朋友。
+曾做过傻瓜式git客户端Mac版，希望成为“全栈式程序员”。
+
+动态原型工具DemoMaker
+设计师都有爱改设计稿的习惯，就像产品经理爱改需求一样。为了满足移动应用设计师改视觉/交互稿的需求，减少工程师反复开发的成本，设计并开发了DemoMaker这个工具。
+设计师在DemoMaker的网站上进行原型页面设计，并加入跳转等交互，然后使用手机的客户端扫描对应项目的二维码开始演示。因为现在静态的mockup工具很多很强大，所以主要针对交互设计。设计师可以创建页面，对话框，列表，并可以在上面添加点击按钮，滑动区域，输入框等动作跳转，把静态的mockup设计变成动态并可以在手机上进行演示的Demo。
+项目开源，地址：https://github.com/beartung/app-demo-maker。已经完成网站和安卓客户端，iOS客户端开发中。
+
+--------------------------------------------
+
+龚余清 智能家居工程师
+自我介绍
+07年在比德创展，从事手机编程研发。于09年三月到一家中控行业一线企业负责研发，在该企业的3年间，给大型企业（微软，中移动等）做过设计，施工、编程、也在各类政府部门，军队军区军校中留下了自己的产品和设计理念，帮助其大幅度提高工作效率。除此之外还开发了该公司的SDK以及信息发布系统，出品了属于该公司的中文输入法解决了困扰多年的中文化问题。由于喜欢挑战于2012年进入到全球唯一基于苹果系统的一线中控公司赛万特并工作至今（Savantsystems Home Automation Control Systems），立志成为智能化控制界的大拿，影响一个时代。
+补充说说，Savant是唯一用苹果做智能家居服务器的公司。
+再补充说明：龚余清所在公司，都是真正商业智能中控，有大量智能楼宇、智能酒店、军用、监狱、学校等等真实案例。欢迎现场提问。
+
+演讲主题
+智能控制的拓展与应用
+传统的智能控制基本都是控制灯光，窗帘，空调等单个个体。然而随着网络的发展，云技术的研发，如何充分结合现有技术，让控制更加智能，方便，是一个全新的课题。
+
+--------------------------------------------
+孔淼
+演讲主题：从全栈的工程开发到有责任的架构设计
+演讲简介：大学里是全能程序员，从Android开发到web app到后台开发，可以独立完成一个完整的产品原型，但是工作之后却各种挖坑，从想法实现到工业化有很多道坎儿需要逾越。刚毕业就要担当重任，于是决心开始填坑，一步一步完成自我的蜕变。
+自我简介：37degree （创新工场家族，微软云加速器）创始团队成员， 后台开发负责人/架构设计。2012微软创新杯软件开发中国区一等奖等。
+工作过：脉搏网，知客数据。</description><start>2014.03.15 13:30</start><end>16:30</end><location>中国北京市北京</location><participantscount>100</participantscount></event>
+	<event><title>Women Techmakers: Beijing</title><chapterid>114116331730392650768</chapterid><description>Women Techmakers: Beijing . More info will be updated.</description><start>2014.03.08 14:00</start><end>17:00</end><location>中国北京市</location><participantscount>62</participantscount></event>
+	<event><title>DevArt workshop</title><chapterid>114116331730392650768</chapterid><description>DevArt workshop</description><start>2014.03.08 09:30</start><end>16:30</end><location>中国北京海淀区清华科技园科技大厦</location><participantscount>33</participantscount></event>
+	<event><title>DevArt Beijing 筹备活动</title><chapterid>114116331730392650768</chapterid><description>1、Contest Details
+2、Central Academy introduced for this event
+3、Formation of the team</description><start>2014.02.22 14:30</start><end>16:00</end><location>朝阳区花家地南街八号，中央美术学院设计学院7号楼</location><participantscount>46</participantscount></event>
+	<event><title>Dart Flight School: Beijing</title><chapterid>114116331730392650768</chapterid><description>Dart Flight School - Beijing. 
+website: http://flydart.dart-cn.org/
+Contents:
+1. Dart Intro by Jackie Han
+2. AngularDart CodeLab by Jackie Han</description><start>2014.02.22 13:30</start><end>17:00</end><location>Beijing, China</location><participantscount>35</participantscount></event>
+	<event><title>Learn Android lesson 4</title><chapterid>114116331730392650768</chapterid><description>时间：1月11日（周六）下午2点——4点
+地址：eoe教室 （离地铁五道口步行20分钟，离公交学知园站步行11分钟）
+讲师：朱向东（知乎安卓工程师）
+内容：
+Android应用生命周期：
+         用户切换应用时，怎样暂停视频播放？
+         怎样一边看书一边继续播放音乐？
+         一切都在Android应用的生命周期里会告诉你。
+Android适配:
+         在Android的世界里，有各式各样个性化的手机。
+         不同配置，不同系统版本，不同语言，不同分辨率。
+         Android的适配真的很难么？
+         这一课我们会详细讨论适配问题。
+现场游戏：
+         我们会给每个人发一张纸，写下自己熟悉的Android类名（class）
+之前资料地址：
+https://drive.google.com/?usp=chrome_app#folders/0BwAG8v57-e8Ld2xpcGdBNlczakk
+
+交通指示Link：
+北京市海淀区双清路6号7天酒店西侧2层  （双清路和月泉路 交界处）
+http://map.baidu.com/?shareurl=1&amp;amp;poiShareUid=767bde8608fecb4c83a00c5c
+7天酒店详细地址和电话，若迷路可以让酒店指引方向：
+http://www.7daysinn.cn/innpage.php?id=944
+</description><start>2014.01.11 14:00</start><end>16:00</end><location>中国北京市</location><participantscount>7</participantscount></event>
+	<event><title>Learn Android  lesson 3</title><chapterid>114116331730392650768</chapterid><description>learn Android for beginner.
+every 2 weeks we use 2 hours to teach and learn Android.
+this week we learn about Saving Data.
+讲师：朱向东（知乎安卓工程师）
+组织者：黎敏 （北京GDG）
+场地提供：eoe
+时间：29日（周日）下午2点——4点
+人数控制：20人（超过数量报名表会自动关闭）
+2013年最后一场活动：轻松学安卓第三课——数据储存 
+大多数 Android 应用程序需要保存数据，
+即使只在onPause过程中保存有关应用程序状态信息，使用户的进度不会丢失。
+最普通的应用程序也需要保存用户设置，以及一些必须在文件和数据库中保存信息的应用。
+本课程介绍在Android上的主要数据存储，包括：
+- 保存在共享首选项文件的键值对简单数据类型的
+- 保存在Android的文件系统中的任意文件
+- 通过使用SQLite的数据库管理
+还会讲到Github简单用法，若无github可以提前注册一个。</description><start>2013.12.29 14:00</start><end>15:00</end><location>中国北京市北京</location><participantscount>15</participantscount></event>
+	<event><title>Learning to develop Android for beginners: Lesson 2</title><chapterid>114116331730392650768</chapterid><description>这次活动规则：
+1）友盟工程师讲界面布局列表List，使用静态数据，并且有友盟多个其他工程师配合。
+2）大家一起写代码，课后会留作业和练习题。
+3）控制人数在20名左右，虽然现场能容纳50人。但我们想保证效果。
+4）必须是有android环境，能遵守第一课讲过的先搜后问规则，且知道官网文档地址的用户。</description><start>2013.12.15 14:00</start><end>16:00</end><location>北京市海淀区花园东路11号泰兴大厦</location><participantscount>22</participantscount></event>
+	<event><title>PyCon China 2013</title><chapterid>114116331730392650768</chapterid><description>PyCon China 2013</description><start>2013.12.14 00:00</start><end>00:00</end><location>中国北京朝阳朝阳北路复星国际中心</location><participantscount>255</participantscount></event>
+	<event><title>Low-power Bluetooth 4.0 and Android Application Development</title><chapterid>114116331730392650768</chapterid><description>1. Target tracking system implementation base on Ti DSP
+2. Introduction for Low-power Bluetooth 4.0 protocol introduction, SensorTag development and Android Bluetooth development.</description><start>2013.12.07 13:30</start><end>17:30</end><location>中国北京市海淀区海淀大街北京创客空间 Beijing Makerspace</location><participantscount>105</participantscount></event>
+	<event><title>Learning to develop Android for beginners</title><chapterid>114116331730392650768</chapterid><description>晚上7点开始，张峻玮和祝博韬分别介绍了两种翻墙技术。
+黎敏开场简短GDG介绍。
+黎敏主持、朱向东演示的动手活动主体内容(1小时）。
+朱向东的 Google Play 功能介绍，包括注册、上传、发布等功能。
+黎敏主持的趣味互动问答环节。
+9点结束，合影，及会后的参会者交流。9点半正式收场。</description><start>2013.12.01 19:00</start><end>21:00</end><location>中国北京海淀区车库咖啡</location><participantscount>200</participantscount></event>
+	<event><title>智能技术在物联网及移动互联网中的最新应用技术讲座</title><chapterid>114116331730392650768</chapterid><description>讲座中将通过三个专题与众多嵌入式、物联网及移动互联网爱好者一起分享相关专业领域内最新技术热点及应用案例分析，及时把握行业最新技术，了解行业最新动态。
+讲座专题包括：
+1、  主讲人：家庭物联网的现状与案例分析   张大伟
+2、  主讲人：物联网最新技术热点及移动应用发展  冯涛
+3、  主讲人：嵌入式技术在物联网行业中的应用分析  刘洪涛</description><start>2013.11.23 13:30</start><end>17:30</end><location>中国北京海淀区知春路翠宫饭店</location><participantscount>241</participantscount></event>
+	<event><title>Beijing GDG DevFest 2013</title><chapterid>114116331730392650768</chapterid><description>Android/HTML5/Maps/Dart/Code Lab ...
+office website: http://devfest.bjgdg.org/</description><start>2013.10.26 10:00</start><end>18:00</end><location>中国北京市北京西城区中国职工之家</location><participantscount>450</participantscount></event>
+	<event><title>Technical meeting with Caoyuan Deng</title><chapterid>114116331730392650768</chapterid><description>Technical meeting with Caoyuan Deng (dcaoyuan) who is a famous technology guru  for Scala and Concurrent programming. Meetings, including Scala IDE development, DSL with Scala, Concurrent and parallel programming, Everbright Securities and Exchange event analysis.</description><start>2013.09.15 14:00</start><end>16:00</end><location>北京市海淀区海淀图书城步行街籍海楼对面, 3W Coffee</location><participantscount>18</participantscount></event>
+	<event><title>Web &amp; Chrome Technology Sharing</title><chapterid>114116331730392650768</chapterid><description>1. GDL：Web Components: A Tectonic Shift for Web Development - Eric Bidelman .
+2. JS Engine talk (including V8 and JS optimize) - 呂康豪
+3. 37haitao Chrome Extension Experience Sharing - 王传业/荣林</description><start>2013.08.24 13:30</start><end>16:30</end><location>中国北京海淀区善缘街3W互联网主题咖啡馆</location><participantscount>82</participantscount></event>
+	<event><title>Android Technical Meeting</title><chapterid>114116331730392650768</chapterid><description>1. Experience Sharing for Android Activity by Xiaodong Wang
+2. Development and optimization base on Chrome in Android by Xuezhi Xing
+3. Common defects of Android device manufacturers&apos;s ROM by Ming Hu
+4. Android low-power optimization technology research by Guoli Sun</description><start>2013.07.28 13:30</start><end>17:30</end><location>中国北京海淀区车库咖啡</location><participantscount>98</participantscount></event>
+	<event><title>Android Technical Meeting</title><chapterid>114116331730392650768</chapterid><description>1. Introduction for Google Maps Android API v2 &amp;amp; Location API by Xiangdong Zhu
+2. Simple, fast network interaction on Android by Xianbao Ma
+3. Experience Sharing for android client of Youdao dictionary  by Wenchao Lao</description><start>2013.07.21 13:30</start><end>17:00</end><location>中国北京市北京海淀区大钟寺东路京仪大酒店</location><participantscount>89</participantscount></event>
+	<event><title>Google IO Review &amp;Google+ 2 Year Party - Beijing GDG</title><chapterid>114116331730392650768</chapterid><description>1、Google IO Review 
+2、Google+ 2 Year Party</description><start>2013.06.29 19:00</start><end>21:00</end><location>中国北京市海淀区车库咖啡</location><participantscount>96</participantscount></event>
+	<event><title>Open source and Linux development experience sharing sessions</title><chapterid>114116331730392650768</chapterid><description>Open source and Linux development experience sharing sessions</description><start>2013.06.15 13:30</start><end>17:30</end><location>中国 北京市海淀区 知春路76号</location><participantscount>201</participantscount></event>
+	<event><title>GDG Beijing: Google I/O Extended</title><chapterid>114116331730392650768</chapterid><description>Google I/O Extended</description><start>2013.05.15 23:00</start><end>2013.05.16 03:00</end><location>北京市海淀区海淀西大街48号</location><participantscount>180</participantscount></event>
+	<event><title>GDG Beijing: Programming language Salon-Go/Erlang/Dart</title><chapterid>114116331730392650768</chapterid><description> Golang, Earlnag, and Dart introduction and demos</description><start>2013.05.05 13:30</start><end>17:30</end><location>中国北京市海淀区知春路76号</location><participantscount>213</participantscount></event>
+	<event><title>GDG Beijing : Getting started with Chrome Developer Tools and Chrome Extensions development</title><chapterid>114116331730392650768</chapterid><description>Getting started with Chrome Developer Tools and Chrome Extensions development</description><start>2013.03.31 14:00</start><end>18:00</end><location>LiTingHuaYuan Hotel of Haidian District, Beijing</location><participantscount>105</participantscount></event>
+	<event><title>Android Technology Seminar</title><chapterid>114116331730392650768</chapterid><description>&amp;lt;p&amp;gt;Android development of advanced applications Advanced technical seminars&amp;lt;/p&amp;gt;</description><start>2012.10.13 13:30</start><end>17:30</end><location>Beijing,China</location><participantscount></participantscount></event>
+	<event><title>Google IO technology sharing Sharon</title><chapterid>114116331730392650768</chapterid><description>&amp;lt;p&amp;gt;The Google IO technology sharing Sharon is a Google technical seminars for Google technology enthusiasts, developers. In addition to a wealth of technical courses, We also prepared a hands-on experimental zone, developers can hands Chrome Book, ChromeBox, Nexus Q，and so on.Over 150 developers attended the event.&amp;lt;/p&amp;gt;</description><start>2012.09.16 13:30</start><end>17:00</end><location>Beijing,Beijing,China</location><participantscount></participantscount></event>
+	<event><title>Internet of Things Technology Seminar</title><chapterid>114116331730392650768</chapterid><description>&amp;lt;p&amp;gt;Internet of Things platform-based technical  training  seminars&amp;lt;/p&amp;gt;</description><start>2012.06.16 13:30</start><end>17:00</end><location>Beijing,China</location><participantscount></participantscount></event>
+	<event><title>Developers spring outing</title><chapterid>114116331730392650768</chapterid><description>&amp;lt;p&amp;gt;More than 60s Android developers, APP Dev. team leaders joined in the Spring outing.We went to the wetland park on the outskirts of Beijing, We sit on the grass discuss Android and others Google technology.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt; &amp;lt;/p&amp;gt;</description><start>2012.04.15 09:00</start><end>2012.04.16 16:30</end><location>Beijing,China</location><participantscount></participantscount></event>
+	<event><title>Android 4.0 latest technology and mobile development typical application case sharing sessions</title><chapterid>114116331730392650768</chapterid><description>&amp;lt;p&amp;gt;Share based on the typical application case of the ARM platform, embedded and mobile development activities, technical training seminars&amp;lt;/p&amp;gt;</description><start>2012.03.17 13:30</start><end>17:00</end><location>Beijing,China</location><participantscount></participantscount></event>
+	<event><title>HTML5 technique salon</title><chapterid>114116331730392650768</chapterid><description>&amp;lt;p&amp;gt;HTML5 Cross-platform technology exchange event, And more than 230 developers attendanced.&amp;lt;/p&amp;gt;</description><start>2012.02.25 13:30</start><end>17:30</end><location>Beijing,Beijing,China</location><participantscount></participantscount></event>
+	<event><title>Android system and the underlying development of technical seminars</title><chapterid>114116331730392650768</chapterid><description>&amp;lt;p&amp;gt;About android system and the underlying development technology.&amp;lt;/p&amp;gt;</description><start>2011.12.10 13:00</start><end>17:00</end><location>Beijing,China</location><participantscount></participantscount></event>
+	<event><title>technical seminar about HTML5</title><chapterid>114116331730392650768</chapterid><description>&amp;lt;p&amp;gt;Web Rebuilder co-organized with activities on HTML5&amp;lt;/p&amp;gt;</description><start>2011.11.12 13:30</start><end>17:30</end><location>Beijing,China</location><participantscount></participantscount></event>
+	<event><title>Beijing GTUG Sept. 2011 learning event - Mobile ads development</title><chapterid>114116331730392650768</chapterid><description>&amp;lt;p&amp;gt;Beijing GTUG partnered with one of China&apos;s leading mobile development media MobileTMT (&amp;lt;a href=&quot;http://www.mobiletmt.com/&quot;&amp;gt;http://www.mobiletmt.com/&amp;lt;/a&amp;gt;)  and organized the BJ GTUG community&apos;s Sept. event this month on 9/17 in  Beijing&apos;s Cao-Yang SOHO multimedia center conference room.  The main  learning content was about the new Sina Weibo (China&apos;s &quot;twitter&quot;) open  API for developing mobile twittering apps.  60% of attendees use Google  Android phones accessing their Weibo account, so the presentations  covered developing Android based Weibo twittering apps.  Among ~170  attendees, there were 19 companies &amp;amp; startup developers attending  the event, 12 of them developing Android based apps, and 15 of them also  use Google mobile ads. Speakers were the product manager of Weibo and  Tencent API platform manager.  &amp;lt;/p&amp;gt;</description><start>2011.09.21 19:00</start><end>21:00</end><location>Beijing,China</location><participantscount></participantscount></event>
+	<event><title>Linux and embedded development technology seminars</title><chapterid>114116331730392650768</chapterid><description>&amp;lt;p&amp;gt;about Linux and embedded development technology&amp;lt;/p&amp;gt;</description><start>2011.06.25 13:00</start><end>17:00</end><location>Beijing,China</location><participantscount></participantscount></event>
+	<event><title>Android Development Technology Seminar</title><chapterid>114116331730392650768</chapterid><description>&amp;lt;p&amp;gt;ANDROID platform based on mobile phone development and technical training seminars&amp;lt;/p&amp;gt;</description><start>2010.12.11 13:00</start><end>17:00</end><location>Beijing,China</location><participantscount></participantscount></event>
+	<event><title>ARM Technology Seminar</title><chapterid>114116331730392650768</chapterid><description>&amp;lt;p&amp;gt;ARM-based platform for embedded and mobile development activities, technical training seminars&amp;lt;/p&amp;gt;</description><start>2010.08.31 14:00</start><end>16:30</end><location>Beijing,China</location><participantscount></participantscount></event>
+</events>
+</data>

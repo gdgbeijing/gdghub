@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<number>79</number>
+<events>
+	<event><title>GDG Xi&apos;an 2017 I/O Extended </title><chapterid>114935565019424673192</chapterid><description>Google IO 大会直播。</description><start>2017.05.17 22:00</start><end>2017.05.18 03:00</end><location>Xi&apos;an Beilin People&apos;s Government, West Section, 2nd Ring Road South, Xi&apos;an, Shaanxi, China</location><participantscount>30</participantscount></event>
+	<event><title>GDG Xian 2017 WTM 女性开发者活动</title><chapterid>114935565019424673192</chapterid><description>Google 相信多元化的属性、经历、和观点能够帮助开发者构建可以改变世界的工具，其中很关键的一点就是给予女性更多机会去实现梦想。 
+
+Women Techmaker (WTM, Google 女性开发者节) 是 Google 支持地面向女性技术从业者的全球系列活动，旨在促进女性在技术领域的参与，从而拥有更多机会去实现梦想，在各自的领域获得成长、提升和成功。
+
+全球官网：
+www.womentechmakers.com
+
+本地活动详情，随后奉上。</description><start>2017.04.09 13:30</start><end>16:30</end><location>中国陕西省西安市雁塔区锦业一路29号龙旗科技园A座9层</location><participantscount>29</participantscount></event>
+	<event><title>GDG西安三月活动：Chrome扩展消息通信</title><chapterid>114935565019424673192</chapterid><description>GDG西安三月活动：Chrome扩展消息通信及内容管理系统的演化
+由 Mario Qiu 发布于 2017年03月06日
+Chrome 浏览器丰富的扩展是它让大家着迷的一个非常重要的原因， 甚至其它的一些浏览器也纷纷开始兼容 Chrome 的扩展， 如果去年年底活动的《开始写一个 Chrome 扩展的 N 种姿势》有勾起你自己开发 Chrome 扩展的兴趣，今天 greatghoul 带你进一步学习 Chrome 扩展开发的知识。
+
+很多人都听过 WordPress 很多人都听过，但对于其它的内容管理系统却知之甚少，甚至有的人可能还以为内容管理系统普遍都非常简单，没有什么难度。今天全本全栈工程师张思楚会给大家普及一下内容管理系统的知识，以及它们所解决的问题。
+
+活动内容
+
+话题一：Chrome 扩展开发之消息通信（入门）
+
+greatghoul，自由职业者，Chrome 扩展爱好者
+
+开发 Chrome 扩展，尤其是与页面嵌入脚本相关的扩展，少不了要在扩展的各个页面（背景页面、嵌入脚本等）之间互通消息，从而实现一些数据传递和交互效果。本话题会带领大家了解 Chrome 扩展页面间通信的常见用法。
+
+话题二：构建一个满足你需要的CMS
+
+张思楚 全栈工程师
+
+CMS “Content Management System”, 内容管理系统。 在做企业级应用的时候，一般多多少少会涉及一些。对于内容管理，业界还没有一个统一的定义，不同的机构有不同的理解。
+
+内容管理系统想解决一下这些问题：
+
+页面制作无序，网站风格不统一，大量信息堆积，发布显得异常沉重。
+内容繁杂，手工管理效率低下，手工链接视音频信息经常无法实现。
+应用难度较高，许多工作需要技术人员配合才能完成，角色分工不明确。
+改版工作量大，系统扩展能力差，集成其它应用时更是降低了灵活性。
+本次分享，将介绍，内容管理系统的演化历程。比较市面上常见CMS系统，如：WordPress, Umbraco, Orchard, SharePoint, Adobe AEM, Sitecore。从而帮你了解CMS系统，开启CMS的学习和开发之路。
+
+时间 &amp;amp; 地点
+
+活动时间
+2017年3月18日 周六 下午 1:30 至 4:30
+
+活动地点
+西安市二环南路西段69号西安创新设计中心3楼307室</description><start>2017.03.18 13:30</start><end>16:30</end><location>西安市二环南路西段69号西安创新设计中心</location><participantscount>15</participantscount></event>
+	<event><title>20170218 GDG Xian TensorFlow Summit 主题活动</title><chapterid>114935565019424673192</chapterid><description>人工智能系统 Tensor Flow 峰会回顾
+由 Mario Qiu 发布于 2017年02月10日
+谷歌近日开源了其最新机器学习系统 TensorFlow。TensorFlow 是数据流图进行数值计算的开源软件库。图中的“节点”表示运算操作，“边”表示节点间的多维数据向量（张量）。该弹性架构能够以统一的API实现在桌面、服务器、移动设备上的多个 CPU 或 GPU 上进行部署算法应用。TensorFlow 最早是由谷歌机器智能研究所 Google Brain 团队的研究人员及工程师为了指导机器学习及深度神经网络研究而开发的，同时，系统也具备良好的通用性从而适用于更广泛的研究领域。（via: TensorFlow 中文社区)
+
+2017 TensorFlow Dev Summit 峰会将在美国时间 2 月 15 日 9：30-18：00（北京时间：2 月 16 日 01：30-10：30）在旧金山进行，活动将由 10 个演讲组成，覆盖 Tensor Flow 的技术、发展、生态、应用的各个环节。Google 将组织全球GDG谷歌开发者社区在各个地区展开 TensorFlow 系列活动。
+
+因为时差的关系，我们无法举办观看直播的活动，但峰会的精彩内容绝不会错过，2月18日让我们欢聚在一起，一边看录像，一边讨论 TensorFlow 这个激动人心的利器。
+
+关于 TensorFlow Dev Summit
+
+日程安排
+
+主题「开场Keynote」 嘉宾： Jeff Dean, Rajat Monga, and Megan Kacholia
+主题「XLA: TensorFlow, Compiled! 」嘉宾： Todd Wang and Chris Leary
+主题「TensorFlow High-Level API」嘉宾： Martin Wicke
+主题「Keras and TensorFlow」 嘉宾： Francois Chollet 主题「Distributed TensorFlow」嘉宾： Derek Murray
+主题「Creating Art &amp;amp; Music with Project Magenta」嘉宾： Doug Eck
+主题「TensorFlow Ecosystem: Hadoop and More」嘉宾： Jonathan Hseu
+主题「Serving Models in Production with TensorFlow Serving」嘉宾： Noah Fidel
+主题「Memorization + Generalization with TensorFlow Wide and Deep」嘉宾： Heng-Tze Cheng
+主题「Hands-on TensorBoard」嘉宾： Dandelion Mane
+官网信息
+
+http://www.tensorflow.org
+https://events.withgoogle.com/tensorflow-dev-summit/
+在线直播
+
+https://www.youtube.com/watch?v=LqLyrl-agOw
+时间 &amp;amp; 地点
+
+活动时间
+2017年2月18日 周六 13:30 至 15:30
+
+活动地点
+西安市二环南路西段69号西安创新设计中心5楼腾讯众创空间A区路演厅
+
+ 地图
+本次活动的场地由 腾讯众创空间 提供
+报名参加
+
+活动不收取任何报名费用。</description><start>2017.02.18 13:30</start><end>16:30</end><location>西安市南二环69号 创新设计中心 4层 路演厅</location><participantscount>10</participantscount></event>
+	<event><title>GDG Xi&apos;an 技术沙龙</title><chapterid>114935565019424673192</chapterid><description>
+过完新年，大家又在期盼着春节了，对于我们中国人而言，这段时间才是真正的年底，大家年底都会采办礼品和年货，那1月份的活动，我们 GDG 西安也给大家带来了新春的大礼：一堆很有价值的干货。
+
+上个月我们是前端的主题，这个月我来来讨论一下后端的一些东西，春节前，一定让你收货满满，请不要错过。
+
+活动内容
+
+用 Scala 编写 Monadic 风格的程序
+
+屈鉴铭 博士, ThoughtWorks 全栈工程师. 在 Web 前后端设计, 微服务架构设计以及 AWS 服务应用方面拥有丰富经验. 热衷于 Scala 语言及函数式编程实践.
+
+2016年底, 我所在的团队成功的将多个 Scala 语言构建 Monadic 风格的程序部署在 AWS Lambda 中, 构建出一套产品级别的微服务. Monadic 的编程风格, 具有良好的可读性, 并能够有效的将系统间各组件解耦, 在提高业务灵活性的同时, 极大地简化系统间的复杂性并有效降低开发与测试成本. 然而, Scala 语言及函数式编程都具有非常陡峭的学习曲线, 而对 Monad 的认知更是无数程序员心中的 Everest. 这次, 我们就围绕 Scala 语言来探讨一下产品级别的 Monadic 编程及其优劣.
+
+Docker + Golang 之极致 API Gateway 实战
+
+张文清，供职于西安葡萄城信息技术有限公司，架构师，积累多年控件和工具设计开发经验，云应用架构开发和DevOps实践，热衷挑战新事物，目前主攻方向为前沿开发技术的拓展和预演
+
+2016年微服务大行其道，API Gateway作为关键组件因此备受关注。在没有云服务作为基础设施的情况下，我们该如何做到极致的实现，高效并且灵活？为了高效，Golang是当之无愧的选择，为了灵活，Docker当仁不让。让我们一起来实战一下吧。
+
+如果希望现场做代码尝试的话，需要准备以下环境：
+
+Golang 1.7.x
+Docker 1.10+
+趁手的编辑器，推荐 IntelliJ IDEA + Golang Plugin
+微信小程序和 PWA 开放讨论
+
+微信小程序最近非常火热，很多媒体都称其为应用开发的未来，这与我们之前讨论过的 Progressive Web App 的概念很接近，在活动的两个主话题结束后，让我们用 20 分钟左右的时间，围在一起自由的聊一聊微信小程序，聊一聊 PWA。
+
+时间 &amp;amp; 地点
+
+活动时间： 2017年1月14日 周六 下午 1:30 至 4:30
+活动地点：
+
+地图 本次活动的场地由 洪泰大程创新空间 提供
+
+报名参加
+
+活动不收取任何报名费用。
+http://gdgxian.org/2017/01/03/meetup-201701/﻿</description><start>2017.01.14 13:30</start><end>16:30</end><location>陕西省 西安市 南二环69号 西安创新设计中心</location><participantscount>24</participantscount></event>
+	<event><title>GDG Xi&apos;an Monthly Meetup</title><chapterid>114935565019424673192</chapterid><description></description><start>2017.01.14 13:30</start><end>16:30</end><location>西安市碑林区南二环西段69号</location><participantscount>24</participantscount></event>
+	<event><title>GDG Xi&apos;an 前端开发技术沙龙</title><chapterid>114935565019424673192</chapterid><description>2016 年的最后一个月，我们 GDG 西安给大家带来的依旧是满满的干货，这期活动的主题是前端。 包括 webpack+babel 前端构建 和 Chrome 扩展开发快速入门 的精彩内容，如果你对前端开发感兴趣， 一定不要错过这个开眼界和交流技术的机会。
+
+活动内容
+
+webpack+babel 前端构建实战
+
+房林，ThoughtWorks高级咨询师，从事多年UI设计和前端开发工作
+
+ES6 作为最新版本的 JS 语言标准，于 2015 年正式发布至今已有一年， 与其坐等浏览器全面支持下一代 JS 标准，不如先下手为强。本次分享， 将会向大家全面介绍 ES6 最新语法特性，以及目前最为流行的 webpack+babel 前端构建工具使用指南，让您即刻学会使用下一代 JS 标准进行前端开发。
+
+开始写一个 Chrome 扩展的 N 种姿势
+
+greatghoul，DeepDevelop高级工程师，Chrome 扩展爱好者
+
+想不想在浏览器上加一个小功能方便自己的日常使用？ 想不想改变一下经常访问的网站页面内容或者样式以适合自己阅读？ 找不到符合自己需要的现成的浏览器扩展？也许你根本不需要别人， 稍微掌握一些 Web 开发的知识，你可能自己就能解决自己的需求！ 从简单到复杂，从小白到大师，我这里有各种入门扩展开发的姿势， 你一定可以找到适合自己的姿势，轻松的打造一个属于自己的扩展。
+
+时间 &amp;amp; 地点
+
+活动时间： 2016年12月24日 周六 下午 1:00 至 3:30
+活动地点： 高新区锦业一路29号（锦业一路与丈八三路十字西）龙旗科技园A座9层 智园软件</description><start>2016.12.24 13:00</start><end>15:30</end><location>陕西省西安市高新区锦业一路29号（锦业一路与丈八三路十字西）龙旗科技园A座9层</location><participantscount>58</participantscount></event>
+	<event><title>2016年11月26日 GDG Xi&apos;an AngularJS CodeLab</title><chapterid>114935565019424673192</chapterid><description>上个月的 DevFest 有一个编程环节，大家的积极性还比较高，不过因为组织和准备的关系，并没有达到特别好的效果，但能看出来大家都有一颗向往技术的心，我们以后会安排更多的编程活动来满足大家的热情。
+
+这个月，我们暂停话题分享，大家带上自己的笔记本电脑，动手玩一玩平常在工作中不用或者用的比较少的技术：Angular，让我们在这个活动中彼此学习和分享，体会 Angular 的乐趣。如果你擅长 Angular，可以用你丰富的经验来帮助新手，如果你是新手，也可以在活动向别人学习。
+
+我们准备了几个小应用的点子，可以让你在短短几个小时内构建出来：
+
+TODO List
+蕃茄钟
+英汉字典
+当然，并不限于这几个点子，你可以发挥自己的创造力，我们的目的是体验 Angular，所以也不必一定要做出一个完整的应用。活动的形式也不限制，你可以独立开发，也可以几个结队。大家开心就好。</description><start>2016.11.26 13:30</start><end>17:00</end><location>陕西省西安市南二环69号创新设计中心307号室</location><participantscount>10</participantscount></event>
+	<event><title>GDG Xi&apos;an Devfest</title><chapterid>114935565019424673192</chapterid><description> 
+2016年的 Google DevFestival 又快要来到了, 今年Google又发布了不少黑科技，想一睹为快的朋友们不要错过。活动详细内容随后发布，请关注。﻿</description><start>2016.10.22 13:30</start><end>17:30</end><location>西安市 南二环69号</location><participantscount>88</participantscount></event>
+	<event><title>GDG Xi&apos;an 2016.10 邮电大学宣讲会</title><chapterid>114935565019424673192</chapterid><description>《VUE 开发之旅》 金天
+《感受新时代的WEB前端技术》陈冬明</description><start>2016.10.20 19:00</start><end>21:00</end><location>中国陕西省西安市长安区西安邮电大学</location><participantscount>60</participantscount></event>
+	<event><title>2016年9月10日 GDG西安 Meetup</title><chapterid>114935565019424673192</chapterid><description> 
+酷热的夏天结束了, 西安迎来了凉爽的9月, GDG西安也迎来了9月份的活动. 本月, 我们将移师葡萄城公司, 感受一下西安最好的办公环境.
+
+本期话题
+
+1. Cordova遇上React（嘉宾：葡萄城架构师 张文清）
+
+React/Redux凭借活跃的社区，优雅而高效的界面，在前端开发中越来越被大家认可；Cordova凭借前端知识共享和开发效率依然大有可为。那么，问题来了，当Cordova遇上React/Redux，会怎样呢？让我们通过简单的应用来剖析一下吧。
+
+2. Android应用开发架构变迁（嘉宾：Android专家 宇行信）
+
+Android的开发生态系统发展迅速，用来构建Android应用的架构与技术也一直在不断进化和演变，这次结合自己的实践，来总结这几年学习过程中自己对MV*类架构与Android开发结合的理解
+
+时间 &amp;amp; 地点
+
+活动时间： 2016年9月10日（星期六）13:30 ~ 16:00
+活动地点： 高新六路34号（高新六路与科技三路十字西南）葡萄城软件
+
+报名
+
+活动不收取任何报名费用
+
+报名地址: https://jinshuju.net/f/owimQn
+
+原文: http://gdgxian.org/2016/08/30/gdg-xian-meetup-2016-09/﻿</description><start>2016.09.10 13:30</start><end>16:30</end><location>高新六路34号（高新六路与科技三路十字西南）葡萄城软件</location><participantscount>58</participantscount></event>
+	<event><title>2016年8月13日 GDG西安 Meetup</title><chapterid>114935565019424673192</chapterid><description>炎热8月份来了, 我们的GDG活动依然继续. 本月, 我们将继续在智园软件举办活动.
+
+本期话题
+
+1. JavaScript之面向对象与闭包（嘉宾：资深前端 曹隆凯）
+
+近年来JavaScript语言出现了极大的发展，nodejs和各种框架的出现大大的扩展了JavaScript的使用场景和范围，ES6的发布也对JavaScript语言本身有了很多的优化，这一切都使得JavaScript不仅仅停留在‘前端语言’，而成为了一个功能极其强大的新型面向对象编程语言。那么JavaScript是如何支持面向对象特性的呢？如何利用面向对象写出更好的JavaScript代码呢？欢迎大家来一起探讨和学习。
+
+2. Android自定义View系列总结（嘉宾：Android专家 宇行信）
+
+这部分是作为Android开发进阶的必经之路，系统整理了关于自定义组件所需要掌握的知识点以及常用的一些技巧
+
+时间 &amp;amp; 地点
+
+活动时间： 2016年8月13日（星期六）13:30 ~ 16:00
+活动地点： 高新区锦业一路29号（锦业一路与丈八三路十字西）龙旗科技园A座9层 智园软件
+
+</description><start>2016.08.13 13:30</start><end>17:00</end><location>西安市 高新区 锦业一路 29号 龙旗大厦</location><participantscount>71</participantscount></event>
+	<event><title>GDG Xi&apos;an Meetup 201607</title><chapterid>114935565019424673192</chapterid><description> 
+转眼间进入了 2016 年的下半年，虽然正值高温，但我们 GDG Xi’an 的技术分享依然热情不减， 这次我们邀请了两位资深专家给大家分享一些移动开发方面的经验。
+
+本期话题
+
+1. AngularJS 与 Hybrid App 的实际应用（嘉宾：贝格伯格创始人 陈冬明）
+
+Agularjs 做为 Google 出品的一款非常优秀的前端框架，具有模块化、自动化双向数据绑定、 语义化标签、依赖注入等在开发中非常便捷的特性。那么在移动端也异常火爆的今天，Angularjs 与 Hybrid App 在实际案例的使用效果又如何呢，让我们一起来感受 Angularjs 与 Hybrid App 的魅力。
+
+2. 以开发者的角度来看 Material Design （嘉宾：Android专家 宇行信）
+
+系统介绍关于实现 Material App 的常见组件以及 UI 实现，还有就是一些避免掉坑的注意事项﻿</description><start>2016.07.16 13:30</start><end>16:30</end><location>高新区锦业一路29号（锦业一路与丈八三路十字西）龙旗科技园A座9层 智园软件</location><participantscount>90</participantscount></event>
+	<event><title>GDG Xi&apos;an IO 16 Redux</title><chapterid>114935565019424673192</chapterid><description>激动的Google I/O 2016已经结束了, 也该来一个回顾了. 本次活动, 我们将带大家一起回顾一下I/O 16, 主要包括:
+
+1. 简单回顾
+2. Android N预览
+3. Web开发新方向
+4. Firebase介绍
+5. VR, IoT等技术的介绍</description><start>2016.06.25 13:00</start><end>17:00</end><location>陕西省 西安市 碑林区 张家村街道 南二环69号 碑林区机关大楼</location><participantscount>17</participantscount></event>
+	<event><title> I/O Extended 2016 Xi&apos;an</title><chapterid>114935565019424673192</chapterid><description>每年一度的I/O直播又要来了!
+
+今天我们的活动场地依然是创图在XIAN的泥巴创客空间, 想知道今年有什么新鲜东西, 就来参加我们的活动吧, 现场准备了很多零食/饮料/啤酒, 让我们一起聊天, 一起嗨起来吧!
+
+活动时间: 2016年5月18日晚上10点开始, 5月19日凌晨3点结束
+
+具体地址: 西安市碑林区二环南路西段69号（原碑林区机关大楼）17楼 2号﻿</description><start>2016.05.18 22:00</start><end>2016.05.19 03:00</end><location>西安市高新区科技路48号（科技路与高新四路十字西南角）创业广场C座</location><participantscount>61</participantscount></event>
+	<event><title>GDG西安四月活动 - 使用开放技术构建 Web App 和 Android App</title><chapterid>114935565019424673192</chapterid><description>在开源社区中，我们可以找到很多优秀的应用和工具来辅助我们的开发工作，合理利用这些技术，我们可以构建出更易用、稳定、易于维护的应用程序。谷歌开发者社区（GDG）也一直在倡导开放、分享和创新的理念，鼓励开发者使用和贡献开放技术，本期的活动我们会为大家分享一些使用开放技术构建 Web App 和 Android App 的话题和实践经验。
+
+活动内容
+
+用 nodejs 开发APP后端（金天）
+使用 nodejs 开发 App 的后端程序，让 App 可以用 API 的方式获取后端服务器的数据和服务。
+HTML5 for Andorid 实战分享 （张思楚） 
+采用 Cordova Hybrid 混合应用技术，实践复杂业务 App，实战案例分享。
+VueJS 快速实现购物车（邱建） 
+使用 VueJS 实现一个有简单交互的购物车 Demo。
+时间 &amp;amp; 地点
+
+时间：2016年4月17日 周日 下午1点30分 - 4点30分 
+地点：陕西省 西安市 碑林区 张家村街道 南二环67号 碑林区机关大楼</description><start>2016.04.17 13:30</start><end>16:30</end><location>陕西省 西安市 碑林区 张家村街道 南二环67号 碑林区机关大楼</location><participantscount>41</participantscount></event>
+	<event><title>2016 Study Jams China aCoder Group (SJ54）</title><chapterid>114935565019424673192</chapterid><description>我们是来自中国的StudyJam aCoder小组，团队成员来自全国不同的城市，我们是这样计划StudyJam活动的。
+争取为每一个愿意学习编程的人以足够的学习氛围。争取让每一个参加活动的人最后都能独立的完成一个轻量app
+小组论坛链接：http://www.studyjamscn.com/group-252-1.html</description><start>2016.04.04 19:00</start><end>2016.04.30 21:00</end><location>中国陕西西安市</location><participantscount>23</participantscount></event>
+	<event><title>2016 Study Jams China Family Group (SJ35）</title><chapterid>114935565019424673192</chapterid><description>&amp;lt;div class=&quot;Ct&quot;&amp;gt;        我们是来自中国的Study Jam 35威武小组，来自全国不同的城市，却有着共同的梦想和目标，因为Android，我们相聚，是伙伴，也是亲人。我们因为活动而结缘，所以我们会竭尽所能把活动参加好，齐心协力，不让一个人掉队，最终学有所成。但我们也不会止步于此，我们有着更远大的目标，活动过后，我们更会继续并肩战斗，做出更惊人成就。成就自己，成就这个家。&amp;lt;br&amp;gt;         We are Study_Jam_35 PowerfulGroup from China,and we have 31 team members to participate in .We come from the different cities,however,we have a common dream and goals to fight.Because of Android,we get toghter and we become companies even families.Because we play activities together,we will try our best to take part in it,work together and catch everybody&apos;s elbow so that we don&apos;t let anybody leave behind and get the final success.We also have ambitious goals,not stay on the spot.In the future,we will continue to fight side by side to make more amazing accomplishment.With our ambition and efforts,achieve ourselves,achieve our family.&amp;lt;br&amp;gt;小组论坛链接：&amp;lt;a class=&quot;ot-anchor aaTEdf&quot; dir=&quot;ltr&quot; href=&quot;http://www.studyjamscn.com/group-208-1.html&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&amp;gt;http://www.studyjamscn.com/group-208-1.html&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;感谢 Google Developers StudyJams &amp;lt;/div&amp;gt;</description><start>2016.04.02 19:00</start><end>2016.04.30 21:00</end><location>中国陕西省西安市</location><participantscount>30</participantscount></event>
+	<event><title>2016 Study Jams China SJ38 Group 小组活动</title><chapterid>114935565019424673192</chapterid><description>&amp;lt;div class=&quot;Ct&quot;&amp;gt;我们是来自中国的StudyJam 38小组，团队成员来自全国不同的城市，我们怀揣着梦想，来参加StudyJam活动.&amp;lt;br&amp;gt;小组论坛链接：&amp;lt;a class=&quot;ot-anchor aaTEdf&quot; dir=&quot;ltr&quot; href=&quot;http://www.studyjamscn.com/group-226-1.html&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&amp;gt;http://www.studyjamscn.com/group-226-1.html&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;感谢 Google Developers StudyJams &amp;lt;/div&amp;gt;</description><start>2016.03.30 19:00</start><end>2016.04.30 21:00</end><location>中国陕西省西安市</location><participantscount>19</participantscount></event>
+	<event><title>2016年3月GDG西安Material Design Codelab</title><chapterid>114935565019424673192</chapterid><description> 
+本期将带大家一起完成Material Design的实践﻿</description><start>2016.03.12 13:30</start><end>16:00</end><location>西安市科技路创业广场C座创图XIAN二楼泥巴创客空间</location><participantscount>14</participantscount></event>
+	<event><title>2016年1月10日 GDG Xi&apos;an Meetup</title><chapterid>114935565019424673192</chapterid><description>新年伊始，我们西安 GDG 社区也为喜好技术，喜好开放、分享和创新的各位带来了新的一场活动， 这是春节前的最后一场活动，大家欢聚一堂，聊聊技术，聊聊 2016 大家有什么期待。
+
+本期话题
+
+第一个话题是由 ThoughtWorks 的高级咨询师马博文为大家带来的「CI with Mesos」， 通常情况下，我们会对产品环境给予更多的关注，但是作为持续交付的重要环节之一， 集成环境/平台的健康状况以及维护成本，也会极大的影响交付的时间和节奏。 本话题通过项目中持续集成平台发展过程的优劣分析，分享一种基于mesos/docker/jenkins的更加灵活，可维护性更高的 CI 解决方案。
+
+第二个话题我们有幸请到了《RxJava Essentials 中文翻译版》的作者刘信给大家讲一讲 「RxJava 在 Android 上的应用」，对 Android 开发比较感觉感兴趣的朋友千万不要错过。
+
+最后，让我们畅所欲言，聊聊 2016 年，你希望在 GDG 西安参与到哪些话题。
+
+时间 &amp;amp; 地点
+
+2016年1月10日 周日 下午1点30分 - 4点30分
+西安市高新区科技路48号（科技路与高新四路十字西南角）创业广场C座
+二楼，泥巴创客空间，8号会议室</description><start>2016.01.10 13:30</start><end>16:30</end><location>西安市高新区科技路48号</location><participantscount>21</participantscount></event>
+	<event><title>GDG Xi&apos;an 2015 DevFest</title><chapterid>114935565019424673192</chapterid><description>又到了每年的 Google DevFestival 季节, 对于 Google 的爱好者们都是一个大聚会, 因为每年这个时候, 大家都可以在一起讨论，分享各种技术。这次咱们会深入讨论 Andriod, Chrome, Angular等技术，一起动手，制作一些有意思的东西! 走过路过不能错过!~
+
+1. Todo-App开发(Chrome) - 邱建
+2. 自己动手写相册(Android) - 李昂
+3. AngularJS Codelab - 金天
+4. 微信订餐应用实践 - 张思楚
+
+当天现场有动手实践活动, 希望大家都能带上自己的笔记本，同时安装好以下的软件:
+
+1. 最新版的Chrome浏览器和Chrome Dev Editor
+2. 最新版的 Android Studio, 下载地址: https://developer.android.com/sdk/index.html, 同时安装好SDK “Marshmallow - 6.0 - API level 23”
+3. 本地服务器软件或者python/ruby等脚本语言环境(给AngularJS Codelab准备) 
+
+活动时间: 2015年11月28日 下午1:30 - 6:00
+活动地点: 葡萄城软件  高新区高新六路34号</description><start>2015.11.28 13:30</start><end>18:30</end><location>中国陕西省西安市雁塔区高新六路34号</location><participantscount>81</participantscount></event>
+	<event><title>Women TechMakers</title><chapterid>114935565019424673192</chapterid><description>Wemon TechMakers是谷歌的一个关爱女性程序员的主题活动, 今年是第二次落户西安了. 本次活动请到了ThoughtWorks, 活跃网络等IT公司的优秀讲师为大家带来精彩的分享, 希望西安的女性程序媛不要错过这个活动!</description><start>2015.10.31 14:00</start><end>17:00</end><location>西安市科技路创业广场C座一楼</location><participantscount>43</participantscount></event>
+	<event><title>2015年世界自由软件日西电站</title><chapterid>114935565019424673192</chapterid><description>下午场在大活511（跟去年一样）： 
+14：00开始，16：00多结束（可以推迟结束）。 
+
+1. Gitcafe， iris， git助理学生团队协作 
+（iris演讲完之后要赶去西安邮电） 
+2. david， gdg， 开源软件对生活/世界的影响，软件实例 
+3. 火狐， Firefox让你的隐私更安全 
+（从西安邮电过来，火狐的工程师想要当天返回北京，希望排在第三个） 
+4. 我，西电开源社区， 
+（排最后的好处就是有了足够的例子，讲抽象概念更好。另外活动写的是14:00开始 
+但实际上为了等踩时间点的家伙可能要到14：10左右。 
+场地可以用到18：00,所以最后一场时间可以多一点。）﻿</description><start>2015.09.19 14:00</start><end>18:00</end><location>中国陕西省西安市长安区西安电子科技大学南校区</location><participantscount>75</participantscount></event>
+	<event><title>GDG西安Meetup</title><chapterid>114935565019424673192</chapterid><description>2015年8月15日（星期六），GDG西安将举办新一期的活动。
+
+本期话题
+
+本期活动有两个话题:
+
+1. Docker 在持续集成中的实践 - 刘亮
+
+在开发工作中总是会遇到不同的环境，比如本地dev，CI上，staging，production，如何保证你的代码在不同的环境中都能正常工作，如何消除由于环境差异而导致的精力浪费，刘亮 目前在ThoughtWorks工作，他给大家分享与大卫一起在项目的持续集成中使用docker的实践。
+
+2. 设计不难：如果做出有设计感的 Side Project - 李凯文
+
+KevinLi 是一名出色的设计师，目前是远程工作，做过 Freelancer，对于我们这些万年 Bootstrap 的普通程序员，Kevin 这次给我们带来了一些不一样的东西。之前有幸看到过一次 Kevin 关于设计的分享，受益良多，这次的分享大家不要错过。
+
+活动信息
+
+活动时间
+
+8月15日（星期六）14:00 ~ 16:00
+
+活动地址
+
+西安市高新区科技路48号（科技路与高新四路十字西南角）创业广场C座
+二楼，泥巴创客空间，6号会议室
+
+报名参加:
+https://gdgdocs.org/forms/d/1m5eLgamBfNVvADZSAhbUUastteriyhobdkLK7g6_dEk/viewform﻿</description><start>2015.08.15 14:00</start><end>15:00</end><location>西安市高新区科技路48号创业广场C座二楼泥巴创客空间</location><participantscount>23</participantscount></event>
+	<event><title>2015年7月12日 GDG西安Meetup</title><chapterid>114935565019424673192</chapterid><description>
+
+2015年7月12日, GDG西安将举办新一期的活动. 本次活动有2个话题:
+
+    Demystifying TTY(解密TTY) - 周晓强
+
+    周晓强拥有10多年IT从业经历，现任 WisdomGarden CTO。曾供职于 IT 咨询公司 ThoughtWorks，任首席咨询师，为全球顶尖的电信、金融、保险、互联网公司提供过敏捷咨询、交付服务。有丰富的软件架构和项目经验。在加入 ThoughtWorks 之前，周晓强曾任职于 Zuora 和 Seravia，负责公司的垂直搜索引擎和计费引擎的开发。
+
+    使用Node和Docker快速搭建可扩展云应用 - 张文清
+
+    云应用一直给人比较晦涩的映像，无论是开发还是运维，都是如此。随着技术发展，经典的开发语言，工具和编程方式都受到限制和挑战，而新兴的Node和Docker藉由它们的优势，却一直保持高速的发展。是以有必要探讨一下Node和Docker这个组合，来看看如何上手，以及更好的利用它们来搭建可扩张的云应用。
+
+    张文清，供职于西安葡萄城信息技术有限公司，控件开发部架构师，擅长于控件和工具开发，目前主攻方向为前沿开发技术的拓展和预演
+
+活动时间: 7月12日下午2点-4点
+活动地址: 西安市高新区科技路48号（科技路与高新四路十字西南角）创业广场C座，二楼，泥巴创客空间
+</description><start>2015.07.12 14:00</start><end>16:00</end><location>中国陕西省西安市雁塔区科技路48号创业广场C座2楼</location><participantscount>25</participantscount></event>
+	<event><title>2015 Google I/O Redux</title><chapterid>114935565019424673192</chapterid><description>本期活动我们将主要分享2015 Google I/O的总结, 现场还会有一个Cardboard让大家把玩哦~~﻿
+
+具体地址: 西安市高新区科技路48号（科技路与高新四路十字西南角）创业广场C座，二楼，泥巴创客空间 </description><start>2015.06.27 14:00</start><end>16:00</end><location>西安市 科技路 创业广场</location><participantscount>25</participantscount></event>
+	<event><title>Google I/O Extended 2015 Xi&apos;an</title><chapterid>114935565019424673192</chapterid><description>Let&apos;s watch Google I/O 2015 Live!
+
+More details, please visit: http://gdgxian.org/</description><start>2015.05.29 00:00</start><end>02:00</end><location>Jinye 1st Road, Xi&apos;an, Shaanxi, China</location><participantscount>20</participantscount></event>
+	<event><title>Android俱乐部第二次活动</title><chapterid>114935565019424673192</chapterid><description>上个月的3月28日, GDG成立了Android俱乐部, 和泥巴创客空间合作举办了第一次的活动. 活动的反响很好, 同时我们也吸收了很多Android开发的爱好者. 我们建立的微信群, 现在已经有126个人了.
+
+本月26日, Android俱乐部也迎来了第二次的活动. 本次活动带来两大干货:
+
+1. Android Studio入门以及如何使用Gradle构建Android项目
+2. App创意分享与讨论, &quot;字友集&quot; - 字帖&quot;活&quot;起来，书写hi起来！
+
+如果你想学习Android开发, 如果你想了解Android开发的最新动态, 如果你想碰出创意的火花, 那么, 请准时出现在我们的活动现场吧.
+
+活动时间: 4月26日下午2点-5点
+活动地址: 西安市高新区科技路48号（科技路与高新四路十字西南角）创业广场C座，二楼，泥巴创客空间
+
+报名地址: https://www.gdgdocs.org/forms/d/13nELzGvN0AYbxETdd9zjdP7phuMAGKo4To0t3HChk9s/viewform</description><start>2015.04.25 14:00</start><end>17:00</end><location>中国陕西省西安市雁塔区科技路48号 创业广场</location><participantscount>52</participantscount></event>
+	<event><title>西安Android开发者俱乐部第一次活动</title><chapterid>114935565019424673192</chapterid><description>春暖花开，大地复苏，西安技术社区也正在紧锣密鼓的开展一轮轮精彩的技术分享和交流盛会，特别要提醒大家的是，我们【西安GDG社区】重磅出击，决定成立【西安Android开发者俱乐部】，专门针对西安的广大android手机App开发从业者、手机App开发爱好者，帮助大家组建一个技术交流的俱乐部，我们希望这个俱乐部变成大家切磋开发技术，交流设计经验，分享App赚钱策略的平台。
+
+西安Android开发者俱乐部适合那些人参与？
+
+本俱乐部欢迎各水平层次的Android技术开发者、App设计师、基于Android App创业技术团队或者个人、Android技术爱好者，本俱乐部是一个开放的、共享知识和开发技能的平台，欢迎有基础和没基础的相关开发人员、设计人员，我们相信大家都能从俱乐部的线下聚会交流中得到丰厚的收获。
+
+俱乐部能带给参与者什么？
+
+本俱乐部直接由西安GDG的组织者们共同参与组织，能够保证每月给大家贡献一次优质的活动，同时因为GDG本身就有很丰富的技术和人力资源，国内大量优秀的Android开发人员都是我们可以引进的技术分享嘉宾，同时，更有吸引力的是，我们能提供第一手的来自Google公司的员工录制的开发视频和正规的Android开发资料。总之，搞Android手机开发，一定不能错过俱乐部活动。
+
+俱乐部活动收费吗？
+
+Android都是开源免费的，我们的俱乐部活动也完全是免费的，不光免费，我们还会带给大家最新的技术动向和更多的免费资料，同时我们还会不定期的给大家发放来GDG的特殊礼物。
+
+你真的不能错过！
+
+还在犹豫要不要加入我们的俱乐部？不如直接来听听，来看看，现在就是最好的时候，是时候加入一个优秀的技术社群了，我们的第一次聚会会告诉大家更多的俱乐部活动章程和活动安排。希望大家不要错过。
+
+我们衷心希望西安Android开发者俱乐部能够站在西安GDG的肩膀上，借力中国GDG乃至Google独特的技术资源，给大家提供多元化的、切实有用的帮助。
+
+===========================
+
+活动时间：3月28日，本周六下午13:30 - 16:30
+
+活动地点：西安市高新区科技路48号（科技路与高新四路十字西南角）创业广场C座，二楼，泥巴创客空间。
+
+当日活动安排：
+
+0. 破冰，相互认识
+
+1. 安卓开发者俱乐部介绍
+
+2. 西安GDG介绍
+
+3. 泥巴创客空间介绍
+
+4. Android开发GDL
+
+5. 开发者俱乐部后续活动讨论和建议
+
+赶快报名吧，只要来一次，就知道是你想参与的技术活动！:)</description><start>2015.03.28 13:30</start><end>16:30</end><location>西安市高新区科技路48号（科技路与高新四路十字西南角）创业广场C座，二楼，泥巴创客空间</location><participantscount>55</participantscount></event>
+	<event><title>西安GDG新年宣讲会</title><chapterid>114935565019424673192</chapterid><description>春节将至，又是2015年的第一个月，西安GDG诚邀技术社区的朋友们去户县做一次“GDG小年会”，届时热情好客的的户县人民会给大家准备好美酒和特色年货(礼品)。我们在一起总结2014年的得与失，讨论技术的成与败，同时GDG的组织者会给大家分享最新的Google福利和技术发展趋势，户县共青团县委的书记也会为西安的开发者介绍户县对于创业或者技术公司方面的政策优惠。我们希望把本年度的第一次GDG聚会变成一次接连各种资源和信息的盛会，欢迎大家踊跃报名参加。
+ &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
+=============================================&amp;lt;br&amp;gt;
+请大家务必填写报名表，方便我们调配交通搭乘方案。&amp;lt;br&amp;gt;
+报名链接：https://jinshuju.net/f/Pkstsp&amp;lt;br&amp;gt;
+=============================================
+ &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
+活动时间：2015年1月25日，周日，13:30 - 16:00
+ &amp;lt;br&amp;gt;
+活动地点：户县(文化馆或者政务中心会议室，稍后会告知参与者详细地址)
+ &amp;lt;br&amp;gt;
+活动内容：
+ &amp;lt;br&amp;gt;
+0. GDG社区介绍。(瑪德琳)
+ &amp;lt;br&amp;gt;
+1. 西安GDG2014年活动总结。(David)
+ &amp;lt;br&amp;gt;
+2. 户县创业和政策优惠介绍。(户县团县委书记霍向辉)
+ &amp;lt;br&amp;gt;
+3. 户县县域电子商务现状和发展规划。(大林电子公司经理耿树森)
+ &amp;lt;br&amp;gt;
+4. Google技术福利和最新技术资源宣讲。(Eric)
+ &amp;lt;br&amp;gt;
+5. 西安GDG2015年活动规划。(Andy)
+ &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
+参加本次技术交流聚会，有机会获得Google的小礼品。活动结束之时，顺便带点户县特色年货回去给亲朋好友，可谓一举多得，何乐而不为呢？
+ &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
+============================================&amp;lt;br&amp;gt;
+请大家务必填写报名表，方便我们调配交通搭乘方案。&amp;lt;br&amp;gt;
+报名链接：https://jinshuju.net/f/Pkstsp﻿ &amp;lt;br&amp;gt;</description><start>2015.01.25 13:30</start><end>16:00</end><location>中国陕西省西安市户县</location><participantscount>64</participantscount></event>
+	<event><title>GDG西安2014 DevFest Season2</title><chapterid>114935565019424673192</chapterid><description>9月份的DevFest Season 1是不是让你们意犹未尽呢? 本月23日, 新的一季DevFest又要开始了. 本次的DevFest主题是Polymer, 一个Google推出的HTML5框架.
+
+本次具体的话题有:
+
+1. AngularJS 自动化测试实战 - 房林
+2. Web文件上传功能的发展/HTML5的改进 - 张思楚
+3. Android Wear开发实践 - 张帅
+4. Polymer Codelab
+P.S. 本次活动会有两次实践的机会, 一个是Android Wear的开发, 一个是Polymer的开发. 希望大家到时都带笔记本参加活动, 同时准备好Android Studio/Android SDK, 和Chrome Dev Editor. CDE的下载地址: https://chrome.google.com/webstore/detail/spark/pnoffddplpippgcfjdhbmhkofpnaalpg
+
+P.S.2 Polymer的codelab会使用http://itshackademic.com/codelabs/, 感兴趣的童鞋可以提前预习一下. 现场会做第一和第三 2个codelab.
+
+本次活动涉及到订餐问题, 所以仍然需要大家报名参加. 报名请猛击: 我要报名
+活动时间: 2014年11月23日10点
+活动地点: 西安市锦业一路软件园H座11F ThoughtWorks办公室</description><start>2014.11.16 00:00</start><end>00:00</end><location>锦业一路 软件园 H座 11F ThoughtWorks办公室</location><participantscount>73</participantscount></event>
+	<event><title>GDG西安西安邮电大学11月份活动</title><chapterid>114935565019424673192</chapterid><description>时间：2014/11/2 晚7点
+地点：西安邮电大学东区教学楼FZ640
+
+本次活动有两个主题：
+
+1. Chrome Extensions开发  by 郑任哲 (20min)
+2. 面试经验分享  by 张巍耀  (20min)
+ 
+之后会进行一些问答，大家聊聊最近的一些热点技术。
+
+欢迎大家一起来讨论技术。:)</description><start>2014.11.02 19:00</start><end>21:00</end><location>中国陕西省西安市长安区西长安街西安邮电大学长安校区</location><participantscount>16</participantscount></event>
+	<event><title>Xi&apos;an GDG Meetup</title><chapterid>114935565019424673192</chapterid><description>本次活动我们有两个主题分享：
+
+1. ActiveSupport Instrumenter - by @AllenWei
+2. 项目管理之TOC(Theory of Constraints)介绍 - by @冯学雷
+
+Unconference部分（50mins）：
+本期讨论的主题是：软件项目从启动到交付过程中各个环节的各种坑**
+
+** 特别分享环节 (30mins):
+每个人向其他人分享一个有趣的东西或者一件有意思的事情
+
+欢迎大家在深秋的周末下午，来我们的老地方一聚，热茶备好，各种话题和讨论管够，天气渐寒，GDG组织永远温暖。:)﻿</description><start>2014.10.26 13:30</start><end>16:30</end><location>西安 卓奇咖啡</location><participantscount>18</participantscount></event>
+	<event><title>GDG西安2014 DevFest Season1</title><chapterid>114935565019424673192</chapterid><description> 9月21日, GDG西安将组织第一季的DevFest活动, 本次活动讲有以下内容:
+
+1. Web风向 - 张思楚，张文清，Web架构师
+2. AngularJS入门 - 张小虫
+3. 暖场游戏 - 马慈皎
+4. Android wear介绍
+5. Android wear codelab
+
+由于当天需要提供午饭, 所以请大家一定填写报名表(https://jinshuju.net/f/9jipcd), 防止来了后没饭吃哦. 另外, 当天会有现场coding的活动, 建议大家带上自己的笔记本, 同时提前装好Android Studio v0.8+. 现场会有礼物赠送哦, 数量有限, 先到先得!﻿</description><start>2014.09.21 00:00</start><end>00:00</end><location>中国陕西省西安市雁塔区高新六路葡萄城信息技术有限公司</location><participantscount>79</participantscount></event>
+	<event><title>世界开源软件日-西安电子科技大学站</title><chapterid>114935565019424673192</chapterid><description>1. 开源软件日介绍
+2. Android开发分享
+3. 开源精神
+4. Firefox OS介绍﻿</description><start>2014.09.20 15:00</start><end>18:00</end><location>中国陕西省西安市长安区西安电子科技大学长安校区</location><participantscount>127</participantscount></event>
+	<event><title>Web Developers Meetup</title><chapterid>114935565019424673192</chapterid><description>秋天来了，天气转凉，正是参加GDG社区活动的大好时机，本月的Web Developers Meetup我们会有很多有趣的话题，欢迎大家过来参与讨论和分享。本次活动我们有两个主题分享：&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
+
+1. 有趣有用的Locomotive CMS（30mins）。By Andy Wang&amp;lt;br&amp;gt;
+2. 硬件产品与创客空间（30mins）。By 王亚恒 &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
+
+** Unconference部分（50mins）：&amp;lt;br&amp;gt;
+我们本期讨论的主题是：**职业困境和职业规划**&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
+
+** 最后也不能少了我们的特别分享环节 (30mins)：&amp;lt;br&amp;gt;
+特别分享(每个人向其他人分享一个有趣的东西或者一件有意思的事情)&amp;lt;br&amp;gt;</description><start>2014.08.16 13:30</start><end>16:30</end><location>西安 锦业一路 软件园H座平台 卓奇咖啡</location><participantscount>11</participantscount></event>
+	<event><title>GDG西安7月份Meetup</title><chapterid>114935565019424673192</chapterid><description>Hi 伙伴们,
+
+GDG西安在沉默了一个月后, 终于又有新的活动了. 本次活动主要分享Google I/O 2014的一些消息, 同时还有LG的G watch可以供大家把玩, 还有酷酷的cardboard给大家带来VR(虚拟现实)的体验.
+
+我们的另一个话题是王琰同学为大家分享他的非洲见闻(主要是图片), 我看了一部分, 很不错!
+
+活动时间: 7月26日(本周六)下午1点30分
+活动地点: 锦业一路软件园H座2楼平台 卓奇咖啡﻿</description><start>2014.07.26 13:30</start><end>16:30</end><location>西安 锦业一路 软件园H座平台 卓奇咖啡</location><participantscount>27</participantscount></event>
+	<event><title>I/O&apos;14 Extended in Xi&apos;an</title><chapterid>114935565019424673192</chapterid><description>大家好，今年的 Google I/O 大会将在6月25日召开，咱们西安GDG也将会参与其中，用现场直播的方式，一起分享新鲜的技术动态和火热的现场气氛。
+
+作为一年之中最大规模的技术盛会（我不知道是不是之一），智能手表，模块化手机，诸多的新产品，新技术都会在大会上亮相。
+
+想要第一时间体会激情的开发者们，赶紧报名参与吧。
+
+时间：6月25日23时~6月26日1时，当日晚上10点半集结暖场 :)
+地点：在西安Thoughtworks办公室
+
+鉴于时间地点，公交车是不可能有了，请大家填一下下面这个报名表：
+https://jinshuju.net/f/eOIcjW       方便安排交通。﻿
+
+如果哪位想要更早到场，也没问题。﻿</description><start>2014.06.25 22:00</start><end>2014.06.26 02:00</end><location>https://www.google.com/maps/@34.1914126,108.8776262,18z</location><participantscount>22</participantscount></event>
+	<event><title>Developers Meetup (Google I/O &amp; I/O Extended Warmup)</title><chapterid>114935565019424673192</chapterid><description>- Session1 (30mins): Development against &quot;Production&quot; by @马博文 &amp;lt;br&amp;gt;
+- Session2 (30mins): Play with Raspberry Pi by @谢凌 &amp;lt;br&amp;gt;
+- Session3 (30mins): Introduction of Google I/O &amp;amp; I/O Extended @金天 &amp;lt;br&amp;gt;
+- Special Share (30mins): 特别分享(每个人向其他人分享一个有趣的东西或者一件有意思的事情)﻿ &amp;lt;br&amp;gt;</description><start>2014.06.14 13:30</start><end>16:30</end><location>西安，卓奇咖啡</location><participantscount>7</participantscount></event>
+	<event><title>西安GDG西电俱乐部活动</title><chapterid>114935565019424673192</chapterid><description>本次活动我们准备分享交流的主题如 下：
+
+近期Hackday参赛者的经历分享
+使用ThinkPHP框架的CURD实例
+局域网多人游戏编程
+iOS开发杂谈
+WWDC &amp;amp; 其他互联网新鲜事 讨论环节
+同时也欢迎大家准备属于你的东西来分享！
+大家尽可畅所欲言！欢迎大家！</description><start>2014.06.07 19:00</start><end>21:00</end><location>Xidian University （Chang&apos;an Campus）</location><participantscount>15</participantscount></event>
+	<event><title>GDG Meetup on May</title><chapterid>114935565019424673192</chapterid><description>本月25日, 周日下午1点半, 熟悉的葡萄城, 熟悉的GDG活动, 又要和大家见面啦!
+
+本次活动话题如下:
+
+1. CBB-技术成功转化为商业成功的最佳实践
+
+王博：大唐移动系统工程师，研究4G通信，技术宅男一个，专注TD-LTE研究，总体技术架构设计和解决方案设计。
+
+2. 一个海龟的留学及工作经历
+
+嘉宾简介：前IBM 开发经理，活跃网络产品经理，多年海外求学工作经验，现已转型开始个人创业旅程。
+
+3. 一个 C# 程序员对 Object-C 的理解
+
+Session 内容：讲述 iOS 开发中，需要使用的 Object-C语言，同时会比较 C# 语言和 Object-C 语言，让同听众能更加深入的了解 Object-C 语言。
+
+嘉宾简介：刘群，系统架构师，从事第一线的编程工作，已经有20年了，技术极客，服务于多个大型项目。精通各项技术：Win32/WinForm/.Net、控件开发、Web 前端/后端、技术Mentor，拥有丰富的软件开发实战经验。
+
+4. 精彩互动游戏, 内容保密
+
+欢迎各位朋友到时参加我们GDG的活动! 本次活动由葡萄城友情提供场地支持!
+葡萄城具体地址：高新六路与科技一路交口﻿</description><start>2014.05.25 13:00</start><end>16:00</end><location>中国陕西省西安市雁塔区高新六路葡萄城信息技术有限公司</location><participantscount>35</participantscount></event>
+	<event><title>Web Developers Meetup</title><chapterid>114935565019424673192</chapterid><description>1. Rails文件上传 - 邱健(Ruby/Rails Freelancer)
+2. Remote working experience and tools - AndyWang(Intridea Inc.)
+3. Ruby VS Underscore.js (functions/methods) - 郑伟(Thoughtworks)
+4. Special Share - 会鼓励大家交叉分享过去一个月各种有趣好玩的技术或者新事物。</description><start>2014.05.17 13:30</start><end>16:30</end><location>Xi&apos;an High-Tech Zone Chuangye Yanfayuan Zhuoqi Cafe</location><participantscount>13</participantscount></event>
+	<event><title>西邮GDG分享</title><chapterid>114935565019424673192</chapterid><description>西邮东区 教室：FZ203  第七八节课，也就是 16：00左右开始
+
+</description><start>2014.04.24 16:00</start><end>17:00</end><location>中国陕西省西安雁塔区长安南路西安邮电大学</location><participantscount>6</participantscount></event>
+	<event><title>2014年GDG第一次烧烤活动</title><chapterid>114935565019424673192</chapterid><description>春季到了, 也是时候出游了.
+
+本次GDG的活动, 就是带领大家到我们熟悉的秦岭去呼吸新鲜的空气, 品尝美味的烤肉!
+
+活动之前发过邀请了, 所有收到邀请的童鞋, 请准时乘坐预订的车辆﻿</description><start>2014.04.20 10:00</start><end>16:00</end><location>西安市 环山南路 海荣客棧</location><participantscount>31</participantscount></event>
+	<event><title>Web Developers Meetup</title><chapterid>114935565019424673192</chapterid><description>时间：2014年03月15日，下午1：30PM到4：30PM &amp;lt;br&amp;gt;
+地点：TW西安办公室旁边的卓奇咖啡厅 &amp;lt;br&amp;gt;
+Agenda：&amp;lt;br&amp;gt;
+- Session1 : Vim的使用经验 #75 by @xautjzd &amp;lt;br&amp;gt;
+- Session2 : Docker轻量级虚拟化 #132 by @iambowen &amp;lt;br&amp;gt;
+- Session3 : Akka框架介绍 by @毛超 &amp;lt;br&amp;gt;
+- Special Share : 特别分享(每个人向其他人分享一个有趣的东西或者一件有意思的事情)﻿ &amp;lt;br&amp;gt;</description><start>2014.03.15 13:30</start><end>16:30</end><location>西安，卓奇咖啡</location><participantscount>26</participantscount></event>
+	<event><title>Women Techmakers: Xi&apos;an</title><chapterid>114935565019424673192</chapterid><description>活动地点: 西安电子科技大学新校区大学生活动中心511
+
+活动内容:
+1. IBM开发经理讲述女性程序员路程
+2. ThoughtWorks资深工程师 - 走出女程序员的误区
+3. 社区组织者教大家如何科学上网
+4. 互动环节 - IT大比拼
+
+活动介绍:
+Women Techmakers活动是Google近期在全球组织的一个大型活动, 主要针对女性开发者, 关爱女性开发者. 3月8日是全球女性的节日, 所以我们的活动也选在这一天, 目的也是呼吁更多的人来关注和关爱我们女性开发者, 要重视我们女性开发者的力量.
+所有的女性开发者都欢迎参加本次活动, 届时会有小礼品发送. 当然, 我们也欢迎男性开发者参加活动, 但是就不能得到小礼品啦.</description><start>2014.03.08 13:00</start><end>17:00</end><location>中国陕西省西安长安区西安电子科技大学长安校区</location><participantscount>78</participantscount></event>
+	<event><title>Dart Flight School - Xi&apos;an</title><chapterid>114935565019424673192</chapterid><description>Dart Flight School - Xi&apos;an. GDG Xi&apos;an will hold an event called Dart Flight School. More information will be updated later.</description><start>2014.02.23 13:30</start><end>16:30</end><location>中国陕西省西安雁塔区科技二路百怡咖啡</location><participantscount>22</participantscount></event>
+	<event><title>Web Developers Meetup</title><chapterid>114935565019424673192</chapterid><description>时间：2014年02月22日，下午1：30PM到4：30PM &amp;lt;br&amp;gt;
+地点：西安市高新区锦业一路34号国家服务外包示范基地二区卓奇咖啡厅(Thoughtworks西安办公室旁边) &amp;lt;br&amp;gt;
+Agenda：&amp;lt;br&amp;gt;
+- Session1: Rails全站测试 by @毛超 &amp;lt;br&amp;gt;
+- Session2: Ruby Clean Code by @任晓君 &amp;lt;br&amp;gt;
+- Session3: DevArt头脑风暴 ( https://devart.withgoogle.com/ ) by @yorzi &amp;lt;br&amp;gt;
+- SpecialShare: 特别分享(每个人向其他人分享一个有趣的东西或者一件有意思的事情或者技术）</description><start>2014.02.22 13:30</start><end>16:30</end><location>Xian, Shaanxi, China</location><participantscount>24</participantscount></event>
+	<event><title>2014年GDG Xi&apos;an 第一次活动</title><chapterid>114935565019424673192</chapterid><description>干货一：【移动互联网的安全之困】
+干货二：【You are the director, the world is your movie】
+干货三：【Chrome扩展中那些迷人的特性】
+干货四：【持续演进的产品开发】</description><start>2014.01.12 13:30</start><end>17:30</end><location>中国陕西省西安市雁塔区高新六路34号西安葡萄城信息技术有限公司</location><participantscount>31</participantscount></event>
+	<event><title>西安欧亚学院 校园宣讲会</title><chapterid>114935565019424673192</chapterid><description>具体地点: 西安欧亚学院 图书馆学术报告厅
+
+1. 介绍GDG西安社区
+2. 介绍Google开发技术
+3. Git使用入门﻿</description><start>2013.12.29 19:00</start><end>21:00</end><location>中国陕西省西安雁塔区欧亚路西安欧亚学院</location><participantscount>200</participantscount></event>
+	<event><title>RoR Meetup</title><chapterid>114935565019424673192</chapterid><description>具体活动地点: TW西安办公室(高新区锦业一路软件园H座11楼)
+
+Agenda：
+- 一次抽奖
+- Session1 (30mins): Git &amp;amp; Git Workflow #70 by @allenwei
+- 二次抽奖
+- Session2 (30mins): HTML5 Communication by @roody
+- Session3 (30mins): 微信公众平台应用场景及开发介绍  by @yorzi
+- 三次抽奖
+- SpecialShare (30mins): 特别分享(每个人向其他人分享一个有趣的东西或者一件有意思的事情)</description><start>2013.12.21 13:00</start><end>16:00</end><location>西安市锦业一路ThoughtWorks办公室</location><participantscount>14</participantscount></event>
+	<event><title>GDG西安西电俱乐部十二月份活动</title><chapterid>114935565019424673192</chapterid><description>具体活动地点: 西电新校区G楼302
+1.蒋方朔 《Nginx配置》
+2.刘宇飞 《git使用基础》
+每个主题包括：
+20分钟的讲解环节
+40分钟的动手实践和讨论环节</description><start>2013.12.20 19:00</start><end>21:00</end><location>中国陕西省西安长安区西安电子科技大学长安校区</location><participantscount>13</participantscount></event>
+	<event><title>GDG Xi&apos;an 2013年12月周末活动</title><chapterid>114935565019424673192</chapterid><description>1.  Mario Qiu：《Alembic Database Migration》。
+2.  刘党浩：《微型公司财务系统DIY成果分享》。
+3.  Eric Jin：《魔方：避免鼠标手的一种思路》。﻿</description><start>2013.12.14 13:30</start><end>16:30</end><location>西安高新区科技二路72号西安软件园零壹广场一层百怡咖啡</location><participantscount>26</participantscount></event>
+	<event><title>西安邮电大学 校园宣讲会</title><chapterid>114935565019424673192</chapterid><description>具体地点: 西安邮电大学长安校区 二号实验楼134
+
+1. 介绍GDG西安社区
+2. 介绍Google开发技术
+3. Android开发入门</description><start>2013.11.24 19:00</start><end>21:00</end><location>西安邮电大学长安校区 二号实验楼134</location><participantscount>166</participantscount></event>
+	<event><title>November Meetup</title><chapterid>114935565019424673192</chapterid><description>Talk about web developing</description><start>2013.11.16 13:00</start><end>15:00</end><location>陕西省西安市锦业一路ThoughtWorks办公室</location><participantscount>13</participantscount></event>
+	<event><title>西安交通大学宣讲会</title><chapterid>114935565019424673192</chapterid><description>继西安电子科技大学之后, GDG西安再次走进学校, 本次我们走进的学校是西安排名第一的西安交通大学.
+
+本次活动主要以宣传GDG西安社区, 宣传谷歌开发技术为主, 主要topic有:
+
+1. 谷歌技术介绍
+2. GDG西安社区介绍</description><start>2013.10.20 14:00</start><end>16:00</end><location>中国陕西省西安碑林区咸宁西路西安交通大学</location><participantscount>1</participantscount></event>
+	<event><title>Rubyist meetup</title><chapterid>114935565019424673192</chapterid><description>本期活动主要讨论一些如何用ruby搭建application/service, 为前端提供数据支持的相关话题, 还会讨论一些HPC和云计算的内容</description><start>2013.10.19 13:00</start><end>16:00</end><location>ThoughtWorks, Jin Ye Yi Lu, Xi&apos;an, Shaanxi Province</location><participantscount>15</participantscount></event>
+	<event><title>开源软件日活动</title><chapterid>114935565019424673192</chapterid><description>这是GDG西安和GDG西安西电俱乐部一起举办的活动, 为了庆祝伟大的开源软件日
+
+本次活动具体地址: 西安电子科技大学新校区D楼205教室
+
+欢迎所有西电的学生参加本地活动</description><start>2013.09.22 19:00</start><end>21:00</end><location>陕西省西安市西沣路兴隆段266号</location><participantscount>112</participantscount></event>
+	<event><title>GDG Xi&apos;an DevFest on Sep 15th</title><chapterid>114935565019424673192</chapterid><description> 
+DevFest是一个开发者的节日, 所有的开发者将聚集在一起, 开一个属于自己的聚会. 零食, 啤酒, 讨论, 争论, 游戏, 应有尽有.
+还在想什么? 赶紧加入我们吧!
+
+本次活动将在西安拥有最佳办公环境的葡萄城公司举办!</description><start>2013.09.15 10:00</start><end>18:00</end><location>中国陕西省西安市雁塔区高新六路葡萄城信息技术有限公司</location><participantscount>50</participantscount></event>
+	<event><title>GDG Xi&apos;an Aug Mid-week Event</title><chapterid>114935565019424673192</chapterid><description>Today we will talk about HTML5</description><start>2013.08.28 19:30</start><end>21:00</end><location>Blenz Coffee, Xi&apos;an, shaanxi, China</location><participantscount>13</participantscount></event>
+	<event><title>GDG Xi&apos;an Aug Event</title><chapterid>114935565019424673192</chapterid><description>就在最近，西安GDG与合肥GDG共同展开了两地交流活动方面的合作尝试，由两地(不是两岸哦)开发者和分享嘉宾共同为大家呈现一组精彩的交流活动。大家请在参与时带上电脑和VPN，我们使用G+环聊进行现场直播（Hangout On Air)，大家可在空闲时间里进行自由交流。
+
+安排如下：
+
+时间：8月18日下午两点到五点半
+地点：西安高新区科技二路零壹广场一楼百怡咖啡
+
+2:00 - 2:15 分享嘉宾及自我介绍（合肥-西安）
+2:15 - 3:30 移动终端交互设计 - 静者（合肥）
+3:30 - 3:40 两地开发者自由交流
+3:40 - 4:10 Chrome插件开发（西安）
+4:10 - 4:30 《书圈》应用的开发故事和介绍（西安）
+4:30 - 5:00 新版Nexus7介绍（西安）
+5:00 - 5:20 互动环节，现场交流
+5:20 - 5:30 开发者集体拍照，合影</description><start>2013.08.18 14:00</start><end>17:30</end><location>中国陕西省西安市雁塔区科技二路百怡咖啡</location><participantscount>25</participantscount></event>
+	<event><title>GDG Xi&apos;an Event Jul</title><chapterid>114935565019424673192</chapterid><description>Will share as follow:
+1. GDL session about android and google glass
+2. Ingress game</description><start>2013.07.13 13:30</start><end>17:00</end><location>Best Cafe, keji 2nd road, xi&apos;an</location><participantscount>17</participantscount></event>
+	<event><title>Google I/O 2013 Share</title><chapterid>114935565019424673192</chapterid><description>&amp;lt;ol&amp;gt;
+&amp;lt;li&amp;gt;Share Keynote of Google I/O&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Share sessions from Google I/O&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Watch session video if someone&apos;s interested&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Share Photos and experience of US trip&amp;lt;/li&amp;gt;
+&amp;lt;/ol&amp;gt;</description><start>2013.06.15 13:30</start><end>16:30</end><location>Xi&apos;an, Shaanxi, China</location><participantscount>20</participantscount></event>
+	<event><title>GDG Xi&apos;an - Xidian University Technology Discussion</title><chapterid>114935565019424673192</chapterid><description>Students will stick together discussing technical issues they faced in last month.</description><start>2013.06.13 18:00</start><end>21:30</end><location>Xidian University, Xi&apos;an, China</location><participantscount>13</participantscount></event>
+	<event><title>Code Jam in Xidian University</title><chapterid>114935565019424673192</chapterid><description>All students in Xidian University are welcomed. You have to pick up at least a member in your team, each team will have at most 4 members.</description><start>2013.04.12 00:00</start><end>2013.04.14 00:00</end><location>xidian university, xi&apos;an, shaanxi</location><participantscount>30</participantscount></event>
+	<event><title>GDG Xi&apos;an 三月份活动 </title><chapterid>114935565019424673192</chapterid><description>GDG Xi&apos;an 三月份活动
+倏忽之间，2013的春天就来了，GDG Xi&apos;an 今春的第一次活动也要来了。
+距我们一月份的活动已经过去了两个多月，颇有些想念大家。
+活动时间: 3月16日 下午1点30分
+活动地点: 科技二路软件园 秦风阁A座 D201 活跃网络办公室
+活动内容: 1. 邱建分享Google技术开发中的一些经验
+                2. David分享2013年的活动计划和活动类型介绍（例如，什么是DevFest，如何利用Hangouts等）。
+                3. 自由发挥。聊天面基，探讨技术，预约春游腐败等等，什么开心聊什么。
+                4. 诸位高手有什么心得，一定不要客气，请多多分享给大家。</description><start>2013.03.16 13:00</start><end>18:00</end><location>西安软件园, Keji 2nd Road, Xi&apos;an, Shaanxi, China</location><participantscount>24</participantscount></event>
+	<event><title>GDG Xi&apos;an Jan Conference</title><chapterid>114935565019424673192</chapterid><description>We will talk about what people are recenlty working on. Some guy will show his new project.</description><start>2013.01.12 01:30</start><end>02:30</end><location>ruanjianyuan, Tuanjie South Road, Xi&apos;an, Shaanxi, China</location><participantscount>14</participantscount></event>
+	<event><title>Xidian University Conversation</title><chapterid>114935565019424673192</chapterid><description>GDG will have a conversation with students in Xidian University to talk about google technologies.</description><start>2013.01.07 19:00</start><end>20:00</end><location>Xi&apos;an, Shaanxi, China</location><participantscount>50</participantscount></event>
+	<event><title>GDG Xi&apos;an Campus - First Stop: Xidian University</title><chapterid>114935565019424673192</chapterid><description>GDG Xi&apos;an will start a series of campus events for the next year, the first stop is Xidian University.</description><start>2012.10.27 14:00</start><end>16:00</end><location></location><participantscount></participantscount></event>
+	<event><title>Android Technical lecture</title><chapterid>114935565019424673192</chapterid><description>&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Attendees: &amp;lt;/strong&amp;gt;post graduate students from Xi Dian University&amp;lt;strong&amp;gt;Instructor&amp;lt;/strong&amp;gt;: Zuo Buoyun, senior Android developer from Beyondsoft&amp;lt;strong&amp;gt;Training purpose&amp;lt;/strong&amp;gt;: introduce basic Android development knowledge, attract students to attend online training by Beyondsoft Consulting&amp;lt;/p&amp;gt;</description><start>2010.12.24 10:00</start><end>12:00</end><location>Xi&apos;an,China</location><participantscount></participantscount></event>
+	<event><title>Android Top Gun Training</title><chapterid>114935565019424673192</chapterid><description>&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Instructor&amp;lt;/strong&amp;gt;: Zuo Buoyun, senior Android developer from Beyondsoft&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Training purpose&amp;lt;/strong&amp;gt;: Build talent pool for Beyondsoft; Let more people know about Android&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt; &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;&quot;This Android training class was a perfect introduction to developing Android. It has improved my Android skills where I learnt new things and the sessions are friendly and interactive. &quot;&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt; &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The weekend Android Top Gun Development Training Camp has concluded. Over 20 participants enjoyed a nice class by studying and communicating. They’ve learned a lot from the well-designed Android training camp and gave the instructor and the content high marks:&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt; &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;“Very thorough with great details and explanations. It helped me understand more about Android development.”&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt; &amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;“Boyun did an excellent job. He had in-depth topic knowledge and a superior ability to convey it. He didn&apos;t hesitate on questions. Highly recommended.”&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt; &amp;lt;/p&amp;gt;</description><start>2010.12.12 09:00</start><end>2011.01.16 18:00</end><location>Xi&apos;an,China</location><participantscount></participantscount></event>
+	<event><title>Android Top Gun Training Certificate Awarding Ceremony</title><chapterid>114935565019424673192</chapterid><description>&amp;lt;p&amp;gt;Android Top Gun Training Certificate Awarding Ceremony&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;On behalf of GTUGs, XI’AN GTUG organized an event for local Android developers who have been trained by Android Top Gun Remote Training, with instructors, also senior developers from USA , on August 1, 2010.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt; &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;This event was held at A 401, Ascendas Innovation Hub, Xi’an Software Park, Xi’an High-tech Zone, there was 10 participants who are developers from different companies while with the same interest in Android developing, and other 5 organizers from Beyondsoft Xi’an. In the meeting, the developers chat with each other and shared their developing experience together, with fruits and snacks prepared by the sponsor BeyondSoft, Xian.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt; &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;After several hours of communication, most of the developers became very interested in Gtug Event and Beyondsoft, and wish to attend next time and know more friends in software field so that they can share more information and also get relaxed in their spare time.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt; &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;After GTUG events were held successfully for several times, and with the support of sponsor Beyondsoft and the Android developers who are interested in participating GTUG events, the local developers’ community will surely become more and more influential in Xi’an and bring the companies a large talent pool.&amp;lt;/p&amp;gt;</description><start>2010.08.01 09:00</start><end>12:30</end><location>Xi&apos;an,China</location><participantscount></participantscount></event>
+	<event><title>Android Programming Contest in Xidian University</title><chapterid>114935565019424673192</chapterid><description>&amp;lt;p&amp;gt;The contest is held by Xi’an GTUG (Google Technology User Group) and Xidian University (the best university of Xi’an in computer science and technology), sponsored by BeyondSoft. The participants mainly majoring in Computer Science and Technology have to be undergraduate or graduate students in Xidian University. After 24 professional Android training courses by specially invited instructors , the students are required to offer their works which can be any programs for Smartphone、play or Application software that are running on Android SDK2.0 OS within a specific time period. Thereafter the excellent works will be selected by the professional judges, and the 15 winners out of 200 will be awarded a Google HTC G1 Mobile Phone and other prizes like Mp4. Besides, BeyondSoft also provides internship opportunities for excellent students. What’s more, some of the works are very professional so that they can be put on Android Market.&amp;lt;/p&amp;gt;</description><start>2010.05.07 15:00</start><end>2010.06.20 17:30</end><location>Xi&apos;an,China</location><participantscount></participantscount></event>
+	<event><title>Android Top Gun Training</title><chapterid>114935565019424673192</chapterid><description>&amp;lt;p&amp;gt;Held by Xi’an GTUG (Google Technology User Group), the Android Top Gun Training combines two parts: scene lecture by an honored guest David Cao and on-line course by senior Android developers Jian Zhang and Nelson from Silicon Valley, U.S. The course arrangement is the same as Android Top Gun Training in Silicon Valley, U.S. This could be the best chance to know the latest technology and prospect of Android development. There are 50 audience including senior developers from local company, managers and technical directors, etc.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt; &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt; &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt; &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt; &amp;lt;/p&amp;gt;</description><start>2010.04.24 08:30</start><end>2010.04.25 17:30</end><location>Xi&apos;an,China</location><participantscount></participantscount></event>
+	<event><title>Android –the Future of Mobile Computing</title><chapterid>114935565019424673192</chapterid><description>On behalf of Xi’an GTUG, David Cao makes this special speech mainly point to the students who are interested in Smartphone software engineering, which aims at introducing the new product to Xi’an and drawing attention of the potential developers for future Android development. There are more than 350 audiences who are university students and professors attending the lecture, and it enjoys wide publication through the lecture.</description><start>2010.04.23 09:00</start><end>15:00</end><location>Xi&apos;an,China</location><participantscount></participantscount></event>
+	<event><title>Android Technical Discussion</title><chapterid>114935565019424673192</chapterid><description>Small gethering with Android developers. &amp;lt;br&amp;gt;Agenda:&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;1 Introduction&amp;lt;br&amp;gt;2 Demo on Motorola Droid &amp;lt;br&amp;gt;3 Demo on few Android Apps. &amp;lt;br&amp;gt;          Kai: Battle Fart.&amp;lt;br&amp;gt;4 Table topics</description><start>2010.03.04 16:00</start><end>17:30</end><location>Xi&apos;an,Shannxi,China</location><participantscount></participantscount></event>
+	<event><title>Xi&apos;an GTUG Event Planning Meting</title><chapterid>114935565019424673192</chapterid><description>Meeting to prepare the Android training event at Nov 10th evening.</description><start>2009.11.07 10:00</start><end>11:00</end><location>Xi&apos;an,Shaanxi,China</location><participantscount></participantscount></event>
+	<event><title>Xi&apos;an GTUG Pre-kick office meting</title><chapterid>114935565019424673192</chapterid><description>All the volunteers and assisting organizers  and some founding members meet together to discuss &amp;lt;br&amp;gt;&amp;lt;span&amp;gt;1 Xian-GTUG  kick meeting&amp;lt;br&amp;gt;&amp;lt;span&amp;gt;2 Preparation for &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;the GTUG event at Nov 9th or 10th.&amp;lt;br&amp;gt;&amp;lt;span&amp;gt; &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;</description><start>2009.09.18 11:00</start><end>12:00</end><location>Xian,Shaanxi,China</location><participantscount></participantscount></event>
+</events>
+</data>

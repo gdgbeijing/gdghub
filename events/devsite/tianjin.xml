@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<number>27</number>
+<events>
+	<event><title>I/O Extended Tianjin 2017</title><chapterid>105969102740437964990</chapterid><description>&amp;lt;p&amp;gt;Google I/O是由Google公司在美国硅谷举行的一年一度为期两天或三天的开发者大会，意为Innovation in Open，在开放中创新，和GDG的开放，分享，创新的理念相吻合。其内容包括聆听鼓舞人心的演讲，亲身参与动手学习和体验Google最新的开发阶段的产品。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Google I/O 2017将于5月17-19号举办，地点和去年一样在Google总部山景城的。但IO并不应该局限于硅谷，全球103个国家共计600多个GDG社区都将进行I/O Extended活动，并且由Google独家赞助和支持，将IO带给全世界。天津GDG也将于17号晚进行I/O Keynote直播之夜活动。&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;本次I/O会有两个Keynote（见下面日程链接），我们还是像以前一样，组织大家一起围观开场的Google Keynote（1.5hr），而当天下午的Developer Keynote（1hr）我们也推荐大家关注一下，有条件的可以看直播。如果大家有兴趣，天津GDG也会找时间组织一次围观Developer Keynote的录像。&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;活动地点：天津市南开区凌奥创意产业园三期南商业3号楼4门201&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;高德地图：https://f.amap.com/6oE6N_0ED2n08 &amp;lt;/p&amp;gt;</description><start>2017.05.17 22:30</start><end>2017.05.18 02:30</end><location>中国天津市南开区天津凌奥创意产业园</location><participantscount>29</participantscount></event>
+	<event><title>Women Techmakers Tianjin 2017</title><chapterid>105969102740437964990</chapterid><description>&amp;lt;p&amp;gt;Google 长期致力于在全球范围内搭建更具包容性的工作环境，其中很关键的一点就是给与女性更多机会去实现梦想，并帮助她们创造改变世界的工具。通过提供适宜的环境和政策，女性可以在科学技术上更加快速地成长，获得更高的价值实现。&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;Women Techmakers （WTM，女性开发者大会）项目是由 GDG (谷歌开发者社区) 的 Women Tech Lead 发起并组织，旨在鼓励和促进女性在技术领域的参与，从而使得更多的女性开发者、女性设计师和科技型公司女性企业家成长、提升和成功。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;这一天会是天津Women Techmakers的节日，我们希望嘉宾们的精彩分享可以给大家从新的视角和思路去看待现实中的问题或选择，如果真能给你的学习工作带来有价值的启发和帮助那就是我们这次活动最大的愿望。&amp;lt;/p&amp;gt;</description><start>2017.04.15 00:00</start><end>00:00</end><location>中国天津市南开区南开大学伯苓楼</location><participantscount>248</participantscount></event>
+	<event><title>前端程序员应该了解的V8知识</title><chapterid>105969102740437964990</chapterid><description>&amp;lt;p&amp;gt;对于每个前端程序员来讲都有一个终极理想，那就是搞懂 JavaScript 引擎是如何工作的。JavaScript 性能经过了两次飞跃：第 1 次飞跃是 2008 年 V8 发布，第 2 次则是 2017 年的 WebAssembly。不过 WebAssembly 到底能不能掀起前端的波澜还是未知数，但是 V8 对前端的贡献大家都有目共睹。这次我们邀请技术大牛王松老师 （昵称 @justjavac），从前端程序员的视角来给大家讲讲V8。&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;王松老师从去年底开始连载“V8引擎专栏”（微信公众号 justjavac-blog），记录自己学习 V8 源码的点点滴滴。这次来天津GDG，给大家带来了《前端程序员应该了解的V8知识》和《浅析大前端》两个精彩的分享。最后也会和参加活动的朋友一起互动交流。&amp;lt;/p&amp;gt;
+&amp;lt;br&amp;gt;- 我为什么要研究V8
+&amp;lt;br&amp;gt;- V8 为什么这么快？
+&amp;lt;br&amp;gt;- 如何编写高性能的 JS 代码
+&amp;lt;br&amp;gt;- 可读性 VS 高性能
+
+&amp;lt;p&amp;gt;活动地点：天津市南开区凌奥创意产业园三期南商业3号楼4门201&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&quot;http://f.amap.com/6oE6N_0ED2n08 &quot;&amp;gt;高德地图&amp;lt;/a&amp;gt;
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;加入社区的方式：发送任意内容到 gdg-tianjin+subscribe@googlegroups.com 收到邮件列表的确认邮件后，直接回复即可加入。
+&amp;lt;/p&amp;gt;</description><start>2017.03.25 14:00</start><end>17:00</end><location>中国天津市南开区凌宾路凌奥创意产业园4号楼</location><participantscount>64</participantscount></event>
+	<event><title>2017 Tensor Flow Summit Recap</title><chapterid>105969102740437964990</chapterid><description>天津GDG第一次TensorFlow专题活动，组织观看2017 TensorFlow Summit的峰会录像，并进行自由讨论。
+
+具体内容详见：https://events.withgoogle.com/tensorflow-dev-summit/
+</description><start>2017.02.25 13:30</start><end>18:30</end><location>中国天津市南开区凌奥创意园三期</location><participantscount>64</participantscount></event>
+	<event><title>DevFest 2016</title><chapterid>105969102740437964990</chapterid><description>一年一度的谷歌开发者盛宴：DevFest 又来了。
+
+谷歌开发者节（DevFest） 是由社区组织的全球性、年度性的大会，通常在世界各地各个城市每年的9月到11月进行，本次DevFest是天津谷歌开发者社区（天津GDG）举办的第三届。经过长时间的交流与准备，我们请到多位资深开发者和工程师，与大家分享2016年最新最热的技术：PWA、ML、虚拟化（LXC、Docker等）、IoT等。
+
+相信这是天津本地开发者的盛宴，最需要的是您的参与和支持！</description><start>2016.11.26 13:30</start><end>18:30</end><location>中国天津市南开区白堤路238号</location><participantscount>211</participantscount></event>
+	<event><title>Node.js入门：从0开始写一个基于Koa的Web框架</title><chapterid>105969102740437964990</chapterid><description>随着WEB技术的发展，Javascript、HTML等都获得了空前的进化，每过一段时间都会涌现各种框架和库，尤其是以Chrome V8为核心的Node.js更将Javascript领域从WEB延伸到了服务端的backend。
+
+这次邀请国内著名的Node.js专家i5ting，这次将以Node.js著名的Koa这个WEB框架为基础，手把手和大家一起做一个web项目。
+
+无论大家什么基础都可以来听。</description><start>2016.10.16 09:30</start><end>11:30</end><location>中国天津市南开区白堤路42号百豪国际视听广场</location><participantscount>93</participantscount></event>
+	<event><title>吃着 Android “牛轧糖” ，坐着Google Play出海</title><chapterid>105969102740437964990</chapterid><description>1.	回顾本次IO大会Android相关主题：Android 7 SDK、Android Studio 2.2最新特性、Instant App、App Indexing等等
+2.	回顾本次IO大会中Google Play相关主题；
+3.	自由讨论
+</description><start>2016.08.06 14:00</start><end>17:00</end><location>中国天津南开区卫津路南开大学</location><participantscount>23</participantscount></event>
+	<event><title>无人飞行器 workshop </title><chapterid>105969102740437964990</chapterid><description>GDG的活动不仅仅有软件，必须还有硬件和各种黑科技。大家期待已久的无人机workshop活动要开始啦。
+
+其实无人机是个大概念的统称，我们常见的所谓无人机的真实名称应该叫做多旋翼飞行器，而此次分享的就是多旋翼飞行器中最常见的四轴飞行器。本次分享从四轴飞行器的原理讲起，一步一步带你组装一套自己的四轴，当然既然是玩硬的，到最后我们还会进行室外试飞。欢迎朋友们踊跃参加。
+
+本次活动中，大家会亲手参与无人机从零件到组装、了解飞控系统的基础知识及开发过程。讲师还会给大家介绍开源的飞控系统，以及与Google最近刚刚推出的 Firebase 系统的整合探索等各种新鲜知识。﻿</description><start>2016.07.23 14:00</start><end>17:00</end><location>中国天津市西青区梓苑路20号</location><participantscount>27</participantscount></event>
+	<event><title>IO Redux 2016</title><chapterid>105969102740437964990</chapterid><description>I/O 2016已经结束，亲临大会的天津GDG的组织者为天津的朋友带来本次大会最全的回顾，我们从这次逐步会针对本次大会中重点的Firebase、TFU、Physical Web、PWA、VR、Android等技术点分别介绍。
+同时我们在最后会安排一个圆桌沙龙环节，邀请嘉宾与大家一起分享对这些技术的展望和想法。</description><start>2016.06.25 14:00</start><end>18:00</end><location>中国天津市西青区梓苑路20号</location><participantscount>28</participantscount></event>
+	<event><title>I/O Extended 2016 Tianjin</title><chapterid>105969102740437964990</chapterid><description>I/O Extended 2016 Tianjin</description><start>2016.05.18 22:00</start><end>2016.05.19 03:00</end><location>中国天津市西青区梓苑路20号</location><participantscount>62</participantscount></event>
+	<event><title>Women Techmakers 2016</title><chapterid>105969102740437964990</chapterid><description>「Tech is the new sexy」
+
+在谷歌，有非常多优秀的女性工程师，遍布全球。不仅如此，谷歌也非常关注如何给予女性更多的机会去实现梦想，并帮助她们创造改变世界的工具。
+
+Women Techmakers（WTM，女性开发者大会）项目孕育而生。当社会能提供适宜的环境和政策，女性可以在科学技术上更加快速地成长，获得更高的价值实现。WTM 旨在鼓励和促进女性在技术领域的参与，从而使得更多的女性开发者、女性设计师和科技型公司女性企业家成长、提升和成功。
+
+WTM这是一场献给所有IT技术、互联网行业姐妹们的盛会。让我们齐聚一堂，畅享在成长过程中遇到的挑战，聆听对女性职业发展的建议，学习流行的 IT 技术和创新方法，以及对“向前一步”的独到见解。</description><start>2016.04.16 13:30</start><end>17:30</end><location>中国天津市西青区梓苑路20号</location><participantscount>68</participantscount></event>
+	<event><title>2016 Study Jams China Eagle Group (SJ48）</title><chapterid>105969102740437964990</chapterid><description>&amp;lt;div class=&quot;Ct&quot;&amp;gt;&quot;我们是来自中国的“StudyJams-雄鹰”小组，我们团都由来自不同城市的11个成员组成。我们拥有共同的梦想，我们为Android而执着，我们饱含热情，我们就坚持认真，在学习中相互帮助，解决困难。我们希望通过这次的StudyJams的学习之旅，使我们具备Android开发知识，拥有Android开发的能力。我们大胆创新，立志把我们的团队变得强大。我们相信通过我们的共同努力必将使我们获得优秀的成绩！&amp;lt;br&amp;gt;We are the group of the StudyJams-Eagle from China.Our group is composed of 121members.We come from different cities across the country.We have the common dream,we attached to Android.We are full the enthusiasm.We are creative.We believed that with the joint efforts of us,we must be stronger!&quot;&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;小组论坛链接：&amp;lt;a class=&quot;ot-anchor aaTEdf&quot; dir=&quot;ltr&quot; href=&quot;http://www.studyjamscn.com/group-238-1.html&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&amp;gt;http://www.studyjamscn.com/group-238-1.html&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;感谢 Google Developers StudyJams ﻿&amp;lt;/div&amp;gt;</description><start>2016.04.01 19:00</start><end>2016.04.30 21:00</end><location>中国山东省烟台市</location><participantscount>21</participantscount></event>
+	<event><title>2016 Study Jams China StudyJams-HelloWord Group (SJ28）</title><chapterid>105969102740437964990</chapterid><description>&amp;lt;div class=&quot;Ct&quot;&amp;gt;我们是来自中国的StudyJam-28学习狂魔小组，我们因大名鼎鼎的google而自发聚集在一起，学习android，也不仅仅是android。我们相信，学习安卓，没有比这个平台更地道，更原汁原味的了，事实也证明了这一点。我们极度认同google的价值观，don‘t be evil 。看似不起眼，却透出着满满的自信。google是我们的榜样，我们愿意宣扬google的技术和价值，make the world better.&amp;lt;br&amp;gt;小组论坛链接：&amp;lt;a class=&quot;ot-anchor aaTEdf&quot; dir=&quot;ltr&quot; href=&quot;http://www.studyjamscn.com/group-225-1.html&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&amp;gt;http://www.studyjamscn.com/group-225-1.html&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;感谢 Google Developers StudyJams &amp;lt;/div&amp;gt;</description><start>2016.03.30 19:00</start><end>2016.04.30 21:00</end><location>中国山东省济南市</location><participantscount>14</participantscount></event>
+	<event><title>CardBoard 及 VR 开发技术初探</title><chapterid>105969102740437964990</chapterid><description>这次活动我们选择的主题是 VR 技术，众所周知，VR 已经成为交互体验技术的分水岭，VR 最终将实现人与计算机之间的无缝、紧密交互，而谷歌公司推出的一系列 VR 技术产品和开发平台，为我们开发者初步探索这一技术提供了非常好的资源。
+
+本次活动，我们请到 VR 技术的先行者，也是天津GDG新到任的组织者王栋老师，以及师文轩针对 VR 技术、CardBoard 等为大家做详细的讲解，并带领大家亲自动手，制作简单的 VR 视频和小游戏。
+
+本次活动的大体议程如下：
+
+什么是 VR ？ VR的基础概念
+VR 的具体应用场景
+VR 的内容制作方法
+带领大家亲自动手做 VR 应用</description><start>2016.03.12 14:00</start><end>17:00</end><location>中国天津市南开区天津科创科技企业咨询服务中心</location><participantscount>54</participantscount></event>
+	<event><title>设计思维观影会</title><chapterid>105969102740437964990</chapterid><description>设计思维（Design Thinking）是一个以人为本的解决问题方法论，透过从人的需求出发，为各种议题寻求创新解决方案，并创造更多的可能性。IDEO设计公司总裁蒂姆·布朗曾在《哈佛商业评论》定义：“设计思考是以人为本的设计精神与方法，考虑人的需求、行为，也考量科技或商业的可行性。”
+
+设计思维告诉我们：设计不仅是设计师的专利，我们每个人、每个企业都可以运用设计方法积极的来改变世界；解决问题的出发点不应该是新技术、新商业模式，而是用户需求；不要永远只用分析思维来看待任何问题，不要着急去寻找看似正确的答案，而要先学会问对问题，并使用发散思维考虑各种看似无关的可能性；包容失败，相信失败是学习的过程；最后不要只谈理论，摆弄数据，动手是最好的思考过程，在动手呈现想法的同时你的创意将得到验证和改善。
+
+《设计与思考》就是以这种创新方式拍摄而成的纪录片，发行方式与众不同。一经推出受到的全球各大企业或团队（Google、Microsoft等）、学校等团体的推崇，成为了当今热门话题。这部记录片也是大家系统了解“设计思维”的最好方式。</description><start>2015.12.19 14:00</start><end>17:00</end><location>中国天津市南开区卫津路南开大学</location><participantscount>71</participantscount></event>
+	<event><title>敏捷之旅天津站2015</title><chapterid>105969102740437964990</chapterid><description> 
+什么是敏捷？
+敏捷是一种从1990年代开始逐渐引起广泛关注的一些新型软件开发方法，是一种应对快速变化的需求与技术的一种软件开发能力，更是一种灵活务实的思维方式。它更强调开发团队与业务专家之间的紧密协作、面对面的沟通、快速反馈、频繁交付可用的软件版本、紧凑且自组织的团队、能适应需求变化的代码编写能力和团队组织结构，也更注重人的作用。
+什么是敏捷之旅？
+敏捷之旅（Agile Tour）是每年一度的非营利性系列会议，总部位于法国，旨在把敏捷社区联系起来，提供一个高效、有趣的敏捷开发学习途径，在全球范围内推广敏捷开发思想和实践，帮助企业更好的实施敏捷。该系列会议分别在全球众多城市召开，从10月份开始到12月份结束前后历时数月。如今已步入第8个年头，敏捷之旅目前正走向全球，并且获得了敏捷联盟（Agile Alliance）及Scrum联盟（Scrum Alliance）的支持。敏捷之旅中国从成都站开始，到今年已经有20个城市举办过敏捷之旅，每年参会人数达到2000多人。天津敏捷之旅从2011年开始举办，已经走过了四个年头。（参与敏捷之旅可以在ScrumAlliance申请SEU学分）
+
+为了共建天津本地的IT生态，天津谷歌开发者社区参与协办2015年敏捷之旅天津站活动，我们也期望通过本次活动能结识更多的本地经验丰富的朋友，听到更多本地的敏捷经验。</description><start>2015.12.05 00:00</start><end>00:00</end><location>中国天津市天津南开区凌宾路A.HOTEL＆SPA</location><participantscount>74</participantscount></event>
+	<event><title>天津GDG 2015 DevFest</title><chapterid>105969102740437964990</chapterid><description>一年一度 谷歌开发者节 天津GDG  DevFest 2015，又来了。
+
+谷歌开发者节DevFest 是由社区组织的全球性、年度性的大会，通常在世界各地各个城市每年的9月到11月进行，这是天津GDG举办的第二届。这次大会除了Go、Web、Material Design等产品技术演讲，还有VR Cardboard 展示和互动。
+
+本次活动邀请多位嘉宾，分享创业、创新、安全等多个热门话题，并与大家互动交流。这是开发者的节日，也是天津本土创新和创业者的节日，最需要的是您的参与！
+
+时间：11月21日 周六下午1点
+地点：天津工业大学会议中心第七会议室
+
+主办：天津谷歌开发者社区
+协办：天津工业大学工程教学实习训练中心、谷歌</description><start>2015.11.21 13:00</start><end>18:30</end><location>中国天津西青区天津工业大学新校区</location><participantscount>154</participantscount></event>
+	<event><title>互联网基础：IP地址库的故事</title><chapterid>105969102740437964990</chapterid><description>网络已经是我们工作、生活和学习离不开的基础设施。网络从技术上看包含了各种的协议和规范，很多协议和规范是不断进化完善，有些也逐步淘汰废弃。但IP地址是众多网络技术中，自始至终中不可或缺的基础协议，虽然很不起眼，但没了这个也就没有网络。IP地址是庞大的网络中的每个设备的标签，如果没有IP地址，就好比没有任何门牌号码房子，人们几乎找到不它。
+
+做过互联网产品的技术人员、商务人员都知道，IP地址库是最基本也是最重要的一个数据标签。这些信息可以帮助运维与开发人员的日志分析和异常追踪；可以辅助产品提供客观的客户行为分析和流量分析来完善产品；可以为市场和销售团队提供精准的广告定向投放；也可以为众多的CDN / DNS / VPN这些基础网络服务提供准确的节点调度等等。
+
+随着IPV4网络资源的耗尽，很多IP地址信息不是一成不变，而是在不断的变换。我们可能都遇到过虽然我们在天津，但登录某些网站确显示河南的信息，这个时候网络服务商即使推送和提供再好的服务或产品对远在天津的客户也是然并卵的。所以在现在电商、O2O服务大行其道的今天，IP地址库已经成为了最基础的网络信息服务。虽然道理很简单，但想做好做准确缺很难。
+
+天津GDG邀请了中国互联网第一人高春辉来为大家讲讲IP地址库的那些事儿。老网友应该对高春辉的名字不会陌生，老高是一名成功的连续创业者，他是：金山卓越电脑资讯站创始人、天下网创始人、手机之家网站创始人、ECSHOP软件创始人、《爱壁纸》应用创始人、也是目前国内最大最全更新最及时准确的互联网基础服务平台ipip.net的创始人。老高拥有丰富的开发（PHP、Java、Python、Go…)经验，尤其是设计和运营过几个访问量和流量极大的网站，对互联网和创业都有很深的理解。对这些感兴趣的朋友欢迎来参加本次活动，老高会与大伙进行深入的互动和沟通。
+
+对于网络协议和规范熟悉的朋友请略过本段内容。如果对网络技术不是很熟悉的，建议先Google简单了解一下相关概念，比如IP地址（IPV4和IPV6）、Anycast（任播）、BGP、AS（自治域，ASN）、CIDR（无类别域间路由）、DNS等等。</description><start>2015.11.07 14:30</start><end>17:00</end><location>中国天津市天津南开区天津市科技创业服务中心</location><participantscount>34</participantscount></event>
+	<event><title>2015 IO Redux</title><chapterid>105969102740437964990</chapterid><description>GDG全球峰有什么好内容，本次IO大会有啥新鲜热辣的新技术和黑科技？
+由专程赴美参加两大活动的天津GDG组织者师文轩和刘鹏带领大家重温本次IO大会和GDG峰会的精彩内容，并分享美国之旅的各种见闻和好玩的事情。
+
+最后还有组织者朱峰为大家带来，在我们身边但不被人熟知的神秘东东。</description><start>2015.07.25 14:00</start><end>17:30</end><location>中国天津市天津南开区励学路南开大学学生活动中心</location><participantscount>28</participantscount></event>
+	<event><title>2015 IO Extended</title><chapterid>105969102740437964990</chapterid><description>天津GDG定于北京时间2015年5月28日晚11:00为大家带来I/O Extended直播，届时将提供舒适的现场环境，免费食物饮料，让每个对I/O大会感兴趣的朋友都能享受这一场年度开发者盛宴。
+
+Google I/O是由Google公司举办的年度开发者大会，每年I/O大会Google公司都会发布一些前沿科技产品和技术，吸引全球开发者的目光。I/O大会在每年的5、6月份在美国旧金山举办，今年会议定于5.28-5.29两日在旧金山Moscone Center举行。
+
+本地活动地点在：天津市河北区万柳村大街56号（纺机厂院内）【有派文化】（乐购对面原绿岭产业园）</description><start>2015.05.28 22:00</start><end>2015.05.29 02:00</end><location>中国天津市河北区万柳村大街56号</location><participantscount>108</participantscount></event>
+	<event><title>天津GDG Android开发之App-Indexing（Play专题）活动</title><chapterid>105969102740437964990</chapterid><description>近期对于Android开发者来说好消息不断。先是去年11月底Google Play开始支持中国开发者上传应用；2015年4月底，在经过了2014年的测试后，Google终于推出了让大伙期待已久的移动算法更新：站点的移动设备可用性（mobile-friendly usability）和应用程序索引（APP indexing），且将从4月21日开始把移动端友好度作为站点移动搜索排名的一项参考因素。所以如果你的App支持了App-Indexing，你的App将从Google获得更多的访问量，同时也给你的用户带来更好的体验。
+
+为了让大家更清楚Google Play的运作和政策，尤其是App Indexing等新API，天津GDG特别组织了本次活动。并且邀请GDE(Google Developer Expert) Alpha Yang给大家介绍App Indexing和实施。活动最后我们安排了互动环节，让Alpha为天津的小伙伴们在开发、运营和推广过程中，遇到的各类问题进行答疑解惑。﻿</description><start>2015.05.10 13:30</start><end>16:00</end><location>中国天津市天津南开区科研西路天津科创科技企业咨询服务中心</location><participantscount>22</participantscount></event>
+	<event><title>Git Learing（Google Code之后...）</title><chapterid>105969102740437964990</chapterid><description>Google Code服务将要在2016年1月25日关闭，那么以后我们该怎么托管我们的程序、文档、个人文件？
+大家都知道，我们做项目不论大小，都需要有一个好的系统来管理我们文件，记录我们的改动历史和足迹。尤其是多人协做时候，更需要一个好的流程来实现高效的团队协作？
+目前在开源项目等方面最流行的代码托管服务非GitHub、Bitbucket莫属，Google自己也将大量的项目迁移到GitHub中，这些托管服务都以Git作为根基来提供各种服务，所以为了我们更愉快的工作，有必要好好了解学习Git，已经GitHub等服务。</description><start>2015.04.29 19:00</start><end>20:00</end><location>中国天津市天津南开区科研西路12号</location><participantscount>45</participantscount></event>
+	<event><title>Android Wear 学习实践活动</title><chapterid>105969102740437964990</chapterid><description>Android Wear 对广大开发者而言，是一个新生事物，但也是未来可穿戴设备的开发平台，想要在未来的互联网、物联网领域做一些事情，了解这个技术显然是必不可少的步骤。
+本周，天津谷歌开发者社区，为大家准备了 Android Wear 的开发实践活动，届时将由讲师带领大家了解相关开发技术、掌握基本的开发技巧，以及展开现场开发实战，欢迎大家届时参加。
+
+为让大家能够有充分的时间参与进来，本次 Android Wear Codelab 活动由天津科创天使投资有限公司提供场地，活动地点设在市区，活动环节分为三个：
+
+1、Android Wear 的应用情景分析
+2、12款最好的 Android Wear 应用介绍（视频）
+3、Android Wear 开发环节搭建与实例教学</description><start>2015.02.11 19:00</start><end>21:00</end><location>中国天津市天津南开区科研西路天津科创科技企业咨询服务中心</location><participantscount>23</participantscount></event>
+	<event><title>DevFest 2014 Tianjin</title><chapterid>105969102740437964990</chapterid><description>天津GDG首次举办DevFest活动，本次活动包含2个主题：Android尤其是最新的Android Wear的开发与产品分析和展望；Polymer项目的介绍和CodeLab，以及web组件等最新Web技术的分享。
+
+Android和Android Wear主题中，我们邀请到了中国智能穿戴联盟的企业和专家来分享国内最新的产品，同时也有Android Wear硬件厂商来说说穿戴产品的开发。
+
+Polymer项目我们会提供中国GDE Jackie为大家录制的视频get start，另外有资深的工程师分享他们的Polymer经验，并带领大家动手完成一个小项目，让大家亲身体验Polymer的功能和特点。﻿</description><start>2014.11.29 00:00</start><end>00:00</end><location>中国天津市天津滨海新区服务外包园</location><participantscount>184</participantscount></event>
+	<event><title>GDG Tianjin Founding Event - 天津GDG成立大会</title><chapterid>105969102740437964990</chapterid><description>经过长达9个月的准备，经过数次预热活动，在诸位早期会员、志愿者的共同努力之下，我们天津的谷歌开发者社区（天津GDG）将于2014年11月1日在天津召开正式成立大会。
+
+从一个想法，到六人成立小组，再到20人志愿者队伍，最后是超过200名创始会员的天津GDG，天津GDG一路走来，能够得以正式加入谷歌大家庭，与所有会员、志愿者的努力是分不开的，所以本次成立大会我们将邀请所有志愿者、创始会员作为我们的特别嘉宾，为你们准备了最好的位置来聆听真正的谷歌“干货”。﻿</description><start>2014.11.01 13:00</start><end>19:00</end><location>中国天津南开区育梁道天津美豪宾悦酒店</location><participantscount>247</participantscount></event>
+	<event><title>开学季知识分享大会（GDG快乐分享职场版）</title><chapterid>105969102740437964990</chapterid><description>- 想了解神秘的“职场”？
+- 你是“职场恐惧症” 患者吗？
+- 不知道如何选择心仪的企业？
+- 面试时考官都会说那些真话和假话？
+- 技术宅的职场生存之道
+- 创业？还是就业？
+- 职场经验大(lai)家(tu)谈(cao)
+“职场那点事儿” —— GDG快乐分享职场版</description><start>2014.08.30 14:00</start><end>17:00</end><location>https://www.google.com.sg/maps/place/Binhai+New+Area+Cloud+Computing+Park/@39.041084,117.723484,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0x8fbf8ee6531fc731?hl=en</location><participantscount>21</participantscount></event>
+	<event><title>Google IO‘14 Extended Tianjin</title><chapterid>105969102740437964990</chapterid><description>为了让不能亲自参加IO大会的天津开发者有机会体验 I/O 大会，并与众多攻城师、程序媛、产品经理、创业团队更好的交流，举办 I/O‘14 Extend 活动，届时将提供无障碍的网络环境、舒适的活动环境，丰富的食物和饮料，让每个对 I/O 大会感兴趣的攻城师、程序猿、产品经理、技术爱好者们都能享受这一场开发者盛宴。
+活动将在天津滨海新区云计算产业基地的津京互联咖啡馆举办。</description><start>2014.06.25 23:00</start><end>2014.06.26 03:00</end><location>https://www.google.com.sg/maps/preview?ie=UTF8&amp;cid=10358154787863643953&amp;q=Binhai+New+Area+Cloud+Computing+Park&amp;iwloc=A&amp;gl=SG&amp;hl=en&amp;source=newuser-ws</location><participantscount>231</participantscount></event>
+</events>
+</data>

@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<number>13</number>
+<events>
+	<event><title>TensorFlow Study Nanning #1</title><chapterid>100700053362796704384</chapterid><description> 南宁GDG首场时下流行全球的深度学习、机器学习、TensorFlow入门互动性活动，属于代码实验室（CodeLabs）级别的活动。&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+欢迎到Meetup上来报名，链接：&amp;lt;a href=&quot;https://www.meetup.com/gdg-nanning/events/240723960/&quot;&amp;gt;https://www.meetup.com/gdg-nanning/events/240723960/&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+TensorFlow是Google开源的第二代用于数字计算（numerical computation）的软件库。它是基于数据流图的处理框架，图中的节点表示数学运算（mathematical operations），边表示运算节点之间的数据交互。TensorFlow从字面意义上来讲有两层含义，一个是Tensor，它代表的是节点之间传递的数据，通常这个数据是一个多维度矩阵（multidimensional data arrays）或者一维向量；第二层意思Flow,指的是数据流，形象理解就是数据按照流的形式进入数据运算图的各个节点。&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+一、主要议题 &amp;lt;br&amp;gt;
+1、TensorFlow 介绍；&amp;lt;br&amp;gt;
+2、TensorFlow 安装；&amp;lt;br&amp;gt;
+3、TensorFlow 案例演示；&amp;lt;br&amp;gt;
+4、大家讨论环节；&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+二、面向对象 &amp;lt;br&amp;gt;
+1、深度学习、机器学习、人工智能、TensorFlow等体验群体；&amp;lt;br&amp;gt;
+2、码农群体；&amp;lt;br&amp;gt;
+3、代码爱好群体；&amp;lt;br&amp;gt;
+4、红，黑，白帽群体；&amp;lt;br&amp;gt;
+5、熟练操作计算机，有意学习代码的群体；&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+三、参加活动建议携带的设备&amp;lt;br&amp;gt;
+1、续航能力强的笔记本电脑或平板电脑；&amp;lt;br&amp;gt;
+2、充电适配器通用插头的笔记本电脑或平板电脑；&amp;lt;br&amp;gt;
+3、手机或照相机；&amp;lt;br&amp;gt;
+4、传统纸和笔；&amp;lt;br&amp;gt;
+5、空手道（带上脑瓜就好）；&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+四、禁止行为 &amp;lt;br&amp;gt;
+1、空降行为（不报名直接到场的行为）；&amp;lt;br&amp;gt;
+2、砸场行为；&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+五、活动地址&amp;lt;br&amp;gt;
+金洲路33号广西人才市场13楼书吧（电梯直达12楼，后转走楼梯）&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+鸣谢：爱迪实验室广西众创中心场地支持﻿</description><start>2017.06.18 14:00</start><end>18:00</end><location>广西南宁市金洲路33号广西人才市场13楼书吧</location><participantscount>12</participantscount></event>
+	<event><title> I/O Extended 2017 Nanning</title><chapterid>100700053362796704384</chapterid><description>I/O Extended 2017 Nanning
+
+As all you know, Google I/O is an annual developer festival held at the outdoor Shoreline Amphitheatre Mountain View, California on May 17-19, 2017.
+
+GDG Nanning will host an I/O Extended event to bring local developer communities together to experience the I/O keynote with one another in real-time in Nanning.
+
+Date and Time
+============
+Wed, May 17, 10:30 PM GMT+8 - Thu, May 18, 3:00 AM GMT+8
+
+Location
+============
+Room 1032C, Hanhu Cuiyuan Building, No.6-1 Chahuayuan Rd, Nanning, China
+
+Who hosting
+============
+GDG Nanning
+
+Contact us
+============
+If you have any question or comment please feedback from RSVP link below:
+https://plus.google.com/u/0/+NanningGDG/posts/eDiV4UudXgU
+
+Or
+
+You can contact Airfly for more information by lists below:
+Email: airflypan@gmail.com
+Mobile: +8613132914138
+QQ/WeChat: 1272000
+
+Or
+
+Register to join us here: https://goo.gl/forms/FQcGvUZL6kMGs4823
+
+
+2017年谷歌年度开发者大会（Google I/O）将于5月17日至19日在加利福尼亚州海滨露天露天剧场举行。
+
+届时南宁GDG将在南宁同步举办 I/O Extended 活动，将南宁本地开发人员社区聚集在一起，观看、体验 I/O 主题演讲直播，并相互交流。
+
+今年的Google I/O除了第一天的总发表会与新的手机系统O令人期待以外，从行程表上的分类我们也能看到此次I/O 主题共会有Accessibility、Ads、Android 、Assistant、Design、Firebase、IoT、机器学习、Mobile Web、Play、Search 与VR 这些主题，让许多对Google 服务与功能有兴趣的朋友，能够依照自己关心的主题来挑选关注。
+
+日期与时间
+============
+2017年5月17日 中国标准时间晚上22:30 至次日凌晨3点
+
+地点
+============
+中国广西南宁市茶花园路6-1号南湖翠苑1032C
+
+谁举办
+============
+南宁GDG
+
+联系我们
+============
+如果你有任何疑问或评论，欢迎通过下列 RSVP 页面反馈给我们:
+https://plus.google.com/u/0/+NanningGDG/posts/eDiV4UudXgU
+
+或者
+
+更多信息可以通过下列渠道联系冰哥获得：
+邮箱：airflypan@gmail.com
+手机：+8613132914138
+微信：1272000 （与QQ同号）
+
+
+快上车，没时间解释了，上车地点：https://gdgdocs.org/forms/d/e/1FAIpQLSclNhFeulEAIYsqVdP2MJomGVtNlnqe4ZFMWELxUgdSGUTkQQ/viewform
+
+南宁GDG欢迎你。
+
+#io17extended﻿</description><start>2017.05.17 22:30</start><end>2017.05.18 03:00</end><location>中国广西壮族自治区南宁市青秀区南湖翠苑</location><participantscount>16</participantscount></event>
+	<event><title>WTM 2017 Nanning</title><chapterid>100700053362796704384</chapterid><description>WTM 2017 Nanning&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+Telling our story&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+Please join us, registration link is: https://docs.google.com/forms/d/e/1FAIpQLSe7I5F6Wu1W1Q1XP5yaZ-sUyC6JRQx6PGjvGTHDdjoyzJbKcw/viewform
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+2017年度 WTM（女性开发者大会）·南宁站活动由南宁GDG在小镇内举办，欢迎前往来围观！ &amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
+时间：本月29号14:30~17:00时（礼物，茶歇……）&amp;lt;br&amp;gt;
+地点：高新区创新路23号南宁·中关村双创示范基地8号楼A座一楼路演大厅
+&amp;lt;br&amp;gt;
+报名链接：https://gdgdocs.org/forms/d/e/1FAIpQLSe7I5F6Wu1W1Q1XP5yaZ-sUyC6JRQx6PGjvGTHDdjoyzJbKcw/viewform</description><start>2017.04.29 14:30</start><end>17:00</end><location>中国广西壮族自治区南宁市西乡塘区创新路23号</location><participantscount>62</participantscount></event>
+	<event><title>Cloud Next &apos;17 Extended - Nanning</title><chapterid>100700053362796704384</chapterid><description>Let&apos;s learn, try Google Cloud more &amp;amp; more.
+Let&apos;s get together and have fun.
+
+2017年度Q1最具影响力的谷歌云技术大会 Cloud Next 在旧金山 Moscone 会议中心成功举办。会上Google发布了包括新客户、新合作伙伴、新产品及产品开发、机器学习等新服务在内的消息。Google向与会者展示了在过去一年中，Google在企业云端市场的100个新产品。这些新产品涵盖了云端平台收购的新成员、云端安全、数据分析、数据库服务、机器学习服务、云平台定价和各方支持、开发商平台和工具、基础设施建设、企业合作及生产力、Android及Chrome设备、云端消费者服务、云端合作者等的十二个领域。
+
+大会展示了机器学习服务上获得了六大进展，可以让企业更加轻松地应用机器学习，引领企业智能化，现在，Google Cloud 将开启企业云计算的新时代，为客户提供更优质服务。
+
+机器学习服务六大进展：
+1 、用途更加广泛的机器学习引擎（ Cloud Machine Learning Engine）
+2、识别视频内容的视频智能 API（ Cloud Video Intelligence API）
+3、发展速度最快的 API：视觉 API 1.1 beta 版（ Cloud Vision API）
+4、建立高级解决方案实验室，提供机器学习专家服务（ Machine learning Advanced Solution Lab）
+5、让找工作变得更轻松：求职 API （ Cloud Jobs API ）
+6、为初创公司举办的机器学习竞赛（Machine Learning Startup Competition）
+
+机器都学习了，我们呢，要不要干点实事？
+
+地点：广西南宁市高新区创新路23号8号楼A栋 谷歌AdWords广西体验中心 一楼路演厅
+
+欢迎大家。</description><start>2017.04.16 14:00</start><end>17:00</end><location>中国广西壮族自治区南宁市西乡塘区创新路</location><participantscount>23</participantscount></event>
+	<event><title>2017南宁GDG TensorFlow meetup #1</title><chapterid>100700053362796704384</chapterid><description>&amp;lt;p&amp;gt;2017南宁GDG（Google Developer Group） TensorFlow meetup即将开始啦！
+&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;
+时间：2017年2月26号 上午10点 ～12点30&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;地点：广西南宁城市碧园3栋3A优趣工作室&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;活动主题：TensorFlow学习与交流&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;p&amp;gt;
+TensorFlow是谷歌基于DistBelief进行研发的第二代人工智能学习系统，其命名来源于本身的运行原理。Tensor（张量）意味着N维数组，Flow（流）意味着基于数据流图的计算，TensorFlow为张量从流图的一端流动到另一端计算过程。TensorFlow是将复杂的数据结构传输至人工智能神经网中进行分析和处理过程的系统。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+TensorFlow可被用于语音识别或图像识别等多项机器深度学习领域，对2011年开发的深度学习基础架构DistBelief进行了各方面的改进，它可在小到一部智能手机、大到数千台数据中心服务器的各种设备上运行。TensorFlow将完全开源，任何人都可以用。
+&amp;lt;/p&amp;gt;
+
+
+
+&amp;lt;h3&amp;gt;关于GDG &amp;amp; 南宁GDG&amp;lt;/h3&amp;gt;
+&amp;lt;p&amp;gt;
+谷歌开发者社区(Google Developer Groups)是谷歌开发者部门发起的全球项目，是面向对 Google 和开源、开放技术感兴趣的开发者社区，内容涵盖 Web、Android 和其它 Google API 等。目前在全球已有500多个 GDG 社区。中国已成立了20多个GDG社区，南宁GDG就是其中一个份子。
+&amp;lt;/p&amp;gt;
+</description><start>2017.02.26 00:00</start><end>00:00</end><location>广西南宁城市碧园3栋3A优趣工作室</location><participantscount>8</participantscount></event>
+	<event><title>南宁GDG 第二届 DevFest 2016</title><chapterid>100700053362796704384</chapterid><description>&amp;lt;h3&amp;gt;关于活动&amp;lt;/h3&amp;gt;
+&amp;lt;p&amp;gt;许久不见，你是否想念南宁GDG？一年一度的南宁Google DevFest（谷歌开发者节）终于来啦！
+本次主题 “聆听老司机讲故事，了解工程师成长之路”，赶紧报名参加，来和我们一起交流分享吧！
+来南宁Devfest 2016，听听那些技术大咖怎样说，如何在App开发工程师的路上成长。
+另外还有Google T恤、Android公仔和Google徽章等你拿。
+&amp;lt;/p&amp;gt;
+
+&amp;lt;h3&amp;gt;活动安排&amp;lt;/h3&amp;gt;
+&amp;lt;p&amp;gt;
+活动时间：12月17日周六下午14:00-16:30&amp;lt;br&amp;gt;
+地点：广西南宁市大学西路169号南宁职业技术学院&amp;lt;br&amp;gt;
+活动安排：&amp;lt;br&amp;gt;
+13:40-14:00 签到&amp;lt;br&amp;gt;
+14:00 -14:10   Devfest及南宁GDG简介 by 张青老师, 南宁职业技术学院教师 &amp;lt;br&amp;gt;
+14:10 -14:50  《趣淘是怎么炼成的：一款App是如何炼成的》 by 王政，优趣工作室趣淘产品经理&amp;lt;br&amp;gt;
+14:50-15:10 听众与嘉宾互动环节&amp;lt;br&amp;gt;
+15:10 - 15:50 《在App创业公司工作应该了解的知识》 by 韦章，优趣工作室项目经理&amp;lt;br&amp;gt;
+15:50-16:10 听众与嘉宾互动环节&amp;lt;br&amp;gt;
+本次活动由南宁GDG（南宁谷歌开发者社区）发起和主办，南宁职业技术学院，优趣工作室协办。&amp;lt;br&amp;gt;
+通过Devsite报名有机会赢得小礼品。&amp;lt;br&amp;gt;
+&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+&amp;lt;/p&amp;gt;&amp;lt;h3&amp;gt;关于南宁GDG &amp;lt;/h3&amp;gt;
+&amp;lt;p&amp;gt;
+南宁GDG（Google Developer Group）谷歌开发者社区是一个由Google支持的、主要关注谷歌及开源技术的兴趣社区，由谷歌技术和互联网爱好者组成.
+网址：http://nngdg.org&amp;lt;br&amp;gt;&amp;lt;/p&amp;gt;</description><start>2016.12.17 14:00</start><end>16:00</end><location>中国广西南宁西乡塘区广西大学</location><participantscount>60</participantscount></event>
+	<event><title>有趣 的 Google 技术 lunch talk</title><chapterid>100700053362796704384</chapterid><description>&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;《有趣 的 Google 技术 lunch talk》 &amp;lt;/strong&amp;gt;系列活动是GDG南宁组织，由优趣工作室义务提供免费场地、茶水和志愿者讲师，在每周二中午饭前（12:00～13:00）进行的一个技术分享活动，它也是一个开放的活动，欢迎其它朋友参与。
+&amp;lt;/p&amp;gt;
+
+&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
+&amp;lt;p&amp;gt;
+在这个活动系列中，志愿者讲师对Google相关的技术进行一个分享，然后每位听众都需要提出一个问题。
+&amp;lt;/p&amp;gt;
+&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
+&amp;lt;p&amp;gt;
+涵盖的内容主题包括并不局限于以下：
+&amp;lt;/p&amp;gt;&amp;lt;ol&amp;gt;
+&amp;lt;li&amp;gt;本地互联网和移动互联网的市场机遇&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;大数据和人工智能&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;游戏开发&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;云计算&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;自动化运维和工具&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;企业应用软件&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Android的新特性和优秀开源软件及工具介绍&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Android开发性能优化实践和例子&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;自动化测试实践和例子&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;自然语言识别分析&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;使用混合语言编程开发安卓应用的经验&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;安卓智能硬件编程&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;其他（直播，AR/VR，机器人，视频动画处理等）&amp;lt;/li&amp;gt;
+&amp;lt;/ol&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+&amp;lt;p&amp;gt;
+每次参加时提前联系 组织者 River (微信river4) 即可
+&amp;lt;/p&amp;gt;</description><start>2016.10.18 00:00</start><end>13:00</end><location>广西南宁城市碧园3栋3A303</location><participantscount>15</participantscount></event>
+	<event><title>I/O 2016 Redux 南宁回顾分享交流会</title><chapterid>100700053362796704384</chapterid><description>各位小伙伴们，Google I/O 2016 已经过去两个月了。是否还在遗憾5月19日的凌晨没有和我们一起观看直播呢？
+
+今年很遗憾南宁 GDG 没有任何成员前往美国 I/O 现场，但我们仍然希望把 I/O 最新信息传达给大家。
+
+我们将于7月24日举办一场活动，带大家一起回顾分享 I/O 2016 大会所带来的种种新鲜事物。
+
+你可能想知道：
+- I/O 现场都有那些有意思的黑科技？
+- VR 有什么新趋势，DayDream？
+- Android N 预览版都有些什么新玩法？
+- Firebase 云数据库好用么？
+
+活动性质：
+------------
+免费、谷粉、GDG、线下、聚会、吐槽
+
+分享嘉宾（还在壮大中）：
+----------------------------------------
+天天 - 资深综合型开发工程师，移动互联网应用/APP独立开发者
+板溪 - 资深综合型开发工程师，
+Airfly - 资深IT从事者，软、硬件综合应用爱好者，南宁GDG组织者之一
+⋯⋯
+
+活动详情
+------------
+时间：7月24日，下午14:30~17:30
+地点：南宁邕武路5号酒窝葡萄酒体验馆(待定中，如果能够获取VR游戏体验赞助机会，将改地址)
+
+主办方
+------------
+南宁GDG主办 （ http://nngdg.org ）
+
+其他说明
+------------
+任何想法、建议⋯⋯，随时欢迎与我们进行讨论（请联系：Airfly，手机：13132914138）。﻿</description><start>2016.07.24 14:30</start><end>18:00</end><location>中国广西南宁市兴宁区邕武路5号</location><participantscount>17</participantscount></event>
+	<event><title>2016 Google I/O 大会直播之夜（优趣工作室 2016/5/18）</title><chapterid>100700053362796704384</chapterid><description>&amp;lt;h3&amp;gt;前言&amp;lt;/h3&amp;gt;
+&amp;lt;p&amp;gt;
+        一年一度Google I/O大会将于2016年5月18日至20日举行。Goolge I/O大会是由谷歌举办的全球开发者年度技术推广大会，原文来自Innovation in the Open，寓为“开放中创新”。这个全球技术盛会为全球互联网业界带来新的创新灵感、指明技术创新带来的新商机的方向，以此推动互联网和各种相关高科技的发展。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+        5月18号 22：00南宁GDG将在优趣工作室准备茶歇与宵夜， 大家一起观看2016年的Google I/O大会直播视频，共同享受I/O大会现场的盛况，分享Google新的一年在产品和技术领域最新的进展和突破，共同畅谈人生和科技的发展，感受技术与科技的跨越。&amp;lt;/p&amp;gt;
+
+&amp;lt;h3&amp;gt;活动详情&amp;lt;/h3&amp;gt;
+&amp;lt;p&amp;gt;活动时间：2016.5.18. 22：00 -凌晨 03：00&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;活动地点：明秀西路122号城市碧园 3A303 优趣工作室
+地点 http://j.map.baidu.com/QhyX9
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+附近的公交车站：广西大学 （南门） （46路；10路；604路；76路；33路；207路；8路）&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+明秀大学路口 （经过车站：13路;15路;19路;34路;58路;84路;88路;602路;707路;804路）
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+活动名额：20人
+&amp;lt;/p&amp;gt;
+
+&amp;lt;h3&amp;gt;
+主办方
+&amp;lt;/h3&amp;gt;
+&amp;lt;p&amp;gt;南宁GDG主办 （ http://nngdg.org ）&amp;lt;/p&amp;gt;
+
+&amp;lt;h3&amp;gt;
+其他说明&amp;lt;/h3&amp;gt;
+
+&amp;lt;p&amp;gt;对于本次活动的相关问题、建议或者主题报名可以联系 优趣工作室的 River (微信 river4 )
+ ，同时也是南宁GDG组织者之一&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+此外所有人都可以加入 南宁GDG QQ群 292312673 进行交流
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;此外广西大学的同学可以加入广西大学同学自己创建的 广西大学GDG QQ群: 458876251 进行交流。
+&amp;lt;/p&amp;gt;
+</description><start>2016.05.18 00:00</start><end>00:00</end><location>中国广西壮族自治区南宁西乡塘明秀西路城市碧园（东二门）</location><participantscount>15</participantscount></event>
+	<event><title>南宁GDG 2016 第一届WTM 活动（广西大学空中花园 2016/4/24)</title><chapterid>100700053362796704384</chapterid><description>&amp;lt;p&amp;gt;        WTM(Women Techmaker)是Google支持的面向女性技术从业者的全球系列活动，旨在促进女性在技术领域的参与，帮助她们创造改变世界的工具，从而有更多机会去实现梦想，在各自的领域获得成长、提升和成功。
+&amp;lt;/p&amp;gt;
+ &amp;lt;p&amp;gt;       2016.4.24 南宁GDG社区将在广西大学空中花园举办2016 第一届 WTM活动，就技术领域的话题进行分享和思维碰撞，为有共同目标的女性朋友们提供了一个分享和交流的平台，欢迎更多对互联网领域感兴趣的朋友们参与这次活动，共同成长和交流。
+&amp;lt;/p&amp;gt;
+
+     &amp;lt;p&amp;gt;  本地活动对所有女性开放，报名即可参加。 所有到场女性均可直接参与抽奖，有机会获得神秘礼品。
+&amp;lt;/p&amp;gt;
+      &amp;lt;p&amp;gt; 本次活动名额有限，推荐想参加的男士邀请至少一位女性前来，这样名额满时优先考虑符合这部分条件的男生。此外符合该条件的男士也有机会参加抽奖。
+&amp;lt;/p&amp;gt;
+&amp;lt;pre&amp;gt;活动详情
+--------------
+时间：2016.4.24  10：30 — 12：00
+地点：广西大学校园内西苑对面的空中花园咖啡厅
+名额：30人
+
+主题内容
+--------------
+
+开场：GDG以及和WTM有关的一些趣闻
+  主持人：River 
+     优趣工作室创始人, 南宁GDG核心组织者之一, 前Zynga高级系统研发工程师，前绿盟科技产品经理，前新浪邮件系统开发工程师
+
+      
+1：一名女开发者的追梦之路
+  演讲嘉宾：黄静琳
+        广西易谷网络科技开发经理
+        2006年工作至今一直从事c#的开发、除了实际开发经验外，还拥有开发团队管理经验及产品经验，是开发者领域资深的女性工程师
+   
+2：困惑与坚持
+  演讲嘉宾：胡文君
+         广西大学行健文理学院专业教师
+         在Nero中国研发中心从事过软件开发工作，在高校组织过专业建设工作，是女性开发者中典型的工作转型案例。
+
+3： 互联网时代的女性创业与价值创造
+    演讲嘉宾：钟满红
+         广西易谷网络科技有限公司总经理
+         2008年创立广西易谷网络科技有限公司, 同时也是当前南宁GDG核心组织者之一
+&amp;lt;/pre&amp;gt;</description><start>2016.04.24 00:00</start><end>00:00</end><location>中国广西壮族自治区南宁市西乡塘区广西大学</location><participantscount>25</participantscount></event>
+	<event><title>Material Design安卓App乐享Codelab </title><chapterid>100700053362796704384</chapterid><description>Material Design安卓App乐享Codelab活动是广西大学安卓开发小组组织的开放的GDG活动。
+
+&amp;lt;br&amp;gt; 活动时间：2016年4月17号上午10点～12点
+&amp;lt;br&amp;gt; 活动地点：南宁西乡塘区明秀西路122号城市碧园3A303优趣工作室
+&amp;lt;br&amp;gt;活动目标：掌握MDS开发App主框架
+
+&amp;lt;hr&amp;gt;
+
+&amp;lt;hr&amp;gt;
+这个活动主要包括几个议题
+
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;
+南宁GDG 社区 &amp;amp; 2016年精彩活动预告
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+乐享App安卓开发介绍
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+如何用Python开发HTTP API
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+开发Codelab
+&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+希望热爱安卓开发的同学都来参加。可联系小容（Q:1535454167）：</description><start>2016.04.17 00:00</start><end>00:00</end><location>广西南宁西乡塘区城市碧园</location><participantscount>13</participantscount></event>
+	<event><title>2016 Study Jams China myGXU Group (SJ130)</title><chapterid>100700053362796704384</chapterid><description>我们这个队来自中国的南宁， 我们希望通过这次活动更好地学习安卓知识并认识更多朋友。实际上，我们当中的一些队员也是当地GDG的成员，尤其我们队的组织者还是当中的志愿者并且拥有自己的安卓app。所以我们每一位队员都是非常喜欢和支持Study jams这次活动的。我们计划今后会一起学习，并努力让周围的更多朋友知道我们的团队和Study jams的活动。我们将努力在今后的几个月的时间里快速学习并在最后把我们心中的想法用安卓带到现实中来，祝福谷歌。</description><start>2016.04.10 19:00</start><end>21:00</end><location>中国广西南宁西乡塘区广西大学</location><participantscount>7</participantscount></event>
+	<event><title>Material Design App开发技术交流 -（广西科学院 2016/3)</title><chapterid>100700053362796704384</chapterid><description>&amp;lt;h1&amp;gt;南宁GDG 2016年春季第一场活动&amp;lt;/h1&amp;gt;
+
+&amp;lt;h2&amp;gt;活动摘要&amp;lt;/h2&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;主要围绕着设计、开发等主题，推荐对android开发已经有所了解的朋友参加&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+时间： 2016年3月20号上午 10 ～12点  （9:45开始签到，10点准时开始）&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+地点：广西科学院综合楼5楼  http://j.map.baidu.com/QLj-8&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;名额：20人 &amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+
+
+&amp;lt;h2&amp;gt;主题包括：&amp;lt;/h2&amp;gt;
+&amp;lt;ol&amp;gt;
+&amp;lt;li&amp;gt;
+Material Design概述 － 开场视频
+-- River 
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+从0起步开发  － 乐享App开发分享（2015DevFest某案例分享）
+-- RongXianzhuo
+&amp;lt;/li&amp;gt;
+
+&amp;lt;li&amp;gt;
+Android开发中的MVP和MVVM模式探讨
+-- 天天
+&amp;lt;/li&amp;gt;
+
+&amp;lt;li&amp;gt;
+App的数据采集技巧 之  Python爬虫开发介绍
+-- Guotao
+&amp;lt;/li&amp;gt;
+
+&amp;lt;li&amp;gt;
+其他，欢迎现场报名
+&amp;lt;/li&amp;gt;
+&amp;lt;/ol&amp;gt;</description><start>2016.03.20 00:00</start><end>00:00</end><location>中国广西壮族自治区南宁市西乡塘区大岭路广西科学院</location><participantscount>20</participantscount></event>
+</events>
+</data>

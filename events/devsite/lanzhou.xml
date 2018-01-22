@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<number>214</number>
+<events>
+	<event><title>2017 Google IO Extend 兰州GDG直播之夜(一)</title><chapterid>107219447444236191734</chapterid><description>2017年Google IO大会将与5月17，18，19日三天在美国山景城举办，如果没能去现场参加Google IO大会，那么就来参加兰州GDG社区举办的Google IO Extended活动吧！Google IO 是由 Google 公司举办的年度开发者大会，每年的IO 大会 Google 公司都会发布一些前沿科技产品。为了让不能亲自参会的开发者有机会体验 IO 大会，兰州谷歌开发者社区将在中国时间5月17日晚22:30举办 IO Extend 直播活动，届时将提供无障碍的网络环境、舒适的会议环境，配上点心，让每个对 IO大会感兴趣的朋友都能享受这一场开发者盛宴。出于安全因素、网络因素以及管理因素等总和考虑，活动地点安排在兰州大学校园内，社区志愿者会竭力为参会嘉宾提供方便。
+</description><start>2017.05.17 22:30</start><end>2017.05.18 05:00</end><location>兰州市城关区天水南路222号兰州大学（盘旋路校区）飞云楼 529室  </location><participantscount>50</participantscount></event>
+	<event><title>2017 Google IO Extend 兰州GDG直播之夜(二)</title><chapterid>107219447444236191734</chapterid><description>2017年Google IO大会将与5月17，18，19日三天在美国山景城举办，如果没能去现场参加Google IO大会，那么就来参加兰州GDG社区举办的Google IO Extended活动吧！Google IO 是由 Google 公司举办的年度开发者大会，每年的IO 大会 Google 公司都会发布一些前沿科技产品。为了让不能亲自参会的开发者有机会体验 IO 大会，兰州谷歌开发者社区将在中国时间5月17日晚22:30举办 IO Extend 直播活动，届时将提供无障碍的网络环境、舒适的会议环境，配上点心，让每个对 IO大会感兴趣的朋友都能享受这一场开发者盛宴。出于安全因素、网络因素以及管理因素等总和考虑，活动地点安排在兰州大学校园内，社区志愿者会竭力为参会嘉宾提供方便。
+</description><start>2017.05.17 22:30</start><end>2017.05.18 05:00</end><location>兰州市榆中县兰州大学榆中校区网络中心二楼会议室</location><participantscount>50</participantscount></event>
+	<event><title>Android NDK教程</title><chapterid>107219447444236191734</chapterid><description>Android NDK（Native Development Kit）可以让开发者更加直接的接触Android系统资源，并使用传统的C或C++语言编写程序，并在程序封包文件（.apks）中直接嵌入原生库文件。本期活动将带领大家利用NDK生成SO库，使用SO库进行JNI调用，在Android sdcard创建文件并写入数据。	</description><start>2017.05.15 18:00</start><end>20:00</end><location>兰州大学榆中校区网络中心</location><participantscount>40</participantscount></event>
+	<event><title>Build with Bazel——Bazel快速使用教程</title><chapterid>107219447444236191734</chapterid><description>Bazel 是 Google 的一款可再生的代码构建工具。它主要是用于构建 Google 的软件,处理出现在谷歌的开发环境的构建问题,比如说:大规模数据构建问题,共享代码库问题,从源代码构建的软件的相关问题。Bazel 支持多种语言并且跨平台，还支持自动化测试和部署、具有再现性（Reproducibility）和规模化等特征。本期活动将向大家介绍Bazel的快速使用。</description><start>2017.05.14 19:00</start><end>20:00</end><location>兰州资源环境职业技术学院数通实训楼503</location><participantscount>68</participantscount></event>
+	<event><title>TensorFlow Architecture剖析</title><chapterid>107219447444236191734</chapterid><description>TensorFlow作为时下最热门的深度学习应用开发框架被广大开发者所使用，然而你是否了解TensorFlow的内部运行机制？它是如何实现GPU并行计算的？TensorFlow的底层机构又是如何，本期GDG活动将由兰州GDG开发者申泽邦给大家带来TensorFlow架构剖析！</description><start>2017.05.13 19:00</start><end>21:00</end><location>兰州大学信息科学与工程学院报告厅</location><participantscount>40</participantscount></event>
+	<event><title>2017 Lanzhou WTM 女性开发者节</title><chapterid>107219447444236191734</chapterid><description>Women Techmakers活动是由google发起的全球互联网女性从业者的节日，目的是提升女性在互联网行业的价值和地位，为互联网从业者构建驱动创新氛围，使用技术进行革新提供交流机会。
+如今，在IT技术和互联网行业中女性扮演着越来越重要的角色，女性技术者和领导人也在不断崭露头角。她们设计多彩产品，引领团队项目方向，把握产品运营细节，用女性独有的力量引领着行业的风云变换。            4月 23日下午，Women Techmakers 女性开发者节大会是一场献给IT技术，正在涉足互联网行业姐妹们的活动。让我们程序媛们齐聚一堂，畅享在当今飞速的互联网发展成长过程中遇到的挑战，让我们优秀的女性开发者影响并鼓励带动更多的女性开发者们，并聆听对女性职业发展的建议，学习google流行的前沿技术，以及对向前一步的独到见解。
+
+本次WTM的主题：2017 Lanzhou WTM - Women Techmakers 女性开发者节
+本次活动亮点： 
+1. Angular全平台攻略
+2. 教你在Android手机上跑人工智能模型
+3. 人工智能与互联网的融合
+4. 无人机技术介绍以及展示 
+注意事项： 
+1. 到会的女性都会收到一份精美的礼品； 
+2. 欢迎男性同胞积极参与（欢迎男同胞带女性朋友参加）
+3. 本次由于场地限制现场只能提供200个座位，名额有限，希望大家速速报名！</description><start>2017.04.23 14:00</start><end>19:00</end><location>中国甘肃省兰州榆中县兰州资源环境职业技术学院（东南门）</location><participantscount>178</participantscount></event>
+	<event><title>GDS视频观看——在 Android 平台上使用 Firebase</title><chapterid>107219447444236191734</chapterid><description>我们将一同观看Google Developer的系列视频——在Android平台上使用Firebase，观看视频之后我们社区的Android开发者会向大家介绍Firebase的实践经验，并且分析一个聊天客户端使用Firebase做数据监控的demo实例。</description><start>2017.04.15 19:00</start><end>21:00</end><location>兰州大学飞云楼2楼会议室</location><participantscount>50</participantscount></event>
+	<event><title>使用TensorFlow的contrib.learn模块设计模型</title><chapterid>107219447444236191734</chapterid><description>本次GDG活动将主要围绕TensorFlow架构的contrib.learn模块展开，具体包括contrib模块的Estimator的使用，基于learn模块的模型设计相较于使用基础的nn模块进行设计提供的便利，源代码的解读。</description><start>2017.03.31 19:00</start><end>20:30</end><location>兰州大学榆中校区网络中心</location><participantscount>40</participantscount></event>
+	<event><title>Android动画开发实践</title><chapterid>107219447444236191734</chapterid><description>如何设计高效率和低资源占用的Android APP动画效果呢？本次活动我们将集中为大家分享Android框架中的动画开发实践，具体包括：在Android框架内开发OpenGL图形并使其响应用户输入，如何使用转换对视图层次结构中的状态更改进行动画处理等。</description><start>2017.03.30 18:30</start><end>20:00</end><location>兰州大学榆中校区网络中心</location><participantscount>35</participantscount></event>
+	<event><title>Android Things应用测试教程</title><chapterid>107219447444236191734</chapterid><description>Android Things使物联网（IoT）从Android生态系统的可用性和开放性中获得跳跃式的发展。我们可以快速的开始IoT Android Things应用的开发，但不要忘记IoT设备也需要测试。本次活动将包括：创建一个简单的Android Things应用程序闪烁LED，确保led外设代码与我们的业务逻辑分离，单元测试我们的业务逻辑，对LED外设进行测试。</description><start>2017.03.25 18:30</start><end>21:30</end><location>兰州大学飞云楼二楼玻璃房</location><participantscount>43</participantscount></event>
+	<event><title>Android Things驱动开发入门</title><chapterid>107219447444236191734</chapterid><description>Android Things是Android操作系统的轻量级版本，可以安装在面向IoT的设备上。 Android Things包括“用户驱动程序”功能，使开发人员能够轻松控制各种外设（LED，开关，按钮，伺服电机等）。让我们来看看为Android Things编写新的外设驱动程序所需要做的。</description><start>2017.03.22 19:00</start><end>21:30</end><location>兰州大学信息学院负一楼机房</location><participantscount>40</participantscount></event>
+	<event><title>基于Angular的移动应用开发入门</title><chapterid>107219447444236191734</chapterid><description>本次活动讲介绍跨平台开发框架Angular，包括讲解基础的component的使用，Service和Router的使用，最后讲解如何转变我们的component和Service使之能够利用Angular的HTTP服务。</description><start>2017.03.18 20:00</start><end>21:00</end><location>兰州大学信息学院负一楼机房</location><participantscount>38</participantscount></event>
+	<event><title>使用TensorFlow构建时间序列预测模型</title><chapterid>107219447444236191734</chapterid><description>这次GDG活动我们将邀请机器学习业界学者为我们讲授目前应用广泛的LSTM（长短时记忆）模型，以及循环神经网络的相关理论知识，在理论知识讲解完毕以后，Lanzhou GDG的开发者将演示如何使用TensorFlow实现LSTM的基本模型，手把手带领大家完成函数波形预测。</description><start>2017.03.17 19:00</start><end>20:00</end><location>兰州大学飞云楼会议室</location><participantscount>45</participantscount></event>
+	<event><title>GDS视频观看——Android Performance Patterns</title><chapterid>107219447444236191734</chapterid><description>我们将带领大家观看Google Developer Studio的一个系列视频——Android性能介绍（Android Performance Patterns），本次活动的视频为中文配音，所以不会存在英文视频无法理解问题，欢迎广大开发者和同学参加！</description><start>2017.03.11 19:30</start><end>20:00</end><location>兰州大学榆中校区网络中心</location><participantscount>42</participantscount></event>
+	<event><title>TensorBoard模型可视化指南</title><chapterid>107219447444236191734</chapterid><description>利用TensorFlow实现简单多层神经网络，带大家了解TensorBoard的使用，实验过程参数的可视化，如何利用TensorBoard对深度学习模型进行调试，TensorFlow生产的模型在Android等移动平台上的产品化部署。</description><start>2017.03.07 18:00</start><end>20:00</end><location>兰州大学飞云楼二楼会议室</location><participantscount>41</participantscount></event>
+	<event><title>Android Things物联网操作系统应用开发</title><chapterid>107219447444236191734</chapterid><description>物联网概述，全面介绍Google物联网操作系统Android Things，包括其环境开发，程序建立等，让大家认识到这种全新的操作系统在物联网编程上的易用性和优势所在。树莓派3硬件平台介绍以及开发环境配置，物联网硬件基础教程，了解Android Things外围IO API
+</description><start>2017.03.04 19:00</start><end>21:00</end><location>兰州大学信息科学与工程学院报告厅</location><participantscount>40</participantscount></event>
+	<event><title>TensorFlow Dev Summit 2017 Recap in Lanzhou</title><chapterid>107219447444236191734</chapterid><description>Google开源Tensorflow框架已经一年多了，第一次TensorFlow Dev Summit将在今年2月15日在Mountain View举办，本社区将于2月18日组织录像观看活动，观看峰会的主题报告，在观看录像之后，Lanzhou GDG志愿者申泽邦将给与会的开发者讲解深度强化学习理论，指导现场用TensorFlow实现一个Deep Q-learning Network。
+
+录像的相关主题演讲和演讲者：
+
+XLA: TensorFlow, Compiled! with Todd Wang and Chris Leary 
+
+TensorFlow High-Level API with Martin Wicke
+
+Keras and TensorFlow with Francois Chollet
+
+茶歇时间（10:30左右）
+
+Distributed TensorFlow with Derek Murray
+
+Creating Art &amp;amp; Music with Project Magenta with Doug Eck
+
+TensorFlow Ecosystem: Hadoop and More with Jonathan Hseu
+
+午饭时间（12:00），下午13:00继续
+
+Serving Models in Production with TensorFlow Serving with Noah Fidel
+
+Memorization + Generalization with TensorFlow Wide and Deep with Heng-Tze Cheng
+
+Hands-on TensorBoard with Dandelion Mane
+
+茶歇时间（15:30左右）
+
+Mobile and Embedded TensorFlow with Pete Warden
+
+ML Toolkit with Ashish Agarwal
+
+Sequence Models and the RNN API with Eugene Brevdo
+
+TensorFlow in Health with Lily Peng
+
+Lanzhou GDG志愿者报告：基于TensorFlow实现DQN——使用深度学习玩游戏</description><start>2017.02.18 09:00</start><end>19:00</end><location>兰州大学飞云楼会议室</location><participantscount>42</participantscount></event>
+	<event><title>兰州GDG组织者和志愿者2016年终总结</title><chapterid>107219447444236191734</chapterid><description> 1月20号，兰州GDG社区部分组织者和全体志愿者将在兰州大学飞云楼二楼会议室举办2016年终总结大会。会议将会对过去的一年做一个总结，把2016年期间举办的比较重大的活动进行比较详细的讨论，对其中优秀的经验加以传承，来年再接再厉，对做的有欠缺的地方加以改正，避免来年再出现同样的错误。过去的一年里面，兰州GDG社区的组织者和志愿者都付出了不少努力，每个人都会在会议上做一个小的总结；对GDG社区有突出贡献的，兰州GDG社区组织将会采取奖励措施加以表彰，以示其继续努力。此次总结大会，不仅仅是对过去一年的总结，会议还会对2017年如何发展，做一个详细的规划，给社区的发展一个更好的方向，更加壮大社区组织。相信2017年兰州GDG会办的越来越好，希望大家踊跃参加。﻿</description><start>2017.01.20 20:00</start><end>22:00</end><location>兰州大学飞云楼会议室</location><participantscount>50</participantscount></event>
+	<event><title>使用TensorFlow实现AlexNet神经网络</title><chapterid>107219447444236191734</chapterid><description>AlexNet是2012年ImageNet中取得最好成绩的卷积型神经网络，TensorFlow中并没有现成的AlexNet模型，此次活动兰州GDG将邀请计算机视觉领域的专家培训兰州开发者使用TensorFlow实现AlexNet模型，数据集将采用notMNIST数据集，参加活动的开发者将自行在我们提供的深度学习服务器上完成改网络的训练和测试。</description><start>2016.12.25 19:00</start><end>22:00</end><location>兰州大学飞云楼玻璃房</location><participantscount>40</participantscount></event>
+	<event><title>GPS及位置服务、GoogleMap服务、BaiduMap服务</title><chapterid>107219447444236191734</chapterid><description>掌握GPS定位技术，掌握GoogleMap相关的API，结合使用地图与定位功能。学会使用LocationManager获取当前位置，了解基站三角定位和GPS定位，学会自动判断最佳定位服务来源。了解Google地图的组成元素，学会使用MapView。学会控制地图、缩放地图并为地图添加图标。</description><start>2016.12.24 20:00</start><end>21:00</end><location>兰大网络中心二层</location><participantscount>30</participantscount></event>
+	<event><title>TensorFlow实现Word2Vec模型</title><chapterid>107219447444236191734</chapterid><description>Word2Vec作为Google发表的字词向量化技术在对字词进行稠密化和聚类中发挥着重要的作用，而TensorFlow也提供了充分的实现Word2Vec的借口，这次，兰州GDG将邀请NLP领域的学者为兰州地区Google开发者介绍如何使用TensorFlow实现在庞大语料库中构建Word2Vec模型并且完成对Text8数据集的词义聚类。</description><start>2016.12.18 19:00</start><end>21:00</end><location>兰州大学飞云楼二楼会议室</location><participantscount>38</participantscount></event>
+	<event><title>Android电话技术</title><chapterid>107219447444236191734</chapterid><description>使用电话技术实现接打电话，收发短信，掌握电话和短信的监听机制。使用内容提供程序管理电话联系人、通话记录和短信记录。学会使用联系人提供程序管理和查询通讯录，使用Calls相关API实现通话记录管理以及使用Intent拨打电话。学会使用广播接收器监听电话呼出、使用TelephoneyManager监听电话呼入。学会使用AIDL接口Itelephony实现挂断电话，使用SmsManager发送短消息，使用广播接收器监听短信接收，使用内容提供程序实现短信记录管理，使用内容管理程序+内容观察者实现短信监听。</description><start>2016.12.17 20:00</start><end>21:00</end><location>兰大网络中心二层</location><participantscount>28</participantscount></event>
+	<event><title>使用TensorFlow实现32层ResNet卷积神经网络</title><chapterid>107219447444236191734</chapterid><description>Google开源的TensorFlow为深度学习提供了快捷的开发环境。我们兰州GDG的组织者此次邀请了机器学习领域的学者为兰州地区的google开发者讲解如何使用TensorFlow实现一个深层卷积神经网络，此次培训的数据集为Cifar-10数据集，采用GPU加速的情况下训练一个32层的ResNet神经网络进行模式识别，并使用TensorBoard可视化识别结果。</description><start>2016.12.11 19:00</start><end>21:00</end><location>兰州大学飞云楼二楼会议室</location><participantscount>42</participantscount></event>
+	<event><title>走进兰大附中-Hour of Code</title><chapterid>107219447444236191734</chapterid><description>2016年12月5日到11日是计算机科学教育周，Hour of Code的活动宗旨是提高中小学生的创新能力、编程能力，同时普及计算机编程知识。这天，兰州GDG以及安卓爱好者还有兰州的组织者将在兰州大学附属中学组织Hour of code活动，这次主要讲的是Pencil Code，让更多的学生了解编程，爱上编程。﻿</description><start>2016.12.10 10:00</start><end>12:00</end><location>中國甘肅省蘭州市城關區兰州大学附属中学</location><participantscount>100</participantscount></event>
+	<event><title>Android组件</title><chapterid>107219447444236191734</chapterid><description>掌握Activity和Service的生命周期，掌握Intent的六大属性，熟练使用显式意图和隐式意图。掌握广播接收器的使用它。使用媒体提供程序管理Android中的图片和音视频资源。了解Android中的进程优先级、Service组件的生命周期。学会使用IntentService执行异步任务，了解隐式意图的过滤。了解广播、有序广播和驻留广播。学会使用BroadcastReaceiver接受广播，使用ContentResolver访问媒体提供程序。</description><start>2016.12.04 20:00</start><end>21:00</end><location>兰大网络中心二层</location><participantscount>38</participantscount></event>
+	<event><title>线程通信</title><chapterid>107219447444236191734</chapterid><description>了解ANR产生原理和单线程模型，学会使用多线程技术解决ANR问题。了解线程通信技术原理、Handler和Message，学会使用多线程实现图片的异步加载。同时，学会封装Android中的线程通信模型、AsyncTask，学会在工作线程中创建消息队列、使用HandlerThread。</description><start>2016.12.03 14:00</start><end>16:00</end><location>兰大网络中心二层</location><participantscount>33</participantscount></event>
+	<event><title>使用TensorFlow开发MNIST手写字识别</title><chapterid>107219447444236191734</chapterid><description>MNIST数据集是一个非常经典的机器学习数据集，本次活动将给予Google开源的TensorFlow架构带领大家构造一个4层的fully connected神经网络，对MNIST数据集进行训练和测试，同时还会讲授Softmax，LeRU以及正则化相关的数学基础，讲授随机梯度下降</description><start>2016.11.26 19:00</start><end>21:00</end><location>兰州大学飞云楼二楼玻璃房</location><participantscount>30</participantscount></event>
+	<event><title>数据存储</title><chapterid>107219447444236191734</chapterid><description>掌握Android中的存储技术：通过Context获取Android中的内部和外部数据存储目录、偏好设置文件的读写和偏好设置框架、创建和访问SQLite数据库、使用SQLiteDatabase对象实现数据库操作、使用Cursor遍历查询结果、使用SQLiteOpenHelper初始化数据库和升级数据库、定义ContentProvider共享数据、使用ContentResolver访问ContentProvider。学习掌握HTTP协议，学会使用HttpUrlConnection访问HTTP服务端，使用HttpClient访问HTTP服务端。学会使用SAX、Pull方式解析XML。</description><start>2016.11.25 20:00</start><end>21:00</end><location>兰大网络中心二层</location><participantscount>30</participantscount></event>
+	<event><title>使用Material Design Lite</title><chapterid>107219447444236191734</chapterid><description>Material Design作为Google在的设计语言，已经贯穿包括移动端，Web等各种平台，本次活动将为大家讲解Material Design Lite的使用，同时带领大家完成一个使用Material Design Lite进行设计的简易App的开发。</description><start>2016.11.24 19:00</start><end>21:00</end><location>兰州大学飞云楼530</location><participantscount>30</participantscount></event>
+	<event><title>Android UI基础</title><chapterid>107219447444236191734</chapterid><description>熟悉Android中的常用的5大布局和一些常用的控件，了解Android中的事件处理机制，学习系统菜单和上下文菜单的使用，以及对话框的使用。学会Activity的跳转和生命周期。</description><start>2016.11.13 18:00</start><end>20:00</end><location>兰大网络中心二层</location><participantscount>25</participantscount></event>
+	<event><title>在App中的使用Firebase服务</title><chapterid>107219447444236191734</chapterid><description>Firebase可以帮助手机以及网页应用的开发者轻松构建App。通过Firebase背后负载的框架就可以简单地开发一个App，无需服务器以及基础设施。我们将带领大家了解基于Firebase服务快速构建App的技术要点，带大家做一个简单的基于Firebase的数据分析网站的实例。</description><start>2016.11.12 19:00</start><end>21:00</end><location>兰州大学飞云楼530</location><participantscount>49</participantscount></event>
+	<event><title>cardboard应用开发入门</title><chapterid>107219447444236191734</chapterid><description>Google VR SDK为开发者提供了基于Android开发虚拟现实应用的快速开发接口，本次分享主要为Google VR SDK的入门培训，旨在带领开发者了解如何开发一个适配Android VR设备的App，本次培训会让大家完成一个VR Android游戏。</description><start>2016.10.26 19:30</start><end>21:00</end><location>兰大飞云楼二楼会议室</location><participantscount>26</participantscount></event>
+	<event><title>GDG Lanzhou DevFest 2016</title><chapterid>107219447444236191734</chapterid><description>Hello mobile！Hello AI ！
+
+活动介绍：
+作为全球各地GDG社区单独组织的盛大活动，DevFest一直以来都是兰州地区Google开发者的盛大节日。经过1个多月的精心准备和周密策划，兰州GDG DevFest2016就要来了， 本次兰州GDG DevFest将以“Hello mobile！Hello AI ！”为主题，举办Android，TensorFlow开源深度学习框架，Google PWA(Progressive Web Apps) ，Firebase，HTML5，Blockly与创客教育等诸多技术演讲。和往年一样，每位参加DevFest的开发者都将获得DevFest的纪念文化衫和Android纪念公仔。
+
+关于 GDG
+ GDG , 即 Google Developer Groups 的缩写或谷歌开发者社区，是谷歌开发者部门发起的全球性技术社区。 GDG 是面向对 Google 和开源、开放技术感兴趣的公益性开发者社区，内容涵盖 Web/Chrome、Android 和其它 Google API 等。全国已成立了二十多个 GDG 社区遍布全国，赶快加入你身边的组织吧。
+
+活动流程：
+一，兰州GDG社区介绍（13:00-13:30）：
+	由兰州GDG组织者为大家介绍Google 开发者社区的情况以及兰州GDG在过去一年开展的工作，取得的成绩。对所有参加兰州GDG DevFest2016的所有开发者致欢迎辞
+
+二，“ Hello mobile！”系列主题演讲（13:30-15:30）：
+
+演讲1: 《Material Design规范下的Android N应用开发》 ——王辰
+演讲2: 《Getting started with Progressive Web Apps (PWA) 》——谢启荣
+演讲3: 《利用Firebase快速搭建数据驱动网站（应用）》——王明生
+演讲4: 《创客教育与blockly》 ——王宇：甘肃万菱科技有限公司课程总监，爱创家青少年创客培养计划运营总监、金牌导师。
+
+15:30 - 16:00  茶歇，基于HTML5 的会场互动游戏（由兰州大学开源社区开发）
+
+三，“ Hello AI ! ”系列主题演讲（16:00-17:30）：
+演讲5: 《从TensorFlow讲起：一个深度卷积神经网络实践》——申泽邦
+演讲6: 《当我用Google Assistant我在想什么：浅谈机器学习在移动互联网中的应用》——徐梓荐
+
+17:30 - 18:30  CodeLab优秀开发者经验分享
+兰州Google开发者社区开发者代表将为大家演示他们基于Google Beacons开发的会场互动App
+所有与会开发者拍照合影
+
+PS：作为有态度的Google Geek，你需要注册gmail账号，并且加入Lanzhou GDG与 LanZhou GDG Google+ 还有我们的Member！ https://developers.google.com/groups/chapter/107219447444236191734/。 关注https://plus.google.com/u/0/107219447444236191734/posts
+
+我们只为注册有效有并加入lanzhou GDG与LanZhou GDG Google+ member的人员送精美礼品。请各位注意！！！！  关于我们:http://lanzhougdg.sinaapp.com/?page_id=63  
+
+更多最新信息请关注我们的lanzhou gdg的group和g+主页！ 请加入我们的Member！ https://developers.google.com/groups/chapter/107219447444236191734/ GDG LanZhou，Devfest大会筹备组  兰州GDG社交平台 国内论坛：http://chinagdg.com/forum-43-1.html 论坛：groups.google.com/forum/?fromgroups#!forum/Lanzhou-GDG G+：https://plus.google.com/u/0/107219447444236191734/posts 官方blog：http://lanzhougdg.sinaapp.com</description><start>2016.10.23 13:00</start><end>18:30</end><location>兰州大学榆中校区天山堂 C区203</location><participantscount>289</participantscount></event>
+	<event><title>Android编程基础——OOP编程</title><chapterid>107219447444236191734</chapterid><description>掌握Java语言高级特性，理解面向对象编程思想，了解掌握封装、继承、多态三大特性。学习使用this、super关键字和属性，同时学习使用访问修饰符、static和final关键字的使用。了解方法重载和封装，掌握常用设计模式。</description><start>2016.10.20 14:00</start><end>16:00</end><location>兰大网络中心二层</location><participantscount>25</participantscount></event>
+	<event><title>Android图片缓存技术解析</title><chapterid>107219447444236191734</chapterid><description>介绍Android中的图片三层缓存机制，以及目前著名的Android图片缓存开源框架（如ImageLoader，Fresco等等），重点讲解网络图片缓存环节，在给大家一个基本的图片缓存过程印象之后，使用Fresco做一个Android图片三级缓存Demo</description><start>2016.10.17 20:00</start><end>21:00</end><location>兰大飞云楼二楼会议室</location><participantscount>26</participantscount></event>
+	<event><title>Android编程基础——Java语言基础</title><chapterid>107219447444236191734</chapterid><description>掌握Java中使用的数据类型，了解变量、常量和数组的概念。学习使用运算符、表达式、分支和循环，掌握Java基本语法。学习使用Android基础控件，实现输入输出。了解一些算法和常用数据结构，学习软件编程规范。</description><start>2016.10.15 20:00</start><end>21:00</end><location>兰大网络中心二层</location><participantscount>27</participantscount></event>
+	<event><title>兰州第14中学AppInventor辅导</title><chapterid>107219447444236191734</chapterid><description>在App Inventor比赛作品提交的最后一天，我们有幸请来为中小学老师做App Inventor培训的王老师为兰州第14中学的同学们做最后的赛前指导，相信这次的培训会给同学们带来不一样的收获，同时也祝愿同学们可以在比赛中能够获得优异的成绩，欢迎大家积极参加！
+</description><start>2016.10.10 10:30</start><end>16:00</end><location>兰州第14中学机房</location><participantscount>50</participantscount></event>
+	<event><title>Android开发基础</title><chapterid>107219447444236191734</chapterid><description>首先向大家介绍行业背景，并对Android框架进行介绍。学习搭建Android开发环境，并尝试在Android开发环境下开发第一个程序，了解Android项目结构，并使用模拟器运行Android程序。最后了解Android程序的调试方法。</description><start>2016.10.08 20:00</start><end>21:00</end><location>兰大网络中心二层</location><participantscount>30</participantscount></event>
+	<event><title>App Inventor比赛事宜以及赛前指导</title><chapterid>107219447444236191734</chapterid><description>App Inventor大赛提交作品临近尾声，今天我们有幸请来给中小学老师做App Inventor培训的王老师为大家讲解比赛事宜和赛前的指导，相信这次的培训会给同学们带来很多帮助和收获，同时也祝愿同学们可以在比赛中能够获得优异的成绩，希望大家踊跃参加！</description><start>2016.09.30 10:00</start><end>17:00</end><location>兰州大学附属中学机房</location><participantscount>50</participantscount></event>
+	<event><title>Google TensorFlow机器学习框架入门</title><chapterid>107219447444236191734</chapterid><description>本次分享主要是从Google deepmind的AlphaGo机器人说起，讲解深度学习的一些基础理论性的知识，以及目前Google最新开源的机器学习框架TensorFlow，TensorFlow是 Google 多年以来内部的机器学习系统。本次分享将介绍TensorFlow的安装流程以及基本用法，包括如何构建图，在一个会话中启动图，Tensor数据结构等等，旨在带领大家对TensorFlow有一个大致的认知。</description><start>2016.09.25 19:00</start><end>21:00</end><location>兰大飞云楼二楼会议室</location><participantscount>50</participantscount></event>
+	<event><title>搭建Android开发环境</title><chapterid>107219447444236191734</chapterid><description>介绍Windows、Linux及Andorid环境下的一些Andorid IDE（如Eclipse、Android Studio、AIDE等）。学习在Winodws/Linux环境下的IDE配置：配置JDK环境、下载IDE、配置Android SDK、安装Android studio并建立第一”hello word”程序、学会使用Android虚拟机调试与USB连接真机调试。对所用到的开发工具有一定认识，了解不同工具的不同用途。同时欢迎对Android开发感兴趣的同学积极参加。</description><start>2016.09.22 20:00</start><end>21:00</end><location>兰大网络中心二层</location><participantscount>25</participantscount></event>
+	<event><title>App Inventor 作品提交以及赛前指导</title><chapterid>107219447444236191734</chapterid><description>随着App Inventor大赛作品提交的截止日期的临近，很多同学都已经完成了自己的参赛App，但是还有很多同学由于各种原因无法上传自己做好的App，为了帮助同学们解决提交作品过程中遇到的困难，今天我们有幸请来为中小学老师做App Inventor培训的王老师为大家做最后的赛前指导，相信这次的培训会给同学们带来不一样的收获，同时也祝愿同学们可以在比赛中能够获得优异的成绩，欢迎大家积极参加！</description><start>2016.09.15 10:30</start><end>16:00</end><location>兰大附中机房</location><participantscount>50</participantscount></event>
+	<event><title>Android安全机制探讨</title><chapterid>107219447444236191734</chapterid><description>        随着互联网时代的到来,Android已经融入了我们的生活。与Android市场繁荣的同时存在的,是Android的安全问题日益突出,各种隐私泄露,信息丢失,恶意扣费,系统入侵屡见不鲜。针对Android安全的研究十分紧迫和必要。针对这些安全问题，兰州GDG的志愿者们以及台湾成功大学的黄敬群教授展开深入的讨论，欢迎对该课题感兴趣或者对此方面擅长人来参加此次讨论！</description><start>2016.09.09 03:00</start><end>04:00</end><location>兰州大学网络中心二楼</location><participantscount>43</participantscount></event>
+	<event><title>arm体系结构介绍</title><chapterid>107219447444236191734</chapterid><description>        通过兰州GDG志愿者们的努力，请来了台湾成功大学的黄敬群教授，黄老师为开源社区做了巨大的贡献，在linux相关技术方面有着极高的造诣。随着智能手机的日益使用广泛，ARM体系结构使用也越来越多，更多的开发人员也需要去掌握ARM体系结构相关的知识，所以在此次活动中，黄老师将给大家介绍ARM体系结构相关的知识，欢迎感兴趣的积极参与！</description><start>2016.09.05 02:30</start><end>05:00</end><location>兰州大学网络中心二楼</location><participantscount>40</participantscount></event>
+	<event><title>开源工具github的使用</title><chapterid>107219447444236191734</chapterid><description>        暑期过后，兰州GDG决定讲解github有关的内容，Git是一个分布式的版本控制系统，是我们在软件开发过程中必备的有力工具。作为开源代码库以及版本控制系统，Github拥有140多万开发者用户。随着越来越多的应用程序转移到了云上，Github已经成为了管理软件开发以及发现已有代码的首选方法。此次活动，我们将由兰州GDG的志愿者王绪国给大家详细介绍一下github的基本使用，欢迎感兴趣的积极参加！</description><start>2016.09.01 14:30</start><end>17:00</end><location>网络中心二楼</location><participantscount>45</participantscount></event>
+	<event><title>安卓底层的linux知识普及</title><chapterid>107219447444236191734</chapterid><description>        随着新生的入学，更多大学生已经来到学校，为了让更多学生对安卓有所了解，在开学之初兰州GDG成员要为大家做个报告，以扩展兰州GDG知名度以及安卓学习兴趣。要想开发出更优秀的上层应用程序，就必须对安卓底层有一个基本的了解，安卓底层采用的是linux内核，所以安卓应用程序开发者应该对linux有一个基本的了解。此次活动由兰州GDG的志愿者王建强给大家普及一下linux内核相关的知识，欢迎感兴趣的积极参与。</description><start>2016.08.29 19:30</start><end>21:30</end><location>兰州大学飞云楼406室</location><participantscount>42</participantscount></event>
+	<event><title>兰州GDG 2016暑期系列活动</title><chapterid>107219447444236191734</chapterid><description>兰州GDG在过去的几年里举办活动次数不断提高，参与人员也越来越多，在兰州各大高校都有很好的影响，为了继续提升兰州GDG知名度，兰州GDG的组织者决定在2016年暑期举办一个系列活动，针对兰州各大高校学生开展的一个暑期培训。本次活动由兰州GDG主办，兰州大学嵌入与分布式实验室(DSLab)与深圳市大疆创新科技有限公司共同协办。本次活动会涉及到Android的开发、HTML的初步学习以及无人机的开发过程，本次活动必将会给在各高校学生一个不一样的暑假，快快加入我们吧！
+7月16日：
+	兰州GDG暑期特训开营仪式以及介绍未来几天的行程和讲座内容
+7月17日：
+	上午 9:00     天山堂集合；
+		        兰州GDG组织者致辞，介绍兰州GDG相关内容
+		        主题讲座：Android上的应用开发入门。发布第一期任务
+	下午 14:30   兰州大学开源社区，动手操作：Android设备的遥感控制入门
+		        各小组完成第一期任务。
+7月18日：
+	上午 10:00  天山堂二楼报告厅，主题讲座：Android平台的OpenCV开发入门
+		        发布第二期任务
+	下午 14:30  兰州大学开源社区，动手操作：各小组独立完成第二期任务
+7月19日：
+	上午 9:00    兰州大学天山堂，课程：Android平台的ffmpeg视频解码开发入门
+	下午 14:30  兰州大学天山堂，课程：人脸识别算法（Eigenface，Fisherface，LBPHface等）在Android系统中的应用
+7月20日
+	整天  兰州大学开源社区，各小组完成终极任务中
+7月21日
+	上午  兰州大学开源社区，各小组完成终极任务中
+	下午  各小组终极任务成果展示。专家组评估，记分，总结，结业。
+7月22日
+	兰州GDG暑期特训闭营仪式、合影留念、聚餐
+
+课程细节
+1.  Android视频应用开发入门，主讲人 赵益民
+	介绍如何结合目前的ffmpeg开源框架在Android系统上完成视频应用的开发，以及利用TextureView在Android设备上呈现H264码流的实时图像。将带领大家结合大疆无人机开发一个First Person View的实时视频解码App。
+2.  Android平台上OpenCV入门，主讲人 申泽邦
+	学习如何在Android系统上应用目前先进的开源图像，视频处理框架，讲解如何在Android平台调用C库接口以及一部份NDK开发知识，带领大家完成一个简易的人脸Detection的App。
+3.  Android平台的人脸识别算法入门，主讲人 申泽邦
+	基于上一节课介绍的人脸Detection App进行进一步开发，讲解人脸识别算法的原理，训练，识别的详细过程，讲解讲解Android平台上应用Eigenface，Fisherface，LBPHface等人脸识别算法。
+
+快来加入我们吧！</description><start>2016.07.16 08:00</start><end>2016.07.22 18:00</end><location>兰州大学榆中校区</location><participantscount>45</participantscount></event>
+	<event><title>兰州GDG IO Redux</title><chapterid>107219447444236191734</chapterid><description>         距离IO大会圆满结束已有多日，本次IO大会带给我们哪些新的技术新的体验？参加IO之夜的小伙伴他们会有怎样的感悟呢，本周的分享的交流活动，将以IO大会为主题，介绍大会中提出的最新的技术以及小伙伴们曾经在美国的见闻。兰州GDG IO Redux,期待你的到来。
+</description><start>2016.06.29 18:30</start><end>21:00</end><location>兰州资源环境职业技术学院数通实训楼503</location><participantscount>30</participantscount></event>
+	<event><title>Sketchup建筑视图 </title><chapterid>107219447444236191734</chapterid><description>        学习了基础的绘图工具后，本周带领大家进行建筑物视图的绘制。在绘制建筑物视图的过程中需要借助动画进行建筑物全方位的展示，如何将动画技术运用到视图中将是本周我们学习的内容重点，希望同学们积极报名参与本次活动。</description><start>2016.06.18 18:30</start><end>21:00</end><location>兰州资源环境职业技术学院数通实训楼503</location><participantscount>40</participantscount></event>
+	<event><title>linux下的调试工具gdb</title><chapterid>107219447444236191734</chapterid><description>        相信有点编程基础的同学对vc6.0一点儿也不陌生，我们在window下的c编程和调试是离不开它的。在linux下有着一款更强大的调试工具，它就是众所周知的gdb。如果你的c程序出现一些你无法检测的错误，利用gdb你可以很快很方便的找到错误。本次会议我们请来的是Dslab几位在校的研究生，他们将会对gdb基本的使用展开讲解，欢迎感兴趣的小伙伴积极参加！</description><start>2016.06.15 19:30</start><end>21:30</end><location>兰州大学飞云楼209</location><participantscount>50</participantscount></event>
+	<event><title>信息安全技术导论</title><chapterid>107219447444236191734</chapterid><description>        为大一新生进行信息安全技术培训，内容包括：信息安全概论、分组密码技术、公钥密码技术、密钥管理与PKI技术、漏洞扫描技术、入侵检测与防火墙技术、互联网安全协议、无线局域网安全、移动通信安全、信息隐藏与数字水印、智能卡技术和信息安全工程学。是其初步了解信息安全学科的基本内容，了解专业核心技术，并对常见攻击技术有一定的了解和掌握。</description><start>2016.06.08 20:00</start><end>21:00</end><location>兰大网络中心二层</location><participantscount>24</participantscount></event>
+	<event><title>SketchUp基本工具</title><chapterid>107219447444236191734</chapterid><description>        学习了基础的绘图工具后，本周带领大家进行地形图的绘制。在绘制地形图的过程中，将向大家介绍图层的使用、阴影的设置、绘图过程中组的创建和主要用于地形创建的沙盒工具。地形图是地图绘制过程中基础的图形之一，希望同学们积极报名参与本次活动。</description><start>2016.06.08 18:30</start><end>21:00</end><location>兰州资源环境职业技术学院数通实训楼503</location><participantscount>50</participantscount></event>
+	<event><title>Android程序界面设计</title><chapterid>107219447444236191734</chapterid><description>        xml也是android编程的一部分，学习android编程，少不了学习xml。本次活动将会给大家讲解如下几部分内容：了解学习xml基础知识，学习用xml构建Android APP的界面及实现简单交互，学习使用IDE快速进行APP界面开发设计。使同学们了解APP直接展示给用户的界面的构成原理，进而更好的熟悉Android开发流程。欢迎大家积极参加此次活动！</description><start>2016.05.30 20:00</start><end>21:00</end><location>兰大网络中心二层</location><participantscount>45</participantscount></event>
+	<event><title>神奇的动画</title><chapterid>107219447444236191734</chapterid><description>        canves的使用在油漆桶案例中已经有过应用，做为图片精灵，其功能也是非常的强大，不仅能够响应点击，还能够判断碰撞，以及对碰撞进行响应。本次活动将主要向大家介绍动画界面的功能和图片精灵的设置、使用，同时还将带领大家制作完成一个小游戏！欢迎同学们积极报名参与。</description><start>2016.05.30 18:30</start><end>21:30</end><location>兰州资源环境职业技术学院数通实训楼503</location><participantscount>28</participantscount></event>
+	<event><title>linux下的shell编程</title><chapterid>107219447444236191734</chapterid><description>学习linux，shell脚本语言的学习是必不可少的。在linux系统中，shell编程可以帮你节省好多时间，也可以为你节省好多不必要的工作。本次活动在兰州大学飞云楼529举办，主要的讲解成员是Dslab实验室在校的几位研究生，他们有着扎实的shll编程基础。欢迎想学习shell编程的小伙伴积极报名参与，相信这次讲座很快带你步入shell编程的大门！</description><start>2016.05.29 19:30</start><end>21:30</end><location>兰州大学飞云楼529</location><participantscount>37</participantscount></event>
+	<event><title>pc间socket通信以及post，get方法讲解 </title><chapterid>107219447444236191734</chapterid><description>    此课程是专门为异端通信开设的。pc间的socket通信其实就是网络编程，主要讲解socket通信时一些内置函数的使用和技巧以及一些固有的格式，最终做出一个可以通用的头文件以供需要时使用。post和get方法则是针对网页和服务器之间的通信，主要是基础知识的讲解，如cookie，通信，抓包等。</description><start>2016.05.20 20:00</start><end>21:00</end><location>兰州大学网络中心二楼</location><participantscount>28</participantscount></event>
+	<event><title>Android UI及Fragment应用引导</title><chapterid>107219447444236191734</chapterid><description>        面向对移动开发感兴趣的同学，并且已经在上一节课后完成了Android开发环境搭建，能够查询SDK文档。本节课首先会简单介绍Android studio的开发环境配置， 然后为同学们讲解进行UI设计的概念，Android中支持的设计方法。同时对布局、控件，资源文件R类进行介绍，并指导同学进行实践操作。另外详细介绍Fragment的概念，Fragment可以表现Activity中UI的一个行为或者一部分，熟悉Fragment的使用可以提高代码的重用和模块式维护。</description><start>2016.05.20 19:30</start><end>21:30</end><location>兰州大学飞云楼209</location><participantscount>55</participantscount></event>
+	<event><title>2016 Google I/O 大会兰州GDG直播之夜(二)</title><chapterid>107219447444236191734</chapterid><description>        想了解国际版的Google Glass设备吗？想知道VR是什么吗？是怎样的一种体验吗？想知道今年的Google新产品有什么改变吗？如果没能去现场参加Google I/O大会，那么就来参加兰州GDG社区举办的Google I/O Extended活动吧！Google I/O 是由 Google 公司举办的年度开发者大会，每年的 I/O 大会 Google 公司都会发布一些前沿科技产品，今年大会将于5月18日、5月19日在旧金山 Moscone Center举办。 为了让不能亲自参会的开发者有机会体验 I/O 大会，兰州谷歌开发者社区将在中国时间5月18日晚9:30举办 I/O Extend 直播活动，届时将提供无障碍的网络环境、舒适的会议环境，配上点心，让每个对 I/O 大会感兴趣的朋友都能享受这一场开发者盛宴。 出于安全因素、网络因素以及管理因素等总和考虑，活动地点安排在兰州大学校园内，社区志愿者会竭力为参会嘉宾提供方便。 
+具体活动信息如下： 
+时间：2016年5月18日 21:30-2016年5月19日 3:00
+地点：甘肃省兰州市兰州大学榆中校区通信网络中心  
+报名链接（报名将有机会获得2016 IO 限量版T恤一件，数量有限，先到先得！）： https://www.gdgdocs.org/forms/d/1y1v_Vc3Q5eIOmyjcAw9746_pnW8M6FF0_S0nTyP0fek/viewform?edit_requested=true
+谢谢大家！﻿</description><start>2016.05.18 21:30</start><end>2016.05.19 03:00</end><location>甘肃省兰州市兰州大学榆中校区通信网络中心</location><participantscount>40</participantscount></event>
+	<event><title>2016 Google I/O 大会兰州GDG直播之夜(一)</title><chapterid>107219447444236191734</chapterid><description>        想了解国际版的Google Glass设备吗？想知道VR是什么吗？是怎样的一种体验吗？想知道今年的Google新产品有什么改变吗？如果没能去现场参加Google I/O大会，那么就来参加兰州GDG社区举办的Google I/O Extended活动吧！Google I/O 是由 Google 公司举办的年度开发者大会，每年的 I/O 大会 Google 公司都会发布一些前沿科技产品，今年大会将于5月18日、5月19日在旧金山 Moscone Center举办。 为了让不能亲自参会的开发者有机会体验 I/O 大会，兰州谷歌开发者社区将在中国时间5月18日晚9:30举办 I/O Extend 直播活动，届时将提供无障碍的网络环境、舒适的会议环境，配上点心，让每个对 I/O 大会感兴趣的朋友都能享受这一场开发者盛宴。 出于安全因素、网络因素以及管理因素等总和考虑，活动地点安排在兰州大学校园内，社区志愿者会竭力为参会嘉宾提供方便。 
+具体活动信息如下： 
+时间：2016年5月18日 21:30-2016年5月19日 3:00
+地点：兰州市城关区天水南路222号兰州大学（盘旋路校区）飞云楼 529室  
+报名链接（报名将有机会获得2016 IO 限量版T恤一件，数量有限，先到先得！）： https://www.gdgdocs.org/forms/d/1TF0OrdaHbKxBUBuY0AL2OO6kICnkRTLd3hb9QlzYgV4/viewform?edit_requested=true
+谢谢大家！</description><start>2016.05.18 21:30</start><end>2016.05.19 15:00</end><location>兰州市城关区天水南路222号兰州大学（盘旋路校区）飞云楼 529室</location><participantscount>59</participantscount></event>
+	<event><title>循环语句的使用</title><chapterid>107219447444236191734</chapterid><description>大家在做程序的过程中已经接触过循环语句，作为程度结构中常见的一类，这类语句的结构、功能、作用、条件设置和循环终止设置等都与其它的语句有很大差距，特别是对出现“死循环”时的解决方法。本周活动中将为大家介绍这类语句，欢迎同学们积极报名参与。</description><start>2016.05.14 18:30</start><end>21:00</end><location>兰州资源环境职业技术学院数通实训楼503</location><participantscount>25</participantscount></event>
+	<event><title>linux系统调用原理分析</title><chapterid>107219447444236191734</chapterid><description>        随着开源精神的不断推广，linux操作系统的使用者数量不断在上升，越来越多的开发者加入了linux内核的学习队伍中。系统调用是学习linux内核必须掌握的内容，系统调用是用户程序进入内核态的唯一途径。本次活动请来了Dslab的几位研究生，将对linux系统调用的原理展开分析讲解，欢迎各位想学习linux的积极参加！</description><start>2016.05.09 19:30</start><end>21:30</end><location>兰州大学飞云楼529</location><participantscount>35</participantscount></event>
+	<event><title>init初始化脚本语言介绍</title><chapterid>107219447444236191734</chapterid><description>        init进程源自Linux，是Linux内核启动后，运行的第一个进程。其它所有系统运行所需的进程都由init来创建。在系统启动完成后，init进程会作为守护进程监视其他进程。对于终结或者进入僵死状态的进程，init会强制释放该进程所占用的所有系统资源。作为以Linux内核为基础的Android系统，无可避免的也继承了init进程的诸多特点。本周我们一起来学习int初始化脚本语言。欢迎同学们积极报名参与。</description><start>2016.05.07 18:30</start><end>21:00</end><location>兰州资源环境职业技术学院数通实训楼503</location><participantscount>35</participantscount></event>
+	<event><title>网页最新的设计理念教学</title><chapterid>107219447444236191734</chapterid><description>       由渐变，三维到现在的纯色成为新的设计潮流趋势。虽然很多时候设计和个人的天赋有关，如对色彩、线条和形状的感觉，这个感觉就是有很多时候我们常说的：只可意会不可言传！但是一个好的设计依然有很多地方是可以言传的，也就是说可以用一些明白易懂的理论来分析。。对于网页设计组来说，如何紧跟最前沿设计理念是很重要的。此课由网页设计组组长即break工作室创始人讲解最前沿的几个网页设计类别以及技巧。</description><start>2016.05.02 20:00</start><end>21:00</end><location>兰州大学网络中心二层</location><participantscount>32</participantscount></event>
+	<event><title>条件选择</title><chapterid>107219447444236191734</chapterid><description>        条件选择是程序的基本结构之一，依据一定的条件进行选择判断。条件可以是数学表达式也可以是逻辑表达式，针对不同的选择依据设置适当的条件非常重要。本周我们一起来分享一下曾经使用过的条件语句和条件语句中“条件”的设置。欢迎同学们积极报名参与。</description><start>2016.04.28 18:30</start><end>21:00</end><location>兰州资源环境职业技术学院数通实训楼503</location><participantscount>40</participantscount></event>
+	<event><title>定义过程</title><chapterid>107219447444236191734</chapterid><description>        过程的定义在程序编写过程中非常的重要，不仅可以化简程序结构，降低代码出错的概率，对程序进行修改和改进的时候也能极大的降低工资量，因此过程的定义和调用是非常常用的操作。特别是过程定义的时候需要对参数进行传递，涉及形参和实参的概念。本周我们就来分享一下精灵般的变量如何在AppInventor中被使用。欢迎同学们积极报名参与。</description><start>2016.04.22 18:00</start><end>21:30</end><location>兰州资源环境职业技术学院数通实训楼503</location><participantscount>35</participantscount></event>
+	<event><title>Android应用开发及跨平台开发引导</title><chapterid>107219447444236191734</chapterid><description>       面向有Java或者JavaScript程序设计基础的同学，通过讲解Android平台及其应用开发的过程，具体内容 是Android四大组件和Manifest文件，使同学们能初步建立起Android开发的概念，理解移动应用的结构，同时 介绍进一步开发常规应用的所需要工具和第三方库。另外还将讲授混合开发的理念，以解决移动平台多样化， 全平台部署维护成本高等问题。欢迎大家积极参加！</description><start>2016.04.20 19:30</start><end>21:30</end><location>兰州大学飞云楼209</location><participantscount>56</participantscount></event>
+	<event><title>2016 lanzhou WTM - 跨行业的互联网应用分享</title><chapterid>107219447444236191734</chapterid><description>        Women Techmakers活动是由google发起的全球互联网女性从业者的节日，目的是提升女性在互联网行业的价值和地位，为互联网从业者构建驱动创新氛围，使用技术进行革新提供交流机会
+2016兰州GDG秉承一贯的创新、交流的活动风格，为所有参会人员创建一个共同探讨和学习的氛围。我们邀请了在互联网技术应用领域的女性技术专家为大家演示和介绍互联网技术在不同行业中的应用。
+2016年的主题：2016 lanzhou WTM - 跨行业的互联网应用分享
+本次活动亮点：
+1. 基于搜索与定位功能的地理信息技术
+2. 基于 PcDuino 开发板的开源硬件以及作品展示
+3. 现场体验VR眼镜
+4. 无人机技术介绍以及展示
+注意事项：
+1. 到会的女性都会收到一份精美的礼品；
+2. 欢迎男性同胞积极参与
+3. 本次由于场地限制现场只能提供500个座位，名额有限，希望大家速速报名！</description><start>2016.04.16 14:00</start><end>18:00</end><location>兰州资源环境职业技术学院图书馆学术报告厅</location><participantscount>518</participantscount></event>
+	<event><title>android studio基础教学</title><chapterid>107219447444236191734</chapterid><description>       鉴于大一新生对app开发并未涉猎，Android Studio是Google开发的一款面向Android开发者的IDE，支持Windows、Mac、Linux等操作系统，基于流行的Java语言集成开发环境IntelliJ搭建而成。所以欲通过此课讲解此开发软件的使用并在其中讲解android开发与其它软件开发的不同之处和共通之处。并吸纳部分感兴趣同学加入android项目之中实战学习。</description><start>2016.04.15 20:00</start><end>21:00</end><location>兰大网络中心二层</location><participantscount>34</participantscount></event>
+	<event><title>Android学习经验及工作经验分享会</title><chapterid>107219447444236191734</chapterid><description>       临近毕业季，很多同学都要离开学校，在学校的这几年一定是最值得难忘的，他们的学习经历，找工作经历一定是非常艰辛的，但是艰辛过后结果是好的，趁师兄师姐还没有离校，兰州GDG成员打算让毕业生给大家做一次报告，关于这几年学习Android或者其他方面的经验，还有工作经验分享，相信一定会给大家带来帮助，希望同学们积极参加！</description><start>2016.04.15 19:30</start><end>21:30</end><location>兰州大学飞云楼529</location><participantscount>40</participantscount></event>
+	<event><title>介绍AppInventor中的变量</title><chapterid>107219447444236191734</chapterid><description>        在程序开发过程中，变量是个精灵，可以随意变化，可以来回穿越。在AppInventor中，变量依然可以被应用到程序的编写过程中，但是我们应当如何对变量进行定义？一个变量的数值又如何在应用中进行保存？我们对于一个已经定义的变量又将如何使用？本周我们就来分享一下精灵般的变量如何在AppInventor中被使用。欢迎同学们积极报名参与。</description><start>2016.04.13 18:30</start><end>21:30</end><location>兰州资源环境职业技术学院数通实训楼503</location><participantscount>40</participantscount></event>
+	<event><title>理解应用程序的结构</title><chapterid>107219447444236191734</chapterid><description>       程序是什么？在我们用户的眼中程序是一个应用，可以满足我们的需求，每下载一个程序我们都会想，我应该怎么使用。同样一个应用在开发者眼中却不仅仅是一个应用，是诸多功能的实现，是需要解决的问题，是需要设计的逻辑和需要调用的函数。本周我们向大家介绍开发者眼中的程序结构，我们将一起分享应用程序的几大组成部分。欢迎同学们积极报名参加。</description><start>2016.04.09 18:30</start><end>21:00</end><location>兰州资源环境职业技术学院数通实训楼503</location><participantscount>43</participantscount></event>
+	<event><title>linux内核编译原理</title><chapterid>107219447444236191734</chapterid><description>        帮助大一新生更好的理解linux系统，或者说是更深入的了解系统不过也是一个软件，大部分应用软件也都是遵循GPL而设计的，都可以获取相应的源程序代码。由此引发的一个明显的好处就是Linux修补漏洞的快速以及对最新软件技术的利用。而Linux的内核则是这些特点的最直接的代表。使他们在之后的使用中，能够根据内核编译时所学习的技巧去应对各种突发事件。此课程将布置编译linux 4.5内核的作业。</description><start>2016.04.08 20:00</start><end>21:00</end><location>兰大网络中心二层</location><participantscount>20</participantscount></event>
+	<event><title>Android的设计模式分享会</title><chapterid>107219447444236191734</chapterid><description>        Android开发的设计模式，基本设计思想源于java的设计模式，java的设计模式有N多种，据不完全统计，迄今为止，网络出现最频繁的大概有23种。Java只是一门开发语言，学会并掌握这门语言进行代码编写，这是每个程序员必修的课程，但如何写出高质量、易维护和复用性强的代码，那就体现出程序员的层次和水平了。设计模式的出现就是为了解决这些问题。那么此次即将举办的活动将邀请相关专业人士就常用的四种设计模式展开讲解，欢迎大家积极参与。</description><start>2016.04.08 14:30</start><end>16:30</end><location>兰州大学飞云楼529</location><participantscount>45</participantscount></event>
+	<event><title>无人机开发分享会</title><chapterid>107219447444236191734</chapterid><description>        本次活动是继榆中演讲无人机开发之后在兰州大学校本部再次举行，这次主要针对DSlab实验室的全体成员以及感兴趣的其他实验室的成员，本场活动中周老师会根据在榆中演讲时的一些新的感悟和大家一起分享，随后申泽邦同学会向所有人展示整个开发过程，并在会前会带一部人去外面进行无人机的试飞演示，这次活动一定会对你有所收获，欢迎你们的加入，期待你们的参与！</description><start>2016.04.07 17:30</start><end>20:00</end><location>兰州大学飞云楼209室</location><participantscount>60</participantscount></event>
+	<event><title>Android开发及无人机演示</title><chapterid>107219447444236191734</chapterid><description>       本次活动在榆中举行，针对大一新同学开展的一次Android开发经验分享活动，活动由GDG成员、软件开发社区的志愿者和对Android开发感性趣的同学组成，现在Android开发越来越受大众的关注，刚入学的新同学都对此非常感兴趣，在大家的邀请下通过开发社区这个渠道找到了兰州GDG的组织者周老师，他欣然接受这个邀请愿意和同学分享近期的Android开发成果无人机的开发过程和演示，周老师的学生申泽邦将会给大家实时演示无人机，这次活动必定会在学到很多东西的同时给大家带来欢乐，同时会让你脑洞大开，Android开发将会成为新同学中的主流，同学们加油，欢迎你们的加入，期待你们的参与！</description><start>2016.04.01 17:30</start><end>20:00</end><location>兰州大学榆中校区天山堂C302室</location><participantscount>153</participantscount></event>
+	<event><title>Android编译系统介绍</title><chapterid>107219447444236191734</chapterid><description>    Google在开发Android系统的同时，为便于Android技术的推广使用，降低开发成本，开发了针对不同版本的模拟器，在没有目标开发板的情况下，要实现对硬件的操作可以使用模拟器的内核源码。Android编译系统基于最新版本的GNU Make，主要完成了哪些工作？编译Android系统的过程步骤有哪些？build和sdk又有哪些功能和作用？本周我们将一起探讨关于Android编译系统的那些有趣的事情。欢迎同学们积极报名参与。</description><start>2016.03.31 18:30</start><end>21:00</end><location>兰州资源环境职业技术学院数通实训楼503</location><participantscount>35</participantscount></event>
+	<event><title>Android AndFix热补丁动态修复框架使用教程</title><chapterid>107219447444236191734</chapterid><description>        本次活动请来了兰州大学Dslab的研究生，就Android AndFix热补丁动态修复框架的使用展开一次经验分享会。AndFix是阿里巴巴开源的 Android 应用热修复工具，帮助 Anroid 开发者修复应用的线上问题。Andfix 是 “Android hot-fix” 的缩写。支持Android 2.3-6.0，ARM和x86架构。这次活动必定会在学到很多东西的同时给大家带来欢乐，同时会让你脑洞大开，期待你们的参与！
+</description><start>2016.03.29 19:30</start><end>21:30</end><location>兰州大学飞云楼 531</location><participantscount>37</participantscount></event>
+	<event><title>Android底层源码结构分析</title><chapterid>107219447444236191734</chapterid><description>        上周的活动介绍了Android的系统架构，在进行系统移植和底层开发的时候，底层源码将发挥不可小觑的作用，有哪些底层源码库可以被调用？这些库又提供给我们哪些功能迥异的函数？如果原有库不能满足我们的使用需求，我们又能有什么方法对底层库进行扩充呢？本周我们将向大家介绍Android底层的源码结构，以及特色鲜明的底层函数库，并且还将与大家一起分享增加本地库的方法。欢迎感兴趣的同学积极报名参与。</description><start>2016.03.23 18:00</start><end>21:00</end><location>兰州资源环境职业技术学院数通实训楼503</location><participantscount>40</participantscount></event>
+	<event><title>讲解Android系统的软件结构</title><chapterid>107219447444236191734</chapterid><description>        Android系统若要进行移植开发，必不可少的要对其软件结构的进行了解和掌握。神奇的Android系统具有怎么的结构和源码，Android系统与Linux系统又有怎样的关系，我们在Android系统平台上究竟能有多少自由发挥空间？本周我们将走进Android系统的世界，揭开Android系统结构的面纱，与大家一起分享一下Andriod系统软件结构的知识。欢迎感兴趣的同学积极报名参与。</description><start>2016.03.16 18:30</start><end>21:00</end><location>兰州资源环境职业技术学院数通实训楼503</location><participantscount>45</participantscount></event>
+	<event><title>android手机开发环境搭建</title><chapterid>107219447444236191734</chapterid><description>        嵌入式系统的应用范围约来越广，基于Android的嵌入式系统的应用更加倍受青睐。究竟什么样的系统才能够称之为嵌入式系统，Android嵌入式系统又有哪些独特的特点？如何搭建出一个可用于进行嵌入式开发的环境？本周我们将同大家一起分享一下嵌入式系统的知识，并且帮助大家一起搭建Android开发环境。欢迎感兴趣的同学积极报名参与。</description><start>2016.03.09 18:30</start><end>21:00</end><location>兰州资源环境职业技术学院数通实训楼503</location><participantscount>43</participantscount></event>
+	<event><title>安卓开发环境的搭建和实例分享</title><chapterid>107219447444236191734</chapterid><description>       安卓开发具有上手比较容易，开发模式足够新潮，成本低有竞争力三大优点，所以安卓开发在 当今社会就显得尤为重要，那么想要进行安卓开发首先要把开发环境搭建好，有了开发环境后再做几 个简单的小实例就会提高大家的兴趣，那么我们将会找有安卓开发经验的人来给大家做安卓开发环境 搭建和实例的分享，希望大家积极参与。</description><start>2016.03.05 19:30</start><end>21:30</end><location>兰州大学 飞云楼529</location><participantscount>58</participantscount></event>
+	<event><title>Android平台的崩溃捕获机制及实现</title><chapterid>107219447444236191734</chapterid><description>        Android系统碎片化造成应用程序崩溃严重，在模拟器上运行良好的程序安装到某款手机上说不定就会出现崩溃的现象。而且，往往都是程序发布之后在用户端出现了崩溃现象。所以，如何及时捕获并收集Android平台的崩溃就显得愈发重要。目前，市面上已经有第三方SDK可以帮助开发者完成这一功能，本次活动将跟大家分享一下这些崩溃分析SDK的实现原理。欢迎大家积极参与。</description><start>2016.02.27 14:00</start><end>16:30</end><location>兰州大学 飞云楼209</location><participantscount>55</participantscount></event>
+	<event><title>兰州GDG社区部分成员和志愿者2015年终总结</title><chapterid>107219447444236191734</chapterid><description>        1月19号，兰州GDG社区部分成员和志愿者将在兰州大学飞云楼209举办2015年终总结大会。此次活动，GDG社区的部分成员和志愿者都会参加；会议将会对过去的一年做一个总结，把2015年期间举办的比较重大的活动进行比较详细的讨论，对其中优秀的经验加以传承，来年再接再厉，对做的有欠缺的地方加以改正，避免来年再出现同样的错误。过去的一年里面，每个GDG社区的部分成员和志愿者都付出了不少努力，每个人都会在会议上做一个小的总结；对GDG社区有突出贡献的，兰州GDG社区组织将会采取奖励措施加以表彰，以示其继续努力。此次总结大会，不仅仅是对过去一年的总结，会议还会对2016年如何发展，做一个详细的规划，给社区的发展一个更好的方向，更加壮大社区组织。相信2016年兰州GDG会办的越来越好，希望大家踊跃参加。</description><start>2016.01.19 19:00</start><end>21:30</end><location>兰州大学飞云楼209</location><participantscount>63</participantscount></event>
+	<event><title>更快更有效的学习安卓应用开发</title><chapterid>107219447444236191734</chapterid><description>        1月9日在天山堂的B501，将举行由周睿老师组织，针对信息学院在校本科生举办的GDG更快更有效的开发学习安卓应用开发；活动请来了资源环境职业技术学院的康老师，康老师有着丰富的安卓应用程序开发经验，此次活动，康老师将给大家根据自己的经验讲述如何更快更有效的学好安卓应用程序开发。活动开设互动问答环节，并有礼品奖励。</description><start>2016.01.09 18:40</start><end>20:20</end><location>兰州大学榆中校区天山堂B501室</location><participantscount>36</participantscount></event>
+	<event><title>安卓开发经验交流会</title><chapterid>107219447444236191734</chapterid><description>        21日在天山堂的A302，由周睿老师组织，针对来自核学院以及信息学院的学生举行的GDG交流会，将邀请来自兰州大学的在校研究生徐梓荐分享安卓开发经验，现场互动问答环节，并有礼品奖励；安卓开发分享后，研究生徐梓荐会向同学们鉴于自己转专业的经历，简单地分享一下转专业和考研的相关经验，并会详细介绍自己从接触安卓开发到现在积累的一些经验。</description><start>2015.12.21 20:00</start><end>21:00</end><location>兰州大学榆中校区天山堂A302室</location><participantscount>20</participantscount></event>
+	<event><title>Android应用架构变更背后的经验、失误与推论</title><chapterid>107219447444236191734</chapterid><description>        Android的开发生态系统发展迅速，每周都有变化，人们不停地创建新工具、更新资源库、撰写博文、发表演讲。只要享受一个月的假期，回来的时候支持库和/或Play Services都更新换代了。这次活动我们将在兰州大学飞云楼209展开，我们很荣幸邀请到了兰州GDG成员周庆国老师以及Dslab实验室的研究生，我们将具体阐述这些架构变更背后的经验、失误还有推论。欢迎大家积极参与，相信大家将会有不菲的收获。</description><start>2015.12.20 19:30</start><end>21:30</end><location>兰州大学飞云楼209</location><participantscount>52</participantscount></event>
+	<event><title>软件工程与应用调试</title><chapterid>107219447444236191734</chapterid><description>        本次活动主要向大家介绍软件工程的原则以及应用的调试方法。根据很多同学的要求，对软件工程的设计原则进行讲解，对于初步开始设计程序的同学详细介绍需求分析、可行性分析的必要性以及文档编写的过程，以及设计文档的编写。并根据大家以往在调试程序过程中出现的问题进行讲解和分析，重点介绍应用程序的调试方法。</description><start>2015.12.10 15:30</start><end>17:30</end><location>兰州资源环境职业技术学院数通实训楼503</location><participantscount>64</participantscount></event>
+	<event><title>走进兰大附中-Hour of Code</title><chapterid>107219447444236191734</chapterid><description>        2015年12月7日到13日是计算机科学教育周，Hour of Code的宗旨是提高中小学生的创新能力、编程能力，同时普及计算机编程知识。兰州GDG以及安卓爱好者还有兰州的组织者共同组织了Hour of code活动，这次走进兰大附中，让更多的学生了解编程，爱上编程，努力寻找爱编程的种子，让更多的学生一起学习编程。</description><start>2015.12.08 14:30</start><end>15:30</end><location>兰州大学附属中学一楼阶梯教室</location><participantscount>109</participantscount></event>
+	<event><title>GDG谷歌开发者纳新活动</title><chapterid>107219447444236191734</chapterid><description>        兰州GDG社区纳新培训结束，将于12月3日在网络中心对新生进行考核，考核内容分为基础知识，C语言，linux，将由GDG社区成员进行监督，防止作弊现象；另外，在14:00-18:00，将会对在其他方面比较擅长的同学进行面试。成绩将于当天晚上统计完毕并通知参加考核的新生。</description><start>2015.12.03 09:00</start><end>18:00</end><location>兰州大学榆中校区网络中心</location><participantscount>27</participantscount></event>
+	<event><title>Android开发经验分享</title><chapterid>107219447444236191734</chapterid><description>        Android设备在我们的生活中扮演着越来越重要的角色，本次的兰州GDG我们将请到nicholas进行一次android开发过程中的经验交流，主要讲解android的开发平台，步骤和一些常见的问题，欢迎大家到时参加。</description><start>2015.11.22 19:30</start><end>21:00</end><location>兰大飞云楼010</location><participantscount>21</participantscount></event>
+	<event><title>Android学习路线指南</title><chapterid>107219447444236191734</chapterid><description>        最近几年国内的初级Android程序员已经很多了，但是中高级的Android技术人才仍然稀缺;本次活动将请来兰州大学著名学者周庆国老师和Dslab实验室的优秀研究生,以&quot;Android学习路线&quot;为主题展开讨论,并为大家分享一些珍贵的编程经验.参加此次活动将会使你受益匪浅,欢迎大家踊跃报名参加</description><start>2015.11.20 19:30</start><end>21:30</end><location>兰州大学飞云楼209</location><participantscount>65</participantscount></event>
+	<event><title>Devfest 2015 Lanzhou第二季——WTM</title><chapterid>107219447444236191734</chapterid><description>        继Devfest第一季，本次活动是对第一次活动的延伸和扩展。这次活动准备增加了基于地图的应用和开发，介绍地理信息技术；应广大爱好者的要求，本次活动还增加了无人机应用的介绍，以及对App Inventor学习和编程方法的介绍。
+活动流程如下：
+              14：00 签到入场；
+              14：30 GDG团队的介绍（Carey）
+              15：20 地理信息技术（Fiona）
+              16：00 茶歇
+              16：20 无人机的行业应用（Mark）
+              17：00 App Inventor编程（Carey）
+              17：40 App Inventor作品展示及互动体验
+              18：20 合影，活动结束</description><start>2015.11.19 14:00</start><end>18:30</end><location>兰州资源环境职业技术学院树行源A座503</location><participantscount>242</participantscount></event>
+	<event><title>油漆桶案例讲解</title><chapterid>107219447444236191734</chapterid><description>        本次活动向大家介绍一个新的App Inventor案例，油漆桶的实现。本次活动讲解的案例会对比“安安爱画画”案例进一步学习使用Canvas组件来绘制图画。通过实现画线等操作学习处理屏幕上的触摸及拖拽事件；通过使用arrangement组件来控制屏幕的外观；通过使用带有参数的事件来处理程序；以及通过定义变量，来保存用户绘制的图形状态。</description><start>2015.11.18 19:00</start><end>21:30</end><location>兰州资源环境职业技术学院银光实训楼509</location><participantscount>40</participantscount></event>
+	<event><title>Android开发之Github平台的使用</title><chapterid>107219447444236191734</chapterid><description>        随着Android设备的普及，许多本科生的毕业设计选择了Android app的开发，开发过程选用了Github平台来管理项目。Github是一个代码托管网站，开发者可以将代码在 GitHub上开源，可以浏览其它项目的代码，fork 到自己名下做修改，clone 回本地（没有访问权限的 private repo 除外）使用，也可以发起 pull request 向上游提交自己的修改。我们请到了彭璟文来为大家讲解这个平台的用法，欢迎大家踊跃参见。</description><start>2015.11.14 19:30</start><end>21:00</end><location>兰大飞云楼530</location><participantscount>42</participantscount></event>
+	<event><title>有效的开发android程序</title><chapterid>107219447444236191734</chapterid><description>        由于android手机的日渐普及，越来越多的程序员投身于安卓应用程序开发，使得对andriod应用程序的效率又提高了一个层次。本次活动我们有幸请到奥地利著名学者nichol；nichol有着二十多年的编程经验，他对编程经验的分享，对广大程序员来说是一场饕餮盛宴，希望大家能够积极参与。</description><start>2015.11.09 14:00</start><end>17:00</end><location>兰州大学飞云楼529</location><participantscount>47</participantscount></event>
+	<event><title>理解应用的结构</title><chapterid>107219447444236191734</chapterid><description>        本次活动主要向大家介绍面向对象的程序的结构。依托上周介绍的变量，向大家介绍程序设计中的几个概念：组件、行为、过程。帮助大家进一步学习程序开发</description><start>2015.11.04 15:30</start><end>17:30</end><location>兰州资源环境职业技术学院数通实训楼503</location><participantscount>64</participantscount></event>
+	<event><title>DevFest 2015 Lanzhou</title><chapterid>107219447444236191734</chapterid><description>       转眼间，又到了一年一度的谷歌开发者节 DevFest 的来临。参加DevFest可以学习最新、最酷的技术，和技术专家面对面交流，进行经验分享，了解开发案例，还可以现场动手编程。开发者不但可以免费参与此次活动，还有机会获得社区T恤、Google贴纸和神秘礼物。 全国十几个城市的 GDG 社区都将举办 DevFest 活动， 这将是一场技术和交流的盛宴！
+
+DevFest 就是开发者节的意思，是 Google 赞助发起的全球性开发者活动，也是 GDG 社区的年度活动。DevFest是哥伦比亚的为期一周的系列研讨会和黑客马拉松。 DevFest是关于学习，社区，建设令人惊叹的事情与技术。
+
+如今 Android 早已超越手机和平板的概念，无处不在。目前两款Nexus手机与最终版Android 6.0系统正式与大家见面，赶紧学习一下有什么新变化、新特性吧。
+
+关于 GDG
+GDG , 即 Google Developer Groups 的缩写或谷歌开发者社区，是谷歌开发者部门发起的全球性技术社区。 GDG 是面向对 Google 和开源、开放技术感兴趣的公益性开发者社区，内容涵盖 Web/Chrome、Android 和其它 Google API 等。全国已成立了二十多个 GDG 社区遍布全国，赶快加入你身边的组织吧。
+
+PS：作为有态度的Google Geek，你需要注册gmail账号，并且加入lanzhou GDG与 LanZhou GDG Google+ 还有我们的Member！
+https://developers.google.com/groups/chapter/107219447444236191734/。
+关注https://plus.google.com/u/0/107219447444236191734/posts
+
+我们只为注册有效有并加入lanzhou GDG与LanZhou GDG Google+ member的人员送精美礼品。请各位注意！！！！
+
+关于我们:http://lanzhougdg.sinaapp.com/?page_id=63  
+
+lanzhou devfest 快捷报名通道：https://www.gdgdocs.org/forms/d/1oxHaxo7Sp06HfNf0XYgMIig88IPJ35UITRq-rb2Nrq0/viewform?edit_requested=true
+
+时间：2015年10月31日 下午13:00-18:30
+地点：兰州资源环境职业技术学院汇知芳学术报告厅
+
+日程安排：
+1.kangkang——剖析Android M新特性
+2.carey——App Inventor介绍
+3.李飞——开源硬件经验分享
+4.茶歇
+5.李宇鹏——科学上网
+6.Frank——什么是产品？what is the product
+
+更多最新信息请关注我们的lanzhou gdg的group和g+主页！
+请加入我们的Member！
+https://developers.google.com/groups/chapter/107219447444236191734/
+GDG LanZhou，Devfest大会筹备组
+
+兰州GDG社交平台
+国内论坛：http://chinagdg.com/forum-43-1.html
+论坛：groups.google.com/forum/?fromgroups#!forum/Lanzhou-GDG
+G+：https://plus.google.com/u/0/107219447444236191734/posts
+官方blog：http://lanzhougdg.sinaapp.com</description><start>2015.10.31 13:00</start><end>18:30</end><location>兰州资源环境职业技术学院汇知芳学术报告厅</location><participantscount>961</participantscount></event>
+	<event><title>什么是Android编程语言中的变量</title><chapterid>107219447444236191734</chapterid><description>        本次活动主要向大家介绍Android编程语言中的变量。通过“绘图板”案例介绍变量的种类、定义、赋值，以及使用方法。还会比较现在经常接触到的编程语言中变量定义的异同。</description><start>2015.10.28 19:30</start><end>21:30</end><location>兰州资源环境职业技术学院银光实训楼509</location><participantscount>52</participantscount></event>
+	<event><title>安卓应用程序安全性</title><chapterid>107219447444236191734</chapterid><description>        随着移动网络的快速发展和普及，给人们带来方便快捷的同时，也带来了很多措手不及的安全问题，导致安全日渐成为人们关注的话题。基于移动应用安全问题，我们将在兰州大学飞云楼209展开学术讨论，我们很荣幸邀请到了兰州GDG成员周庆国老师以及Dslab实验室的研究生。欢迎大家积极参与，希望可以通过这次活动，让各界人士对移动应用安全问题有一个新的认识。</description><start>2015.10.27 19:00</start><end>21:00</end><location>兰州大学飞云楼209</location><participantscount>52</participantscount></event>
+	<event><title>走进校园之2015 DevFest活动宣讲</title><chapterid>107219447444236191734</chapterid><description>        本次活动主要以谷歌Devfest活动为契机，宣传和介绍兰州GDG社区，以扩大兰州社区的知名度，增加活跃人数为目的。主要介绍兰州社区的活动宗旨、活动形式、参与方式，以及本次devfest活动的内容和报名方式。lanzhou devfest 快捷报名通道：
+https://www.gdgdocs.org/forms/d/1oxHaxo7Sp06HfNf0XYgMIig88IPJ35UITRq-rb2Nrq0/viewform?edit_requested=true</description><start>2015.10.26 16:30</start><end>18:30</end><location>兰州资源环境职业技术学院 数通实训楼504</location><participantscount>68</participantscount></event>
+	<event><title>用Android来实现“绘图板”功能</title><chapterid>107219447444236191734</chapterid><description>本次活动主要针对初次接触程序开发的同学，以分析如何实现绘图板功能为主。针对“油漆桶”案例和“爱画画”案例进行讲解。相信这样的简单小程序可以给同学们带来学习Android的乐趣，希望大家积极参加！</description><start>2015.10.21 19:30</start><end>21:30</end><location>兰州资源环境职业技术学院银光实训楼509</location><participantscount>52</participantscount></event>
+	<event><title>程序设计之三大结构</title><chapterid>107219447444236191734</chapterid><description>        本次活动主要针对初次接触Android程序开发的同学，在面向对象的开发环境中，向大家介绍程序设计中不可避免的三大结构：选择、调用、循环。并且通过实例展示这三种结构的设计方式和应用效果。</description><start>2015.10.14 19:30</start><end>21:30</end><location>兰州资源环境职业技术学院银光实训楼509</location><participantscount>52</participantscount></event>
+	<event><title>兰州市第十四中学-App Inventor比赛事宜以及赛前指导</title><chapterid>107219447444236191734</chapterid><description>        App Inventor大赛提交作品临近尾声，今天我们有幸请来给中小学老师做App Inventor培训的张昱龙老师为大家讲解比赛事宜和赛前的指导，相信这次的培训会给同学们带来很多帮助，今年的初中组定会取得很好的成绩，祝愿同学们可以在比赛中能够获得优异的成绩，希望大家积极参加！</description><start>2015.10.14 10:00</start><end>17:00</end><location>兰州市第十四中学机房</location><participantscount>68</participantscount></event>
+	<event><title> 兰州市第五中学-App Inventor比赛事宜以及赛前指导</title><chapterid>107219447444236191734</chapterid><description>        App Inventor大赛提交作品临近尾声，今天我们有幸请来给中小学老师做App Inventor培训的张昱龙老师为大家讲解比赛事宜和赛前的指导，相信这次的培训会给同学们带来很多帮助和收获，同时也祝愿同学们可以在比赛中能够获得优异的成绩，希望大家踊跃参加！</description><start>2015.10.13 10:00</start><end>17:00</end><location>兰州市第五中学机房</location><participantscount>94</participantscount></event>
+	<event><title>App Inventor提交作品事宜以及最后的赛前指导</title><chapterid>107219447444236191734</chapterid><description>        App Inventor大赛马上截止提交作品，还有很多同学由于各种原因无法上传，上传过程中遇到了各种各样的问题自己没办法解决，今天我们有幸请来给中小学老师做App Inventor培训的张昱龙老师为大家做最后的赛前指导，相信这次的培训会给同学们带来不一样的收获，同时也祝愿同学们可以在比赛中能够获得优异的成绩，欢迎大家积极参加！</description><start>2015.10.12 10:00</start><end>17:00</end><location>兰大附中机房</location><participantscount>132</participantscount></event>
+	<event><title>App Inventor介绍推广</title><chapterid>107219447444236191734</chapterid><description>        App Inventor具有简单易操作的特点，其面向对象的设计方案，对于新入门的Android爱好者来说，不仅容易学习，而且也为后续的程序设计打下了基础。程序屏蔽了大量繁琐的代码，界面清晰简洁。本次活动由Carey主持，为大家介绍 App Inventor功能以及演示程序编辑方法。欢迎大家踊跃报名参加。</description><start>2015.10.07 19:30</start><end>21:30</end><location>兰州资源环境职业技术学院银光实训楼509</location><participantscount>35</participantscount></event>
+	<event><title>Android内存泄露案例分析</title><chapterid>107219447444236191734</chapterid><description>　　一款优秀的Android应用，不仅要有完善的功能，也要有良好的体验，而性能是影响体验的一个重要因素。内存泄露是Android开发中常见的性能问题。本周五晚，我们将会通过一个真实的案例，来讲述一个内存泄露问题，从发现到分析定位，再到最终解决的全过程，期待大家的参与！</description><start>2015.09.25 19:30</start><end>21:30</end><location>兰州大学飞云楼509</location><participantscount>18</participantscount></event>
+	<event><title>精讲Android架构设计原则</title><chapterid>107219447444236191734</chapterid><description>好的软件设计必须能够帮助开发者发展和扩充解决方案，保持代码清晰健壮，并且可扩展，易于维护，而不必每件事都重写代码。面对软件存在的问题，必须遵守SOLID原则，不要过度工程化，尽可能降低框架中模块的依赖性。本周末，我们社区将为大家带来一场关于Android架构设计原则，期待大家的参与！</description><start>2015.09.20 18:00</start><end>20:00</end><location>兰州大学飞云楼529</location><participantscount>15</participantscount></event>
+	<event><title>软件自由日之安卓系列活动</title><chapterid>107219447444236191734</chapterid><description>        世界软件自由日，兰州GDG社区联合兰州大学开源社区为庆祝世界软件自由日而举办一系列活动。届时将在视野广场举办安卓编程竞赛以及安装系统比赛，同时还邀请了华为，GitCafe 以及 Dslab 实验室的研究生与兰大学生进行交流讲座。欢迎大家积极参与，希望可以通过这次活动，分享开源，让更多的人了解，热爱开源。</description><start>2015.09.20 14:00</start><end>18:00</end><location>兰州大学榆中校区网络中心</location><participantscount>75</participantscount></event>
+	<event><title>Android APP性能优化</title><chapterid>107219447444236191734</chapterid><description>无论锤子还是茄子手机的不断冒出，Android系统的手机市场占有率目前来说还是最大的，因此基于Android开发的App数量也是很庞大的。那么，如何能开发出更高性能的Android App？相信是软件开发公司以
+及广大程序员们头疼的一大难题。本次活动由兰州GDG创业公司兰州新越技术有限公司的工程师们带来一场关于Android APP性能优化的专题讲座，期待您的参加！</description><start>2015.08.29 18:00</start><end>20:00</end><location>兰州大学飞云楼418室</location><participantscount>19</participantscount></event>
+	<event><title>AppInventor讲座</title><chapterid>107219447444236191734</chapterid><description>安卓大家已经并不陌生，现在各种各样的安卓产品已经成为生活中的有用工具，面对广阔的安卓应用市场，无论是作为资深的研发专家还是从未接触过开发的新手，是否有过这样的思考：如此繁多的安卓应用如何简单
+快速的开发出一款属于你的APP呢？本周日，我们社区将为大家带来一场关于AppInvertor使用开发的讲座。
+
+    AppInvertor以操作简单而闻名，即使中小学生也能使用。Google AppInventor是一个完全在线开发的Android编程环境，抛弃复杂的程式代码而使用积木式的堆叠法来完成您的Android程式。除此之外它也正式支持乐高NXT机器人，对于Android初学者或是机器人开发者来说是一大福音，还在等什么，快来参加我们的活动吧！</description><start>2015.07.12 14:00</start><end>17:00</end><location>兰州大学飞云楼010机房</location><participantscount>47</participantscount></event>
+	<event><title>兰州GDG之IO Redux</title><chapterid>107219447444236191734</chapterid><description>
+        距离IO大会圆满结束已有一周多的时间，兰州GDG社区赴旧金山参加大会的组织者已经顺利回国，亲临现场的
+他们会有怎样的感悟呢，本周五（6月12号）他们会给大家带来一场参会分享的交流活动，届时会和大家分享他们的参
+会体验，介绍大会中提出的最新的技术以及在美国期间发生的有趣的事情。兰州GDG IO Redux,期待你的到来。</description><start>2015.06.26 18:00</start><end>21:30</end><location>兰州大学飞云楼524</location><participantscount>37</participantscount></event>
+	<event><title>兰州GDG和你一起马拉松</title><chapterid>107219447444236191734</chapterid><description>兰州国际马拉松于6月13号正式开跑，你报名了吗？兰州GDG和你一起跑起来！
+      活动安排：
+           上午7:00：志愿者开跑
+           下午3:00：Android编程马拉松
+           下午6:00：活动结束，所有参加活动人员聚餐
+</description><start>2015.06.13 07:00</start><end>20:00</end><location>兰州大学飞云楼524</location><participantscount>24</participantscount></event>
+	<event><title>Android学习讨论沙龙</title><chapterid>107219447444236191734</chapterid><description>新的Android系统棒棒糖已经发布一段时间了，想不想分享一下你的使用的体会，那就来参加兰州GDG的活动吧！
+本周五（6月5号）我们将在兰州理工大学举办一场开发经验讨论会，具体活动流程为：
+
+        一、介绍兰州GDG社区
+        二、GDG成员朱朱介绍她在Android开发过程中的心得与体会
+        三、GDG成员陈春林、feel分享他们在开源硬件开发的过程中使用Android开发控制端的经验。
+        四、Android沙龙，大家相互认识并讨论 分享自己的开发经验。</description><start>2015.06.05 19:00</start><end>21:00</end><location>兰州财经大学(兰州商学院)段家滩校区艺术楼A橦216阶梯教室</location><participantscount>117</participantscount></event>
+	<event><title>Android开发者创新培训</title><chapterid>107219447444236191734</chapterid><description>亲，这个培训非常专业，
+1）提供讲师及既定培训内容：讲师是Canonical著名Qt专家，Ubuntu高级工程师，刘晓国，海外工作十余年，培训经验丰富，深受学生欢迎；
+2）提供活动礼品：U盘、笔记本、文化衫等。
+     本次培训计划在兰州大学举行落地培训活动， 为孵化基地相关专业学生提供近距离的技术指导，对受众要求有一定安卓开的技术基础，现场可指导开发。
+我们会提供无障碍的网络环境、舒适的会议环境，加入我们吧！</description><start>2015.05.31 15:00</start><end>18:00</end><location>兰州大学榆中校区天山堂</location><participantscount>37</participantscount></event>
+	<event><title>2015 Google I/O大会兰州GDG直播之夜(三)</title><chapterid>107219447444236191734</chapterid><description>为响应和平区同学们的号召，兰州GDG特别增加了一场IO Extend 活动。
+如果没能去现场参加Google I/O大会，那么就来参加兰州GDG社区举办的Google I/O Extended活动吧！Google I/O 是由 Google 公司举办的年度开发者大会，每年的 I/O 大会 Google 公司都会发布一些前沿科技产品，今年大会将于5月28日、5月29日在旧金山 Moscone Center举办。
+    为了让不能亲自参会的开发者有机会体验 I/O 大会，兰州谷歌开发者社区将在中国时间5月28日晚9:30举办 I/O Extend 直播活动，届时将提供无障碍的网络环境、舒适的会议环境，配上点心，让每个对 I/O 大会感兴趣的朋友都能享受这一场开发者盛宴。
+出于安全因素、网络因素以及管理因素等总和考虑，活动地点安排在兰州大学校园内，社区志愿者会竭力为参会嘉宾提供方便。
+    
+具体活动信息如下：
+
+   时间：2015年5月28日 21:30 ~ 2015年5月29日 3:00
+  活动流程：
+     21:30       开场介绍，包括Google I/O大会介绍，兰州GDG社区介绍等
+     21:50       个人介绍，各位到场成员进行简短自我介绍
+     00:30       Google I/O 2015 Keynote 直播开始
+     01:00       同旧金山会场现场的参会者互动
+     00:30-03:00 
+                 针对 Keynote的主题内容，展开分组讨论，并鼓励现场组队了解、开发、使用新发布的技术、产品
+ 地点：   兰州资源环境职业技术学院银光实验楼501室
+
+
+大会详细日程请参考：
+ Description
+     1.日程信息中的时间是中国时间，GMT+8
+     2.https://events.google.com/io2015/schedule      3.在以上网站登录你的 Google 帐号，可以挑选并保存你自己的分会场选择
+     4.一定要选择时区，默认的 GMT-7 会导致第一天的日程空白
+  接下来就可以定制你的专属IO了。
+
+报名链接（报名将有机会获得2015 IO 限量版T恤一件，数量有限，先到先得！）：
+https://www.gdgdocs.org/forms/d/1Bmnuj5bokYpnvdjsCV1LXf9LdhpxB3U27sQ34XJ2_Hw/viewform?edit_requested=true
+谢谢大家！</description><start>2015.05.28 21:30</start><end>2015.05.29 03:00</end><location>兰州资源环境职业技术学院银光实验楼501室</location><participantscount>44</participantscount></event>
+	<event><title>2015 Google I/O大会兰州GDG直播之夜(一)</title><chapterid>107219447444236191734</chapterid><description>想了解国际版的Google Glass设备？Android Wear是什么？新版的Android系统有什么改动？Nexus智能手机、平板电脑有没有新的产品？Silver是什么？谷歌的Project Ara模块化手机项目是什么？ 想知道这些答案么？如果没能去现场参加Google I/O大会，那么就来参加兰州GDG社区举办的Google I/O Extended活动吧！Google I/O 是由 Google 公司举办的年度开发者大会，每年的 I/O 大会 Google 公司都会发布一些前沿科技产品，今年大会将于5月28日、5月29日在旧金山 Moscone Center举办。 为了让不能亲自参会的开发者有机会体验 I/O 大会，兰州谷歌开发者社区将在中国时间5月28日晚9:30举办 I/O Extend 直播活动，届时将提供无障碍的网络环境、舒适的会议环境，配上点心，让每个对 I/O 大会感兴趣的朋友都能享受这一场开发者盛宴。 出于安全因素、网络因素以及管理因素等总和考虑，活动地点安排在兰州大学校园内，社区志愿者会竭力为参会嘉宾提供方便。 具体活动信息如下： 时间：2015年5月28日 21:30 ~ 2015年5月29日 3:00 活动流程： 21:30 开场介绍，包括Google I/O大会介绍，兰州GDG社区介绍等 21:50 个人介绍，各位到场成员进行简短自我介绍 00:30 Google I/O 2015 Keynote 直播开始 01:00 同旧金山会场现场的参会者互动 00:30-03:00 针对 Keynote的主题内容，展开分组讨论，并鼓励现场组队了解、开发、使用新发布的技术、产品 地点：兰州市城关区天水南路222号兰州大学（盘旋路校区）飞云楼 524室 大会详细日程请参考： Description 1.日程信息中的时间是中国时间，GMT+8 2.https://events.google.com/io2015/schedule 3.在以上网站登录你的 Google 帐号，可以挑选并保存你自己的分会场选择 4.一定要选择时区，默认的 GMT-7 会导致第一天的日程空白 接下来就可以定制你的专属IO了。 报名链接（报名将有机会获得2015IO 限量版T恤一件，数量有限，先到先得！）： https://www.gdgdocs.org/forms/d/1lVxPaX19eGbK2M8fxCUGMQtiKh_rpdwySFzL4vYe_4o/viewform?edit_requested=true 谢谢大家！</description><start>2015.05.28 21:30</start><end>2015.05.29 03:00</end><location>兰州市城关区天水南路222号兰州大学（盘旋路校区）飞云楼 524室</location><participantscount>53</participantscount></event>
+	<event><title>2015Google I/O大会兰州GDG直播之夜(二)</title><chapterid>107219447444236191734</chapterid><description>     想了解国际版的Google Glass设备？Android Wear是什么？新版的Android系统有什么改动？Nexus智能手机、平板电脑有没有新的产品？Silver是什么？谷歌的Project Ara模块化手机项目是什么？
+
+    想知道这些答案么？如果没能去现场参加Google I/O大会，那么就来参加兰州GDG社区举办的Google I/O Extended活动吧！Google I/O 是由 Google 公司举办的年度开发者大会，每年的 I/O 大会 Google 公司都会发布一些前沿科技产品，今年大会将于5月28日、5月29日在旧金山 Moscone Center举办。
+
+    为了让不能亲自参会的开发者有机会体验 I/O 大会，兰州谷歌开发者社区将在中国时间5月28日晚9:30举办 I/O Extend 直播活动，届时将提供无障碍的网络环境、舒适的会议环境，配上点心，让每个对 I/O 大会感兴趣的朋友都能享受这一场开发者盛宴。
+        出于安全因素、网络因素以及管理因素等总和考虑，活动地点安排在兰州大学校园内，社区志愿者会竭力为参会嘉宾提供方便。
+    
+具体活动信息如下：
+
+   时间：2015年5月28日 21:30 ~ 2015年5月29日 3:00
+  活动流程：
+     21:30       开场介绍，包括Google I/O大会介绍，兰州GDG社区介绍等
+     21:50       个人介绍，各位到场成员进行简短自我介绍
+     00:30       Google I/O 2015 Keynote 直播开始
+     01:00       同旧金山会场现场的参会者互动
+     00:30-03:00 
+                 针对 Keynote的主题内容，展开分组讨论，并鼓励现场组队了解、开发、使用新发布的技术、产品
+ 地点：兰州市兰州大学榆中校区通信网络中心
+大会详细日程请参考：
+ Description
+     1.日程信息中的时间是中国时间，GMT+8
+     2.https://events.google.com/io2015/schedule
+     3.在以上网站登录你的 Google 帐号，可以挑选并保存你自己的分会场选择
+     4.一定要选择时区，默认的 GMT-7 会导致第一天的日程空白
+  接下来就可以定制你的专属IO了。
+   
+报名链接（报名将有机会获得2015IO 限量版T恤一件，数量有限，先到先得！）：
+https://www.gdgdocs.org/forms/d/1lVxPaX19eGbK2M8fxCUGMQtiKh_rpdwySFzL4vYe_4o/viewform?edit_requested=true
+谢谢大家！</description><start>2015.05.28 21:30</start><end>2015.05.29 03:00</end><location>甘肃省兰州市兰州大学榆中校区通信网络中心</location><participantscount>40</participantscount></event>
+	<event><title>创客平台介绍</title><chapterid>107219447444236191734</chapterid><description>     You are a Maker!
+    如今创客已经成为一个大家熟知的名词，它代表新一代的活力与创新能力，在IT技术日益发展的今天，更多的技术大牛选择自己创业，可是大多集中在发达地区，然而西北也有自己的创客空间——新越创客空间。
+    新越创客空间为大家提供了很好的学习技术和交流的平台，主要方向有Android、Python、HTML等，小有名气的它出现在了今年五一央视一套的“劳动铸就梦想”记录片中，本次活动将为大家介绍这个创客平台，如果你是一名创客或者希望成为一名创客，那就加入我们吧！</description><start>2015.05.25 19:30</start><end>20:30</end><location>兰州资源环境职业技术学院银光实验楼501室</location><participantscount>31</participantscount></event>
+	<event><title>Google技术之Android、HTML5学习开发讨论交流会</title><chapterid>107219447444236191734</chapterid><description>      本次讨论会主要是集中在Android和HTML5两个方面，由有经验的老师及同学分享他们的开发经验，本次特别邀请到了兰州大学开源社区的成员们，请他们讲述在学习Google技术当中的有趣的事情和经验，24号，来参加我们的活动吧！</description><start>2015.05.24 09:00</start><end>16:30</end><location>兰州大学榆中校区天山堂</location><participantscount>48</participantscount></event>
+	<event><title>走进兰州交通大学-Android开发与开源硬件分享活动</title><chapterid>107219447444236191734</chapterid><description>一、Android开发分享与讨论,结合开源硬件pcDuino开发板制作的遥控小车讲解手机控制端的设计与实现。
+二、介绍谷歌Android开发者创新大赛以及GDG开发者社区
+     我们相信 Android 的未来关键取决于能为手机用户带来惊喜而有趣的应用程序，而应用程序正是出自开发者之手。大赛的主要目的是为校园里感兴趣 Android 应用开发的同学们提供一个学习和分享的平台。GDG 是谷歌开发者
+社区，是一个分享技术的平台。
+活动报名链接：
+https://www.gdgdocs.org/forms/d/1LkvKimNr-TePo1Nei3qCaxxIPoLKA26Otv9hO9d8RAU/viewform?edit_requested=truested=true</description><start>2015.05.13 15:30</start><end>18:30</end><location>兰州交通大学9号教学楼C104</location><participantscount>44</participantscount></event>
+	<event><title>AppInventor与智能视频小车控制手机程序开发</title><chapterid>107219447444236191734</chapterid><description>AppInventor原是Google实验室（GoogleLab）的一个子计划，由一群Google工程师勇于挑战的Google使用者共同参与。GoogleAppInventor是一个完全在线开发的Android编程环境，抛弃复杂的程式代码而使用积木式的堆叠法来完成您的Android程式。除此之外它也正式支持乐高NXT机器人，对于
+Android初学者或是机器人开发者来说是一大福音。因为对于想要用手机控制机器人的使用者而言，他们不大需要太华丽的界面，只要使用基本元件例如按钮、文字输入输出即可。本次活动将以智能视频小车控制手机客户端为例如何介绍使用APP Inventor进行开发。</description><start>2015.05.12 15:30</start><end>18:30</end><location>兰州工业学院第二学术报告厅（南校区第四教学楼C301）</location><participantscount>105</participantscount></event>
+	<event><title>Linux系列活动之Bochs</title><chapterid>107219447444236191734</chapterid><description>想学Linux的朋友们，福利来了，从5月9号开始，我们准备了系列的Linux知识讲座，从基础讲起，帮你入门，从而不断提高Linux技能。众所周知，Linux也是自由软件和开放源代码软件发展中最著名的例子，学好Linux至关重要，如果你想学Android，想学操作系统等等，都要了解或学习Linux，我们第一讲内容是Bochs。
+	Bochs是一个x86硬件平台的开源模拟器，模拟的是整个PC平台，包括I/O设备、内存和BIOS。更为有趣的是，甚至可以不使用PC硬件来运行Bochs，还在等什么，带上你的电脑和渴求知识的心，来加入我们吧。
+活动报名链接:
+https://www.gdgdocs.org/forms/d/1d4FcaT8-b4hzlWrMrA3ksacJm18Oc82Wov1pYOXNuE0/viewform?edit_requested=true&amp;amp;fbzx=1154273685974453702</description><start>2015.05.09 10:00</start><end>12:00</end><location>兰州大学飞云楼524</location><participantscount>23</participantscount></event>
+	<event><title>Android开发与开源硬件的分享</title><chapterid>107219447444236191734</chapterid><description>一、Android开发分享
+     包括Android的操作系统的介绍，Android版本和系统的架构以及两种虚拟机的不同模拟器的简介，Android工程目录结构打包的过程等基础内容。
+
+二、 开源硬件pcDuino开发板分享
+     pcDuino是一款小巧而强大的PC平台，它结合了?ARM?架构的迷你PC和Arduino的优势，实现了开源软件Linux和开源硬件Arduino生态系统的完美结合，给广大发烧友打造出一个高性能的开源硬件平台。现场给大家展示遥控小车，音乐盒，人脸识别等等。
+
+三、 介绍谷歌Android开发者创新大赛以及GDG开发者社区
+     我们相信 Android 的未来关键取决于能为手机用户带来惊喜而有趣的应用程序，而应用程序正是出自开发者之手。大赛的主要目的是为校园里感兴趣 Android 应用开发的同学们提供一个学习和分享的平台。GDG 是谷歌开发者社区，是一个分享技术的平台。希望有兴趣的开发者可以踊跃加入这个大群体，现在为大家提供一下小礼品。</description><start>2015.05.08 15:00</start><end>18:30</end><location>兰州西北师范大学6号楼4楼会议室</location><participantscount>89</participantscount></event>
+	<event><title>Polymer简介</title><chapterid>107219447444236191734</chapterid><description>你知道什么是未来吗？Web的未来就要来了！Polymer，一个属于未来的Web体系。不要犹豫，发现未来！本次活动将介绍Polymer的发展和未来以及基本概念，并展示一些Demo。16日，网络中心，GDG Lanzhou在等你！</description><start>2015.04.16 19:00</start><end>20:30</end><location>兰州大学榆中校区通信网络中心</location><participantscount>37</participantscount></event>
+	<event><title>Android基础讲座</title><chapterid>107219447444236191734</chapterid><description>Android是你身边最常见的智能手机操作系统，，它广泛地被使用在不同的嵌入式设备中，现在，是时候制作你自己的安卓了！14号将会有JAVA基础语法讲座，包括基本I/O，控制语句和OOP思想，我们在网络中心等着你！</description><start>2015.04.14 19:00</start><end>20:30</end><location>兰州大学榆中校区通信网络中心</location><participantscount>41</participantscount></event>
+	<event><title>Android俱乐部之阶段学习作品展</title><chapterid>107219447444236191734</chapterid><description>活动目的及意义:
+	一年之计在于春，在这春光灿烂的季节里，孕育着新的希望。兰州资源职业技术学院Android俱乐部的
+成员经过一学期的轻松快乐的开发学习，也已经可以顺利的做出一些简单APP啦。就此我俱乐部计划举办作品展
+览活动。来交流总结前段时间的学习成果。此次作品展览主要本着编程思想交流和对Android开发新的认识为目的。
+帮助俱乐部成员对自己现在学习进度的准确定位及吸收其他人对安卓开发的认识和学习计划。子曰：“三人行，必
+有我师焉!”在此次大家的学习交流中一定会对俱乐部成员以后进一步学习有所帮助。</description><start>2015.04.08 19:30</start><end>21:30</end><location>兰州资源环境职业技术学院银光实训509机房</location><participantscount>30</participantscount></event>
+	<event><title>Android驱动开发</title><chapterid>107219447444236191734</chapterid><description>    听说学Android的孩子运气都不会太差，学过Android的同学最后都找到了好工作！
+说到 Android 驱动是离不开 Linux 驱动，Linux不好学？不要担心，大神来帮你解决，这周
+特别有幸邀请到尼古拉斯教授为大家作一场关于驱动开发的讲座，周五下午两点，不见不散！</description><start>2015.04.03 14:00</start><end>17:00</end><location>兰州大学飞云楼529</location><participantscount>32</participantscount></event>
+	<event><title>Android体系结构分析</title><chapterid>107219447444236191734</chapterid><description>Android改变世界，无论在哪，你身边肯定有一帮Android的铁粉，手机、平板等现代人不可缺少的产品 有着怎样的吸引力呢，这次 兰州GDG 社区的开发者李肇中将为大家带来一场关于Android体系结构的讲座， 作为90后却拥有高学历的他将会以怎么样的视角进行分析呢，Android的同学们，你值得拥有。</description><start>2015.03.26 18:30</start><end>21:00</end><location>兰州大学榆中校区天山堂A201，Lanzhou, Gansu, China</location><participantscount>67</participantscount></event>
+	<event><title>WTM 2015</title><chapterid>107219447444236191734</chapterid><description>International Women&apos;s Day IWD 2015 Connect . Create . Celebrate</description><start>2015.03.21 14:00</start><end>18:00</end><location>中国甘肃省兰州榆中县兰州资源环境职业技术学院</location><participantscount>313</participantscount></event>
+	<event><title>观看GDL视频和WTM活动介绍</title><chapterid>107219447444236191734</chapterid><description>一年一度的WTM活动即将到来，无论是在工作和生活中，女性都占据着重要的位置，程序媛们的世界异常精彩。作为活动前的预热准备，社区将于下周通过观看GDL视频以及讲座的方式介绍WTM活动，并活动招募志愿者，吸引更多的女性开开发者加入到GDG的大家庭中来。</description><start>2015.03.17 19:00</start><end>21:00</end><location>兰州大学飞云楼524</location><participantscount>25</participantscount></event>
+	<event><title>开源应用容器引擎-Docker架构分析</title><chapterid>107219447444236191734</chapterid><description>Docker自2013年以来非常火热，无论是从 github 上的代码活跃度，还是Redhat在RHEL6.5中集成对Docker的支持,Google 的 Compute Engine 也支持 docker 在其之上运行。那么问题来了，Docker究竟是什么，它有怎样地魅力，能够如此快速的大众的视野。Docker 是 PaaS 提供商 dotCloud 开源的一个基于LXC 的高级容器引擎，源代码托管在 Github 上, 基于go语言并遵从Apache2.0协议开源。这次社区成员杨虎斌将为大家揭开Docker的神秘面纱，感受它的架构之美。﻿</description><start>2015.02.03 19:00</start><end>21:00</end><location>兰州大学飞云楼524</location><participantscount>32</participantscount></event>
+	<event><title>Lanzhou GDG Annual Summary</title><chapterid>107219447444236191734</chapterid><description>2014年已经过去，在这一年当中，我们举行了61场活动，这是一个崭新的数字。这一年我们取得的所有成绩都是社区所有人共同努力的结果，为了更好地举办活动，兰州GDG负责人和核心志愿者们对这一年的工作进行总结，不仅仅是工作经验，还有工作中遇到的问题的问题和不足，并对2015年作出工作计划和展望。﻿</description><start>2015.01.16 04:00</start><end>06:30</end><location>兰州大学飞云楼524</location><participantscount>34</participantscount></event>
+	<event><title>UNIX系统接口—存储程序分配</title><chapterid>107219447444236191734</chapterid><description>Unix是目前还在存活的操作系统的元老了，走过了40年的历程。由它引发的思想变革，对当今计算机文化造成的深远影响。这是一段所有从事计算机行业人员尤其是软件开发人员需要了解的历史。Unix的传奇历史是整个计算机世界文化最具代表性的，它对整个计算机世界文化的影响也是最巨大，最深远的。他给人带来的不单单的对过去的回味，更为我们带来了计算机世界的新思潮。本次活动将围绕UNIX系统接口的知识讲解该系统中的系统调用，重点介绍存储分配程序。</description><start>2014.12.13 19:00</start><end>21:00</end><location>兰州大学飞云楼524</location><participantscount>33</participantscount></event>
+	<event><title>Hour of Code </title><chapterid>107219447444236191734</chapterid><description>Hour of Code 旨在提高人们尤其是青少年创新能力、计算思维和普及计算机科学教育的一个活动。这个活动形式活泼、寓教于乐，从4岁到104岁的人都可以轻松参与。12月10日兰州GDG将走进兰大附中，与同学们一起学习编程，一起挑战Hour of Code 。</description><start>2014.12.10 14:30</start><end>17:00</end><location>中国甘肃省兰州城关区兰州大学附属中学</location><participantscount>61</participantscount></event>
+	<event><title>Android俱乐部之UI设计</title><chapterid>107219447444236191734</chapterid><description>通过一段时间的学习，大部分同学都实现了在Android项目中更换图标与界面背景图片设置，但网上下载的图片种类与数目有限，并且在使用过程中，有很多图片涉及到版权问题，所以有必要学习如何自己设计图片，以便解决上述问题。另外，考虑到手机硬件等限制，一款app不宜包含太多图片资源，所以有必要对界面布局进行深入学习，以便灵活的进行UI设计。
+
+1.	由GDG成员Watcher讲解Photoshop的基本界面和基本工具的使用方法；
+2.	由GDG成员Star讲解复杂布局实现，并通过布局文件实现一个霓虹灯效果。
+</description><start>2014.12.05 19:30</start><end>21:30</end><location>兰州资源环境职业技术学院银光实训楼509室</location><participantscount>60</participantscount></event>
+	<event><title>开源软件Proview在自动化中的应用 </title><chapterid>107219447444236191734</chapterid><description>过去的时间里，开源软件所秉承的分享精神对于科技的进步已是有目共睹。它使得技术不仅仅是公司之间用来竞争、封闭、获取利润的工具，而是更具有了传承的意义。开放与共生是它所尊崇的生存之道。值得注意得是，如今这种分享、开放与共生的理念正在硬件领域里蔓延。Proview就是一种运行在Linux操作系统上的软PLC解决方案，起源于瑞典奥克隆德，由瑞典钢铁公司Proview团队开发、发展、并应用在瑞典钢铁公司的过程自动化生产线上，是世界上第一个完全开源的过程自动化控制软件。开源软硬件的结合将更加有助于计算机的发展，这已经成为一种潮流与趋势。</description><start>2014.12.05 19:00</start><end>21:30</end><location>兰州大学飞云楼524</location><participantscount>29</participantscount></event>
+	<event><title>Linux内核之loadable kernel module</title><chapterid>107219447444236191734</chapterid><description>Linux 内核的强大在于在内存和 CPU 使用方面具有较高的效率，并且非常稳定以及具有很好的移植性。如果想将代码添加到Linux内核中，最基本的方式做到这一点——将一些源文件添加到内核源代码树，重新编译内核。事实上，内核配置过程主要包括选择哪些文件在内核中并进行编译。但也可以将代码添加到Linux内核同时运行代码，以这种方式增加一大块代码被称为一个可加载的内核模块。使用可加载内核模块可以方便的将需要的功能模块加载到内核，避免了操作系统内存的浪费，降低了Linux kernel的复杂度。</description><start>2014.11.27 19:00</start><end>21:00</end><location>兰州大学飞云楼524</location><participantscount>36</participantscount></event>
+	<event><title>Android俱乐部之知识梳理</title><chapterid>107219447444236191734</chapterid><description>活动流程：	
+1.	由GDG成员Star对大家进行Android系统介绍，并详细介绍Activity、Service、Broadcast、ContentProvide四大核心组件；
+2.	经过一段时间的学习，不少同学在操作过程中都出现了各种各样的问题，因此由GDG成员Star对大家出现问题进行汇总，并详细讲解出现问题的原因及解决方案。
+</description><start>2014.11.23 19:30</start><end>21:30</end><location>兰州资源环境职业技术学院银光实训楼509室 </location><participantscount>75</participantscount></event>
+	<event><title>Android俱乐部之界面布局</title><chapterid>107219447444236191734</chapterid><description>活动流程：
+1.	由GDG成员Star对大家进行XML的简单介绍；
+2.	大家对XML有简单的认识后，由GDG成员Star对大家进行Android用户界面布局介绍，并由大家上机操作，对比不同布局方式的区别。
+</description><start>2014.11.16 19:30</start><end>21:30</end><location>兰州资源环境职业技术学院银光实训楼509室</location><participantscount>78</participantscount></event>
+	<event><title>2014 Lanzhou DevFest Session 2</title><chapterid>107219447444236191734</chapterid><description>DevFest作为Google开发者们的技术盛宴不容错过，不久前我们成功举办了DevFest 之 Android Wear，这次 Devfest之Polymer又重磅来袭！！！
+Polymer是基于Web Components新技术的Web框架，通过Polyfill让你在所有最新浏览器上使用这些新技术，利用Paper UI组件可以轻松开发出符合Material Design效果Web界面。11月14日，GDG 兰州将推出DevFest之 Polymer，向大家介绍一种全新的 Web 开发方式。
+•	时间：11月14日，下午2点– 6点30
+•	地点：兰州大学飞云楼010室
+
+Polymer 是一个基于Web组件的新型Web库，包括一系列全面的、用于构建Web应用的UI和工具组件。用它来创建高端大气上档次的web应用程序将变得前所未有的简单和快速。Web Component将改变我们创建Web应用的方式，而Polymer让这成为现实。你可以创建自定义的可维护的组件，满足你应用的特殊需要。你可以很容易地将组件分享给其他团队或者社区，大家可以很轻松地分享和受益这些封装好的组件。
+通过本次活动，你将对Polymer和Web Components有一个基础的了解，并且能够亲自动手，尝试使用Polymer来开发一个简单的应用。
+Polymer 会让你体验一种全新的 Web 开发方式，让我们一起来学习吧。
+
+活动日程：
+1．14:00 – 14:15  开场介绍——kinggo
+2．14:15 – 15:15  Polymer presentation——Jackie Han
+3．15:15 – 16:15  Polymer基础——kangkang
+4．16:15 – 16:30  茶歇
+5．16:30 – 18:30  Polymer CodeLab——kangkang
+</description><start>2014.11.14 14:00</start><end>18:30</end><location>兰州大学飞云楼010室</location><participantscount>131</participantscount></event>
+	<event><title>Android俱乐部之Hello World</title><chapterid>107219447444236191734</chapterid><description>活动流程：
+1.	由GDG成员Star关于Eclipse对Android俱乐部新成员进行简单介绍，并和大家一起搭建Android开发环境，之后由大家熟悉Eclipse的操作；
+2.	大家搭建起Android开发环境后，创建自己的第一个应用程序——Hello World，并将这个程序分别运行在Android模拟器和Android手机上；
+3.	由GDG成员Star讲解如何修改Android程序图标、名称，并由大家各自实现。
+</description><start>2014.11.13 19:30</start><end>21:30</end><location>兰州资源环境职业技术学院银光实训楼509室</location><participantscount>86</participantscount></event>
+	<event><title>Google C编程：智能指针</title><chapterid>107219447444236191734</chapterid><description>       在开源方面，Google一直起着带头和模范作用，这些开源项目大多使用C++开发，Google有很多自己实现的使C++代码更加健壮的技巧、功能，以及有异于别处的C++的使用方式。想学习更多关于Google C编程风格的相关知识吗，那就赶快加入到本周的兰州GDG活动中吧！！</description><start>2014.11.13 19:00</start><end>21:00</end><location>兰州大学飞云楼524</location><participantscount>29</participantscount></event>
+	<event><title>Beautiful Visualization</title><chapterid>107219447444236191734</chapterid><description>       可视化是数据描述的图形表示，旨在一目了然地揭示数据中的复杂信息。成功的可视化的美丽之处既在于其艺术设计，也在于其通过对细节的优雅展示，能够有效地产生对数据的洞察和新的理解。本周兰州GDG将带你领略可视化之美。活动主要内容有：1、可视化前沿暑期学校日程；2、什么是可视化；3、团队项目及可视化技术；4、可视化未来发展。</description><start>2014.11.05 19:00</start><end>20:30</end><location>兰州大学飞云楼524</location><participantscount>36</participantscount></event>
+	<event><title>Google Brain与Deep Learning的那些事</title><chapterid>107219447444236191734</chapterid><description>       Deep learning作为当今互联网大数据和人工智能的一个热潮，旨在构建类似大脑的分层模型结构进行学习。本周五，兰州GDG给大家带来对于Deep Learning的来龙去脉，深入浅出的为大家逐一揭开Deep Learning的神秘棉纱。它并不神秘，更多的，它值得我们从多个角度进行探索研究以及应用。</description><start>2014.10.31 19:00</start><end>20:30</end><location>兰州大学飞云楼524</location><participantscount>39</participantscount></event>
+	<event><title>Android俱乐部之科学上网</title><chapterid>107219447444236191734</chapterid><description>活动流程：
+1.由GDG成员star通过PPT形式向大家讲解科学上网；
+2.所有成员上机练习科学上网，并由现有GDG成员帮助其他未加入GDG的成员加入GDG。
+</description><start>2014.10.28 19:30</start><end>21:30</end><location>兰州资源环境职业技术学院银光实训楼509室 </location><participantscount>80</participantscount></event>
+	<event><title>2014 Lanzhou DevFest</title><chapterid>107219447444236191734</chapterid><description>各位 Google Developers 们：
+相约金秋，一年一度的谷歌开发者节 DevFest 再度来临。Android Wear、Android L、Polymer、 Material Design、移动开发、多屏适配……各种有趣的新技术、经验分享、开发案例，以及可以动手参与的 Codelab ，参加 DevFest 可以学习最新、最酷的技术，和技术专家面对面交流。参会者还将获得社区T恤、Google 贴纸和神秘礼物，作为一名开发者决不能错过这个免费的技术盛宴！
+
+DevFest 就是开发者节的意思，是 Google 赞助发起的全球性开发者活动，也是 GDG 社区的年度活动。活动内容完全由世界各地的 GDG 社区志愿者自行策划组织，纯粹的技术分享活动，没有广告式的宣讲和厂商展位，过一个属于开发者自己的节日。
+
+如今 Android 早已超越手机和平板的概念，无处不在。目前已经正式发布了3款 Android Wear 手表，还将延伸到电视和汽车等领域。
+再好的产品没有好的设计和交互也难以被用户喜爱，Material Design 是最新的界面设计指南，适用于各种平台。要是你的产品还没有向 Material Design 设计方向转变，先机就会被竞争对手抓到。
+下一代 Android 系统 Android L 即将正式发布，赶紧学习一下有什么新变化、新特性吧。
+Web Components 是下一代 Web 技术标准，打破传统 Web 技术的各种限制，让开发者写出更加组件化、更加易于维护的代码。
+Polymer 是基于 Web Components 新技术的 Web 框架，通过 Polyfill 让你在所有最新浏览器上使用这些新技术，利用 Paper UI 组件可以轻松开发出符合 Material Design 效果 Web 界面。
+从手机到平板、笔记本、PC、电视，各种大小屏幕都要适配，那么问题来了，如何用最低成本适配这么多种不同大小的屏幕？学习响应式设计技术，只需额外一点工作即轻松解决跨平台多平台适配问题。
+关于 GDG
+GDG , 即 Google Developer Groups 的缩写（not 郭德纲）或 谷歌开发者社区，是谷歌开发者部门发起的全球性技术社区。 GDG 是面向对 Google 和开源、开放技术感兴趣的公益性开发者社区，内容涵盖 Web/Chrome、Android 和其它 Google API 等。全国已成立了18个 GDG 社区，赶快加入你身边的组织吧。
+
+PS：作为有态度的Google Geek，你需要注册gmail账号，并且加入lanzhou GDG与 LanZhou GDG Google+ 还有我们的Member！
+
+https://developers.google.com/groups/chapter/107219447444236191734/。
+关注https://plus.google.com/u/0/107219447444236191734/posts
+
+我们只为注册有效有并加入lanzhou GDG与LanZhou GDG Google+ member的人员精美礼品。请各位注意！！！！
+
+关于我们:http://lanzhougdg.sinaapp.com/?page_id=63  
+
+lanzhou devfest 快捷报名通道：http://lanzhougdg.sinaapp.com/?page_id=49
+
+目前已知的活动链接包括：
+兰州，10月18日 ：http://lanzhougdg.sinaapp.com/
+北京，10月26日： http://devfest.gdgbeijing.org/
+上海，10月26日：http://devfest.gdgshanghai.com/ 
+厦门，10月25日： http://devfest.gdgxiamen.org
+杭州，10月25日： http://www.hzgdg.org/events/devfest
+南阳，10月18日和11月22日： http://devfest.gdgny.org
+南京，11月9日： http://www.njgdg.org/devfest
+
+&amp;amp;活动时间：2014年10月18日 星期六下午
+&amp;amp;活动地点：兰州资源环境职业技术学院 多媒体功能厅
+
+
+日程安排：
+
+1.GDG的介绍——kinggo
+2.播放android wear视频——Frank
+3.Android Auto——王老师
+4.茶歇
+5.2014 Google I/O大会体验——Mendy
+6.Google Glass&amp;amp;Cardboard 的介绍（视频+体验）----Frank
+7.开源硬件入门——朱芳芳
+8.新越在可穿戴设备的开发思考——Steven and 吴挺
+9.GDGLanzhou社区的未来——康筱彬
+10.Android Wear设计冲刺——Kangkang
+
+
+更多最新信息请关注我们的lanzhou gdg的group和g+主页！
+请加入我们的Member！
+https://developers.google.com/groups/chapter/107219447444236191734/
+GDG LanZhou，Devfest大会筹备组
+
+兰州GDG社交平台
+国内论坛：http://chinagdg.com/forum-43-1.html
+论坛：groups.google.com/forum/?fromgroups#!forum/Lanzhou-GDG
+G+：https://plus.google.com/u/0/107219447444236191734/posts
+官方blog：http://lanzhougdg.sinaapp.com﻿</description><start>2014.10.18 13:00</start><end>18:00</end><location>兰州资源环境职业技术学院 多媒体功能厅</location><participantscount>812</participantscount></event>
+	<event><title>人生苦短，我用Python</title><chapterid>107219447444236191734</chapterid><description>主要讲在开源硬件pcDuino上使用Python，首先介绍pcDuino上安装Python，
+接着引入两个例子，分别是python：SampleCV编辑图片，将pcDuino设置为web服务器。</description><start>2014.10.10 19:00</start><end>20:30</end><location>兰州大学飞云楼524</location><participantscount>18</participantscount></event>
+	<event><title>Android俱乐部之手游竞赛</title><chapterid>107219447444236191734</chapterid><description>1. 志愿者布置完会场后，安排人员入场。随后由GDG成员赵奎奎担任主持人，致欢迎词并宣布比赛规则，最终由比赛结果得出前十名并颁发奖品。
+2．由GDG成员赵奎奎以PPT的形式向大家介绍兰州GDG和Android俱乐部。</description><start>2014.09.24 19:00</start><end>21:30</end><location>兰州资源环境职业技术学院汇知方一楼会议厅</location><participantscount>237</participantscount></event>
+	<event><title>2014中学系列活动之——兰大附中CodeLab专场</title><chapterid>107219447444236191734</chapterid><description>       CodeLab是基于网络平台使用的软件编程教学和学习工具，它的核心是一组设计独特、完全互动、简单易操作、超过200套的编程练习库，包含编程教学提纲。本次兰大附中CodeLab专场活动内容包括：
+1.Scratch编程思想讲解及案例分享；
+2.Scratch与硬件结合的应用案例分享；
+3.与硬件结合编程体验及现场互动。</description><start>2014.09.23 14:30</start><end>16:30</end><location>中国甘肃省兰州城关区兰州大学附属中学</location><participantscount>67</participantscount></event>
+	<event><title>[兰州GDG]软件自由日</title><chapterid>107219447444236191734</chapterid><description>1.户外活动。上午9点半到一点半，与兰州大学开源社区合作，在兰州大学榆中校区视野广场搭建摊点，举办开源知识活动。
+2.软件自由日专题讲座，下午两点半到五点半。
+1）科学上网。讲授最新的科学上网知识以及加入Lanzhou GDG方法。
+2）linux介绍：主要介绍linux的基本操作以及经典软件。
+3）开源软件App Inventor以及Scratch介绍：App Inventor以及Scratch是MIT开发的开源编程工具，可以通过可视化的代码拼接，完成应用的开发。
+4）开源硬件pcDuino，并展示基于pcDuino的小车。pcDuino是一种易入手的开源硬件平台，可以很方便的开发出很多有意思的应用。</description><start>2014.09.20 09:30</start><end>17:30</end><location>中国甘肃省兰州榆中县夏官营镇兰州大学榆中校区</location><participantscount>47</participantscount></event>
+	<event><title>2014高校系列活动-兰州GDG走进兰州交通大学</title><chapterid>107219447444236191734</chapterid><description>GDG走进高校是推广Google以及相关开源技术的有效方式，兰州GDG将开展一系列走进高校的活动，为大家分享有趣、有用的技术。本次活动主要内容包括：
+1.开放的技术社区GDG；
+2.科学上网以及加入兰州GDG的方法；
+2.Polymer介绍；
+3.cardboard和Android wear分享；
+4.创客_开源硬件pcDuino。
+乐趣不断，精彩纷呈，欢迎大家积极参与！</description><start>2014.09.17 15:00</start><end>18:00</end><location>甘肃省兰州市安宁区兰州交通大学计算机科学与技术国家级教学示范中心</location><participantscount>249</participantscount></event>
+	<event><title>2014中学系列活动之-兰州GDG走进兰大附中</title><chapterid>107219447444236191734</chapterid><description>计算机科学教育走进高中，可以提升学生对计算机编程的兴趣，并可以挖掘出更多计算机方面的人才。兰州GDG决定举办走进中学的活动，活动内容包括：
+1.App Inventor、Scratch等可视化编程工具。
+2.pcDuino案例分享。
+3.智能机器人编程分享。
+欢迎大家踊跃参加</description><start>2014.09.17 14:30</start><end>16:30</end><location>中国甘肃省兰州城关区兰州大学附属中学</location><participantscount>84</participantscount></event>
+	<event><title>[兰州GDG]Google Drive与Script editor高级使用讲座</title><chapterid>107219447444236191734</chapterid><description>Google Drive在我们日常生活中扮演着重要的角色，使得我们脱离在本地编辑文档，可以随时随地在云上对文档进行操作。本周五兰州GDG给大家带来google drive下的script editor配合form的高级使用，让大家对于Google Drive有全新的认识。
+</description><start>2014.09.12 19:00</start><end>20:30</end><location>兰州大学飞云楼524</location><participantscount>21</participantscount></event>
+	<event><title>[兰州GDG]走进高校动员会</title><chapterid>107219447444236191734</chapterid><description>在各高校开学之际，GDG社区迎来了壮大的最好时机。兰州GDG举办走进高校动员活动，本次活动主要包括科学上网方法、走进高校方案以及招募各高校GDG志愿者等内容。欢迎大家积极参加，让GDG更加壮大！﻿</description><start>2014.09.05 19:00</start><end>21:00</end><location>兰州大学飞云楼524室</location><participantscount>19</participantscount></event>
+	<event><title>Nicholas讲座之开源软件</title><chapterid>107219447444236191734</chapterid><description>hello，大家好，兰州GDG有幸邀请到奥地利的Linux专家,RT-LinuxFoundation的核心成员和创始人Nicholas Mc Guire教授为大家讲授开源软件相关知识，包括Git使用方法、软件工程等相关内容，机会难得，欢迎大家积极参加！
+Nicholas Mc Guire简介：Nicholas McGuire教授以Der Herr Hofrat的名字活跃在开源社区，是开源实时Linux版本RTLinux/GPL的官方维护者、实时Linux基金会创始人之一。Nicholas McGuire教授先后在新加坡、德国、捷克开设RTLinux/GPL、嵌入式系统开发与调试技术等课程。 Nicholas McGuire教授是多届实时Linux国际研讨会的组织者之一。﻿</description><start>2014.08.19 13:30</start><end>17:30</end><location>兰州大学飞云楼529室</location><participantscount>31</participantscount></event>
+	<event><title>兰州GDG美眉赴美参加IO大会那些事儿~</title><chapterid>107219447444236191734</chapterid><description>一、康筱彬的分享
+二、mendy的各种分享 
+IO大会的所见所闻，当然mendy关注的重点是大会的规模以及设计方面，还有赴美注意事项以及旅行攻略）
+
+三、frank总结
+分享mendy从会场带回来的cardboard,智能手表的体验</description><start>2014.08.01 19:30</start><end>21:30</end><location>兰州大学飞云楼524</location><participantscount>18</participantscount></event>
+	<event><title>[兰州GDG]USA google I/O之行主题讲座</title><chapterid>107219447444236191734</chapterid><description>由GDG社区的康老师为大家讲讲Google I/O 大会之行现场的收获，以及今年大会主题中一些亮点的个人体会（包括Android L系统、Android One计划、Android Wear平台、Android Auto/TV等新技术产品），康老师还带回来了google watch，现场可以供大家一起欣赏研究，演讲后大家对好奇的新技术可以提出疑问，大家可以互相讨论。</description><start>2014.07.18 19:00</start><end>20:30</end><location>兰州大学飞云楼524</location><participantscount>21</participantscount></event>
+	<event><title>[兰州GDG]Python基础之正则表达式介绍</title><chapterid>107219447444236191734</chapterid><description>主要介绍python中正则表达式的基本使用，使用正则表达式过滤一些无用信息，提取有用信息。正则表达式在网络爬虫系统中使用比较多。﻿</description><start>2014.07.04 19:00</start><end>20:30</end><location>兰州大学飞云楼524</location><participantscount>19</participantscount></event>
+	<event><title>Android俱乐部之Canvas类</title><chapterid>107219447444236191734</chapterid><description>1.	Android实例之获取手机屏幕高度与宽度
+由GDG成员赵启介绍在Activity的Class中与非Activity的Class两种情况中实现获取手机的屏幕尺寸。
+
+2.	Android实例之Canvas类
+由GDDG成员赵启介绍Canvas类，绘制出矩形、椭圆、文本等内容，并和大家一起讨论绘制国际象棋棋盘。﻿</description><start>2014.07.01 07:30</start><end>09:30</end><location>兰州市城关区段家滩路1173路501多媒体教室</location><participantscount>25</participantscount></event>
+	<event><title>I/O Extend 2014 - Lanzhou</title><chapterid>107219447444236191734</chapterid><description> 
+想了解国际版的Google Glass设备？Android Wear是什么？新版的Android系统有什么改动？Nexus智能手机、平板电脑有没有新的产品？Silver是什么？谷歌的Project Ara模块化手机项目是什么？
+    想知道这些答案么？如果没能去现场参加Google I/O大会，那么就来参加兰州GDG社区举办的Google I/O Extended活动吧！Google I/O 是由 Google 公司举办的年度开发者大会，每年的 I/O 大会 Google 公司都会发布一些前沿科技产品，今年大会将于6月25日、6月26日在旧金山 Moscone Center举办。本次大会主题为设计、开发与渠道。
+    为了让不能亲自参会的开发者有机会体验 I/O 大会，兰州谷歌开发者社区将在中国时间6月25日晚9:30举办 I/O Extend 直播活动，届时将提供无障碍的网络环境、舒适的会议环境，配上点心，让每个对 I/O 大会感兴趣的朋友都能享受这一场开发者盛宴。
+出于安全因素、网络因素以及管理因素等总和考虑，活动地点安排在兰州大学校园内，社区志愿者会竭力为参会嘉宾提供方便。
+    具体活动信息如下：
+时间：2014年6月25日 21:30 ~ 2014年6月26日 3:00
+活动流程：
+21:30 开场介绍，包括Google I/O大会介绍，Goagent新版使用方法以及兰州
+      GDG社区介绍等
+21:50 个人介绍，各位到场成员进行简短自我介绍
+22:00  Google I/O 2014 Keynote 直播开始
+01:00 连线在美国参与 I/O 大会的组织者
+22:00--03:00 针对 Keynote的主题内容，展开分组讨论，并鼓励现场组队了解、 
+       开发、使用新发布的技术、产品
+地点：兰州市城关区天水南路222号 兰州大学（盘旋路校区） 飞云楼 524教室
+
+报名链接（场地可以容纳50人，请大家必须按照要求报名）：
+https://gdgdocs.org/forms/d/1_ffGHv1AEdp-eTRBx-9yqkPT2CZG74JBKlkUtJBV4Do/viewform
+谢谢大家！﻿</description><start>2014.06.25 22:00</start><end>2014.06.26 07:00</end><location>中国甘肃省兰州城关区天水南路兰州大学</location><participantscount>34</participantscount></event>
+	<event><title>HTML5 APIs You Can Use Today (GDL-IL)</title><chapterid>107219447444236191734</chapterid><description>这次活动主要是由google map小组成员组成，这次探讨的是HTML5 APIs在我们日常生活以及学习中的应用，届时我们将请一直在google API学习的开发者们，讲讲经验。</description><start>2014.06.20 19:00</start><end>20:00</end><location>兰州大学飞云楼524室</location><participantscount>25</participantscount></event>
+	<event><title>Android俱乐部之UI设计总结</title><chapterid>107219447444236191734</chapterid><description>1.	Android实例之界面立体侧滑效果实现
+由GDG成员赵奎奎通过对fragment，AnimatorSet，ScrollView，GestureDetector控件的讲解，在Android俱乐部之前作出的音乐播放器上实现界面立体侧滑的效果。
+
+2.	Android俱乐部之UI知识总结
+Android俱乐部通过之前一段时间的学习，对布局文件设计、Activity之间跳转效果、图片设计等有了一定的了解，所以有必要进行一次Android UI设计方面的总结。本次将由Android俱乐部全体成员一起回顾、讨论之前的知识点，构建起UI设计的知识体系。﻿</description><start>2014.06.17 19:30</start><end>21:30</end><location>兰州市城关区段家滩路1173路501多媒体教室</location><participantscount>19</participantscount></event>
+	<event><title>[兰州GDG]棋如编程之五子棋比赛</title><chapterid>107219447444236191734</chapterid><description>博弈中，对手就是我们所处的环境。有的人能预见十几步，未雨绸缪、后发制人，而有的人仅能走一步算一步；有的人下棋，落子如飞，但是忙中出错，而有的人顾虑重重，导致捉襟见肘；有的人下棋，不到最后关头，决不认输；而有的人下棋，稍见情势不妙，就弃子投降。
+    我们的编程正如这下棋一样，每走一步之前必须调整好心态，全面思考，不然也许一个小小的bug，就可能毁掉已经建立好的整个程序框架；面对困难，保持沉着冷静，不然原本只是一处bug，却由于错误的处理，导致产生了更大的隐患。所以，我们举办这一次活动，就是为了让大家认识到棋如编程，思维相通。
+     活动安排：1.签到入场，并赠送参与奖品：LED灯卡片。
+2.根据卡片颜色分区，每区总人数的1/8晋级决赛。
+3.12日以擂台赛的形式决出前三名。
+欢迎大家积极参与！</description><start>2014.06.11 19:00</start><end>2014.06.12 21:00</end><location>兰州市城关区段家滩路1173号六楼大厅</location><participantscount>140</participantscount></event>
+	<event><title>Android俱乐部之程序美化</title><chapterid>107219447444236191734</chapterid><description>本次活动主要涉及到程序开发中的图片美化等知识。主要包括
+1.Android程序之图片逐帧播放实现
+    通过Frame Animation实现Android程序图片的逐帧播放
+2.Android程序动画实现
+介绍一些简单的图片处理软件，并对图片进行简单处理，并使用Frame Animation实现欢迎界面动画。
+欢迎大家积极参与！﻿</description><start>2014.06.03 19:00</start><end>21:00</end><location>中国甘肃省兰州城关区段家滩路1173号</location><participantscount>24</participantscount></event>
+	<event><title>[兰州GDG]与dart有个约会</title><chapterid>107219447444236191734</chapterid><description>本次活动主要讲解Dart的相关知识，包括：
+1.了解结构化的web编程语言dart并编写简单的dart程序
+2.学习使用dart语言进行web编程，通过一些例子直观认识dart语言的优势
+欢迎大家积极参与！</description><start>2014.05.30 19:00</start><end>21:00</end><location>兰州大学飞云楼524室</location><participantscount>13</participantscount></event>
+	<event><title>Android俱乐部之大家一起来编程</title><chapterid>107219447444236191734</chapterid><description>本次活动主要包括：
+1.Android程序之音乐播放器实现
+    由GDG成员刘培芳通过自己开发的项目向大家介绍音乐播放器界面、功能的实现。
+
+2.现场编程，共同完成音乐播放器这一项目
+    经过上周的活动和之前刘培芳的演示，由大家共同编程，使用service组件和MediaPlayer类分别实现音乐播放器，并比较不同。
+
+3.五子棋活动流程最后商议及志愿者安排
+    五子棋大赛举办日期临近，由GDG Lanzhou成员周健向大家介绍活动流程 安排，并和大家讨论完善，并由周健完成志愿者工作安排。
+欢迎大家积极参与！</description><start>2014.05.27 19:00</start><end>21:00</end><location>中国甘肃省兰州城关区段家滩路1173号</location><participantscount>22</participantscount></event>
+	<event><title>Arduino俱乐部系列教程之传感器</title><chapterid>107219447444236191734</chapterid><description>本次活动系Arduino俱乐部系列教程周一，主要内容包括：
+1.讲授关于Arduino传感器的基本知识与应用。
+2.现场演示Arduino作品。
+3.讨论与分享。
+欢迎对Arduino感兴趣的成员积极参与！﻿</description><start>2014.05.23 19:00</start><end>21:00</end><location>兰州大学飞云楼524室</location><participantscount>22</participantscount></event>
+	<event><title>[兰州GDG]Android俱乐部之作品秀</title><chapterid>107219447444236191734</chapterid><description>本次活动主要是Android俱乐部的总结活动，用来展示大家的创意作品。1.Android程序的设计思路
+2.Android程序更改图标实现
+3.Android程序背景音乐实现
+以及程序总结等问题。﻿</description><start>2014.05.20 19:00</start><end>20:00</end><location>中国甘肃省兰州城关区段家滩路1173号</location><participantscount>21</participantscount></event>
+	<event><title>Python基础之list与文件操作介绍</title><chapterid>107219447444236191734</chapterid><description>Python基础系列活动，主要内容包括：
+1.介绍Python语法中list与文件操作，
+2.对比Python与C在这两块功能的异同，与执行效率。
+欢迎大家积极参加！﻿</description><start>2014.05.16 19:00</start><end>21:00</end><location>兰州大学飞云楼524室</location><participantscount>26</participantscount></event>
+	<event><title>[兰州GDG]Android俱乐部之bug专题</title><chapterid>107219447444236191734</chapterid><description>本次活动内容如何包括讨论如何从细节入手避免Bug出现
+1.观看录像Android Design in Action: Our Favorite Design Details 
+2.Android开发者优秀编码习惯介绍。﻿</description><start>2014.05.13 19:00</start><end>21:00</end><location>中国甘肃省兰州市城关区段家滩路1173号</location><participantscount>23</participantscount></event>
+	<event><title>[兰州GDG]观看GDL录像以及Google Map Api讲解</title><chapterid>107219447444236191734</chapterid><description>活动内容主要包括：
+1.播放视频Maps Live- Getting Started with Markers on Android
+2.Google Map APi讲解
+3.google Map使用经验交流
+欢迎大家积极参加！</description><start>2014.05.09 19:00</start><end>21:00</end><location>兰州大学飞云楼524室</location><participantscount>30</participantscount></event>
+	<event><title>Android系统底层源码分析之编译系统介绍</title><chapterid>107219447444236191734</chapterid><description>应Android俱乐部成员要求，为大家开展一系列Andriod系统底层的源码知识介绍。
+本次活动主要向大家介绍：
+1.Android编译系统介绍
+2.build系统
+3.SDK
+</description><start>2014.05.07 19:00</start><end>21:00</end><location>中国甘肃省兰州城关区段家滩路1173号</location><participantscount>21</participantscount></event>
+	<event><title>Android系统底层源码分析</title><chapterid>107219447444236191734</chapterid><description>应Android俱乐部成员要求，为大家开展一系列Andriod系统底层的源码知识介绍,内容包括：
+1.Android系统底层源码结构
+2.zygote介绍
+欢迎大家参加！</description><start>2014.05.05 19:00</start><end>21:00</end><location>中国甘肃省兰州城关区段家滩路1173号</location><participantscount>37</participantscount></event>
+	<event><title>Android俱乐部之Java&amp;C</title><chapterid>107219447444236191734</chapterid><description>在Andriod俱乐部成员的建议下，由Carey为大家讲解面向对象的软件开发方法，并通过实例分析Java与C的诸多差异，以及各自的特点。希望能够帮助成员进一步的学习Android。</description><start>2014.04.29 19:00</start><end>21:00</end><location>中国甘肃省兰州市城关区段家滩路1173号</location><participantscount>35</participantscount></event>
+	<event><title>兰州GDG之环保集结号</title><chapterid>107219447444236191734</chapterid><description>环镜保护已经成为我们生活中非常关注的话题，近日，兰州自来水污染又敲响了环保的警钟。兰州GDG将环保意识转化为实际行动，推广“环保，从自己做起，从现在做起”的思想。主要活动包括：
+1.制作、悬挂环保小提示。
+2.捡垃圾。
+3.篮球赛、放风筝等娱乐活动。</description><start>2014.04.26 02:00</start><end>05:00</end><location>中国甘肃省兰州城关区水车博览园</location><participantscount>76</participantscount></event>
+	<event><title>[兰州GDG]Arduino俱乐部模块学习之爱情温度计</title><chapterid>107219447444236191734</chapterid><description>1.Arduino模块简介
+2.播放视频教程，讲授关于Arduino的基本知识与应用
+3.爱情温度计应用展示﻿</description><start>2014.04.18 19:00</start><end>21:00</end><location>兰州大学飞云楼524室</location><participantscount>41</participantscount></event>
+	<event><title>[兰州GDG]Android俱乐部之我的程序我做主</title><chapterid>107219447444236191734</chapterid><description>Android俱乐部已经开展了两个多月的活动，很多成员都已经开始动手编制自己的小程序并且有很多的想法。
+本次活动以创意讲述为主，每位成员与大家分享自己的创意，同时成员之间可以展开讨论，帮助大家进一步完善想法。
+本次活动也邀请非开发者参与，大家可以从用户体检以及应用需求的角度为开发者提供新的程序设计想法﻿</description><start>2014.04.15 19:00</start><end>21:00</end><location>中国甘肃省兰州市城关区段家滩路1173号</location><participantscount>20</participantscount></event>
+	<event><title>[兰州GDG]google APIs 那些事</title><chapterid>107219447444236191734</chapterid><description>1.学习使用google APIs创建Web应用
+2.Android手势识别、分屏等前沿技术介绍。</description><start>2014.04.11 19:00</start><end>21:00</end><location>兰州大学飞云楼524室</location><participantscount>20</participantscount></event>
+	<event><title>[兰州GDG]Python introduction about strings</title><chapterid>107219447444236191734</chapterid><description>1.讲解python 字符串语法
+2.介绍python性能优势﻿</description><start>2014.04.04 19:00</start><end>21:00</end><location>兰州大学飞云楼524室</location><participantscount>23</participantscount></event>
+	<event><title>Android俱乐部之本本加油</title><chapterid>107219447444236191734</chapterid><description>1.学习记事本的开发；
+2.进行记事本代码的开发
+3.记事本应用程序的评比﻿</description><start>2014.04.01 19:00</start><end>21:00</end><location>兰州市城关区段家滩路1173号</location><participantscount>26</participantscount></event>
+	<event><title>[兰州GDG]Arduino俱乐部交流讨论会</title><chapterid>107219447444236191734</chapterid><description>1.兰州GDG成员Arduino开发经验介绍
+2.Arduino俱乐部年度计划安排
+3.自由讨论环节﻿</description><start>2014.03.30 14:30</start><end>16:30</end><location>兰州大学榆中校区天山堂A309</location><participantscount>24</participantscount></event>
+	<event><title>Google Cloud Platform Live：Lanzhou</title><chapterid>107219447444236191734</chapterid><description>兰州大学飞云楼524将会集中播放视频，同时欢迎大家自己通过网络积极参与观看！注册地址：
+https://cloud.google.com/events/google-cloud-platform-live/online/?utm_source=GDG&amp;amp;utm_medium=email&amp;amp;utm_campaign=GCPLive
+活动内容包括但不仅限于：
+1.Big Data，open source technologies and Google cloud platform
+2.Building Cloud-powered Android Applications﻿</description><start>2014.03.26 19:00</start><end>21:00</end><location>兰州大学飞云楼524室</location><participantscount>21</participantscount></event>
+	<event><title>观看GDL录像以及Android可穿戴设备探讨</title><chapterid>107219447444236191734</chapterid><description>1.观看GDL录像：Advice for Android Developers on best practices 
+2.观看录像：Introducing Android Wear Developer Preview以及
+                         DevBytes - Android Wear- Developer Preview
+3.自由讨论可穿戴技术以及应用等﻿</description><start>2014.03.21 07:00</start><end>09:00</end><location>兰州大学飞云楼524室</location><participantscount>36</participantscount></event>
+	<event><title>问道Andriod控件</title><chapterid>107219447444236191734</chapterid><description>1.学习Andriod常用控件功能和使用方法
+2.根据大家创意，进行CodeLab﻿</description><start>2014.03.18 19:00</start><end>21:00</end><location>中国甘肃省兰州市城关区段家滩路1173号</location><participantscount>40</participantscount></event>
+	<event><title>Android俱乐部之App Inventor介绍</title><chapterid>107219447444236191734</chapterid><description></description><start>2014.03.14 19:00</start><end>21:00</end><location>中国甘肃省兰州城关区兰州大学信息楼</location><participantscount>18</participantscount></event>
+	<event><title>Android开发之“hello world”</title><chapterid>107219447444236191734</chapterid><description>1.科学上网
+2.android开发环境搭建
+3.Say Hello World！﻿</description><start>2014.03.11 19:00</start><end>21:00</end><location>中国甘肃省兰州城关区段家滩路1173号</location><participantscount>33</participantscount></event>
+	<event><title>Women Techmakers: Lanzhou</title><chapterid>107219447444236191734</chapterid><description>http://womentechmakers.com/</description><start>2014.03.08 14:30</start><end>17:30</end><location>中国甘肃兰州城关区天水中路宁卧庄宾馆</location><participantscount>108</participantscount></event>
+	<event><title>观看GDL录像以及WTM活动介绍</title><chapterid>107219447444236191734</chapterid><description>1.观看GDL视频-Google Maps Android API Heatmaps library.
+2.WTM活动介绍﻿</description><start>2014.02.28 19:00</start><end>21:00</end><location>兰州大学飞云楼209</location><participantscount>26</participantscount></event>
+	<event><title>Android新手学习之观看GDL录像</title><chapterid>107219447444236191734</chapterid><description>1.科学上网
+2.Lanzhou GDG介绍
+3.GDL录像：Three Steps To Awesome﻿</description><start>2014.02.26 19:00</start><end>21:00</end><location>中国甘肃省兰州城关区段家滩路1173号</location><participantscount>28</participantscount></event>
+	<event><title>Dart Flight School Lanzhou</title><chapterid>107219447444236191734</chapterid><description>You are welcome to &quot;Dart Flight School Lanzhou&quot;!</description><start>2014.02.23 14:30</start><end>15:30</end><location>中国甘肃省兰州</location><participantscount>73</participantscount></event>
+	<event><title>兰州GDG俱乐部建设座谈会</title><chapterid>107219447444236191734</chapterid><description>讨论兰州GDG社区Android俱乐部、Arduino俱乐部等俱乐部建设相关问题﻿</description><start>2014.02.19 14:00</start><end>17:00</end><location>中国甘肃省兰州城关区东岗西路兰州大学科技园</location><participantscount>20</participantscount></event>
+	<event><title>安卓俱乐部之安卓开发入门&amp;codelab</title><chapterid>107219447444236191734</chapterid><description>1、首先请大家携带笔记本电脑 &amp;lt;br&amp;gt;
+2、上一场为大家讲解了零基础入门的一些基本知识，这一场带领大家编写一道两个小程序。&amp;lt;br&amp;gt;
+</description><start>2014.01.17 19:00</start><end>21:00</end><location>中国甘肃省兰州城关区东岗西路兰州大学信息科学与工程学院</location><participantscount>24</participantscount></event>
+	<event><title>安卓开发零基础编程入门&amp;codelab</title><chapterid>107219447444236191734</chapterid><description>由GDG Lanzhou成员远经潮演讲关于安卓开发零基础编程入门及codelab</description><start>2014.01.10 19:00</start><end>21:00</end><location>中国甘肃省兰州城关区东岗西路兰州大学信息科学与工程学院</location><participantscount>36</participantscount></event>
+	<event><title>移动应用开发沙龙</title><chapterid>107219447444236191734</chapterid><description>移动应用开发沙龙</description><start>2013.12.27 19:00</start><end>21:00</end><location>中国甘肃省兰州城关区东岗西路兰州大学信息科学与工程学院</location><participantscount>43</participantscount></event>
+	<event><title>Ardunio开发初步二</title><chapterid>107219447444236191734</chapterid><description>Ardunio开发初步二</description><start>2013.12.20 19:00</start><end>21:00</end><location>中国甘肃省兰州城关区东岗西路兰州大学信息科学与工程学院</location><participantscount>28</participantscount></event>
+	<event><title>Ardunio开发初步一</title><chapterid>107219447444236191734</chapterid><description>Ardunio开发初步一</description><start>2013.12.13 19:00</start><end>21:00</end><location>中国甘肃省兰州城关区东岗西路兰州大学信息科学与工程学院</location><participantscount>33</participantscount></event>
+	<event><title>GDG &amp; Computer Science Education week &amp; Hour of code</title><chapterid>107219447444236191734</chapterid><description>2013年12月9号到15号这周, 是计算机科学教育周。兰州GDG，安卓爱好者和在兰州的朋友一起组织 Hour of Code 活动, 这是 code.org 和csedweek.org 一起举办的活动, 目的是为了普及计算机编程知识.
+http://csedweek.org/sites/csedweek/files/CSEdWeek_handout_1pg.pdf
+</description><start>2013.12.11 16:10</start><end>18:10</end><location>中国甘肃省兰州城关区兰州大学附属中学</location><participantscount>231</participantscount></event>
+	<event><title>兰州GDG走进兰州资源环境学院</title><chapterid>107219447444236191734</chapterid><description>1. 介绍Google的开放理念；
+通过Android、HTML5技术等有趣的产品，介绍Google的相关技术和资源。介绍历届Android应用开发中国大学生挑战赛优秀作品。
+2. 介绍App Inventor的功能和使用方法，可以帮助同学们快速高效地开发Android应用。
+3. 介绍科学上网的方法，可以帮助大家更好地获取网络资源</description><start>2013.11.21 14:30</start><end>17:30</end><location>中国甘肃省兰州榆中县兰州资源环境职业技术学院</location><participantscount>56</participantscount></event>
+	<event><title>兰州GDG走进兰州工业学院</title><chapterid>107219447444236191734</chapterid><description>1. 介绍Google的开放理念；
+通过Android、HTML5技术等有趣的产品，介绍Google的相关技术和资源。介绍历届Android应用开发中国大学生挑战赛优秀作品。
+2. 介绍App Inventor的功能和使用方法，可以帮助同学们快速高效地开发Android应用。
+3. 介绍科学上网的方法，可以帮助大家更好地获取网络资源。</description><start>2013.11.19 14:30</start><end>17:30</end><location>中国甘肃省兰州七里河区龚家坪东路兰州工业学院</location><participantscount>123</participantscount></event>
+	<event><title>DevFest &amp; Hackathon</title><chapterid>107219447444236191734</chapterid><description>（一）活动时间安排&amp;lt;br&amp;gt;
+2013年10月19日，星期六，技术篇&amp;lt;br&amp;gt;
+09:00 - 10:30 Android for Computer Science Teaching and Self-learning, Keynote, by Zhangjin Wu&amp;lt;br&amp;gt;
+10:30 - 11:30 HTML5 Development, by Mingqiang Yang&amp;lt;br&amp;gt;
+11:30 - 12:00 Game Time&amp;lt;br&amp;gt;
+12:00 - 13:00 Launch Time&amp;lt;br&amp;gt;
+13:30 - 14:30 App Engine, by Kinggo&amp;lt;br&amp;gt;
+14:30 - 15:30 Google Glass Introduction, by Yong Sheng&amp;lt;br&amp;gt;
+15:30 - 15:45 Tea Break&amp;lt;br&amp;gt;
+15:45 - 16:45 Google+ APIs, by Kangkang&amp;lt;br&amp;gt;
+16:45 - 17:45 Using Google Maps in Geosciences, by Yan Li&amp;lt;br&amp;gt;
+2013年10月20日，星期日，开发篇&amp;lt;br&amp;gt;
+08:30 - 16:00 Android Hackathon&amp;lt;br&amp;gt;
+16:00 - 18:00 Assessment&amp;lt;br&amp;gt;</description><start>2013.10.19 09:00</start><end>2013.10.20 18:00</end><location>中国甘肃省兰州城关区天水中路宁卧庄宾馆</location><participantscount>952</participantscount></event>
+	<event><title>拥抱开源分享智慧</title><chapterid>107219447444236191734</chapterid><description>时间：2013年9月22日&amp;lt;br&amp;gt;
+地点：兰州大学榆中校区天山堂404&amp;lt;br&amp;gt;
+主题：拥抱开源分享智慧&amp;lt;br&amp;gt;
+
+&amp;lt;p&amp;gt;本次活动与兰州大学开源社区联合举办，在软件自由日当天进行开源软件的介绍、演示与相关主题的演讲，内容主要包括：&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;开源软件知识问答——“开源如此简单”&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;开源系统演示与实战——“不一样的系统，不一样的感受”&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;播放宣传视频&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;主题讲座&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;</description><start>2013.09.22 14:30</start><end>18:00</end><location>中国甘肃省兰州榆中县兰州大学榆中校区天山堂404</location><participantscount>25</participantscount></event>
+	<event><title>开放 分享 参与 - 2013软件自由日</title><chapterid>107219447444236191734</chapterid><description>流程：&amp;lt;br&amp;gt;
+* 13:30 - 14:00 入场签到&amp;lt;br&amp;gt;
+* 14:00 - 15:00 开源文化介绍&amp;lt;br&amp;gt;
+* 15:00 - 16:30 开源软件演示&amp;lt;br&amp;gt;
+* 16:30 - 16:45 茶歇&amp;lt;br&amp;gt;
+* 16:45 - 18:00 观看影片《操作系统革命》&amp;lt;br&amp;gt;</description><start>2013.09.14 13:30</start><end>18:00</end><location>中国甘肃省兰州城关区天水中路宁卧庄宾馆</location><participantscount>87</participantscount></event>
+	<event><title>图书推荐会/Book Sharing</title><chapterid>107219447444236191734</chapterid><description>愉快的暑假已经接近尾声，利用最后一周来一次暑假盘点吧，如果自觉假期有点虚度的成员也不用自责，可以通过这次活动为自己新的学期制定一份新的计划。本次 活动以我们长久以来的图书漂流活动为依托，各位成员可以相互推荐自己在学习过程中觉得有益的图书。活动内容如下：
+活动主题：图书推荐会
+活动时间：8月23日（本周五）6点-9点
+地点：甘肃省兰州市甘南路684号凤栖梧人文茶楼50号包厢 聚义厅
+活动安排：
+1.介绍图书漂流活动，推荐本活动中受大家喜欢的书籍；
+2.推荐对于编程学习有较大帮助的网络资源；
+3.与会人员自由发言，推荐自己较为喜欢的图书。</description><start>2013.08.23 18:00</start><end>21:00</end><location>甘肃省兰州市甘南路684号凤栖梧人文茶楼</location><participantscount>30</participantscount></event>
+	<event><title>行行摄摄●生活</title><chapterid>107219447444236191734</chapterid><description>此次兰州GDG兰山之行行摄摄是由兰州谷歌开发者社区(GDG Lanzhou)为谷歌爱好者举办的一次户外的交流活动，主要目的是让长期呆在办公室或者实验室对着电脑的谷粉们借此活动不但可以走出来吸收一下兰州的新鲜空气~因为兰山山顶海拔大概在2073.2米左右（有图有真相哦~只要爬了一半，可以明显看到污染层就在脚底下哦！）而且可以让大家在一个户外参加游戏，更加容易让大家打成一片，增加会员们的交流机会和时间。</description><start>2013.07.13 07:30</start><end>12:00</end><location>中国甘肃省兰州城关区兰山公园</location><participantscount>63</participantscount></event>
+	<event><title>兰州GDG走进兰州交通大学</title><chapterid>107219447444236191734</chapterid><description>&amp;lt;ol&amp;gt;
+&amp;lt;li&amp;gt;介绍Google的开放理念；以一些有趣的产品为例，介绍Google的相关技术和资源。
+&amp;lt;/li&amp;gt;&amp;lt;li&amp;gt;介绍历届Android应用开发中国大学生挑战赛优秀作品。&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;介绍App Inventor的功能和使用方法，可以帮助同学们快速高效地开发Android应用。&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;介绍科学上网的方法，可以帮助大家更好地获取网络资源。&amp;lt;/li&amp;gt;&amp;lt;/ol&amp;gt;
+&amp;lt;p&amp;gt;兰州交通大学 六教 计算机科学与技术国家级教学示范中心&amp;lt;/p&amp;gt;</description><start>2013.06.28 15:00</start><end>18:00</end><location>中国甘肃省兰州市安宁区兰州交通大学</location><participantscount>120</participantscount></event>
+	<event><title>Google与开源软件</title><chapterid>107219447444236191734</chapterid><description>&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;介绍开源软件的理念&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;介绍Google所提供的开源软件服务&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;介绍App Inventor的使用&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;</description><start>2013.06.22 14:00</start><end>17:00</end><location>中国甘肃省兰州市榆中县兰州大学榆中校区</location><participantscount>40</participantscount></event>
+	<event><title>I/O Share</title><chapterid>107219447444236191734</chapterid><description>Share information about Google I/O 2013.</description><start>2013.05.30 18:30</start><end>22:00</end><location>甘肃省兰州市城关区甘南路684号 凤栖梧(甘南路店)</location><participantscount>30</participantscount></event>
+	<event><title>“站”不绝口/HTMLife</title><chapterid>107219447444236191734</chapterid><description>&amp;lt;p&amp;gt;活动地点: 兰州城关区东岗西路兰州组工大厦（原雷迪森酒店）酒店泰山厅&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;活动规模: 300 人 &amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;活动形式: 讲座+Barcamp&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;活动流程：&amp;lt;br&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;PART 1) 13：40-14：30 签到以及现场报名加入兰州GDG&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;PART 2)14:30-15:00 2013年兰州GDG介绍，成员权力和责任等讲解&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;PART 3)15:00-16:00 HTML5网站建设基础&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;PART 4) 16:00-16:40 基于混合模式的移动应用开发&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;PART 5) 16:40-17:00 茶歇&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;PART 6) 17:00-17:30 BARCAMP 非程勿扰&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;PART 7) 17:30-17:50 Google技术，及G+和Google Groups介绍及注册讲解,现场指导新会员注册G+和Groups&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;PART 8) 17:50-18:00 鼓励到场的来宾积极写会后感想并发布在兰州GDG的社区论坛上，总结采纳链接者可获得精美礼品！&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;</description><start>2013.04.21 13:40</start><end>18:00</end><location>中国甘肃省兰州城关区东岗西路兰州组工大厦酒店泰山厅</location><participantscount>106</participantscount></event>
+	<event><title>Android校园应用开发</title><chapterid>107219447444236191734</chapterid><description>&amp;lt;p&amp;gt;
+活动主要以讨论为主，主题为校园应用开发，主要涉及学校的各种服务，如BBS客户端、自习空闲教室查询、图书查询续借、课表查询、学校活动通知等内容。具体安排如下：&amp;lt;br&amp;gt;
+The event focuses on discussion of the development of campus applications, which provide services for students, for example, BBS client, information inquiries(eg. available study halls, books, school timetable), event notifications etc. The event plan is following.
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;
+主题：Android校园应用开发之XML/JSON数据交换&amp;lt;br&amp;gt;
+Theme: The Development of Campus Applications on Android - Data Exchange through XML/JSON
+&amp;lt;/p&amp;gt;
+
+流程：&amp;lt;br&amp;gt;
+Procedure：&amp;lt;br&amp;gt;
+&amp;lt;p&amp;gt;19:00 - 19:30    校园应用开发介绍：&amp;lt;br&amp;gt;
+19:00 - 19:30 The Introduction of The Development of Campus Applications:&amp;lt;br&amp;gt;
+        针对校园环境，向同学提供服务（查询、通知、交流等）&amp;lt;br&amp;gt;
+        According to the campus environment, the app provides services for students (inquiries, notifications, communication etc.)
+&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;19:40 - 20:10    基于XML的校园BBS客户端应用开发实例：&amp;lt;br&amp;gt;
+19:40 - 20:10 The Demo of Campus BBS Client Based On XML：&amp;lt;br&amp;gt;
+        讲解Android对XML的解析方式&amp;lt;br&amp;gt;
+        Introduction of Parsing XML on Android&amp;lt;br&amp;gt;
+        演示BBS客户端&amp;lt;br&amp;gt;
+        Demonstration of BBS Client&amp;lt;br&amp;gt;
+        BBS客户端开发现状&amp;lt;br&amp;gt;
+        The Development Status of BBS Client&amp;lt;br&amp;gt;
+        开发过程中存在的问题&amp;lt;br&amp;gt;
+        The Problems Found During Developing
+&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;20:20 - 22:00    讨论：&amp;lt;br&amp;gt;
+20:20 - 22:00 Discussion：&amp;lt;br&amp;gt;
+        校园应用开发的需求分析&amp;lt;br&amp;gt;
+        The Requirement Analysis of Developing Campus App&amp;lt;br&amp;gt;
+        nForum API介绍&amp;lt;br&amp;gt;
+        The Introduction of nForum API&amp;lt;br&amp;gt;
+        XML/JSON开发对比&amp;lt;br&amp;gt;
+        The Comparison of XML and JSON&amp;lt;br&amp;gt;
+        如何将BBS客户端融合到校园应用框架中&amp;lt;br&amp;gt;
+        How To Integrate BBS Client Into The Framework of Campus App&amp;lt;br&amp;gt;
+        界面设计&amp;lt;br&amp;gt;
+        UI Design
+&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;</description><start>2013.04.11 19:00</start><end>22:00</end><location>甘肃省兰州市城关区甘南路684号 凤栖梧(甘南路店)</location><participantscount>26</participantscount></event>
+	<event><title>DevFestW Lanzhou</title><chapterid>107219447444236191734</chapterid><description>DevFestW at Lanzhou, focus on women developers.
+All speaker are women, they will give us these leture：
+1. Google Maps
+2. Design
+3. Android development
+4. Project Experience
+And there&apos;re several barcamp between every leture.
+Then there&apos;s a Discover Google `Hands on`.</description><start>2013.03.10 14:00</start><end>18:00</end><location>zugongdasha, lanzhou</location><participantscount>106</participantscount></event>
+	<event><title>GDG-Lanzhou </title><chapterid>107219447444236191734</chapterid><description>GDG-Lanzhou key members meeting, focus on Android develop. Kang Kang will give a prestation on Android ADK. And we&apos;ll talk about bookcrossing, discuss events of GDG-Lanzhou.</description><start>2013.01.20 13:00</start><end>17:00</end><location>Legend Hotel Lanzhou, Lanzhou, China</location><participantscount>30</participantscount></event>
+	<event><title>GDG Lanzhou Quarterly</title><chapterid>107219447444236191734</chapterid><description>Fisrt event organized by GDG Lanzhou, Kingo Chow presented Google I/O 2012 news。 And kangkang, Richard Li give three presentations about Android, Unity 3D. We watched a video from Google Developer Live: SQL vs NoSQL.</description><start>2012.10.13 13:30</start><end>14:30</end><location>Legend Hotel Lanzhou, Lanzhou, Gansu, China</location><participantscount>100</participantscount></event>
+	<event><title>Lanzhou GDG Founding Event</title><chapterid>107219447444236191734</chapterid><description>The first learning event of the Lanzhou GDG, taking place on June 3rd, 2012. It was also the Lanzhou GDG funding event when the GDG was officially established. Nearly 100 local developers and college students participated the event. Learning topics included Google Maps API, Chrome &amp;amp; HTML5, and Android. Bill Luan from Google presented these topics.  </description><start>2012.06.03 13:00</start><end>17:00</end><location>ZuGong Building, Lanzhou, Gansu, China</location><participantscount>100</participantscount></event>
+</events>
+</data>

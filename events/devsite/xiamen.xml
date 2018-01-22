@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<number>75</number>
+<events>
+	<event><title>Tensorflow图像识别codelab</title><chapterid>110967416369300099369</chapterid><description>学习如何利用现有的深度神经网络模型进行微调，以用于图像分类，并探讨该技术的创新应用，寻找人工智能时代的创新机遇
+建议好学的小伙伴，带上电脑，装好tensorflow，亲手体验机器学习的魅力，不懂技术的小伙伴的也可以通过观看实验体验机器学习的神奇。</description><start>2017.06.04 14:30</start><end>16:30</end><location>厦门大学学生公寓图书馆</location><participantscount>26</participantscount></event>
+	<event><title>2017 Google IO Redux</title><chapterid>110967416369300099369</chapterid><description>活动简介：
+2017 Google IO已于5.19号在美国硅谷落下帷幕，此次Google I/O 大会亮点颇多，特别是在人工智能领域，谷歌向我们展示了最实用的AI应用以及我们从未见过的机器学习。厦门GDG组织者将与你分享参与这次大会的收与亲身经历，并带领大家使用google design sprint，根据google io发布的新技术设计自己的新产品。</description><start>2017.05.30 09:30</start><end>17:30</end><location>厦门大学学生公寓图书馆</location><participantscount>63</participantscount></event>
+	<event><title>2017 Google I/O Extended--Xiamen</title><chapterid>110967416369300099369</chapterid><description>2017年谷歌年度开发者大会（ Google I/O）将于5月17日至19日在加利福尼亚州海滨露天剧场举行。
+
+厦门GDG（谷歌开发者社区）将在厦门大学图书馆信息分馆同步举办 Google I/O Extended 活动，欢迎大家报名参加，一起观看 I/O 主题演讲直播。
+
+The 2017 Google Annual Developers Conference (Google I / O) will be held from 17 to 19 May at the California Amphitheater.
+
+Google I / O Extended will be held in the Xiamen University Library, Information Engineering Branch simultaneously by Xiamen GDG (Google Developer Groups). Welcome to join us to watch the I / O keynote live.﻿</description><start>2017.05.17 22:00</start><end>2017.05.18 03:00</end><location>厦门大学图书馆信息分馆（曾厝垵学生公寓图书馆）二楼</location><participantscount>195</participantscount></event>
+	<event><title>深度学习及tensorflow在事件抽取与股价预测中的应用</title><chapterid>110967416369300099369</chapterid><description>金融分析是深度学习的重要应用方向之一，本次活动将探讨tensorflow在事件抽取与股价预测中的应用</description><start>2017.04.22 15:00</start><end>17:00</end><location>厦门大学海韵园科研2-603</location><participantscount>8</participantscount></event>
+	<event><title>IWD 2017:Women Techmakers Xiamen</title><chapterid>110967416369300099369</chapterid><description>厦门的谷歌开发者社区 (GDG) 将聚焦女性技术从业者中的特殊群体——IT妈妈，举办以”IT女性 别样精彩”为主题的分享交流活动。
+我们已经邀请了部分IT、互联网企业的优秀女性，分享她们的创业故事、与技术的故事、职业的发展、平衡家庭与工作以及教育孩子的经验等。希望为女性程序员、设计师、技术创始人的职业生涯、生活等各个阶段，提供更多的支持与帮助。</description><start>2017.04.16 14:30</start><end>16:30</end><location>万物社创想会社北区（厦门市思明区前埔工业园区61号）</location><participantscount>146</participantscount></event>
+	<event><title>Cloud Next ’17 Extended - Xiamen</title><chapterid>110967416369300099369</chapterid><description>Get new ideas. Learn from industry experts. Engage with peers. Join us for an immersive event that brings together executives, customers, partners, developers, IT decision makers, and Google Engineers to build the future of the cloud. Choose from over 200 sessions on Google Cloud Platform, G Suite, Maps, Devices, and more.</description><start>2017.04.08 14:30</start><end>17:30</end><location>中国福建省厦门市思明区曾厝垵西路7号 厦门大学海韵园</location><participantscount>10</participantscount></event>
+	<event><title>2017 TensorFlow Dev Summit Recap--Xiamen</title><chapterid>110967416369300099369</chapterid><description>随着机器学习，神经网络的发展，这些技术在现实世界发挥着越来越重要的作用。TensorFlow 开源至今，影响甚大。新年伊始，厦门谷歌开发者社区将举办第一个活动：2017 TensorFlow Dev Summit Recap。
+
+2017 TensorFlow Dev Summit 峰会将在美国时间 2 月 15 日 9：30-18：00（北京时间：2 月 16 日 00：30-9：00）在旧金山进行，活动将由 10 个演讲组成，覆盖 Tensor Flow 的技术、发展、生态、应用的各个环节。Google 将组织全球谷歌开发者社区在各个地区展开 TensorFlow 系列活动。
+2017 TensorFlow Dev Summit 日程安排：
+
+主题「开场Keynote」 嘉宾： Jeff Dean, Rajat Monga, and Megan Kacholia
+
+主题「XLA: TensorFlow, Compiled! 」嘉宾： Todd Wang and Chris Leary 
+
+主题「TensorFlow High-Level API」嘉宾： Martin Wicke
+
+主题「Keras and TensorFlow」 嘉宾： Francois Chollet
+
+主题「Distributed TensorFlow」嘉宾： Derek Murray
+
+主题「Creating Art &amp;amp; Music with Project Magenta」嘉宾： Doug Eck
+
+主题「TensorFlow Ecosystem: Hadoop and More」嘉宾： Jonathan Hseu
+
+主题「Serving Models in Production with TensorFlow Serving」嘉宾： Noah Fidel
+
+主题「Memorization + Generalization with TensorFlow Wide and Deep」嘉宾： Heng-Tze Cheng
+
+主题「Hands-on TensorBoard」嘉宾： Dandelion Mane
+
+厦门 GDG 谷歌开发者社区，将于2017年2月18日 14：30 - 17：00 在厦门大学海韵园科研2-603，举行 TensorFlow Recap 活动，除播放/讨论峰会的录像之外，我们将现场进行codelab。Google 以及 TensorFlow 团队为现场参与活动的开发者准备了精美的周边，欢迎更多的 TensorFlow 开发者一起交流。
+
+2017 TensorFlow Dev Summit Recap--Xiamen 活动信息：
+时间：2017 年 2 月 18 日 14：30-17：00
+地点：厦门大学海韵园科研2-610
+报名：https://gdgdocs.org/r/18QUKA
+
+
+备注：请自带电脑并安装vmware虚拟机，以便进行codelab</description><start>2017.02.18 14:30</start><end>17:00</end><location>厦门大学海韵园科研2-603</location><participantscount>23</participantscount></event>
+	<event><title>射频识别技术在社会中的应用</title><chapterid>110967416369300099369</chapterid><description>（一）活动目的：
+谷歌开发者社区（Google Developer Groups, 简称 GDG）是由谷歌公司支持并赞助的全球性项目，目的是通过开发者们自发组成的社区，进行技术分享交流，推动开放型互联网技术和移动技术在业界的使用。
+此次讲座于2016年12月22日举行，介绍“射频识别技术在社会中的应用”等内容。
+（二）活动主题：
+厦门GDG谷歌开发者社区  “射频识别技术在社会中的应用”讲座
+  （三）活动对象：
+       面向厦门GDG社区所有人
+（四）活动时间：
+2016年12月22日  19：00 — 21:00
+（五）活动地点：
+       厦门大学嘉庚学院 理工楼 405教室
+活动流程：
+               18:30 – 19:00  入场签到。
+               19:00 – 19:05  介绍讲座老师
+               19:05 – 19:30  射频识别技术的基本概念
+               19:30 – 19:50  数据通信技术和识别系统
+               19:50 – 20:20  射频识别技术应用系统及其设计
+               20:20 – 20:40  射频识别技术在社会生产环节中的应用
+               20:40 – 20:50  会议总结
+</description><start>2016.12.22 19:00</start><end>21:00</end><location>中国福建省漳州市厦门大学嘉庚学院</location><participantscount>16</participantscount></event>
+	<event><title>DevFest 2016--GDG Xiamen</title><chapterid>110967416369300099369</chapterid><description>DevFest就是开发者节的意思，它是从Developer Festival的简写而来。它是自2008年就开始的由Google发起和赞助的全球性开发者活动，目的是通过技术分享和交流，来推动最新的互联网开放型技术的使用、推动创新、创业，以此来贡献与当地的经济发展。
+&amp;lt;p&amp;gt;
+参加DevFest可以学习最新、最酷的互联网和移动开发技术，和技术专家面对面交流，进行经验分享，了解开发案例，还可以现场动手编程进行实践。开发者不但可以免费参与此次活动，还有机会获得我们GDG社区的T恤、各种Google技术和开放型技术的贴纸、甚至神秘小礼物。 除了厦门以外，我们全国十几个城市的 GDG 社区都分别举办各自的DevFest 活动， 这将是一场代表中国互联网业界规模最大的技术和交流的盛宴！欢迎各位的光临！
+&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+今年厦门DevFest的技术主题是人工智能和智能硬件。
+&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+这是厦门GDG社区成员自己的盛会，欢迎社区的小伙伴报名担任讲师，组织workshop，或者担任志愿者等，各种形式的贡献都是受欢迎的！我们也观迎其他组织为我们提供帮助，进行合作，共同推动厦门IT技术的发展。如果有任何的意见和建议请联系我们：gdgxiamen@gmail.com﻿&amp;lt;/p&amp;gt;</description><start>2016.10.22 10:00</start><end>17:00</end><location>中国福建省厦门市</location><participantscount>480</participantscount></event>
+	<event><title>Progressive Web App Dev Summit Viewing</title><chapterid>110967416369300099369</chapterid><description>Progressive Web Apps 是结合了 web 和 原生应用中最好功能的一种体验。对于首次访问的用户它是非常有利的, 用户可以直接在浏览器中进行访问，不需要安装应用。随着时间的推移当用户渐渐地和应用建立了联系，它将变得越来越强大。它能够快速地加载，即使在比较糟糕的网络环境下，能够推送相关消息, 也可以像原生应用那样添加至主屏，能够有全屏浏览的体验。
+Progressive Web Apps 是:
+
+渐进增强 - 能够让每一位用户使用，无论用户使用什么浏览器，因为它是始终以渐进增强为原则。
+响应式用户界面 - 适应任何环境：桌面电脑，智能手机，笔记本电脑，或者其他设备。
+不依赖网络连接 - 通过 service workers 可以在离线或者网速极差的环境下工作。
+类原生应用 - 有像原生应用般的交互和导航给用户原生应用般的体验，因为它是建立在 app shell model 上的。
+持续更新 - 受益于 service worker 的更新进程，应用能够始终保持更新。
+安全 - 通过 HTTPS 来提供服务来防止网络窥探，保证内容不被篡改。
+可发现 - 得益于 W3C manifests 元数据和 service worker 的登记，让搜索引擎能够找到 web 应用。
+再次访问 - 通过消息推送等特性让用户再次访问变得容易。
+可安装 - 允许用户保留对他们有用的应用在主屏幕上，不需要通过应用商店。
+可连接性 - 通过 URL 可以轻松分享应用，不用复杂的安装即可运行。
+
+
+本次活动还包含一个动手小实验，通过实验将会引导你完成你自己的 Progressive Web App，包括设计时需要考虑的因素，也包括实现细节，以确保你的应用程序符合 Progressive Web App 的关键原则。
+
+</description><start>2016.10.18 15:00</start><end>17:00</end><location>厦门市软件园望海路61号北楼6-11</location><participantscount>6</participantscount></event>
+	<event><title>小学生也能快速上手的Android编程工具App Inventor开发</title><chapterid>110967416369300099369</chapterid><description>小学生也能快速上手开发Android应用，你造吗？想要开发一个Android App，但又不会编程怎么办？
+这次的活动向您介绍一个图形化的App 开发工具App Inventor，从浏览器开始您的App 开发之旅。您只要首先设计程序的外观；接着设定程序的行为，而所有的这些就像玩乐高积木一样简单有趣。最后只要扫二维码，下载安装，刚出炉的程序就会出现在您的手机上了。
+App Inventor是美国著名大学麻省理工学院开发的一款手机编程软件。它是一个完全在线开发的Android编程环境，抛弃复杂的程式代码而使用积木式的堆叠法来完成Android程式。即便是小学生也能快速上手，谷歌还针对中小学生设立了App Inventor全国挑战赛。http://www.google.cn/university/appinventorcontest/ 。
+欢迎各位非程序员来玩，也欢迎各位家长带您的小孩来学习，并报名参赛，只要报名参赛即可获得谷歌送出的小礼物。
+
+活动要求：需携带安卓系统的手机和数据线</description><start>2016.09.25 15:00</start><end>17:00</end><location>厦门大学海韵园 实验楼204</location><participantscount>12</participantscount></event>
+	<event><title>用户故事地图实战工坊</title><chapterid>110967416369300099369</chapterid><description>本次实战工坊以用户故事地图为主题，以合作沟通的方式来全面理解用户需求。
+实战工坊将邀请谷歌孵化器厦门地区负责人暨Scrum导师王仲涛先生，带领大家以工坊形式了解如何以故事地图的方式来讲用户需求，如何分解和优化需求，如果通过团队协同工作的方式来积极吸取经验教训，从中洞察用户的需求，开发真正有价值的、小而美的产品和服务。</description><start>2016.07.12 09:30</start><end>17:30</end><location>软件园二期望海路39号楼524</location><participantscount>14</participantscount></event>
+	<event><title>IO Redux--Design Sprint for AI enhanced IOT devices</title><chapterid>110967416369300099369</chapterid><description>
+在2016年谷歌IO大会上，人工智能成为大会的一大主题，本次活动，将带大家回顾大会关于人工智能的内容，并用Design Sprint引导大家设计引入人工智能的物联网智能硬件产品。﻿</description><start>2016.06.19 13:30</start><end>17:30</end><location>厦门软件园二期望海路39号楼507室</location><participantscount>96</participantscount></event>
+	<event><title>嵌入式开发在物联网中的应用</title><chapterid>110967416369300099369</chapterid><description>嵌入式？物联网？智能家居？作为新一代的IT人该如何入门？ 
+6月8日（周三下午）在图书馆107会议室，我们将带领各位感兴趣的小伙伴一起享受科技的头脑风暴！
+将与大家一起分享“单片机开发在物联网系统的应用”、“物联网系统开发案例技术分享”、“智能家居之中端控制器开发深入剖析”等三个技术专题。
+</description><start>2016.06.08 14:30</start><end>17:00</end><location>厦门大学嘉庚学院 图书馆107会议厅</location><participantscount>16</participantscount></event>
+	<event><title>Google I/O 2016 Extended－Xiamen</title><chapterid>110967416369300099369</chapterid><description> 
+Google I/O 2016 will take place on May 18th - 20th at the Shoreline Amphitheatre in Mountain View, CA
+Can’t make it in person to Google I/O 2016 this year? Don’t worry, you can join the global I/O Extended program and be part of the community. #io16 #io16extended.
+the I/O Extended program (https://goo.gl/7R9CN0) will once again bring I/O into local communities across the globe. The program aims to help bring developers together to enjoy the keynote and different sessions at I/O through a live stream; ﻿</description><start>2016.05.18 09:00</start><end>11:59</end><location>中国福建省厦门市曾厝垵北二路厦门大学图书馆信息分馆</location><participantscount>142</participantscount></event>
+	<event><title>Android TDD Codelab--Android 测试驱动开发codelab</title><chapterid>110967416369300099369</chapterid><description>测试驱动开发，英文全称Test-Driven Development，简称TDD，是一种不同于传统软件开发流程的新型的开发方法。它要求在编写某个功能的代码之前先编写测试代码，然后只编写使测试通过的功能代码，通过测试来推动整个开发的进行。这有助于编写简洁可用和高质量的代码，并加速开发过程。
+
+现场使用TDD的开发模式完成会员登录功能，掌握如下技能
+1. 了解TDD开发模式，开发技巧，疑问解答
+2. Android 单元测试技巧：
+2.1 本地测试方法：Android官方测试框架、Robolectric测试框架
+2.2 Android Instrument单元集成测试框架
+2.3 Android测试策略选择
+
+参加者需提前准备如下事项：
+1. 安装Android Studio的笔记本电脑
+2. 了解Maven
+3. 了解单元测试基本概念、JUnit
+4. 了解Android 单元测试框架
+5. 为了便于加快测试速度建议用genymotion 模拟器
+
+
+活动时间 2016.05.15:9:30-17:00
+活动地点 厦门软件园二期望海路39号楼507厦大火炬极客空间培训室
+讲师简介：傅雪锋 厦门象形远教网络科技有限公司技术总监，厦门谷歌开发者社区高级讲师，敏捷开发导师
+活动报名：http://goo.gl/forms/CoJakim1pL﻿</description><start>2016.05.15 09:30</start><end>17:00</end><location>中国福建省厦门思明区软件园二期望海路39号楼507，厦大-火炬极客空间培训室</location><participantscount>7</participantscount></event>
+	<event><title>GDS－Deep Neural Network</title><chapterid>110967416369300099369</chapterid><description>训练一个简单的深度网络。
+有效使一个简单的深度网络秩序化。
+通过模型探索和超参数转化训练一个竞争性深度网络。</description><start>2016.05.06 16:30</start><end>17:30</end><location>中国福建省厦门市思明区曾厝垵北二路厦门大学海韵园</location><participantscount>5</participantscount></event>
+	<event><title>GDS--From Machine Learning to Deep Learning</title><chapterid>110967416369300099369</chapterid><description>Lesson 1: From Machine Learning to Deep Learning
+
+Understand the historical context and motivation for Deep Learning.
+Set up a basic supervised classification task and train a black box classifier on it.
+Train a logistic classifier “by hand”Optimize a logistic classifier using gradient descent, SGD, Momentum and AdaGrad.</description><start>2016.04.29 16:30</start><end>17:30</end><location>中国福建厦门市思明区厦门大学海韵园 科研2-603</location><participantscount>7</participantscount></event>
+	<event><title>Women Techmakers powered by GDG Xiamen</title><chapterid>110967416369300099369</chapterid><description>Women Techmakers (WTM), Google&apos;s global program and brand for women in technology.
+
+We hold this event to celebrate the International Women&apos;s Day(IWD).
+
+The content of event:
+a) Introduce the GDG and WTM;
+b) Share new technology such as Material Design, App Inventor, and so on;
+c) Share women&apos;s career planning
+d) Make a paper craft together 
+</description><start>2016.04.10 14:30</start><end>17:00</end><location>中国福建省厦门市思明区思明南路厦门大学</location><participantscount>55</participantscount></event>
+	<event><title>2016 Study Jams China Nutella Group (SJ40）</title><chapterid>110967416369300099369</chapterid><description>我们是来自中国的StudyJams-Nutella 线上小组,团队成员来自全国不同的城市,小组中5位成员是我的同班同学,我们5个人都是从事android开发的开发者.开始了解到Google有酱紫的活动,我们就决定自己组一个小组,同时在分组安排中,官方也安排了其他的学员到我们小组,组中5位有经验的开发者对其他学员的学习能够起到一定程度的指导作用.这个学习小组无论最后是否完成了课程,我们都是持续把程序学习的氛围维系下去. 小组论坛链接：http://www.studyjamscn.com/group-206-1.html</description><start>2016.03.29 00:00</start><end>2016.04.30 00:00</end><location>Xiamen, Fujian, China</location><participantscount>21</participantscount></event>
+	<event><title>2016 Study Jams China GoXMU Group (SJ118)</title><chapterid>110967416369300099369</chapterid><description>我们是来自中国厦门的StudyJam -GoXMU!小组，团队有6名成员，来全国不同的城市，就读于全国最美的学校---厦门大学。 所有成员均来自厦门大学软件学院，具有非常扎实的开发基础。我们的理念是-要做就要把它做到最好。在接下来的一个月中，我们将会接受挑战，发挥出最好的水平完成目标。论坛小组链接：&quot;http://www.studyjamscn.com/group-198-1.html&quot;</description><start>2016.03.28 00:00</start><end>2016.04.30 00:00</end><location>Xiamen, Fujian, China</location><participantscount>7</participantscount></event>
+	<event><title>2016 Study Jams China SJ18 Group</title><chapterid>110967416369300099369</chapterid><description>我们是来自中国的StudyJams-黑客军团团队，成员来自全国各地，通过StudyJams的论坛进行相关的Android学习，虽然是比较基础的内容，但是我们也知道比较重要，大家都学习的非常认真，除了线上的学习，有时间大家也会在QQ群里讨论问题，了解最新的发展知识，也可以交流经验，相互学习，希望通过这个课程学到相关的知识，为以后的学习工作打下基础。小组论坛链接：http://www.studyjamscn.com/group-181-1.html</description><start>2016.03.27 00:00</start><end>2016.04.30 00:00</end><location>Xiamen, Fujian, China</location><participantscount>21</participantscount></event>
+	<event><title>Build a Material Design App</title><chapterid>110967416369300099369</chapterid><description>Material Design是一种新的视觉设计语言，旨在 Android 移动平台上为用户提供一个设计漂亮，使用顺畅的应用界面风格，同时也为开发者们提供一个能够以最高效率实现这种界面风格的开发手段和参照准则。这个新的开发准则，帮助开发者们有效地遵循优秀的设计原则，强调创新理念和最新科技，提高开发的效率。
+
+本次活动将介绍如何创建一个Material Design风格的Android App，包括如何使用Material Design中的Card的组件。
+
+本次活动还是一个动手实践（Codelab），参与者可以和讲师一起完成一个实验，从而对Material Design App的编程有更深的认识。
+
+参与动手实践活动的请自带笔记本电脑（现场提供Wi-Fi），并事先安装好Android Studio，Git等开发软件。
+
+</description><start>2016.03.09 14:30</start><end>16:30</end><location>厦门市曾厝垵西路厦门大学海韵科研楼2-607会议室</location><participantscount>6</participantscount></event>
+	<event><title>Google I/O 2015 Redux -实时云数据库Firebase</title><chapterid>110967416369300099369</chapterid><description>在今年的Google I/O大会上，Google推出了Firebase的服务。Firebase是一个基于云的实时(Real-time)数据库。&amp;lt;br&amp;gt;
+
+什么是实时数据库？体验一下这个多人在线游戏(https://dazzling-fire-7807.firebaseapp.com/)，你就能感受到实时数据库的魅力，同时也应该预料到移动互联网终端的用户体验将会迎来多么巨大的改变。快来学习Firebase吧，成为未来行业变革的领航员。&amp;lt;br&amp;gt;
+
+本次活动还是一个动手实践活动，有两个codelab可选择。参与者可以在讲师的指导下完成：设计一个基于Firebase的聊天室，分别使用Android客户端或者网页客户端实现，两个客户端可以在同一个聊天室聊天。&amp;lt;br&amp;gt;
+
+参与动手实践的请自带笔记本电脑（现场提供Wi-Fi），根据自己准备参与的codelab阅读[活动通知](https://groups.google.com/forum/#!topic/gdg-xiamen/zG5A83zhJVs)中附件的codelab教程，并准备好相关的软件。</description><start>2015.12.12 15:00</start><end>17:00</end><location>中国福建厦门思明区厦门大学海韵园教学楼102教室</location><participantscount>6</participantscount></event>
+	<event><title>Google IO 2015 Redux - 现代前端开发之工作流</title><chapterid>110967416369300099369</chapterid><description>经过学习国外的网站设计教程，发现如今网站开发所用到的技术已经不仅仅是Dreamweaver等工具的概念了。&amp;lt;br&amp;gt;
+
+本次讲座将介绍Yeoman, Gulp等前端开发管理工具，后续还将讲解Google IO大会带来的Polymer, Firebase技术。&amp;lt;br&amp;gt;
+
+本次活动还是一个动手实践活动，参与者可以和讲师一起完成一个小实验。通过完成实验，参与者可以更加深刻的体会到前端开发工具所带来的优势，掌握现代前端开发的工作流，同时能领悟Polymer元素的精髓思想——Everything is Element，以及Firebase的多种使用方法。&amp;lt;br&amp;gt;
+
+参与动手实践活动的请自带笔记本电脑（现场提供Wi-Fi），并事先下载好必需的软件（共享目录中WebApp和Git的软件, 密码wind）。&amp;lt;br&amp;gt;</description><start>2015.12.06 14:30</start><end>17:00</end><location>中国福建厦门思明区厦门大学海韵园行政楼C座505会议室</location><participantscount>60</participantscount></event>
+	<event><title>2015 DevFest-Xiamen</title><chapterid>110967416369300099369</chapterid><description>厦门GDG 2015年度的DevFest即将在11月1日拉开帷幕，请加入我们，一起度过这个属于开发者的节日吧！今年活动的主题是Android物联网。﻿</description><start>2015.11.01 10:00</start><end>18:00</end><location>中国福建省厦门市集美区厦门工学院</location><participantscount>550</participantscount></event>
+	<event><title>Android手机控制的情感机器人制作之一</title><chapterid>110967416369300099369</chapterid><description>这是一个系列的动手实践活动，其目的是打造一个Android控制的情感机器人。本次活动将学习用3D打印机打印五官零部件并组装起下，并了解如何用舵机控制表情。后面的活动将在本次活动基础上，用Android控制机器人五官，实现Android控制的表情机器人。</description><start>2015.10.04 14:30</start><end>16:30</end><location>中国福建厦门思明区厦门市软件园二期望海路39号楼432室</location><participantscount>21</participantscount></event>
+	<event><title>GDS video &quot;Making apps context aware: Opportunities, tools, lessons and the future&quot; －2015 IO Redux</title><chapterid>110967416369300099369</chapterid><description>Are we as developers taking full advantage of the new sensing capabilities (like GPS, Bluetooth Low Energy, accelerometers, barometers) of mobile devices to make user experiences delightful? These new sensors introduce the capability to know where a person is and what they’re doing as well as many other clues. Join us as we explore the opportunities, show some old and new tools Google has created to help, share our lessons building experiences like the Now “Where did I park my car?” card, and predict what the future may hold for context-aware computing.</description><start>2015.07.11 15:00</start><end>17:00</end><location>厦门市 软件园二期望海路39号楼 432室</location><participantscount>20</participantscount></event>
+	<event><title>谷歌开发者社区孵化器宣讲会 － 新博教育专场</title><chapterid>110967416369300099369</chapterid><description>这是一次面向新博教育培训机构的学员进行的宣讲会。宣讲会介绍谷歌开发者社区孵化器的情况、政策等内容。</description><start>2015.06.26 11:00</start><end>12:00</end><location>厦门华龙大厦2302, 新博教育</location><participantscount>45</participantscount></event>
+	<event><title>2015 IO Redux--CSI:LAB in Xiamen</title><chapterid>110967416369300099369</chapterid><description>本次活动将根据主持人参加2015 GOOGLE IO时学习到的GOOGLE CSI（Creative Skills for Innovation）课程，带领大家学习和实践如何将创意变成产品原型，并快速验证其可行性。
+
+时间：2015.06.22 14:30-17:30
+
+地点：厦门软件园二期望海路39号楼432室
+
+讲师：郑灵翔﻿</description><start>2015.06.22 14:30</start><end>17:30</end><location>Shada Technology, Siming, Xiamen, Fujian, China</location><participantscount>56</participantscount></event>
+	<event><title>GDG Xiamen--Android Study Jam--Android基础学习班APP成果展示</title><chapterid>110967416369300099369</chapterid><description>通过两个多月Android Study Jam课程的学习，本次活动将由学习了本课程的学员汇报展示他们的作品，并评选出前3名优秀作品。
+时间：2015.6.18 晚上7:00-10:00</description><start>2015.06.18 19:00</start><end>22:00</end><location>厦门大学海韵园行政楼C505</location><participantscount>14</participantscount></event>
+	<event><title>厦门GDG【2015 IO Redux－2015 IO回顾】</title><chapterid>110967416369300099369</chapterid><description> 
+活动简介：2015年5月28-29日，一年一度的谷歌IO在旧金山举行，本次大会，谷歌有哪些新的技术动向，有哪些吸引人的黑科技？本次讲座将与大家分享演讲者参加Google IO的新身经历与所见所闻，并带领大家一起动手进行一次纸上原型系统的设计，了解谷歌是如何将创意打造成现实的产品。
+
+时间：2015年6月7日 星期日下午14:30-17:30
+
+地点：厦门软件园二期望海路39号楼430
+
+讲师：郑灵翔
+
+报名网址：https://gdgdocs.org/r/VP6XpI</description><start>2015.06.07 14:30</start><end>17:30</end><location>厦门软件园二期望海路39号楼432室</location><participantscount>28</participantscount></event>
+	<event><title>Google I/O Extended 2015 Xiamen</title><chapterid>110967416369300099369</chapterid><description>【活动说明】
+
+一年一年的谷歌IO大会将在5月28-29日在旧金山Moscone Center会展中心举行。跟往年一样，厦门GDG将举办 IO EXT观看keynote直播活动，
+欢迎大家报名参加厦门GDG社区将会举办的观看主题演讲实况转播的IO Extended活动
+
+活动网站地址为：https://events.google.com/io2015/
+
+活动报名地址：https://gdgdocs.org/r/sDwY1H
+
+活动时间 2015.5.28 22:00-5.29 04:00
+
+地点：
+1、厦门大学 海韵园教学楼502
+
+2、厦门大学嘉庚学院 理工楼405
+
+3、厦门市软件园二期望海路31号1楼厦门GDG孵化器
+
+&amp;gt;&amp;gt;&amp;gt;厦门GDG为大家提供免费夜宵 :) &amp;lt;&amp;lt;&amp;lt;</description><start>2015.05.28 22:00</start><end>2015.05.29 04:00</end><location>xiamen</location><participantscount>40</participantscount></event>
+	<event><title>从Google DevArt项目寻找创客灵感</title><chapterid>110967416369300099369</chapterid><description>从Google DevArt项目寻找创客灵感
+用艺术的眼光去寻找科技能手 &amp;amp; 让新颖的科技挖掘出心灵之美
+在这里，是艺术与科技的邂逅，
+在这里，志同道合的伙伴们在等待着你...
+ 
+   培训讲师：李冬冬，主要专注于将技术输出给创客和艺术家等。    
+   培训内容：艺术篇  艺术与代码，介绍谷歌DevArt项目成果
+                  科技篇 利用开源硬件的开发板和传感器，完成一个智能安防系统的项目 
+   活动流程：何所谓“创客”?
+                  破冰游戏
+                  探讨艺术之于代码
+                  开源硬件的神奇魅力
+         时间：2015年5月24日 14:30-17:30
+         地点：厦门大学海韵园行政C-505
+​      报名： https://gdgdocs.org/r/Zyrzw5​
+   注意事项：培训期间请自带电脑（无需准备排插）</description><start>2015.05.24 14:30</start><end>17:30</end><location>厦门大学海韵园行政C-505</location><participantscount>32</participantscount></event>
+	<event><title>厦门GDG【社区开源APP项目讨论】 </title><chapterid>110967416369300099369</chapterid><description>活动简介：
+时间：2015年5月23日 15:00-17:00
+地点：厦门市软件园二期望海路31号1楼厦门GDG孵化器
+议程：为了促进社区成员学习Android开发，我们发起一个开源APP项目，邀请大家一起来参与，通过实际的项目开发和讨论共同提高。本次活动是该项目的第一次聚会。
+项目负责人：王彬、叶翔
+报名网址：https://gdgdocs.org/r/gFsOFN
+github: https://github.com/gdgxiamen/GDGEvents 
+项目讨论微信群：厦门GDG android开发兴趣小组</description><start>2015.05.23 15:00</start><end>17:00</end><location>厦门市软件园二期望海路31号1楼</location><participantscount>4</participantscount></event>
+	<event><title>厦门GDG【社区开源APP项目讨论】</title><chapterid>110967416369300099369</chapterid><description>厦门GDG【社区开源APP项目讨论】
+活动简介：
+时间：2015年5月16日 15:00-17:00
+地点：厦门市软件园二期望海路31号1楼厦门GDG孵化器
+
+议程：为了促进社区成员学习Android开发，我们发起一个开源APP项目，邀请大家一起来参与，通过实际的项目开发和讨论共同提高。本次活动是该项目的第一次聚会。
+项目负责人：王彬、叶翔
+报名网址：https://gdgdocs.org/r/gFsOFN
+github: https://github.com/gdgxiamen/GDGEvents 
+项目讨论微信群：厦门GDG android开发兴趣小组</description><start>2015.05.16 15:00</start><end>17:00</end><location>厦门市软件园二期望海路31号1楼厦门GDG孵化器 </location><participantscount>7</participantscount></event>
+	<event><title>Android Fundamentals -Google Developer Study Jam in Xiamen, China--GDG Xaimen Android从入门到精通系列课程</title><chapterid>110967416369300099369</chapterid><description>Android Fundamentals Study Jam - 是 Google Developer 部门与 udacity 联合推出的一个 Android 开发者培训活动。我们将结合Android线上课程(内容来自 Google 工程师），举办一个为期两个月的 Android 培训课程，现在邀请大家参加本活动。</description><start>2015.03.07 14:30</start><end>16:30</end><location>中国福建厦门市思明区厦门大学海韵园信息科学与技术学院通信工程系</location><participantscount>360</participantscount></event>
+	<event><title>厦门GDG - 自寻迹智能小车系统解析讲座</title><chapterid>110967416369300099369</chapterid><description>                       
+活动简介：
+
+时间：2014年12月29日19:00-21：00
+
+地点：厦门大学嘉庚学院主楼群5 208多功能厅
+
+议程：1.自寻迹智能小车概念
+      2.智能小车电子系统
+      3.智能小车的控制系统
+
+讲师：吴天宝
+讲师简介：        2002年11月，参与研制“监视测量跟踪系统”，05年1月通过验收，9月做了挂飞试验，取得了良好效果。主要负责系统稳定回路与跟踪回路设计，并用DSP实现了数字控制器，参与用Vc++设计并实现了上位机监控系统的全部软件。
+　　独立完成航天部国家航天支撑基金项目一个：巡航导弹地形跟踪与地形回避新方法研究。
+　　熟练应用Matlab，掌握DSP芯片应用与开发技术，熟悉C++语言实现各种算法。
+　　精通：windows/linux系统，计算机网络及应用，网络工程及维护，校园网建设，数据库管理，Cisco华3等路由器调试与维护，MySQL、PHP、Asp以及Html语言等。
+</description><start>2014.12.29 19:00</start><end>21:00</end><location>厦门大学嘉庚学院主楼群5 208多功能厅</location><participantscount>16</participantscount></event>
+	<event><title>Polymer Polytechnic at Xiamen China</title><chapterid>110967416369300099369</chapterid><description>Polymer 是基于 Web Components 的一系列全新强大的 web 平台而建立的。 Web Components 给 web 平台带来了史无前例的可封装性，易共用性，和易应用性，极大的提高了开发者的生产力。 站在一系列新的 Web 标准的顶端，Polymer 使得无论是创建一个普通的按钮，还是一个完善的可跨桌面和移动及更多平台的应用程序变得更加简单快速。
+
+通过本次活动，你将对 Polymer 和 Web Components 有一个基础的了解，并且能够亲自动手，尝试使用 Polymer 来开发一个简单的应用。 Polymer 会让你体验一种全新的 web 开发方式，让我们一起来学习吧。</description><start>2014.12.24 15:00</start><end>17:00</end><location>厦门大学图书馆二楼会议室（图书馆西侧门口出入——靠经济学院一侧 ）</location><participantscount>16</participantscount></event>
+	<event><title>厦门GDG之Git动手实践--git practice</title><chapterid>110967416369300099369</chapterid><description>12月4号下午2:30，由厦门GDG社区举办的git与gitlab的代码管理培训在海韵园科研二608举行，共有接近20人参加了此次活动。活动开始，郑灵翔老师为我们介绍了代码管理的重要性，并且介绍了git与gitlab的使用。然后由吴德文老师结合自身经验，对git以及gitlab的使用做了补充。接着现场参加培训的同学以及其他人士对于两位老师讲授的内容进行了实验，并且与老师们进行了交流、探讨。整个培训在轻松愉悦的气氛中进行，参加培训的老师和同学们都获益匪浅。至此本次活动圆满结束。</description><start>2014.12.04 14:30</start><end>16:30</end><location>厦门大学海韵科研2－608</location><participantscount>17</participantscount></event>
+	<event><title>程序员的开源生活/Programming With OpenSource</title><chapterid>110967416369300099369</chapterid><description>每个程序员都在或多或少的使用着开源的软件，而更优秀的程序员应该主动参与到开源软件的工作中。本次活动将特邀俞莲苏女士分享其参与开源软件的工作的故事；同时为大学生们介绍谷歌2015年暑期实习计划（Google Summer of Code）的具体内容。</description><start>2014.11.22 10:00</start><end>12:00</end><location>厦门大学海韵园实验楼301</location><participantscount>53</participantscount></event>
+	<event><title>2014 厦门 Devfest 开发者大会欢迎您!(2014 DevFest Xiamen)</title><chapterid>110967416369300099369</chapterid><description> 
+大家好！2014 厦门 Devfest 开发者大会已经筹备就绪。
+
+本届 DevFest 除了深入介绍 I/O 大会公布的全新 Android L 和车载系统外，还将重点推介谷歌的新概念：Android Wear。
+Android Wear 是一个开放平台，和 Android 一样，它允许第三方厂商加入进来生产各式各样的 Android Wear 兼容设备——主要就是各种智能手表。它有着强大的魅力——包括安卓生态的「免费开源」、无与伦比的后台支持以及强大的数据发掘分析的能力。
+其已知的用途包括：
+（1）在你需要的时刻提供最完美的信息；
+（2）在提出问题后给予最直接的答案；
+（3）检测生理健康；
+（4）轻松应对「多屏世界」；
+
+在今年的开发者节日上，活动组织者将携带 Google Glass、搭载 Android Wear 的智能手表以及 Cardboard 等新时代产品与大家见面。
+
+今年是厦门谷歌开发者社区第二次举办 DevFest。本次活动我们邀请了各界的大牛嘉宾，除了为每位参会者准备了很丰富的内容之外，还有很多来自厦门谷歌开发者社区的礼物送给大家。
+
+
+活动时间 2014.10.25  10:00-17:00
+活动地点：厦门市新华路70-74号（中山路附近），华侨大厦五楼国际厅
+注：本次会议将为每位参会者提供免费午餐
+
+免费报名地址：https://gdgdocs.org/r/jkSjwW</description><start>2014.10.25 10:00</start><end>17:00</end><location>70-74 Xinhua Road, Siming Xiamen, Fujian, China</location><participantscount>746</participantscount></event>
+	<event><title>面向中学生的App Inventor手机应用开发</title><chapterid>110967416369300099369</chapterid><description>​题目：面向中学生的App Inventor手机应用开发
+地点：厦门大学海韵园教学楼502
+时间：2014年10月4日下午15:00-17:00
+ 
+随着智能手机市场的快速发展，手机进入校园已经是个不争的事实，与其禁用手机，不如引导学生正确使用手机。本次活动将讲授美国知名大学MIT开发的App Inventor图形化Android手机软件开发工具，引导中学生将手机用于学习。同时本活动也适于那些不会编程，也不想去学，但是想自己进行app开发人士。App Inventor提供了一个简单易学的强大工具，可以分分钟让你将脑中的idea转换为现实！</description><start>2014.10.04 15:00</start><end>17:00</end><location>厦门大学海韵园教学楼502</location><participantscount>12</participantscount></event>
+	<event><title>开源与佛法</title><chapterid>110967416369300099369</chapterid><description>开源与佛法
+这是一个公开的讨论会，展开以开源、佛法、以及二者相关性为主体的开放式讨论，让大家了解开源不仅仅是一个独立的技术推广和宣传行为，同时它还拥有伟大的精神信仰在里面，希望大家可以在开源的活动和行为中了解里面的佛性。或许，开源是你自度的一种方式。
+
+时间：2014-09-29 19:00:00-20:00:00
+地点：思明区软件园二期爱特咖啡店</description><start>2014.09.29 19:00</start><end>20:00</end><location>福建省厦门市思明区软件园二期爱特咖啡店</location><participantscount>10</participantscount></event>
+	<event><title>Android系统架构介绍和Android JNI开发</title><chapterid>110967416369300099369</chapterid><description>1、《土豪，从GDG开始》
+简介：
+1) 社区讲师
+2) 移动互联网设计
+3) Android系统级介绍
+4) Android应用级介绍
+ 
+主讲人：郭国勇 （厦门谷歌开发者社区 联合创始人;多年的Android系统开发经验）
+ 
+2、《Android JNI 开发与测试过程》
+简介：通过实例讲解如何采用JNI技术实现Android APP 的 C 和 Java混合编码，同时展示了一种JNI测试方法
+ 
+主讲人：白树伟（厦门谷歌开发者社区 联合创始人；某技术公司联合创始人；主要从事嵌入式Linux相关技术，数据安全(存储和通信)，以及移动互联网等领域的研究和开发工作。担任过多个开源和国际项目的负责人或系统架构师。多次受美国，德国，新加坡等国家的企业或研究机构的邀请，进行Linux嵌入式和数据安全存储等相关技术的培训和指导。）</description><start>2014.07.26 14:30</start><end>17:00</end><location>厦门大学海韵校区实验楼305</location><participantscount>15</participantscount></event>
+	<event><title>Android程序开发与开源硬件Arduino的融合</title><chapterid>110967416369300099369</chapterid><description>1、《Arduino智能小车 -- 开源的真正力量》
+简介：介绍Arduino智能小车的硬件结构和软件的设计，并从开源硬件的角度与大家分享Arduino所带来的创新机会，最后介绍Arduino未来的发展趋势。
+1) Arduino开源硬件简介
+2) Arduino的开发流程和应用前景
+3) 基于Arduino的智能小车 -- 硬件结构
+4) 基于Arduino的智能小车 -- 软件设计
+5) 开源硬件的未来
+主讲人：蔡伟伦 （boxlab公司 驱动软件开发工程师）
+ 
+2、《智能小车的Android App开发》
+简介：智能小车的Android APP控制端主要通过蓝牙与arduino智能小车建立数据通信连接，在数据通信连接成功的情况下，可以分别使用按键、重力感应、语音、滑动、手势这五种方式来控制Arduino智能小车。
+本次讲座将与大家分享智能小车的Android APP控制端的界面设计以及蓝牙通信技术和五种控制方式的实现过程。
+主讲人：林梅珍（boxlab公司 App开发工程师）</description><start>2014.07.25 14:30</start><end>17:00</end><location>厦门大学海韵校区实验楼305</location><participantscount>32</participantscount></event>
+	<event><title>观看GDL录像“ OSCAR, The Hangout Robot”</title><chapterid>110967416369300099369</chapterid><description>题目：观看GDL录像“ OSCAR, The Hangout Robot”
+时间：2014年7月23日下午2:30
+地点：厦门大学海韵园科研2-608
+内容简介：今年Google IO会场展示了Google helpouts robot，它使我们可以在会场通过远程控制该机器人在谷歌办公室漫游，本次活动将首先观看GDL录像关于该机器人的原型OSCAR Robot，接着讨论如何利用开源硬件制作这样一款机器人。</description><start>2014.07.23 14:30</start><end>17:00</end><location>厦门大学海韵园科研2-608</location><participantscount>15</participantscount></event>
+	<event><title>厦门GDG之——从Google IO归来看互联网智能硬件的发展趋势</title><chapterid>110967416369300099369</chapterid><description>活动简介：本次讲座将与大家分享演讲者参加Google IO的新身经历与所见所闻，并从智能硬件的角度与大家分享Google IO所展现出来的创新机会与技术发展。&amp;lt;br&amp;gt;
+
+&amp;lt;br&amp;gt;
+时间：2014.07.14 晚上7:00-9:00&amp;lt;br&amp;gt;
+地点 厦门大学海韵教学楼206&amp;lt;br&amp;gt;
+讲师：郑灵翔&amp;lt;br&amp;gt;
+报名网址：http://goo.gl/x8IkRD&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;
+
+社区简介：&amp;lt;br&amp;gt;
+厦门谷歌开发者社区由来自中国南方美丽的沿海城市厦门的开发者们、大学生们和高校教师们、以及企业经理们构成。 我们是一个开放和自由的社区，任何人都可以来加入。我们的目标是通过举办各种互相帮助和分享的活动，交流开发心得和经验，学习各种谷歌开发技术、开源代码技术、公开网络标准技术等等，来推动互联网应用和移动应用的创新和创业。
+&amp;lt;br&amp;gt;
+如何加入厦门谷歌开发者社区：http://goo.gl/5UB8ym</description><start>2014.07.14 19:00</start><end>21:00</end><location>中国福建省厦门市思明区曾厝垵西路厦门大学海韵园 教学楼206</location><participantscount>30</participantscount></event>
+	<event><title>I/O Extend 2014 - Xiamen</title><chapterid>110967416369300099369</chapterid><description></description><start>2014.06.25 23:00</start><end>2014.06.26 00:00</end><location>中国福建省厦门思明区厦门大学海韵园</location><participantscount>20</participantscount></event>
+	<event><title>I/O Extend 2014 - Xiamen</title><chapterid>110967416369300099369</chapterid><description></description><start>2014.06.25 23:00</start><end>2014.06.26 00:00</end><location>中国福建省漳州龙海市南滨大道厦门大学嘉庚学院</location><participantscount>25</participantscount></event>
+	<event><title>I/O Extend 2014 - Xiamen</title><chapterid>110967416369300099369</chapterid><description></description><start>2014.06.25 23:00</start><end>2014.06.26 00:00</end><location>福建省厦门市集美区后溪镇理工路600号</location><participantscount>23</participantscount></event>
+	<event><title>厦门GDG HTML5入门讲座</title><chapterid>110967416369300099369</chapterid><description>活动简介：
+
+时间：2014年5月24日 19:00-21：00
+
+地点：厦门大学嘉庚学院 主楼群5 208多功能厅
+
+议程：厦门GDG HTML5入门讲座
+
+讲师：郑立
+
+讲师简介：2010级 “计算机科学与技术” 专业 学生
+
+社区简介：
+
+厦门谷歌开发者社区由来自中国南方美丽的沿海城市厦门的开发者们、大
+
+学生们和高校教师们、以及企业经理们构成。 我们是一个开放和自由的社
+
+区，任何人都可以来加入。我们的目标是通过举办各种互相帮助和分享的活
+
+动，交流开发心得和经验，学习各种谷歌开发技术、开源代码技术、公开网
+
+络标准技术等等，来推动互联网应用和移动应用的创新和创业。
+
+如何加入厦门谷歌开发者社区：http://goo.gl/5UB8ym</description><start>2014.05.24 19:00</start><end>21:00</end><location>厦门大学嘉庚学院 主楼群5 208多功能厅</location><participantscount>55</participantscount></event>
+	<event><title>厦门GDG​周年庆系列之四：社区组织者面对面</title><chapterid>110967416369300099369</chapterid><description>活动简介：想知道厦门GDG的活动是如何组织的吗，想认识社区的组织者和热情的志愿者们吗，希望与我们交流分享社区组织的经验吗？来和我们一起喝杯下午茶吧，我们将与你分享厦门GDG组织的点点滴滴，也希望热爱社区活动，愿意分享的你加入我们，成为社区志愿者或者社区讲师，若你是技术小白，但想升自己的技能，也欢迎加入我们，社区将为你提供技术发展的学习平台，使你成为能为他人分享技术的牛人。
+时间：2014年05月11日 14:30-17:00
+地点：​厦门大学校内王亚南经济学院1楼咖啡厅
+注意事项：
+1、所有报名参会人员都已通知确认，请直接前往活动地点。
+2、若找不到活动地点的，可当天下午2:00在厦门大学南校门厦门GDG旗帜处集合</description><start>2014.05.11 14:30</start><end>17:30</end><location>厦门大学校内王亚南经济学院1楼咖啡厅</location><participantscount>40</participantscount></event>
+	<event><title>厦门GDG周年庆系列之三：Android开发单元测试</title><chapterid>110967416369300099369</chapterid><description>厦门GDG周年庆系列之三：Android开发单元测试
+活动简介：随着敏捷的普及，以及开发人员对测试重要性的认识逐步加深，单元测试已经成了越来越多软件项目开发中不可缺少的一部分。无论项目是不是采用测试驱动开发（TDD)的形式来进行开发，单元测试都能够为项目的修改和重构提供一定的保障。Android作为主要的移动平台之一，吸引了无数的开发人员。但面对Android平台和环境的种种限制，很多开发人员往往有心无力，很难为其项目添加全面有效的单元测试。本次讲座将由厦门敏捷社区的傅雪锋带你一览Android单元测试的奥秘。
+时间：2014年4月26日下午14:30-17:00
+地点：厦门软件园二期爱特咖啡
+讲师：傅雪锋
+讲师简介：厦门英睿信息科技有限公司联合创始人，现任技术总监一职，Scrum认证开发者（CSD,  Certified Scrum Developer），专注于移动开发及Scrum开发。曾任厦门三五互联股份有限公司软件开发部经理，新宇软件（苏州工业园区）有限公司技术经理等职位。
+报名网址：http://goo.gl/MHF4W7</description><start>2014.04.26 14:30</start><end>17:00</end><location>厦门软件园二期爱特咖啡</location><participantscount>22</participantscount></event>
+	<event><title>厦门GDG周年庆系列之二：如何保护你的成果--Android应用安全分析</title><chapterid>110967416369300099369</chapterid><description>厦门GDG周年庆系列之二：如何保护你的成果--Android应用安全分析
+活动简介：Android应用安全一直是困扰中小开发者的一个难题，应用经常被人反编译，破解等等，本活动将由Derek带领大家从自身产品的运作情况来跟大家做分享探讨，从而构造一个适合中小开发者的反破解综合方法。
+时间：2014年4月19日下午13:30-3:00
+地点：厦门软件园二期39号楼528
+讲师：郭国勇（Derek）
+讲师简介：郭国勇（Derek）,谷歌厦门GDG Manager,谷歌厦大培训讲师，国内某移动互联网创业公司技术总监，从事嵌入式Linux系统、实时系统、移动互联网领域研究。目前热衷于Android系统源码、Linux系统、大数据等的开发研究工作，对Android系统架构设计和实现原理有深刻的认识和理解，开发经验丰富。
+报名网址：http://goo.gl/Isi2Cg</description><start>2014.04.19 13:30</start><end>15:00</end><location>厦门软件园二期39号楼528</location><participantscount>25</participantscount></event>
+	<event><title>厦门GDG周年庆系列之一：如何设计优秀的 Android 应用</title><chapterid>110967416369300099369</chapterid><description>厦门GDG周年庆系列之一：如何设计优秀的 Android 应用
+活动简介：Android Design是谷歌Android开发团队提出的一些指导性原则，遵守这些原则将有助于设计出优秀的 Android 应用。本次讲座由徐梓桁给大家分享Android Design，结合优秀Android应用的实例介绍如何提升Android应用的设计水平。
+时间：2014年4月19日上午10:30-1:00(含工作餐)
+地点：厦门软件园二期爱特咖啡
+讲师：徐梓桁
+讲师简介：徐梓桁, 也就是 NovaDNG,极客公园产品观察家、锋客网主笔。他是Google产品的用户, 国内最早接触并了解 Android Design 的一批人，致力于推广Android Design，和国外的开发者/设计师例如Matias Duarte、Roman Nurik和Taylor Ling等有较多交流。
+报名网址：http://goo.gl/OypgLV</description><start>2014.04.19 10:30</start><end>13:00</end><location>厦门软件园二期爱特咖啡</location><participantscount>53</participantscount></event>
+	<event><title>嵌入式Linux驱动程序开发技术【厦门GDG】</title><chapterid>110967416369300099369</chapterid><description>厦门GDG谷歌开发者社区将于2014年3月30日举办 “嵌入式Linux驱动程序开发技术”讲座。欢迎厦门社区所有人员参加。讲座具体安排如下：
+活动时间：
+2014年3月30日 19：00 — 21:00
+活动地点：
+厦门大学嘉庚学院 主楼群5 # 208多功能厅
+活动流程：
+18:30 – 19:00 入场签到。
+19:00 – 19:05 介绍讲座老师
+19:05 – 19:30 外设接口的基础知识与开发环境的搭建
+19:30 – 19:50 仿真设备的原理与使用说明
+19:50 – 20:20 硬件接口技术开发流程实例
+20:20 – 20:40 介绍硬件接口技术的开发流程
+20:40 – 20:50 会议总结
+</description><start>2014.03.30 19:00</start><end>21:00</end><location>厦门大学嘉庚学院 主楼群5 # 208多功能厅</location><participantscount>35</participantscount></event>
+	<event><title>厦门GDG之安卓生财之道</title><chapterid>110967416369300099369</chapterid><description>2014年3月30日，第一个由厦门GDG社区帮助下开发应用赚钱的学生吴纵横，为大家带来自己在Android开发中的经验和体会，并且指导大家通过开发Android应用来赚钱。
+活动时间：
+2014-03-30 14：00-17：00
+活动地址：
+厦大海韵行政楼C-505
+活动流程：
+14:00-14:30    签到
+14:30-15:30    如何利用Android挣钱以及AdMob介绍
+15:30-15:50    茶歇
+15:50-16:50    Android学习经验分享
+16:50-17:10    结束，嘉宾观众合影
+
+报名网址：
+http://goo.gl/F67hae</description><start>2014.03.30 14:00</start><end>17:00</end><location>厦门大学海韵园教学楼408</location><participantscount>35</participantscount></event>
+	<event><title>Women Techmakers:Xiamen</title><chapterid>110967416369300099369</chapterid><description>宣传词
+想知道技术媛们的成长历程吗？
+想了解她们如何看待自己的技术生涯吗？
+想一睹技术媛们区别于男技术同胞们的风采吗？
+3月8日，厦门谷歌GDG社区将举办一场以全球的谷歌女性开发者节（Women Techmakers）为主题的活动，该活动包含女性开发者的技术分享，女性创业者和女性领袖话题访谈，互动式的游戏环节等，还有各种意外惊喜等着您！
+无论您是男同胞，还是女同志，我们都十分欢迎您参与到这次活动中，让我们一起了解女IT们在拼搏的道路上撒下的汗与泪，也让我们一起见证她们寒蝉破茧之后的美丽~~
+活动环节：
+14:30-14:40   主持人开场白
+14:40-15:10   女性开发者技术讲座  
+15:10-15:25    游戏环节
+15:25-15:40    茶歇及交流时间
+15:40-16:20   教学折绢玫瑰
+       16:20-17:00   女性故事分享
+       17:00-17:20   游戏及抽奖环节
+       17:20-17:30   结束，嘉宾观众合影
+时间：2014/03/08    14:30-17:30
+地点：软件园二期望海路67号一楼
+报名表单网址：http://goo.gl/5DjAlB
+
+ </description><start>2014.03.08 14:30</start><end>17:30</end><location>中国福建省厦门思明区望海路67号</location><participantscount>53</participantscount></event>
+	<event><title>Dart Flight School at Xiamen</title><chapterid>110967416369300099369</chapterid><description>Dart Flight School全球活动厦门站
+中国站8个城市：http://flydart.dart-cn.org/
+全球站100+个城市：https://www.dartlang.org/events/2014/flight-school/
+活动报名表：http://goo.gl/2tPO4r
+活动时间：2014年2月23日（星期日） 13:30 - 17:00
+活动地点：
+厦门市百翔酒店谷歌厅
+理工学院实验楼1号楼303会议室（分会场）
+活动内容： 
+13:30 - 14:00 开场介绍，Dart Flight School欢迎视频 
+14:00 - 15:00 韩国恺，Dart语言入门（HoA） 
+15:00 - 16:00 AngularJS简介 
+16:00 - 17:00 搭建Dart开发环境、动手练习及本地讨论Dart相关话题
+ 背景： Dart 是一个简单的面向对象的动态语言，既可以用于 Web 前端开发也可以用于服务器端的开发。最初 Dart 是由负责实现 Chrome JavaScript V8 引擎的团队提出的一门新语言。它借鉴了 SmallTalk、C#、Erlang、JavaScript 等已有编程语言，并且结合作者20余年的编程语言实现经验而设计的。 2011年10月，Google 公开了 Dart 语言。在此之后，经历了2年多的开发完善和社区反馈，Dart 于去年11月发布了 1.0 版。这标志着 Dart 语言和核心库已经稳定，可以正式将 Dart 投入到实际的生产开发中了。
+ Dart语言介绍(中文字幕)
+Youtube：http://www.youtube.com/watch?v=Kj9QM84AEKg 
+优酷：http://v.youku.com/v_show/id_XNTIzNTcwNTAw.html 
+讲师： 韩国恺 中国首位GDE( Google Developers Expert）第一本 Dart 语言书籍《Dart语言程序设计》译者，GDG Weekly主编。北京 GDG 组织者。 https://www.google.com/+GuokaiHan</description><start>2014.02.23 13:30</start><end>17:30</end><location>Xiamen, Fujian, China</location><participantscount>70</participantscount></event>
+	<event><title>厦门谷歌开发者社区厦门理工俱乐部成立大会</title><chapterid>110967416369300099369</chapterid><description>厦门谷歌开发者社区厦门理工学院俱乐部是厦门谷歌开发者社区在厦门理工学院的俱乐部成员为方便社区活动的组织，设立的分支机构，其目的是方便厦门理工学院的俱乐部成员组织活动，提升厦门谷歌开发者社区的影响力。
+此次成立大会作为厦门谷歌开发者社区厦门理工俱乐部的首次活动，于11月27日举行，届时有关于Android手机设计开发、开源技术的介绍以及创业项目展示等丰富内容，期间还有抽奖和游戏互动环节，为此次活动增添了更多意料之外的惊喜！</description><start>2013.12.15 14:30</start><end>16:30</end><location>厦门理工学院信息中心报告厅</location><participantscount>130</participantscount></event>
+	<event><title>利用谷歌技术和开源技术项目创业研讨会 沙龙系列之一</title><chapterid>110967416369300099369</chapterid><description>有兴趣展示自己创业项目（基于谷歌技术、开放型技术），愿意分享创业经验和教训的以及愿意介绍创业相关知识的（工商注册，税务，法律&amp;gt;，风险，融资，投资等），请把介绍信息PPT发送到 13403...@qq.com。我们将长期举办创业项目系列研讨会。
+创业者的激情，创业者创业经验和教训分享，利用谷歌技术、开放型技术所创业项目的展示，美味的咖啡和点心；等待着您的参加！</description><start>2013.12.07 14:00</start><end>17:00</end><location>厦门市软件园二期望海路10号之四栋1楼 爱特咖啡沙龙区</location><participantscount>41</participantscount></event>
+	<event><title>智能手表开发分享及基于蓝牙４.0低功耗协议的开源硬件与Android应用开发视频分享</title><chapterid>110967416369300099369</chapterid><description>1. ez430智能手表开发套件使用及演示（大约5０分钟左右）
+    演讲人：蔡燕福
+以下内容为北京GDG视频分享
+2.  全球首款继承蓝牙4.0的Arduino主控板应用（大约３０分钟左右）
+    演讲人：程晨
+    个人简介: dfrobot的合伙人
+3.  蓝牙协议及软件开发部分（剩下时间，包括动手实验环节）
+　　演讲内容: 蓝牙4.0低功耗协议介绍，SensorTag端软件开发流程，Android上的蓝牙4.0应用分享
+　　主讲人：王玉成
+    个人简介：王玉成，男，北京GDG活动负责人之一，专注于无线传感网领域及其相关软硬件技术，多年研发经历。
+
+其中大部分时间将会用来介绍蓝牙４。０相关协议及如何使用SensorTag进行android开发。</description><start>2013.12.07 13:30</start><end>17:30</end><location>厦门大学海韵园科研二 #608</location><participantscount>22</participantscount></event>
+	<event><title>厦门GDG嘉庚俱乐部 Android手机开发及应用研发讲座</title><chapterid>110967416369300099369</chapterid><description>此次讲座是厦门GDG_嘉庚俱乐部的第二次活动，于11月27日举行，讲座有关于Android系统的集成应用及Android应用拓展的的介绍等丰富内容，主要包含Android系统介绍，Android系统概述，Android 应用开发与优化，Android App开发培训预报名等。</description><start>2013.11.27 16:30</start><end>18:00</end><location>厦门大学嘉庚学院 公共教学楼402</location><participantscount>70</participantscount></event>
+	<event><title>厦门谷歌开发者社区Android开源项目启动及技术研讨会</title><chapterid>110967416369300099369</chapterid><description>厦门谷歌开发者社区Android开源项目启动及技术研讨会
+（一）  研讨会内容
+14：30-15：00 开源项目介绍及项目开发核心小组成员介绍
+15：00-15：30 Android驱动开发技术介绍
+15：30-16：00 Android App开发技术介绍
+16：00-16：20 茶歇
+16: 20-16: 50 硬件设计流程介绍
+16：50-17：00 开源项目参与人员报名
+（二）研讨会时间： 2013年11月23日 14：30 — 17:00 
+（三）活动地点：厦门市思明区软件园二期佰翔酒店谷歌厅
+
+-----厦门谷歌开发者社区支持的开源项目之一
+厦门谷歌开发者社区发起开源项目目的：
+为了使谷歌社区的会员（主要针对学生会员以及谷歌技术初学者），更好的学习和利用谷歌相应的技术，厦门谷歌开发者社区和一些单位合作，发起开源开发项目，让社区会员构成一个虚拟项目组来开发和设计实际的产品或商品，通过实际项目的开发和设计，更好的掌握设计的理念、提高开发经验和技能以及培养团队合作精神。通过对开源项目的支持，厦门谷歌开发者社区希望能推动开源技术在厦门地区的发展，提升社区成员的技术能力。
+一、项目联合发起人：厦门谷歌开发者社区、厦门铂士莱信息科技有限公司、厦门大学海西通信工程技术中心
+二、项目名称：嵌入式物联网学习平台开源项目
+三、开发产品名称：嵌入式物联网学习平台
+四、针对参与会员的益处：1、学习和掌握嵌入式软件（Android、linux）的开发。2、学习和掌握嵌入式产品的硬件开发过程。3、学习和掌握整个产品的需求定义、产品定义等。4、团队成员间的配合和合作。
+五、开发产品内容介绍：
+1、嵌入式系统的应用
+嵌入式系统已普遍应用于国防电子、数字家庭、工业自动化、汽车电子、医疗器械、消费电子、无线通讯、电力系统等国民经济的主要行业。随着嵌入式技术的发展，嵌入式系统将更广泛地应用于人类生活的方方面面。
+2、物联网系统的应用
+随着物联网、云计算等现代计算机革命的最新成果的推进，嵌入式系统正面临着向物联网系统的华丽转身。配合丰富的网络节点，以及多种应用接入设备，教学实验平台特别适合开展与物联网应用相关的实验课程。</description><start>2013.11.23 14:30</start><end>17:00</end><location>厦门市思明区软件园二期佰翔酒店谷歌厅</location><participantscount>50</participantscount></event>
+	<event><title>环聊直播（HOA）技术交流分享会</title><chapterid>110967416369300099369</chapterid><description>内容简介：环聊直播将成为GDG活动中必备的一个环节。如何高效的创建一个环聊直播，以及如何在直播过程中熟练的切换视频源，对于活动的组织者（志愿者）而言都是很重要的技能。为确保各俱乐部的志愿者都能熟练使用这个工具开展活动，特安排一场技术交流会。</description><start>2013.11.22 19:00</start><end>21:00</end><location>厦大海韵C505/厦门理工大学教学楼2-204/厦门大学嘉庚学院公共教学楼207</location><participantscount>31</participantscount></event>
+	<event><title>使用开放技术进行科研创新 ----厦门谷歌开发者社区系列讲座</title><chapterid>110967416369300099369</chapterid><description>谷歌开发者社区（Google Developer Groups）是由谷歌公司支持并赞助的全球性项目，目的是通过开发者自发组成的社区，进行技术的分享交流，推动开放型互联网技术和移动技术在业界内的使用。此次讲座是谷歌开发者社区针对开始从事科研开发的各位同学的一点入门指导，内容涉及从编程工具到源代码管理等开发工具的介绍，让同学们更好地立足于一个新的视角去思考，获得科研的方法，从而对自己的专业领域有更深入的理解。
+ 
+讲师介绍：
+吴德文：厦门谷歌开发者社区厦大社区负责人，厦门大学信息学院工程师，专注于Web信息系统与移动新技术的开发与教学。
+ 
+时间：2013年10月24日(星期四)晚上19点
+地点：海韵校区行政楼C505会议室
+报名网址：http://www.nelab.org/NBFormWeb/Default.aspx?form=Rjk3NV8yMTY5
+期待你的参与！参与讲座现场有精美礼品相送噢！
+更多精彩请关注
+Xiamen GDG G+页面：http://goo.gl/Gsyn8
+中国GDG论坛厦门分版：http://www.chinagdg.com/forum-95-1.html
+厦门谷歌开发者社区QQ群：274434124
+</description><start>2013.10.24 19:00</start><end>21:00</end><location>厦门大学海韵校区行政楼C505会议室</location><participantscount>54</participantscount></event>
+	<event><title>厦门谷歌开发者社区嘉庚俱乐部成立大会</title><chapterid>110967416369300099369</chapterid><description>一、活动简介：
+（一）活动目的：
+谷歌开发者社区（Google Developer Groups, 简称 GDG）是由谷歌公司支持并赞助的全球性项目，目的是通过开发者们自发组成的社区，进行技术分享交流，推动开放型互联网技术和移动技术在业界的使用。
+厦门谷歌开发者社区成立于2013年4月13日，该社区成员有来自于沿海城市厦门的开发者、大学生和高校教师以及企业经理，这是一个开放和自由的社区，任何人都可以来加入。我们的目标是通过举办各种互相帮助和分享的活动，交流开发心得和经验，学习各种谷歌开发技术、开源代码技术、公开网络标准技术等等，来推动互联网应用和移动应用的创新和创业。 为厦门地区的开发者们提供相互交流和分享的平台。目前社区成员超过300人。
+厦门谷歌开发者社区嘉庚学院分社区是厦门谷歌开发者社区在嘉庚学院的社区成员为方便社区活动的组织，设立的分支机构，其目的是方便嘉庚学院的社区成员组织活动，提升厦门谷歌开发者社区的影响力。
+此次成立大会作为厦门谷歌开发者社区嘉庚分社区的首次活动，于10月23日举行，届时有关于Android手机设计开发、开源技术的介绍以及创业项目展示等丰富内容，期间还有抽奖和游戏互动环节，为此次活动增添了更多意料之外的惊喜！
+（二）活动主题：
+厦门谷歌开发者社区嘉庚分社区成立大会
+  （三）活动对象：
+      厦门谷歌开发者社区成员及其他兴趣爱好者
+（四）活动时间：
+ 2013年10月23日 14：30 — 16:30
+（五）活动地点：
+       厦门大学嘉庚学院 人文B号楼 301多功能会议室
+
+
+
+（六）活动流程：
+
+14:10 – 14:30  入场签到。
+
+14:30 – 14:35  主持人致开幕词，介绍嘉宾。
+
+14:35 – 14:45  嘉庚学院领导讲话。
+
+14:45 – 14:55  厦门谷歌开发者社区负责人发表讲话。
+
+14:55 – 15:05  厦门谷歌开发者社区嘉庚分社区负责人发表讲话。
+
+15:05 – 15:10  志愿者代表发言，介绍社区情况。 
+
+15:10 – 16:00  移动设备开发技术演讲，期间有有奖问答环节。
+
+16:00 – 16:10  抽奖环节。
+
+16:10 – 16:15  大会总结
+
+16:15 – 16:20  拍照纪念
+</description><start>2013.10.23 14:00</start><end>16:30</end><location>厦门大学嘉庚学院 人文B号楼 301多功能会议室</location><participantscount>170</participantscount></event>
+	<event><title>GDG Xiamen DevFest </title><chapterid>110967416369300099369</chapterid><description></description><start>2013.09.21 09:00</start><end>18:00</end><location>中国福建厦门湖里区观日路佰翔酒店</location><participantscount>510</participantscount></event>
+	<event><title>Andoid手机开发设计与嵌入式开发入门</title><chapterid>110967416369300099369</chapterid><description>一、《Andoid手机开发设计 -- 开源的真正力量》
+介绍Android手机开发设计的基本流程以及发展前景
+1) 流行智能手机系统的现状及对比
+2) linux和android的关系
+3) 手机设计的基本设计流程
+4) 目前国内常规的几种手机设计模式
+5) 手机设计公司现状 -- 世界、中国、厦门
+二、《深入嵌入式开发第一步：了解Ti3730开发板和搭建开发环境》
+1）Ti3730简介
+2）开发板和开发SDK
+3）host和target
+4）串口连接和调试
+5）Hello google!程序编写，编译，运行。
+6）Q &amp;amp; A
+</description><start>2013.08.24 14:00</start><end>17:00</end><location>厦门软件园二期佰翔酒店谷歌厅</location><participantscount>56</participantscount></event>
+	<event><title>从美国“棱镜门”事件看个人信息安全</title><chapterid>110967416369300099369</chapterid><description>时间：2013年7月20号   下午2点半&amp;lt;p&amp;gt;
+地点：厦门大学海韵校区C++ 咖啡厅&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+主讲人：白树伟--厦门谷歌社区核心负责人之一&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+内容简介：从本地存储，网络传输，网络存储三个方面介绍个人信息存在的安全隐患以及可以采用的信息保护措施和技术手段。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+讲座当天获取礼品的方法:&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+1、按以下（加入社区的方法）成为GDG厦门社区的一员&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+2、关注Google+ GDG Xiamen的信息主页并在相应的活动事件，点击确定参加。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+3、座谈会当天前30个到场的，已经加入GDG厦门社区的人将获得GDG厦门社区送出的精美礼品一份。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+加入社区的方法：&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+注册GDG Xiamen 的邮件讨论组（http://goo.gl/nVhec）后即成为社区正式成员。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+您可以通过如下途径注册：&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+- Gmail 用户请发送空白邮件到gdg-xiamen+subscribe@googlegroups.com 即可完成注册过程。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+-厦门GDG devsite网址：http://goo.gl/qLYM0，请点击右下方“I&apos;m a member”按键&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+友情提示，完成这两个步骤即可，可能需要翻墙。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+访问和参与社区讨论的方式：&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
++ Xiamen GDG邮件讨论组：[size=1em]gdg-xiamen@googlegroups.com&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+- Gmail用户可通过[size=1em]http://goo.gl/nVhec访问社区论坛，并自行修改配置&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+- 使用其他邮箱的社区成员，不能直接登录Xiamen GDG 的邮件讨论组，但可通过发email 到gdg-xiamen@googlegroups.com 参与社区讨论。&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+- 注意: 请将此邮件地址加入白名单，请勿将其放到垃圾邮件中，否则你将错过社区的活动通知.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
++ Xiamen GDG G+ 页面：http://goo.gl/Gsyn8&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
++ 中国GDG论坛厦门分版：http://www.chinagdg.com/forum-95-1.html&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+现场送精美礼物，并免费提供茶饮。（获得礼品需加入GDG厦门社区）&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;
+活动详情见微博：GDG厦门社区&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;</description><start>2013.07.20 14:30</start><end>16:30</end><location>中国福建省厦门思明区厦门大学海韵园信息科学与技术学院 C++ 咖啡厅</location><participantscount>34</participantscount></event>
+	<event><title>Google IO及Android开发入门</title><chapterid>110967416369300099369</chapterid><description>1. Google I/O 见闻&amp;lt;br&amp;gt;                            
+2. android 应用开发入门之旅&amp;lt;br&amp;gt;               
+3. Android RIL开发&amp;lt;br&amp;gt;
+&amp;lt;blockquote&amp;gt;1) 关于RIL&amp;lt;/blockquote&amp;gt;
+&amp;lt;blockquote&amp;gt;2) RIL初始化&amp;lt;/blockquote&amp;gt;
+&amp;lt;blockquote&amp;gt;3) RIL框架&amp;lt;/blockquote&amp;gt;
+&amp;lt;blockquote&amp;gt;4) 呼叫处理过程&amp;lt;/blockquote&amp;gt;
+&amp;lt;blockquote&amp;gt;5) 短信处理过程&amp;lt;/blockquote&amp;gt;
+4. 嵌入式Linux开发入门&amp;lt;br&amp;gt;                      
+&amp;lt;blockquote&amp;gt;1) 基本概念&amp;lt;/blockquote&amp;gt;
+&amp;lt;blockquote&amp;gt;2) 交叉编译开发环境&amp;lt;/blockquote&amp;gt;
+&amp;lt;blockquote&amp;gt;3) Bootloader和文件系统&amp;lt;/blockquote&amp;gt;
+&amp;lt;blockquote&amp;gt;4) 固件烧写&amp;lt;/blockquote&amp;gt;
+&amp;lt;blockquote&amp;gt;5) 简单程序&amp;lt;/blockquote&amp;gt;</description><start>2013.06.02 14:00</start><end>18:00</end><location>中国福建省厦门思明区海韵</location><participantscount>65</participantscount></event>
+	<event><title>Google IO Extended on GDG Xiamen</title><chapterid>110967416369300099369</chapterid><description>Google I/O kickoff&amp;lt;br&amp;gt;
+Your attendance at Google I/O&apos;s much-anticipated kickoff event will give you a first glimpse at the latest product and platform innovations at Google. </description><start>2013.05.15 23:00</start><end>2013.05.16 02:30</end><location>中国福建省厦门思明区厦门大学海韵园 信息科学与技术学院  行政楼 咖啡厅</location><participantscount>20</participantscount></event>
+	<event><title>技术与市场的碰撞--谷歌开发者社区走进厦门大学创业班实践先锋班</title><chapterid>110967416369300099369</chapterid><description>内容：&amp;lt;br&amp;gt;
+1、谷歌开发者社区简介&amp;lt;br&amp;gt;
+2、谷歌开发技术及应用案例分享&amp;lt;br&amp;gt;
+3、互动与问答，社区成员与创业班同学互动&amp;lt;br&amp;gt;</description><start>2013.04.25 19:00</start><end>21:30</end><location>厦门大学 嘉庚2号楼-101教室</location><participantscount>35</participantscount></event>
+	<event><title>GDG Xiamen Setup 厦门谷歌开发者社区成立大会</title><chapterid>110967416369300099369</chapterid><description>- 12:30-1:00 入场注册&amp;lt;br&amp;gt;
+- 1:00 - 2:00 谷歌开发者技术资源和全球社区介绍、厦门谷歌开发者社区介绍以及负责任团队介绍；&amp;lt;br&amp;gt;
+- 2:00 - 3:00 谷歌地图开发技术及全球创新案例介绍&amp;lt;br&amp;gt;
+- 3:00 - 3:15 茶歇&amp;lt;br&amp;gt;
+- 3:15 - 4:15 Android开发介绍；&amp;lt;br&amp;gt;
+- 4:15 - 5:15 HTML5, WebGL, Native Client 开发技术及全球创新案例介绍；&amp;lt;br&amp;gt;
+- 5:15 - 5:30 问答&amp;lt;br&amp;gt;
+&amp;lt;br&amp;gt;
+&amp;lt;b&amp;gt;地点：&amp;lt;/b&amp;gt;中国福建省厦门思明区环岛南路亚洲海湾大酒店&amp;lt;br&amp;gt;
+&amp;lt;b&amp;gt;交通：&amp;lt;/b&amp;gt;29、47、112、115、316、751路公交到塔头站&amp;lt;br&amp;gt;</description><start>2013.04.13 13:00</start><end>18:00</end><location>中国福建省厦门思明区环岛南路亚洲海湾大酒店</location><participantscount>210</participantscount></event>
+</events>
+</data>
