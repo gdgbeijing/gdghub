@@ -6,6 +6,18 @@
 
 如果这里的记录有缺失，您可以通过提交 pull request 或 issue 的方式帮我们把缺失信息补上，谢谢！
 
+## TensorFlow Summit 2018 Beijing Recap - 2018-04-02
+- https://www.meetup.com/GDG-Beijing/events/249264299/
+- 50人
+
+## 灯塔 IO 线下沙龙 - 2018-03-24
+- https://www.meetup.com/GDG-Beijing/events/248914278/
+- 100人
+
+## Android Things 晚间分享会！ - 2018-03-19
+- https://www.meetup.com/GDG-Beijing/events/248494008/
+- 60人
+
 ## DevFest Beijing 2017 - 2017-11-19
 - https://www.meetup.com/GDG-Beijing/events/244913697/
 
