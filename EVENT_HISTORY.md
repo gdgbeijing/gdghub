@@ -6,6 +6,17 @@
 
 如果这里的记录有缺失，您可以通过提交 pull request 或 issue 的方式帮我们把缺失信息补上，谢谢！
 
+## Google I/O Extended 2018 Beijing - 2018-05-08
+- https://www.meetup.com/GDG-Beijing/events/249348224/
+- 86人
+
+## Google 工程师谈 Istio 与 Service Mesh - 2018-04-24
+- https://www.meetup.com/GDG-Beijing/events/249860048/
+- 60人
+
+## 2018 Women Techmakers 谷歌女性开发者节 北京站 - 2018-04-22
+- https://www.meetup.com/GDG-Beijing/events/249931353/
+
 ## TensorFlow Summit 2018 Beijing Recap - 2018-04-02
 - https://www.meetup.com/GDG-Beijing/events/249264299/
 - 50人
