@@ -6,6 +6,26 @@
 
 如果这里的记录有缺失，您可以通过提交 pull request 或 issue 的方式帮我们把缺失信息补上，谢谢！
 
+## Android 技术沙龙：与 Android 团队面对面 - 2018-09-23
+- https://www.meetup.com/GDG-Beijing/events/254471618/
+- 220人
+
+## TensorFlow Day Beijing CodeLab 简单粗暴 TF 从 0 到 1 - 2018-09-15
+- https://www.meetup.com/GDG-Beijing/events/254470266/
+- 51人
+
+## 设计沙龙 | 让我们一起与 Material Design 对话 - 2018-08-18
+- https://www.meetup.com/GDG-Beijing/events/253582603/
+- 49人
+
+## 北京GDG Flutter Meetup - 2018-08-12
+- https://www.meetup.com/GDG-Beijing/events/253448701/
+- 118人
+
+## 北京GDG Google I/O Redux - 2018-06-30
+- https://www.meetup.com/GDG-Beijing/events/252183829/
+- 100人
+
 ## Google I/O Extended 2018 Beijing - 2018-05-08
 - https://www.meetup.com/GDG-Beijing/events/249348224/
 - 86人
@@ -16,6 +36,7 @@
 
 ## 2018 Women Techmakers 谷歌女性开发者节 北京站 - 2018-04-22
 - https://www.meetup.com/GDG-Beijing/events/249931353/
+- 279人
 
 ## TensorFlow Summit 2018 Beijing Recap - 2018-04-02
 - https://www.meetup.com/GDG-Beijing/events/249264299/
@@ -31,6 +52,7 @@
 
 ## DevFest Beijing 2017 - 2017-11-19
 - https://www.meetup.com/GDG-Beijing/events/244913697/
+- 1010人
 
 ## 「Let's Meetup」GDD EU Recap & Android Things 把玩！ - 2017-09-22
 - https://www.meetup.com/GDG-Beijing/events/243457162/
