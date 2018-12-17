@@ -6,6 +6,18 @@
 
 如果这里的记录有缺失，您可以通过提交 pull request 或 issue 的方式帮我们把缺失信息补上，谢谢！
 
+## Flutter Live Viewing Party - 2018-12-15
+- https://www.meetup.com/GDG-Beijing/events/257213611/
+- 48人
+
+## DeveFest 2018 北京站 - 2018-11-24
+- https://www.meetup.com/GDG-Beijing/events/255771203/
+- 733人
+
+## Google Cloud Meetup - 2018-11-19
+- https://www.meetup.com/GDG-Beijing/events/256464182/
+- 35人
+
 ## Android 技术沙龙：与 Android 团队面对面 - 2018-09-23
 - https://www.meetup.com/GDG-Beijing/events/254471618/
 - 220人
