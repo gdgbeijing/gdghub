@@ -5,3 +5,5 @@
 - gdg-global-logos: 全球 GDG Logo，设计使用要求和素材来源见[这里](https://developers.google.com/groups/logo/)。
 - google-developers-logos: Google Developers Logo，Logo 归 Google 公司所有。
 - google-product-logos: 一些常见 Google 产品 Logo，Logo 归 Google 公司所有。
+
+GDG Logo 使用规范见：https://developers.google.com/programs/community/gdg/resources/
