@@ -7,3 +7,5 @@
 - google-product-logos: 一些常见 Google 产品 Logo，Logo 归 Google 公司所有。
 
 GDG Logo 使用规范见：https://developers.google.com/programs/community/gdg/resources/
+
+GDG + City Logo 生成器：https://gdg-chapter-lockup-generator.appspot.com/
