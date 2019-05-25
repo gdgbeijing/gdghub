@@ -6,6 +6,25 @@
 
 如果这里的记录有缺失，您可以通过提交 pull request 或 issue 的方式帮我们把缺失信息补上，谢谢！
 
+
+## 2019 I/O Extended Beijing - 2019-5-18
+- https://www.meetup.com/GDG-Beijing/events/260724036/
+- 160人
+
+## WTM 女性开发者节 2019 北京站 - 2019-4-20
+- https://www.meetup.com/GDG-Beijing/events/259951346/
+- [Sprint Design 产品设计工作坊](https://www.meetup.com/GDG-Beijing/events/260634805/)
+- [TensorFlow Codelab代码实验室](https://www.meetup.com/GDG-Beijing/events/260634917/)
+- [Python 从0到1 代码实验室](https://www.meetup.com/GDG-Beijing/events/260634959/)
+
+## Kubernetes 在谷歌云的最佳实践 - 2019-2-28
+- https://www.meetup.com/GDG-Beijing/events/259088771/
+- 65人
+
+## 《简单粗暴入门 TensorFlow 》 CodeLab - 2019-1-26
+- https://www.meetup.com/GDG-Beijing/events/258410420/
+- 44人
+
 ## Flutter Live Viewing Party - 2018-12-15
 - https://www.meetup.com/GDG-Beijing/events/257213611/
 - 48人
