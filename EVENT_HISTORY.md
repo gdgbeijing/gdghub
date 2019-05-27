@@ -29,7 +29,7 @@
 - https://www.meetup.com/GDG-Beijing/events/257213611/
 - 48人
 
-## DeveFest 2018 北京站 - 2018-11-24
+## DevFest 2018 北京站 - 2018-11-24
 - https://www.meetup.com/GDG-Beijing/events/255771203/
 - 733人
 
