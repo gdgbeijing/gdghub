@@ -534,10 +534,13 @@
 
 ## Android system and the underlying development of technical seminars - 2011-12-10
 - https://developers.google.com/events/8536012/
+- https://groups.google.com/d/msg/beijing-gtug/REIn2AB0tEk/vy3hDT6uS9YJ
+- https://groups.google.com/d/msg/beijing-gtug/fTKfwgfiR2c/Gn2Qfy6XTJUJ
 
 
 ## technical seminar about HTML5 - 2011-11-12
 - https://developers.google.com/events/8545018/
+- https://groups.google.com/d/msg/beijing-gtug/4-nms0v0Q-Q/9OXyjJpZOtkJ
 
 
 ## Beijing GTUG Sept. 2011 learning event - Mobile ads development - 2011-09-21
@@ -546,6 +549,11 @@
 
 ## Linux and embedded development technology seminars - 2011-06-25
 - https://developers.google.com/events/8547011/
+- https://groups.google.com/d/msg/beijing-gtug/3aF0XvLbvbg/UQD3QIoLCEcJ
+- https://groups.google.com/d/msg/beijing-gtug/nGoaekKU19w/QipjrXEmpB8J
+
+## Android开发与创业研讨 - 2011-05-14
+- https://groups.google.com/d/msg/beijing-gtug/brarMy2jzQo/B5PVqwlVbesJ
 
 ## Android Development Technology Seminar - 2010-12-11
 - https://developers.google.com/events/8553009/
