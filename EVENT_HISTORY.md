@@ -507,9 +507,15 @@
 - https://developers.google.com/events/245445184/
 - https://plus.google.com/events/cohj0lqlgbk1lvnne6gnbot526s
 
+## DevFest Beijing - 2012-11-03
+- 250人
+- https://groups.google.com/d/msg/beijing-gtug/AGgU5aXCG8s/CpaWrSMed60J
+- https://groups.google.com/d/msg/beijing-gtug/15NLBL6Gn00/yG9H67a89cMJ
 
 ## Android Technology Seminar - 2012-10-13
 - https://developers.google.com/events/10117008/
+- https://groups.google.com/d/msg/beijing-gtug/hxU7ORYaE8k/GqDtGvNlWvwJ
+- https://groups.google.com/d/msg/beijing-gtug/Iagajv5s4qs/tOyj5LrjeFkJ
 
 
 ## Google IO technology sharing Sharon - 2012-09-16
@@ -518,6 +524,8 @@
 
 ## Internet of Things Technology Seminar - 2012-06-16
 - https://developers.google.com/events/8540010/
+- https://groups.google.com/d/msg/beijing-gtug/-XD0MLaW9DQ/9KlyevcEqn8J
+- https://groups.google.com/d/msg/beijing-gtug/BKRR8EKGZcs/0p913nteDckJ
 
 
 ## Developers spring outing - 2012-04-15
@@ -526,10 +534,14 @@
 
 ## Android 4.0 latest technology and mobile development typical application case sharing sessions - 2012-03-17
 - https://developers.google.com/events/8536013/
+- https://groups.google.com/d/msg/beijing-gtug/WviEC_8zT_w/FkP4Q7OQ_uUJ
+- https://groups.google.com/d/msg/beijing-gtug/BBuLxiZlrSE/q8baoqo3Zr4J
 
 
 ## HTML5 technique salon - 2012-02-25
 - https://developers.google.com/events/8387019/
+- https://groups.google.com/d/msg/beijing-gtug/pPXWpxFG0-M/pKTG8ZQd6k8J
+- https://groups.google.com/d/msg/beijing-gtug/hbFryuMMVns/noM-jQ4Lpy0J
 
 
 ## Android system and the underlying development of technical seminars - 2011-12-10
