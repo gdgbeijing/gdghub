@@ -553,3 +553,39 @@
 
 ## ARM Technology Seminar - 2010-08-31
 - https://developers.google.com/events/8536011/
+
+## Andriod开发者日活动 - 2009-12-19
+- https://groups.google.com/d/msg/beijing-gtug/ozqkECgR2Zk/3k4d5QNZracJ
+
+## Webrebuild.org北京站第一届交流会 - 2009-12-12
+- https://groups.google.com/d/msg/beijing-gtug/LviZYAd36KI/4U8aO2GlDt4J
+- https://groups.google.com/d/msg/beijing-gtug/mdmh_s8PuIQ/9GaHR9--BfoJ
+
+## 北京Goolge技术用户组&恩信科技联合举办走进“云计算”活动 - 2009-12-06
+- https://groups.google.com/d/msg/beijing-gtug/kKj2csg9Xlc/KTk4TE05Vu4J
+
+## OpenSocial Hackathon（编程实战）活动 - 2009-10-25
+- https://groups.google.com/d/msg/beijing-gtug/Ztx54OFrJ_Q/n9AIV5F4btUJ
+
+## 北京GNOME用户组第十二次会议 - 2009-10-21
+- https://groups.google.com/d/msg/beijing-gtug/vFo43eFJGt4/ReacYYpbqOkJ
+
+## OpenSocial Day 活动 - 2009-09-20
+- https://groups.google.com/d/msg/beijing-gtug/fGII0W-mM_g/uMk2bh5P8nUJ
+
+## Ubuntu Day主题活动 - 2009-09-13
+- https://groups.google.com/d/msg/beijing-gtug/-dEhW0k6QIA/dWcxFJ3Tb4UJ
+- https://groups.google.com/d/msg/beijing-gtug/4sZeMRMcpVw/Lp5eG8A3dTMJ
+
+## Android Hackthon 活动 - 2009-09-06
+- https://groups.google.com/d/msg/beijing-gtug/jn7CXKsNH68/Oq9uhNeZFw0J
+- https://groups.google.com/d/msg/beijing-gtug/lZaN_nTr1rQ/_jY-VzT9khEJ
+- https://groups.google.com/d/msg/beijing-gtug/0mVLIT7NciU/V4Q16v0d3gEJ
+
+## Google Maps Hackthon 课程 - 2009-08-23
+- https://groups.google.com/d/msg/beijing-gtug/nN4qZrViVKk/28_YckOE5zcJ
+- https://groups.google.com/d/msg/beijing-gtug/1uuqcL6mXCo/_21HOS6FR_wJ
+
+## Beijing GTUG 成立活动 - 2009-08-01
+- https://groups.google.com/d/msg/beijing-gtug/gpRSgJfDgN0/pYP3jIk3U2oJ
+- https://groups.google.com/d/msg/beijing-gtug/Uf9hE2mJEAA/QaaKobvHIqkJ
