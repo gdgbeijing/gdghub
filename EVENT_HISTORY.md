@@ -547,12 +547,15 @@
 ## Linux and embedded development technology seminars - 2011-06-25
 - https://developers.google.com/events/8547011/
 
-
 ## Android Development Technology Seminar - 2010-12-11
 - https://developers.google.com/events/8553009/
+- https://groups.google.com/d/msg/beijing-gtug/KFANVjs0rWE/RpEdw8QDxPsJ
+- https://groups.google.com/d/msg/beijing-gtug/HIhZRT-b3gw/FDkLuQG668gJ
 
 ## ARM Technology Seminar - 2010-08-31
 - https://developers.google.com/events/8536011/
+- https://groups.google.com/d/msg/beijing-gtug/LY8ueDSNxR4/Jrk8RtEgnKkJ
+- https://groups.google.com/d/msg/beijing-gtug/hgT8NRQ3WvY/AobIvW5bHSAJ
 
 ## Andriod开发者日活动 - 2009-12-19
 - https://groups.google.com/d/msg/beijing-gtug/ozqkECgR2Zk/3k4d5QNZracJ
