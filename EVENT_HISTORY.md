@@ -6,11 +6,30 @@
 
 如果这里的记录有缺失，您可以通过提交 pull request 或 issue 的方式帮我们把缺失信息补上，谢谢！
 
+
+## 2019 I/O Extended Beijing - 2019-5-18
+- https://www.meetup.com/GDG-Beijing/events/260724036/
+- 160人
+
+## WTM 女性开发者节 2019 北京站 - 2019-4-20
+- https://www.meetup.com/GDG-Beijing/events/259951346/
+- [Sprint Design 产品设计工作坊](https://www.meetup.com/GDG-Beijing/events/260634805/)
+- [TensorFlow Codelab代码实验室](https://www.meetup.com/GDG-Beijing/events/260634917/)
+- [Python 从0到1 代码实验室](https://www.meetup.com/GDG-Beijing/events/260634959/)
+
+## Kubernetes 在谷歌云的最佳实践 - 2019-2-28
+- https://www.meetup.com/GDG-Beijing/events/259088771/
+- 65人
+
+## 《简单粗暴入门 TensorFlow 》 CodeLab - 2019-1-26
+- https://www.meetup.com/GDG-Beijing/events/258410420/
+- 44人
+
 ## Flutter Live Viewing Party - 2018-12-15
 - https://www.meetup.com/GDG-Beijing/events/257213611/
 - 48人
 
-## DeveFest 2018 北京站 - 2018-11-24
+## DevFest 2018 北京站 - 2018-11-24
 - https://www.meetup.com/GDG-Beijing/events/255771203/
 - 733人
 
@@ -488,9 +507,15 @@
 - https://developers.google.com/events/245445184/
 - https://plus.google.com/events/cohj0lqlgbk1lvnne6gnbot526s
 
+## DevFest Beijing - 2012-11-03
+- 250人
+- https://groups.google.com/d/msg/beijing-gtug/AGgU5aXCG8s/CpaWrSMed60J
+- https://groups.google.com/d/msg/beijing-gtug/15NLBL6Gn00/yG9H67a89cMJ
 
 ## Android Technology Seminar - 2012-10-13
 - https://developers.google.com/events/10117008/
+- https://groups.google.com/d/msg/beijing-gtug/hxU7ORYaE8k/GqDtGvNlWvwJ
+- https://groups.google.com/d/msg/beijing-gtug/Iagajv5s4qs/tOyj5LrjeFkJ
 
 
 ## Google IO technology sharing Sharon - 2012-09-16
@@ -499,6 +524,8 @@
 
 ## Internet of Things Technology Seminar - 2012-06-16
 - https://developers.google.com/events/8540010/
+- https://groups.google.com/d/msg/beijing-gtug/-XD0MLaW9DQ/9KlyevcEqn8J
+- https://groups.google.com/d/msg/beijing-gtug/BKRR8EKGZcs/0p913nteDckJ
 
 
 ## Developers spring outing - 2012-04-15
@@ -507,18 +534,25 @@
 
 ## Android 4.0 latest technology and mobile development typical application case sharing sessions - 2012-03-17
 - https://developers.google.com/events/8536013/
+- https://groups.google.com/d/msg/beijing-gtug/WviEC_8zT_w/FkP4Q7OQ_uUJ
+- https://groups.google.com/d/msg/beijing-gtug/BBuLxiZlrSE/q8baoqo3Zr4J
 
 
 ## HTML5 technique salon - 2012-02-25
 - https://developers.google.com/events/8387019/
+- https://groups.google.com/d/msg/beijing-gtug/pPXWpxFG0-M/pKTG8ZQd6k8J
+- https://groups.google.com/d/msg/beijing-gtug/hbFryuMMVns/noM-jQ4Lpy0J
 
 
 ## Android system and the underlying development of technical seminars - 2011-12-10
 - https://developers.google.com/events/8536012/
+- https://groups.google.com/d/msg/beijing-gtug/REIn2AB0tEk/vy3hDT6uS9YJ
+- https://groups.google.com/d/msg/beijing-gtug/fTKfwgfiR2c/Gn2Qfy6XTJUJ
 
 
 ## technical seminar about HTML5 - 2011-11-12
 - https://developers.google.com/events/8545018/
+- https://groups.google.com/d/msg/beijing-gtug/4-nms0v0Q-Q/9OXyjJpZOtkJ
 
 
 ## Beijing GTUG Sept. 2011 learning event - Mobile ads development - 2011-09-21
@@ -527,10 +561,54 @@
 
 ## Linux and embedded development technology seminars - 2011-06-25
 - https://developers.google.com/events/8547011/
+- https://groups.google.com/d/msg/beijing-gtug/3aF0XvLbvbg/UQD3QIoLCEcJ
+- https://groups.google.com/d/msg/beijing-gtug/nGoaekKU19w/QipjrXEmpB8J
 
+## Android开发与创业研讨 - 2011-05-14
+- https://groups.google.com/d/msg/beijing-gtug/brarMy2jzQo/B5PVqwlVbesJ
 
 ## Android Development Technology Seminar - 2010-12-11
 - https://developers.google.com/events/8553009/
+- https://groups.google.com/d/msg/beijing-gtug/KFANVjs0rWE/RpEdw8QDxPsJ
+- https://groups.google.com/d/msg/beijing-gtug/HIhZRT-b3gw/FDkLuQG668gJ
 
 ## ARM Technology Seminar - 2010-08-31
 - https://developers.google.com/events/8536011/
+- https://groups.google.com/d/msg/beijing-gtug/LY8ueDSNxR4/Jrk8RtEgnKkJ
+- https://groups.google.com/d/msg/beijing-gtug/hgT8NRQ3WvY/AobIvW5bHSAJ
+
+## Andriod开发者日活动 - 2009-12-19
+- https://groups.google.com/d/msg/beijing-gtug/ozqkECgR2Zk/3k4d5QNZracJ
+
+## Webrebuild.org北京站第一届交流会 - 2009-12-12
+- https://groups.google.com/d/msg/beijing-gtug/LviZYAd36KI/4U8aO2GlDt4J
+- https://groups.google.com/d/msg/beijing-gtug/mdmh_s8PuIQ/9GaHR9--BfoJ
+
+## 北京Goolge技术用户组&恩信科技联合举办走进“云计算”活动 - 2009-12-06
+- https://groups.google.com/d/msg/beijing-gtug/kKj2csg9Xlc/KTk4TE05Vu4J
+
+## OpenSocial Hackathon（编程实战）活动 - 2009-10-25
+- https://groups.google.com/d/msg/beijing-gtug/Ztx54OFrJ_Q/n9AIV5F4btUJ
+
+## 北京GNOME用户组第十二次会议 - 2009-10-21
+- https://groups.google.com/d/msg/beijing-gtug/vFo43eFJGt4/ReacYYpbqOkJ
+
+## OpenSocial Day 活动 - 2009-09-20
+- https://groups.google.com/d/msg/beijing-gtug/fGII0W-mM_g/uMk2bh5P8nUJ
+
+## Ubuntu Day主题活动 - 2009-09-13
+- https://groups.google.com/d/msg/beijing-gtug/-dEhW0k6QIA/dWcxFJ3Tb4UJ
+- https://groups.google.com/d/msg/beijing-gtug/4sZeMRMcpVw/Lp5eG8A3dTMJ
+
+## Android Hackthon 活动 - 2009-09-06
+- https://groups.google.com/d/msg/beijing-gtug/jn7CXKsNH68/Oq9uhNeZFw0J
+- https://groups.google.com/d/msg/beijing-gtug/lZaN_nTr1rQ/_jY-VzT9khEJ
+- https://groups.google.com/d/msg/beijing-gtug/0mVLIT7NciU/V4Q16v0d3gEJ
+
+## Google Maps Hackthon 课程 - 2009-08-23
+- https://groups.google.com/d/msg/beijing-gtug/nN4qZrViVKk/28_YckOE5zcJ
+- https://groups.google.com/d/msg/beijing-gtug/1uuqcL6mXCo/_21HOS6FR_wJ
+
+## Beijing GTUG 成立活动 - 2009-08-01
+- https://groups.google.com/d/msg/beijing-gtug/gpRSgJfDgN0/pYP3jIk3U2oJ
+- https://groups.google.com/d/msg/beijing-gtug/Uf9hE2mJEAA/QaaKobvHIqkJ
