@@ -6,6 +6,32 @@
 
 如果这里的记录有缺失，您可以通过提交 pull request 或 issue 的方式帮我们把缺失信息补上，谢谢！
 
+## 2019 WTM DevFest - 2019-12-14
+- https://www.meetup.com/GDG-Beijing/events/267054977/
+
+## GDG DevFest 2019 Beijing - 2019-12-8
+- https://www.meetup.com/GDG-Beijing/events/265252940/
+- 900人
+
+## Chrome Dev Summit Extended Beijing - 2019-11-23
+- https://www.meetup.com/GDG-Beijing/events/265559018/
+- 76人
+
+## 技术人的写作之路 - 2019-9-7
+- https://www.meetup.com/GDG-Beijing/events/264517191/
+- 66人
+
+## 聊聊 H5、WebAssembly 与 Flutter - 2019-9-7
+- https://www.meetup.com/GDG-Beijing/events/264493723/
+- 42人
+
+## Kotlin/Everywhere Beijing 2019 - 2019-8-31
+- https://www.meetup.com/GDG-Beijing/events/262553405/
+- 400人
+
+## 北京 GDG 10 周年纪念活动 - 2019-8-3
+- https://www.meetup.com/GDG-Beijing/events/263167181/
+- 25人
 
 ## 2019 I/O Extended Beijing - 2019-5-18
 - https://www.meetup.com/GDG-Beijing/events/260724036/
