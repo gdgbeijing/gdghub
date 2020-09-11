@@ -6,8 +6,19 @@
 
 如果这里的记录有缺失，您可以通过提交 pull request 或 issue 的方式帮我们把缺失信息补上，谢谢！
 
+## [线上活动] Android 11 Meetup Beijing - 2020-7-26
+- https://www.meetup.com/GDG-Beijing/events/271332618/
+
+## [线上活动] WTM: 疫情期间，她们的工作与生活，怎么样了 - 2020-3-8
+- https://mp.weixin.qq.com/s/CK2Lm9yPh2x-APs_9a7RyA
+
+## Android Meetup: John Hoford 带你了解 Android Studio 设计工具 - 2020-1-11
+- https://www.meetup.com/GDG-Beijing/events/267606753/
+- 35人
+
 ## 2019 WTM DevFest - 2019-12-14
 - https://www.meetup.com/GDG-Beijing/events/267054977/
+- 180人
 
 ## GDG DevFest 2019 Beijing - 2019-12-8
 - https://www.meetup.com/GDG-Beijing/events/265252940/
@@ -42,6 +53,7 @@
 - [Sprint Design 产品设计工作坊](https://www.meetup.com/GDG-Beijing/events/260634805/)
 - [TensorFlow Codelab代码实验室](https://www.meetup.com/GDG-Beijing/events/260634917/)
 - [Python 从0到1 代码实验室](https://www.meetup.com/GDG-Beijing/events/260634959/)
+- 500人
 
 ## Kubernetes 在谷歌云的最佳实践 - 2019-2-28
 - https://www.meetup.com/GDG-Beijing/events/259088771/
