@@ -6,6 +6,14 @@
 
 如果这里的记录有缺失，您可以通过提交 pull request 或 issue 的方式帮我们把缺失信息补上，谢谢！
 
+## 2020 DevFest Beijing: WTM 工作坊：I am remarkable！ - 2020-11-15
+- https://www.meetup.com/GDG-Beijing/events/274337339/
+- https://gdg.community.dev/events/details/google-gdg-beijing-presents-2020gu-ge-kai-fa-zhe-jie-bei-jing-zhan-kotlin-tensorflow-dai-ma-shi-yan-shi-wtm-gong-zuo-fang/
+
+## 2020 DevFest Beijing: Kotlin & TensorFlow 代码实验室 - 2020-11-14
+- https://www.meetup.com/GDG-Beijing/events/274337339/
+- https://gdg.community.dev/events/details/google-gdg-beijing-presents-2020gu-ge-kai-fa-zhe-jie-bei-jing-zhan-kotlin-tensorflow-dai-ma-shi-yan-shi-wtm-gong-zuo-fang/
+
 ## [线上活动] Android 11 Meetup Beijing - 2020-7-26
 - https://www.meetup.com/GDG-Beijing/events/271332618/
 
