@@ -6,6 +6,27 @@
 
 如果这里的记录有缺失，您可以通过提交 pull request 或 issue 的方式帮我们把缺失信息补上，谢谢！
 
+## 2021 DevFest Beijing - 2021-12-05
+- https://mp.weixin.qq.com/s/gtjcwRjLG_XmOSwr3dRPiQ
+
+## 社区说 | WeChaty 开源社区文档协作实践分享 - 2021-08-26
+- https://mp.weixin.qq.com/s/jvY1I9oSE9NvNxZi_iuVGA
+
+## 社区说 | 使用 TensorFlow Lite 构建和部署自定义对象检测模型 - 2021-08-12
+- https://mp.weixin.qq.com/s/6Uo9GqGz5SfWx3gfy_CKmg
+
+## 2021 Google I/O Extended - 2021-06-19
+- https://mp.weixin.qq.com/s/GgHNoGVNfB5DVZL-Gso7VQ
+- https://mp.weixin.qq.com/s/Pt81js-KOiwaj_XiTlE9pA
+
+## 社区说 | Android虚拟机的前世今生 - 2021-06-03
+- https://mp.weixin.qq.com/s/PmrfvIysGkJbb1XBc2Ez4A
+- https://mp.weixin.qq.com/s/4Q8Bz703vHZSkG4Stp3ESA
+
+## 敢于创造 | 谷歌女性开发者节(IWD) - 2021-04-17
+- https://mp.weixin.qq.com/s/4YwnFj7235zJMewqmytlow
+- https://mp.weixin.qq.com/s/4vjubJdZNRr5IrqIkyorVg
+
 ## 2020 DevFest Beijing: WTM 工作坊：I am remarkable！ - 2020-11-15
 - https://www.meetup.com/GDG-Beijing/events/274337339/
 - https://gdg.community.dev/events/details/google-gdg-beijing-presents-2020gu-ge-kai-fa-zhe-jie-bei-jing-zhan-kotlin-tensorflow-dai-ma-shi-yan-shi-wtm-gong-zuo-fang/
