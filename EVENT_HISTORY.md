@@ -9,6 +9,9 @@
 ## 2021 DevFest Beijing - 2021-12-05
 - https://mp.weixin.qq.com/s/gtjcwRjLG_XmOSwr3dRPiQ
 
+## 社区说 | Flutter 2 迁移实践 - 2021-11-18
+- https://mp.weixin.qq.com/s/2svlQQb5Z54EFV7p4qwBJw
+
 ## 社区说 | WeChaty 开源社区文档协作实践分享 - 2021-08-26
 - https://mp.weixin.qq.com/s/jvY1I9oSE9NvNxZi_iuVGA
 
