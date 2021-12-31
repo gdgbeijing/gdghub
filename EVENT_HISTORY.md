@@ -6,7 +6,9 @@
 
 如果这里的记录有缺失，您可以通过提交 pull request 或 issue 的方式帮我们把缺失信息补上，谢谢！
 
-## 2021 DevFest Beijing - 2021-12-05
+## 2021 DevFest Beijing - 2021-12-19
+- https://mp.weixin.qq.com/s/ghFTj82OgMEJcz0TbZRW-Q
+- https://mp.weixin.qq.com/s/XAHw9AWp1Qj_GkgDM_n4Fg
 - https://mp.weixin.qq.com/s/gtjcwRjLG_XmOSwr3dRPiQ
 
 ## 社区说 | Flutter 2 迁移实践 - 2021-11-18
