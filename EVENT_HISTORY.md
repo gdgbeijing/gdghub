@@ -6,10 +6,53 @@
 
 如果这里的记录有缺失，您可以通过提交 pull request 或 issue 的方式帮我们把缺失信息补上，谢谢！
 
+# 2023
+
+## 2023 I/O Extended Beijing - 2023-06-11
+- https://mp.weixin.qq.com/s/D8Q2n4ckrxHz3SyjtgXM9g
+
+## 出海日系列活动·北京站 - 2023-06-10
+- https://mp.weixin.qq.com/s/jK-bFfqQ6DiAgk1OEZlMLA
+
+## Flutter 之夜 - 2023-05-26
+- https://mp.weixin.qq.com/s/FwKmFtY7b97qCIcM1YpLOw
+
+## 2023 谷歌女性开发者节 - 2023-04-15
+- https://mp.weixin.qq.com/s/PENFK28RWtyqTbQCPVog8g
+
+# 2022
+
+## 2022 DevFest Beijing - 2022-10-30
+- https://mp.weixin.qq.com/s/v_BJ27-yZHkCcvYICrkCiA
+
+## 社区说｜使用 TFLite Model Maker 完成自定义音频分类 - 2022-06-30
+- 报名：https://mp.weixin.qq.com/s/52Gg9ioiuYbbO686ZT0W3Q
+- 回放：https://mp.weixin.qq.com/s/PRNrRRY6CidhdviXIZKv9g
+
+## 社区说｜前端也要卷算法？试试 TensorFlow.js - 2022-04-28
+- 报名：https://mp.weixin.qq.com/s/4YZXKHuSSDcaldIpNj7KaQ
+- 回放：https://mp.weixin.qq.com/s/dMcIP4hJtjiPXSfEluA1cA
+
+## 2022 谷歌女性开发者节 - 2022-04-09
+- 报名：https://mp.weixin.qq.com/s/QToJ9v8S_Z7Em3MIbosSlw
+- 回顾：https://mp.weixin.qq.com/s/XzPD-WpIZWfw58sQZMAbug
+
+## Flutter Festival - 2022-03-27
+- https://mp.weixin.qq.com/s/6o0p0wTXponRGkDjkhO90g
+
+## 社区说｜Flutter 主流状态管理框架 provider get 分析 - 2022-03-17
+- 报名：https://mp.weixin.qq.com/s/6zkt12e80cvZlBjxnwCiXQ
+- 回放：https://mp.weixin.qq.com/s/mzCi9U945rNRWtlh_l0cvg
+
+## 社区说｜聊天机器人与 Angular - 2022-01-06
+- https://mp.weixin.qq.com/s/cluw2QQepzacuZFA1pJvcw
+
+# 2021
+
 ## 2021 DevFest Beijing - 2021-12-19
-- https://mp.weixin.qq.com/s/ghFTj82OgMEJcz0TbZRW-Q
-- https://mp.weixin.qq.com/s/XAHw9AWp1Qj_GkgDM_n4Fg
-- https://mp.weixin.qq.com/s/gtjcwRjLG_XmOSwr3dRPiQ
+- 回顾：https://mp.weixin.qq.com/s/ghFTj82OgMEJcz0TbZRW-Q
+- 报名：https://mp.weixin.qq.com/s/XAHw9AWp1Qj_GkgDM_n4Fg
+- 报名：https://mp.weixin.qq.com/s/gtjcwRjLG_XmOSwr3dRPiQ
 
 ## 社区说 | Flutter 2 迁移实践 - 2021-11-18
 - https://mp.weixin.qq.com/s/2svlQQb5Z54EFV7p4qwBJw
@@ -32,6 +75,8 @@
 - https://mp.weixin.qq.com/s/4YwnFj7235zJMewqmytlow
 - https://mp.weixin.qq.com/s/4vjubJdZNRr5IrqIkyorVg
 
+# 2020
+
 ## 2020 DevFest Beijing: WTM 工作坊：I am remarkable！ - 2020-11-15
 - https://www.meetup.com/GDG-Beijing/events/274337339/
 - https://gdg.community.dev/events/details/google-gdg-beijing-presents-2020gu-ge-kai-fa-zhe-jie-bei-jing-zhan-kotlin-tensorflow-dai-ma-shi-yan-shi-wtm-gong-zuo-fang/
@@ -49,6 +94,8 @@
 ## Android Meetup: John Hoford 带你了解 Android Studio 设计工具 - 2020-1-11
 - https://www.meetup.com/GDG-Beijing/events/267606753/
 - 35人
+
+# 2019
 
 ## 2019 WTM DevFest - 2019-12-14
 - https://www.meetup.com/GDG-Beijing/events/267054977/
@@ -96,6 +143,8 @@
 ## 《简单粗暴入门 TensorFlow 》 CodeLab - 2019-1-26
 - https://www.meetup.com/GDG-Beijing/events/258410420/
 - 44人
+
+# 2018
 
 ## Flutter Live Viewing Party - 2018-12-15
 - https://www.meetup.com/GDG-Beijing/events/257213611/
@@ -153,6 +202,8 @@
 - https://www.meetup.com/GDG-Beijing/events/248494008/
 - 60人
 
+# 2017
+
 ## DevFest Beijing 2017 - 2017-11-19
 - https://www.meetup.com/GDG-Beijing/events/244913697/
 - 1010人
@@ -195,6 +246,7 @@
 - https://developers.google.com/events/6487045415108608/
 - https://plus.google.com/events/cv4aklcurj2p1ofbiqji3vhgk6c
 
+# 2016
 
 ## DevFest Beijing 2016 - 2016-11-19
 - 750人
@@ -309,6 +361,7 @@
 - https://developers.google.com/events/5743070952030208/
 - https://plus.google.com/u/0/b/114116331730392650768/events/c73juinovq8562pi6o62gtvk6po
 
+# 2015
 
 ## 2015 Beijing DevFest - 2015-11-08
 - 500人
@@ -363,6 +416,7 @@
 - https://developers.google.com/events/4744717735559168/
 - https://plus.google.com/b/114116331730392650768/events/cfq2ejjq0k4pqc6v0oi22og30ok
 
+# 2014
 
 ## Polymer Polytechnic: Beijing - 2014-11-30
 - 30人
@@ -483,6 +537,7 @@
 - https://developers.google.com/events/5820777941172224/
 - https://plus.google.com/events/c7s4vrf2i8m73v0mg1repd5404s
 
+# 2013
 
 ## Learn Android  lesson 3 - 2013-12-29
 - 15人
@@ -579,6 +634,8 @@
 - https://developers.google.com/events/245445184/
 - https://plus.google.com/events/cohj0lqlgbk1lvnne6gnbot526s
 
+# 2012
+
 ## DevFest Beijing - 2012-11-03
 - 250人
 - https://groups.google.com/d/msg/beijing-gtug/AGgU5aXCG8s/CpaWrSMed60J
@@ -615,6 +672,7 @@
 - https://groups.google.com/d/msg/beijing-gtug/pPXWpxFG0-M/pKTG8ZQd6k8J
 - https://groups.google.com/d/msg/beijing-gtug/hbFryuMMVns/noM-jQ4Lpy0J
 
+# 2011
 
 ## Android system and the underlying development of technical seminars - 2011-12-10
 - https://developers.google.com/events/8536012/
@@ -639,6 +697,8 @@
 ## Android开发与创业研讨 - 2011-05-14
 - https://groups.google.com/d/msg/beijing-gtug/brarMy2jzQo/B5PVqwlVbesJ
 
+# 2010
+
 ## Android Development Technology Seminar - 2010-12-11
 - https://developers.google.com/events/8553009/
 - https://groups.google.com/d/msg/beijing-gtug/KFANVjs0rWE/RpEdw8QDxPsJ
@@ -648,6 +708,8 @@
 - https://developers.google.com/events/8536011/
 - https://groups.google.com/d/msg/beijing-gtug/LY8ueDSNxR4/Jrk8RtEgnKkJ
 - https://groups.google.com/d/msg/beijing-gtug/hgT8NRQ3WvY/AobIvW5bHSAJ
+
+# 2009
 
 ## Andriod开发者日活动 - 2009-12-19
 - https://groups.google.com/d/msg/beijing-gtug/ozqkECgR2Zk/3k4d5QNZracJ
