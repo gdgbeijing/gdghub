@@ -8,6 +8,11 @@
 
 # 2023
 
+## 2023 DevFest Beijing - 2023-11-19
+- 回顾：https://mp.weixin.qq.com/s/j8wWCFCNKyh-LTLg41vIXw
+- 报名：https://mp.weixin.qq.com/s/LQ1JzlKj2s_od_UxJjM_hA
+- 照片、讲义、视频：https://github.com/gdgbeijing/devfest2023
+
 ## 2023 I/O Extended Beijing - 2023-06-11
 - https://mp.weixin.qq.com/s/D8Q2n4ckrxHz3SyjtgXM9g
 
