@@ -6,6 +6,17 @@
 
 如果这里的记录有缺失，您可以通过提交 pull request 或 issue 的方式帮我们把缺失信息补上，谢谢！
 
+# 2024
+
+## Build with AI 北京 第二场 - 2024-05-19
+- 照片：https://m.alltuu.com/album/1450433204/
+
+## Build with AI 北京 第一场 - 2024-04-27
+- 照片：https://live.photoplus.cn/live/pc/23690887/#/live
+
+## 2024 WTM IWD 谷歌女性开发者节 - 2024-04-14
+- 报名：https://mp.weixin.qq.com/s/pD1kv_R1Ls7sP7_wcyf0Hw
+
 # 2023
 
 ## 2023 DevFest Beijing - 2023-11-19
