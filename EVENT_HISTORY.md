@@ -8,6 +8,10 @@
 
 # 2024
 
+## 2024 I/O Extended Beijing - 2024-06-08
+- 报名：https://mp.weixin.qq.com/s/k9U_rB0wsu7s6XcE5K9vww
+- 照片：https://photos.app.goo.gl/ZybtwKvFh6njJXPB7
+
 ## Build with AI 北京 第二场 - 2024-05-19
 - 照片：https://m.alltuu.com/album/1450433204/
 
