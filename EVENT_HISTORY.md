@@ -8,6 +8,10 @@
 
 # 2024
 
+## Chrome Extensions Meetup Beijing - 2024-08-04
+- 报名：https://mp.weixin.qq.com/s/Shd8dz5CPNPE9hDszl_72A
+- 照片：https://photos.app.goo.gl/2q9qMfD85d4yZeae9
+
 ## 2024 I/O Extended Beijing - 2024-06-08
 - 报名：https://mp.weixin.qq.com/s/k9U_rB0wsu7s6XcE5K9vww
 - 照片：https://photos.app.goo.gl/ZybtwKvFh6njJXPB7
