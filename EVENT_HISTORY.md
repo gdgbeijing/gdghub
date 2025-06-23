@@ -6,6 +6,20 @@
 
 如果这里的记录有缺失，您可以通过提交 pull request 或 issue 的方式帮我们把缺失信息补上，谢谢！
 
+# 2025
+
+## 2025 I/O Extended Beijing - 2025-06-22
+- 报名：https://mp.weixin.qq.com/s/O_ti85k0iRxnDl9uqvc5tA
+- 照片：https://www.yipai360.com/photolivepc/?orderId=202506201316366426
+
+## Build with AI Cloud Next 25 - 2025-05-10
+- 报名：https://mp.weixin.qq.com/s/SPg3CuJ_noSuPoucOmBJ2g
+- 照片：https://live.photoplus.cn/live/pc/43042273/#/live
+
+## Build with AI - 2025-03-29
+- 报名：https://mp.weixin.qq.com/s/F4SHxllZp7NNmkFQzTbn7Q
+- 照片：https://live.photoplus.cn/live/pc/85680798/#/live
+
 # 2024
 
 ## Chrome Extensions Meetup Beijing - 2024-08-04
