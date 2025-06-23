@@ -22,6 +22,11 @@
 
 # 2024
 
+## 2024 DevFest Beijing - 2024-12-07
+- 回顾：https://mp.weixin.qq.com/s/XV9-U1-kdRrqIdhwSwwQGw
+- 报名：https://mp.weixin.qq.com/s/54c5fD0s3fnPQl9vigZKjg
+- 照片、讲义：https://github.com/gdgbeijing/devfest2024
+
 ## Chrome Extensions Meetup Beijing - 2024-08-04
 - 报名：https://mp.weixin.qq.com/s/Shd8dz5CPNPE9hDszl_72A
 - 照片：https://photos.app.goo.gl/2q9qMfD85d4yZeae9
