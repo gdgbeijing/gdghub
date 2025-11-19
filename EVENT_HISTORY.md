@@ -8,6 +8,10 @@
 
 # 2025
 
+## 2025 DevFest Beijing - 2025-11-09
+- 报名：https://mp.weixin.qq.com/s/51u87qDLGcR6dX7Z_ZebWA
+- 照片：https://www.uphoto.cn/album_ia1526915248.html
+
 ## 2025 I/O Extended Beijing - 2025-06-22
 - 报名：https://mp.weixin.qq.com/s/O_ti85k0iRxnDl9uqvc5tA
 - 照片：https://www.yipai360.com/photolivepc/?orderId=202506201316366426
