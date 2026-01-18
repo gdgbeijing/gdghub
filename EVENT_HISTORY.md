@@ -6,6 +6,12 @@
 
 如果这里的记录有缺失，您可以通过提交 pull request 或 issue 的方式帮我们把缺失信息补上，谢谢！
 
+# 2026
+
+## Build with AI - 2026-01-17
+- 报名：https://mp.weixin.qq.com/s/gMvsf90c50bRfohbcXb8-Q
+- 照片：https://www.xxpie.com/m/album?id=696a5f4fa2466e4054d405e3
+
 # 2025
 
 ## 2025 DevFest Beijing - 2025-11-09
