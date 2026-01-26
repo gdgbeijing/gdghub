@@ -46,9 +46,11 @@
 - 照片：https://photos.app.goo.gl/ZybtwKvFh6njJXPB7
 
 ## Build with AI 北京 第二场 - 2024-05-19
+- 报名：https://mp.weixin.qq.com/s/LVhEIDeBwhVeIB1Q7w9m9w
 - 照片：https://m.alltuu.com/album/1450433204/
 
 ## Build with AI 北京 第一场 - 2024-04-27
+- 报名：https://mp.weixin.qq.com/s/JTgE-Bu4-mk2AzvG5jAZXQ
 - 照片：https://live.photoplus.cn/live/pc/23690887/#/live
 
 ## 2024 WTM IWD 谷歌女性开发者节 - 2024-04-14
