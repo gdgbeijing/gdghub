@@ -8,6 +8,19 @@
 
 # 2026
 
+## Build with AI Gemma 4 专场 - 2026-04-25
+- 报名：https://mp.weixin.qq.com/s/fPjOvSU8lYgvu-4DIGTyag
+- 参会须知：https://mp.weixin.qq.com/s/WdXLSL_2akrjwymE-SWncw
+- 回顾：https://mp.weixin.qq.com/s/5lckMgzE_Xoft5aJyh3xWA
+- 照片：https://live.photoplus.cn/live/pc/52997914/#/live
+
+## Build with AI Gemini+NanoBanana+Veo 多模态专场 - 2026-04-19
+- 报名：https://mp.weixin.qq.com/s/EnNd0Fvfx0PfD4GZRZnXXA
+- 参会须知：https://mp.weixin.qq.com/s/UjPf6tkxC_Cbs4-epK3CKA
+
+## 社区说｜从 AI Agent 到具身智能，探索 Gemini 驱动的全自动化研发新范式 - 2026-01-29
+- https://mp.weixin.qq.com/s/_ru85l-AuXyZEurhRgsCTA
+
 ## Build with AI - 2026-01-17
 - 报名：https://mp.weixin.qq.com/s/gMvsf90c50bRfohbcXb8-Q
 - 照片：https://www.xxpie.com/m/album?id=696a5f4fa2466e4054d405e3
