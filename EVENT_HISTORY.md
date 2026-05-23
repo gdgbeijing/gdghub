@@ -8,6 +8,10 @@
 
 # 2026
 
+## Cloud Next 26 中文精选课专场 · 北京站 | Build with AI - Cloud Next 专场 - 2026-05-23
+- 报名：https://mp.weixin.qq.com/s/73mYHyR2GUI1Y93UnZJKPw
+- 照片：https://m.alltuu.com/album/fb4d8a4c5d5364d57ceebc117c0860b4/?menu=live
+
 ## Build with AI Gemma 4 专场 - 2026-04-25
 - 报名：https://mp.weixin.qq.com/s/fPjOvSU8lYgvu-4DIGTyag
 - 参会须知：https://mp.weixin.qq.com/s/WdXLSL_2akrjwymE-SWncw
