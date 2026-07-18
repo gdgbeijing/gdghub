@@ -8,6 +8,10 @@
 
 # 2026
 
+## 2026 Google I/O Extended - 2026-06-14
+- 报名：https://mp.weixin.qq.com/s/5h-M6ioT6kUpYK--ZIUbLQ
+- 照片：https://photos.app.goo.gl/aYVvKQCBfxX7ABtU7
+
 ## Cloud Next 26 中文精选课专场 · 北京站 | Build with AI - Cloud Next 专场 - 2026-05-23
 - 报名：https://mp.weixin.qq.com/s/73mYHyR2GUI1Y93UnZJKPw
 - 照片：https://m.alltuu.com/album/fb4d8a4c5d5364d57ceebc117c0860b4/?menu=live
